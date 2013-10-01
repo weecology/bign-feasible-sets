@@ -1,0 +1,1747 @@
+1961	Brazil	2728816
+1961	India	1650015
+1961	Argentina	844780
+1961	Philippines	698400
+1961	South Africa	425650
+1961	Mexico	383360
+1961	Haiti	285000
+1961	Ecuador	280705
+1961	Guyana	180941
+1961	Costa Rica	159912
+1961	Thailand	100000
+1961	Bangladesh	90000
+1961	Viet Nam	70795
+1961	Egypt	42000
+1961	Myanmar	40611
+1961	Paraguay	32335
+1961	Angola	32122
+1961	Mozambique	30564
+1961	El Salvador	18000
+1961	Congo	17000
+1961	Guatemala	15330
+1961	Nepal	14000
+1961	Uganda	10000
+1961	Honduras	8043
+1961	Liberia	4400
+1961	Suriname	2776
+1961	Ghana	1500
+1961	Cameroon	1000
+1961	Grenada	312
+1961	French Polynesia	230
+1961	Lao People's Democratic Republic	225
+1962	Brazil	2783696
+1962	India	1559505
+1962	Philippines	774400
+1962	Argentina	772038
+1962	South Africa	487550
+1962	Mexico	422312
+1962	Haiti	283600
+1962	Ecuador	273700
+1962	Guyana	183500
+1962	Costa Rica	152364
+1962	Bangladesh	111000
+1962	Thailand	99000
+1962	Viet Nam	74000
+1962	Myanmar	54459
+1962	Egypt	41000
+1962	Angola	34700
+1962	Paraguay	33600
+1962	Mozambique	33376
+1962	El Salvador	20600
+1962	Guatemala	19734
+1962	Congo	17000
+1962	Uganda	16000
+1962	Nepal	9300
+1962	Honduras	7815
+1962	Liberia	4170
+1962	Suriname	3080
+1962	Ghana	2000
+1962	Cameroon	1032
+1962	Grenada	342
+1962	French Polynesia	230
+1962	Lao People's Democratic Republic	225
+1963	Brazil	3093296
+1963	India	1378695
+1963	Argentina	874100
+1963	Philippines	824400
+1963	South Africa	496950
+1963	Mexico	446540
+1963	Ecuador	319323
+1963	Haiti	287200
+1963	Guyana	173446
+1963	Costa Rica	156940
+1963	Bangladesh	135000
+1963	Thailand	84750
+1963	Viet Nam	80000
+1963	Myanmar	64602
+1963	Egypt	52000
+1963	Paraguay	35000
+1963	Angola	32400
+1963	Mozambique	30024
+1963	Congo	21000
+1963	Guatemala	20203
+1963	El Salvador	19800
+1963	Nepal	16142
+1963	Uganda	10000
+1963	Honduras	7918
+1963	Liberia	3940
+1963	Suriname	3733
+1963	Ghana	2591
+1963	Cameroon	2253
+1963	Grenada	336
+1963	French Polynesia	230
+1963	Lao People's Democratic Republic	225
+1964	Brazil	2806840
+1964	India	1563375
+1964	Philippines	879360
+1964	Argentina	709591
+1964	Mexico	539792
+1964	South Africa	533050
+1964	Ecuador	388815
+1964	Haiti	281000
+1964	Bangladesh	172000
+1964	Costa Rica	154340
+1964	Guyana	151910
+1964	Thailand	119350
+1964	Viet Nam	86500
+1964	Myanmar	58530
+1964	Egypt	49000
+1964	Paraguay	48205
+1964	Angola	32350
+1964	Congo	30000
+1964	Mozambique	26683
+1964	Guatemala	21568
+1964	El Salvador	20400
+1964	Nepal	14000
+1964	Uganda	13000
+1964	Honduras	7969
+1964	Liberia	3710
+1964	Ghana	3089
+1964	Suriname	3069
+1964	Cameroon	770
+1964	Lao People's Democratic Republic	450
+1964	Grenada	342
+1964	French Polynesia	260
+1965	Brazil	2022592
+1965	India	1831155
+1965	Philippines	846000
+1965	Argentina	837683
+1965	Mexico	619114
+1965	South Africa	420300
+1965	Ecuador	404336
+1965	Haiti	273800
+1965	Bangladesh	226000
+1965	Thailand	195650
+1965	Guyana	172984
+1965	Costa Rica	159554
+1965	Viet Nam	92270
+1965	Myanmar	54214
+1965	Paraguay	49580
+1965	Egypt	47000
+1965	Angola	33964
+1965	Congo	30000
+1965	Mozambique	28180
+1965	Guatemala	21159
+1965	El Salvador	20500
+1965	Uganda	15000
+1965	Nepal	12600
+1965	Honduras	8079
+1965	Ghana	5019
+1965	Suriname	4823
+1965	Liberia	3480
+1965	Cameroon	886
+1965	Grenada	495
+1965	Lao People's Democratic Republic	425
+1965	French Polynesia	260
+1966	Brazil	3414128
+1966	India	1859850
+1966	Philippines	768600
+1966	Argentina	718150
+1966	South Africa	705138
+1966	Mexico	644572
+1966	Ecuador	450210
+1966	Haiti	268120
+1966	Guyana	169440
+1966	Costa Rica	167563
+1966	Thailand	152250
+1966	Viet Nam	78435
+1966	Myanmar	72387
+1966	Egypt	52000
+1966	Bangladesh	50000
+1966	Paraguay	49400
+1966	Congo	44265
+1966	Angola	35626
+1966	Mozambique	29994
+1966	Guatemala	25323
+1966	El Salvador	22300
+1966	Nepal	19200
+1966	Uganda	17000
+1966	Honduras	8983
+1966	Suriname	5014
+1966	Liberia	3250
+1966	Cameroon	2393
+1966	Ghana	2000
+1966	Grenada	519
+1966	Lao People's Democratic Republic	415
+1966	French Polynesia	260
+1967	Brazil	3196824
+1967	India	1392405
+1967	Philippines	851200
+1967	South Africa	845673
+1967	Mexico	642137
+1967	Ecuador	376412
+1967	Haiti	265000
+1967	Guyana	191531
+1967	Costa Rica	177413
+1967	Thailand	126750
+1967	Bangladesh	95000
+1967	Myanmar	79184
+1967	Argentina	68547
+1967	Viet Nam	65000
+1967	Egypt	53000
+1967	Paraguay	49400
+1967	Congo	45758
+1967	Mozambique	37248
+1967	Angola	36114
+1967	Guatemala	26834
+1967	El Salvador	23600
+1967	Uganda	22000
+1967	Nepal	14700
+1967	Honduras	9865
+1967	Suriname	4814
+1967	Liberia	4600
+1967	Ghana	4000
+1967	Cameroon	1598
+1967	Grenada	579
+1967	Lao People's Democratic Republic	400
+1967	French Polynesia	300
+1968	Brazil	3772936
+1968	India	1432500
+1968	Philippines	874400
+1968	South Africa	685985
+1968	Mexico	633665
+1968	Ecuador	476425
+1968	Bangladesh	266000
+1968	Haiti	263620
+1968	Argentina	258932
+1968	Guyana	177885
+1968	Costa Rica	176921
+1968	Thailand	118950
+1968	Myanmar	72282
+1968	Egypt	61000
+1968	Viet Nam	50000
+1968	Mozambique	44638
+1968	Paraguay	35100
+1968	Angola	34232
+1968	Guatemala	22906
+1968	El Salvador	22600
+1968	Nepal	16940
+1968	Congo	11186
+1968	Uganda	11000
+1968	Honduras	10997
+1968	Ghana	7600
+1968	Liberia	5950
+1968	Suriname	4600
+1968	Cameroon	2000
+1968	Grenada	572
+1968	Lao People's Democratic Republic	375
+1968	French Polynesia	300
+1969	Brazil	4205192
+1969	India	1870142
+1969	Philippines	879200
+1969	South Africa	739393
+1969	Argentina	695867
+1969	Mexico	648916
+1969	Ecuador	350000
+1969	Bangladesh	304000
+1969	Haiti	260830
+1969	Thailand	219950
+1969	Guyana	208921
+1969	Costa Rica	164466
+1969	Egypt	69000
+1969	Myanmar	65396
+1969	Mozambique	51420
+1969	Viet Nam	44315
+1969	Paraguay	41065
+1969	Angola	34154
+1969	El Salvador	27300
+1969	Guatemala	26586
+1969	Nepal	18940
+1969	Uganda	16000
+1969	Honduras	12402
+1969	Liberia	7300
+1969	Ghana	5000
+1969	Suriname	4400
+1969	Cameroon	3000
+1969	Congo	2300
+1969	Grenada	498
+1969	Lao People's Democratic Republic	400
+1969	French Polynesia	300
+1970	India	2025360
+1970	Brazil	2003528
+1970	Philippines	1045600
+1970	Mexico	693028
+1970	South Africa	607195
+1970	Ecuador	325000
+1970	Haiti	270500
+1970	Thailand	255100
+1970	Guyana	187722
+1970	Costa Rica	148735
+1970	Bangladesh	122000
+1970	Paraguay	70750
+1970	Egypt	69000
+1970	Myanmar	65605
+1970	Mozambique	54600
+1970	Viet Nam	52605
+1970	Argentina	48829
+1970	Angola	38199
+1970	Uganda	31079
+1970	El Salvador	29200
+1970	Guatemala	26325
+1970	Nepal	23970
+1970	Honduras	13634
+1970	Liberia	8650
+1970	Ghana	6000
+1970	Congo	5814
+1970	Suriname	4500
+1970	Cameroon	3486
+1970	Grenada	406
+1970	Lao People's Democratic Republic	350
+1970	French Polynesia	340
+1971	Brazil	2503392
+1971	India	1895520
+1971	Philippines	1105600
+1971	South Africa	837556
+1971	Mexico	654303
+1971	Thailand	329300
+1971	Ecuador	300000
+1971	Haiti	279240
+1971	Bangladesh	253000
+1971	Guyana	215530
+1971	Costa Rica	136677
+1971	Argentina	75069
+1971	Egypt	75000
+1971	Myanmar	71812
+1971	Paraguay	70370
+1971	Mozambique	60000
+1971	Viet Nam	55000
+1971	Angola	44006
+1971	El Salvador	37800
+1971	Guatemala	27855
+1971	Uganda	23669
+1971	Nepal	23561
+1971	Honduras	14071
+1971	United Republic of Tanzania	10000
+1971	Congo	9728
+1971	Liberia	9500
+1971	Ghana	7600
+1971	Suriname	3900
+1971	Cameroon	3571
+1971	Lao People's Democratic Republic	375
+1971	French Polynesia	340
+1971	Grenada	316
+1972	Brazil	1734216
+1972	India	1703542
+1972	Philippines	992000
+1972	South Africa	840232
+1972	Mexico	645040
+1972	Thailand	296300
+1972	Haiti	280770
+1972	Bangladesh	280000
+1972	Ecuador	278815
+1972	Argentina	192156
+1972	Guyana	181145
+1972	Costa Rica	136591
+1972	Myanmar	81595
+1972	Egypt	77000
+1972	Viet Nam	63000
+1972	Mozambique	63000
+1972	Uganda	57000
+1972	Paraguay	52225
+1972	El Salvador	44500
+1972	Angola	42500
+1972	Guatemala	32727
+1972	Nepal	24482
+1972	Honduras	14848
+1972	Ghana	12500
+1972	Liberia	10350
+1972	United Republic of Tanzania	10000
+1972	Cameroon	4883
+1972	Suriname	4200
+1972	Congo	1195
+1972	Lao People's Democratic Republic	390
+1972	French Polynesia	340
+1972	Grenada	284
+1973	India	1873000
+1973	Brazil	1857024
+1973	Philippines	1118600
+1973	South Africa	772684
+1973	Mexico	657225
+1973	Thailand	475650
+1973	Bangladesh	314000
+1973	Haiti	286000
+1973	Ecuador	273850
+1973	Uganda	231200
+1973	Guyana	165186
+1973	Costa Rica	117425
+1973	Myanmar	101620
+1973	Egypt	73000
+1973	Viet Nam	65000
+1973	Mozambique	60000
+1973	Paraguay	55040
+1973	Angola	48372
+1973	El Salvador	46000
+1973	Guatemala	40086
+1973	Nepal	24564
+1973	Argentina	20928
+1973	United Republic of Tanzania	15000
+1973	Honduras	14400
+1973	Ghana	12500
+1973	Liberia	11200
+1973	Cameroon	5692
+1973	Congo	3627
+1973	Suriname	3194
+1973	Lao People's Democratic Republic	400
+1973	French Polynesia	380
+1973	Grenada	146
+1974	Brazil	2373680
+1974	India	2112075
+1974	Philippines	1395000
+1974	South Africa	844766
+1974	Mexico	669983
+1974	Thailand	666940
+1974	Bangladesh	417000
+1974	Ecuador	332357
+1974	Haiti	286000
+1974	Guyana	204726
+1974	Costa Rica	155190
+1974	Uganda	112000
+1974	Myanmar	84371
+1974	Viet Nam	72500
+1974	Egypt	70000
+1974	Paraguay	60150
+1974	Mozambique	56000
+1974	Congo	55324
+1974	El Salvador	50000
+1974	Guatemala	44228
+1974	Angola	27500
+1974	Nepal	26676
+1974	United Republic of Tanzania	15000
+1974	Honduras	14160
+1974	Liberia	13900
+1974	Argentina	9970
+1974	Ghana	9500
+1974	Cameroon	8203
+1974	Burkina Faso	3365
+1974	Suriname	2928
+1974	Lao People's Democratic Republic	400
+1974	French Polynesia	400
+1974	Grenada	146
+1975	Brazil	2356560
+1975	India	2164334
+1975	Philippines	1434720
+1975	South Africa	840677
+1975	Thailand	729615
+1975	Mexico	716812
+1975	Ecuador	386171
+1975	Haiti	280200
+1975	Bangladesh	191000
+1975	Guyana	181583
+1975	Costa Rica	169277
+1975	Uganda	109760
+1975	Argentina	99751
+1975	Viet Nam	97805
+1975	Egypt	76000
+1975	Myanmar	60206
+1975	Paraguay	51910
+1975	Guatemala	50930
+1975	Mozambique	48000
+1975	El Salvador	48000
+1975	Congo	39385
+1975	Nepal	25142
+1975	Angola	23500
+1975	Liberia	17540
+1975	United Republic of Tanzania	16000
+1975	Honduras	15059
+1975	Ghana	11500
+1975	Cameroon	11030
+1975	Burkina Faso	8932
+1975	Suriname	3191
+1975	Côte d'Ivoire	1146
+1975	French Polynesia	420
+1975	Lao People's Democratic Republic	350
+1975	Grenada	258
+1976	India	2109052
+1976	Brazil	1760448
+1976	Philippines	1548560
+1976	Thailand	995487
+1976	South Africa	961030
+1976	Mexico	627731
+1976	Ecuador	288066
+1976	Haiti	277900
+1976	Guyana	201968
+1976	Costa Rica	167760
+1976	Bangladesh	158000
+1976	Viet Nam	149320
+1976	Argentina	142080
+1976	Uganda	131316
+1976	Myanmar	81557
+1976	Guatemala	68450
+1976	Paraguay	53845
+1976	El Salvador	50000
+1976	Egypt	50000
+1976	Mozambique	44000
+1976	Congo	39727
+1976	Angola	26500
+1976	Nepal	25303
+1976	United Republic of Tanzania	20000
+1976	Honduras	15418
+1976	Liberia	15240
+1976	Ghana	13000
+1976	Cameroon	11733
+1976	Burkina Faso	10572
+1976	Guinea	7250
+1976	Suriname	2934
+1976	Côte d'Ivoire	2572
+1976	Lao People's Democratic Republic	848
+1976	French Polynesia	440
+1976	Grenada	310
+1977	India	2295105
+1977	Philippines	1392800
+1977	Thailand	1304722
+1977	Brazil	1204688
+1977	South Africa	950451
+1977	Mexico	587947
+1977	Ecuador	375901
+1977	Haiti	280100
+1977	Uganda	219120
+1977	Bangladesh	207000
+1977	Guyana	164544
+1977	Viet Nam	140840
+1977	Costa Rica	126321
+1977	Myanmar	81285
+1977	Guatemala	66000
+1977	Congo	65138
+1977	Argentina	64902
+1977	Egypt	60000
+1977	Paraguay	57990
+1977	Liberia	52031
+1977	El Salvador	50000
+1977	Mozambique	44000
+1977	Nepal	31138
+1977	Angola	25000
+1977	United Republic of Tanzania	23000
+1977	Honduras	18447
+1977	Burkina Faso	15000
+1977	Cameroon	14580
+1977	Ghana	13500
+1977	Guinea	7250
+1977	Côte d'Ivoire	3666
+1977	Suriname	2706
+1977	Lao People's Democratic Republic	892
+1977	French Polynesia	460
+1977	Grenada	422
+1978	India	2654475
+1978	Brazil	1280944
+1978	Philippines	1222480
+1978	Thailand	947061
+1978	South Africa	946589
+1978	Mexico	709497
+1978	Ecuador	346385
+1978	Haiti	284400
+1978	Guyana	214285
+1978	Bangladesh	170000
+1978	Viet Nam	136605
+1978	Costa Rica	131008
+1978	Uganda	102000
+1978	Myanmar	89560
+1978	Argentina	87634
+1978	Congo	75000
+1978	Paraguay	63000
+1978	Egypt	58000
+1978	Guatemala	53600
+1978	United Republic of Tanzania	50000
+1978	Mozambique	40000
+1978	Nepal	39710
+1978	Liberia	37800
+1978	El Salvador	28000
+1978	Angola	22500
+1978	Honduras	21645
+1978	Burkina Faso	15750
+1978	Cameroon	15301
+1978	Ghana	8615
+1978	Guinea	8250
+1978	Côte d'Ivoire	3629
+1978	Suriname	2395
+1978	Panama	2195
+1978	Lao People's Democratic Republic	979
+1978	French Polynesia	480
+1978	Grenada	479
+1979	India	2274826
+1979	Brazil	1308880
+1979	Philippines	1275520
+1979	Thailand	1028026
+1979	South Africa	920600
+1979	Mexico	691748
+1979	Ecuador	329972
+1979	Haiti	286000
+1979	Argentina	221993
+1979	Guyana	196708
+1979	Bangladesh	194000
+1979	Viet Nam	174545
+1979	Costa Rica	133623
+1979	Myanmar	92037
+1979	Paraguay	64350
+1979	Egypt	60000
+1979	United Republic of Tanzania	55000
+1979	Uganda	51000
+1979	Guatemala	48300
+1979	Mozambique	44000
+1979	Nepal	39993
+1979	Congo	37000
+1979	El Salvador	30000
+1979	Liberia	26800
+1979	Honduras	25554
+1979	Angola	21000
+1979	Cameroon	18320
+1979	Burkina Faso	18000
+1979	Guinea	11000
+1979	Ghana	9100
+1979	Côte d'Ivoire	6871
+1979	Panama	5805
+1979	Suriname	3281
+1979	Lao People's Democratic Republic	1305
+1979	French Polynesia	500
+1979	Grenada	440
+1980	India	1932501
+1980	Philippines	1236000
+1980	Brazil	1043552
+1980	Mexico	705572
+1980	South Africa	703110
+1980	Thailand	641333
+1980	Ecuador	330760
+1980	Haiti	300000
+1980	Viet Nam	217990
+1980	Guyana	191526
+1980	Bangladesh	167000
+1980	Costa Rica	126654
+1980	Argentina	108336
+1980	Myanmar	73067
+1980	Paraguay	68645
+1980	Egypt	61000
+1980	Guatemala	57000
+1980	Mozambique	40000
+1980	Nepal	38507
+1980	Liberia	36500
+1980	Uganda	33000
+1980	Honduras	29057
+1980	Congo	27000
+1980	El Salvador	25000
+1980	Cameroon	20073
+1980	Burkina Faso	17500
+1980	Angola	15000
+1980	Côte d'Ivoire	13178
+1980	Guinea	11000
+1980	United Republic of Tanzania	10000
+1980	Ghana	8560
+1980	Panama	5800
+1980	Suriname	2927
+1980	Lao People's Democratic Republic	1204
+1980	French Polynesia	520
+1980	Grenada	376
+1981	India	2313720
+1981	Philippines	1264000
+1981	Brazil	1067104
+1981	Thailand	992683
+1981	South Africa	976606
+1981	Mexico	663948
+1981	Ecuador	313919
+1981	Haiti	300000
+1981	Guyana	209611
+1981	Viet Nam	198220
+1981	Bangladesh	154000
+1981	Costa Rica	122821
+1981	Paraguay	107735
+1981	Myanmar	101767
+1981	Argentina	85802
+1981	Guatemala	63000
+1981	Egypt	60000
+1981	Nepal	47978
+1981	Uganda	40000
+1981	Mozambique	40000
+1981	Liberia	30350
+1981	Honduras	29204
+1981	Cameroon	25928
+1981	El Salvador	20000
+1981	Côte d'Ivoire	16523
+1981	Burkina Faso	16000
+1981	Angola	16000
+1981	Congo	15000
+1981	Guinea	11000
+1981	Panama	6990
+1981	United Republic of Tanzania	5000
+1981	Sierra Leone	5000
+1981	Ghana	4230
+1981	Suriname	2927
+1981	Lao People's Democratic Republic	1205
+1981	French Polynesia	540
+1981	Grenada	279
+1982	India	2795364
+1982	Thailand	1510000
+1982	Philippines	1432000
+1982	Brazil	1089600
+1982	South Africa	966974
+1982	Mexico	710220
+1982	Haiti	300000
+1982	Ecuador	271044
+1982	Viet Nam	228845
+1982	Guyana	195335
+1982	Bangladesh	183000
+1982	Costa Rica	137717
+1982	Myanmar	136800
+1982	Paraguay	115970
+1982	Guatemala	74200
+1982	Egypt	61000
+1982	Nepal	59000
+1982	Argentina	58837
+1982	Uganda	55000
+1982	Honduras	30956
+1982	Liberia	30350
+1982	Congo	30000
+1982	Mozambique	29000
+1982	Cameroon	21747
+1982	El Salvador	20000
+1982	Côte d'Ivoire	17849
+1982	Burkina Faso	17500
+1982	Angola	12500
+1982	Guinea	11000
+1982	Panama	8370
+1982	United Republic of Tanzania	8000
+1982	Sierra Leone	8000
+1982	Ghana	2925
+1982	Suriname	2508
+1982	Lao People's Democratic Republic	1282
+1982	French Polynesia	550
+1982	Grenada	258
+1983	India	2842584
+1983	Thailand	1220370
+1983	Brazil	1159952
+1983	Philippines	1148000
+1983	Mexico	684640
+1983	South Africa	671144
+1983	Viet Nam	284475
+1983	Ecuador	281002
+1983	Haiti	280000
+1983	Bangladesh	236000
+1983	Myanmar	185910
+1983	Guyana	174056
+1983	Costa Rica	173394
+1983	Paraguay	120335
+1983	Argentina	85563
+1983	Guatemala	65000
+1983	Nepal	61609
+1983	Uganda	55000
+1983	Egypt	50000
+1983	Honduras	31503
+1983	Liberia	30350
+1983	Cameroon	20782
+1983	El Salvador	20000
+1983	Côte d'Ivoire	18204
+1983	Congo	17000
+1983	Mozambique	16800
+1983	Burkina Faso	16500
+1983	Angola	12500
+1983	Guinea	11000
+1983	Panama	8500
+1983	United Republic of Tanzania	8000
+1983	Sierra Leone	8000
+1983	Ghana	4295
+1983	Suriname	2576
+1983	Lao People's Democratic Republic	1517
+1983	French Polynesia	500
+1983	Grenada	224
+1984	India	2611140
+1984	Philippines	1372000
+1984	Brazil	1239936
+1984	Thailand	1193474
+1984	South Africa	1117800
+1984	Mexico	699395
+1984	Viet Nam	328330
+1984	Ecuador	284912
+1984	Haiti	250000
+1984	Myanmar	183130
+1984	Costa Rica	169094
+1984	Guyana	160669
+1984	Argentina	134745
+1984	Paraguay	127830
+1984	Bangladesh	99000
+1984	Guatemala	65600
+1984	Uganda	61000
+1984	Egypt	60000
+1984	Nepal	50907
+1984	Cameroon	33000
+1984	Honduras	30543
+1984	Liberia	29200
+1984	El Salvador	19920
+1984	Burkina Faso	16000
+1984	Côte d'Ivoire	12613
+1984	Angola	12000
+1984	Guinea	11000
+1984	Panama	9860
+1984	United Republic of Tanzania	9000
+1984	Mozambique	9000
+1984	Congo	8000
+1984	Sierra Leone	7000
+1984	Ghana	4500
+1984	Lao People's Democratic Republic	2726
+1984	Suriname	2612
+1984	French Polynesia	500
+1984	Grenada	201
+1985	India	2554788
+1985	Brazil	1943264
+1985	Thailand	1252751
+1985	South Africa	940150
+1985	Philippines	913680
+1985	Mexico	688617
+1985	Viet Nam	277985
+1985	Costa Rica	266153
+1985	Ecuador	249740
+1985	Haiti	230000
+1985	Myanmar	188355
+1985	Guyana	163514
+1985	Paraguay	136325
+1985	Argentina	120298
+1985	Bangladesh	79000
+1985	Guatemala	65800
+1985	Egypt	65000
+1985	Nepal	40826
+1985	Uganda	35000
+1985	Cameroon	31800
+1985	Liberia	31750
+1985	Honduras	29889
+1985	El Salvador	20918
+1985	Burkina Faso	17000
+1985	Angola	13500
+1985	Côte d'Ivoire	11388
+1985	Guinea	10000
+1985	Panama	8255
+1985	United Republic of Tanzania	8000
+1985	Sierra Leone	7000
+1985	Mozambique	6000
+1985	Ghana	5500
+1985	Congo	5000
+1985	Lao People's Democratic Republic	3650
+1985	Suriname	2364
+1985	French Polynesia	520
+1985	Grenada	195
+1986	India	2575215
+1986	Thailand	1204658
+1986	South Africa	912600
+1986	Mexico	885424
+1986	Brazil	864992
+1986	Philippines	839640
+1986	Argentina	619388
+1986	Ecuador	269885
+1986	Viet Nam	248320
+1986	Haiti	200000
+1986	Myanmar	192635
+1986	Guyana	168241
+1986	Costa Rica	158010
+1986	Paraguay	137900
+1986	Guatemala	70000
+1986	Egypt	70000
+1986	Nepal	55834
+1986	Bangladesh	53000
+1986	Uganda	45000
+1986	Liberia	39150
+1986	Cameroon	35400
+1986	Honduras	29886
+1986	El Salvador	20063
+1986	Burkina Faso	17500
+1986	Angola	16000
+1986	Côte d'Ivoire	12854
+1986	Guinea	10000
+1986	Congo	10000
+1986	United Republic of Tanzania	8000
+1986	Sierra Leone	7000
+1986	Mozambique	6000
+1986	Panama	5534
+1986	Ghana	5500
+1986	Lao People's Democratic Republic	3666
+1986	Suriname	2219
+1986	French Polynesia	520
+1986	Grenada	195
+1987	Brazil	3222384
+1987	India	2791342
+1987	Thailand	1222497
+1987	South Africa	1051051
+1987	Mexico	917485
+1987	Philippines	688440
+1987	Ecuador	280619
+1987	Viet Nam	273370
+1987	Haiti	180000
+1987	Myanmar	171650
+1987	Guyana	157500
+1987	Costa Rica	148489
+1987	Paraguay	127574
+1987	Argentina	124100
+1987	Guatemala	68706
+1987	Bangladesh	62000
+1987	Nepal	61658
+1987	Egypt	50000
+1987	Uganda	45000
+1987	Liberia	42700
+1987	Cameroon	32000
+1987	Honduras	26589
+1987	El Salvador	19394
+1987	Burkina Faso	17000
+1987	Angola	16000
+1987	Côte d'Ivoire	13464
+1987	Congo	10000
+1987	Guinea	8750
+1987	Sierra Leone	7000
+1987	Lao People's Democratic Republic	5643
+1987	Ghana	5500
+1987	United Republic of Tanzania	5000
+1987	Mozambique	4300
+1987	Panama	4110
+1987	Suriname	976
+1987	French Polynesia	520
+1987	Grenada	195
+1987	Central African Republic	22
+1988	Brazil	3116000
+1988	India	2951054
+1988	Thailand	1359559
+1988	South Africa	990552
+1988	Mexico	854704
+1988	Philippines	772000
+1988	Viet Nam	284980
+1988	Ecuador	256354
+1988	Myanmar	178305
+1988	Haiti	170000
+1988	Guyana	148500
+1988	Paraguay	135356
+1988	Egypt	108000
+1988	Nepal	81440
+1988	Bangladesh	78000
+1988	Guatemala	75672
+1988	Costa Rica	67044
+1988	Argentina	54180
+1988	Liberia	46250
+1988	Uganda	40000
+1988	Cameroon	30002
+1988	Honduras	25091
+1988	Burkina Faso	17000
+1988	Angola	16000
+1988	United Republic of Tanzania	15000
+1988	El Salvador	15000
+1988	Congo	15000
+1988	Côte d'Ivoire	13730
+1988	Guinea	8750
+1988	Sierra Leone	7000
+1988	Ghana	5500
+1988	Lao People's Democratic Republic	5355
+1988	Panama	5000
+1988	Mozambique	4413
+1988	Suriname	1000
+1988	Central African Republic	880
+1988	French Polynesia	540
+1988	Grenada	195
+1989	Brazil	3310000
+1989	India	3045552
+1989	Thailand	1833400
+1989	Philippines	1010520
+1989	South Africa	929353
+1989	Mexico	878210
+1989	Ecuador	283176
+1989	Viet Nam	267230
+1989	Haiti	160000
+1989	Paraguay	144831
+1989	Guyana	127050
+1989	Myanmar	117320
+1989	Egypt	112000
+1989	Nepal	90301
+1989	Argentina	87816
+1989	Guatemala	76153
+1989	Costa Rica	62186
+1989	Liberia	45250
+1989	Bangladesh	42000
+1989	Uganda	40000
+1989	Panama	34055
+1989	Honduras	27247
+1989	Cameroon	26001
+1989	Burkina Faso	19000
+1989	El Salvador	15000
+1989	Congo	15000
+1989	United Republic of Tanzania	14520
+1989	Angola	13500
+1989	Côte d'Ivoire	13352
+1989	Guinea	11000
+1989	Sierra Leone	7000
+1989	Lao People's Democratic Republic	6302
+1989	Ghana	5500
+1989	Mozambique	5108
+1989	Suriname	1300
+1989	Central African Republic	1000
+1989	French Polynesia	540
+1989	Grenada	195
+1990	Brazil	3444144
+1990	India	3383538
+1990	Thailand	1678050
+1990	Philippines	1019280
+1990	South Africa	904176
+1990	Mexico	798387
+1990	Ecuador	286045
+1990	Viet Nam	270280
+1990	Haiti	150000
+1990	Guyana	135000
+1990	Paraguay	122466
+1990	Egypt	110000
+1990	Argentina	100000
+1990	Nepal	98830
+1990	Myanmar	96535
+1990	Guatemala	96031
+1990	Bangladesh	72000
+1990	Costa Rica	68285
+1990	Uganda	45000
+1990	Liberia	37700
+1990	Cameroon	29000
+1990	Honduras	28979
+1990	Panama	24658
+1990	Burkina Faso	19000
+1990	El Salvador	16000
+1990	Congo	15000
+1990	United Republic of Tanzania	14520
+1990	Côte d'Ivoire	13623
+1990	Angola	13500
+1990	Guinea	11250
+1990	Sierra Leone	7000
+1990	Mozambique	6631
+1990	Ghana	5500
+1990	Lao People's Democratic Republic	4818
+1990	Suriname	1300
+1990	Central African Republic	1200
+1990	French Polynesia	540
+1990	Grenada	195
+1991	India	3615682
+1991	Thailand	2033050
+1991	Brazil	1857888
+1991	South Africa	1003900
+1991	Philippines	993400
+1991	Mexico	768680
+1991	Ecuador	345000
+1991	Viet Nam	308125
+1991	Haiti	150000
+1991	Guyana	146750
+1991	Paraguay	140854
+1991	Egypt	116000
+1991	Nepal	110596
+1991	Guatemala	107988
+1991	Myanmar	105262
+1991	Argentina	100000
+1991	Bangladesh	80000
+1991	Costa Rica	65848
+1991	Liberia	51250
+1991	Uganda	40000
+1991	Honduras	27301
+1991	Cameroon	26000
+1991	Congo	25000
+1991	Panama	24164
+1991	El Salvador	22000
+1991	Burkina Faso	20000
+1991	Angola	16750
+1991	United Republic of Tanzania	15620
+1991	Côte d'Ivoire	14008
+1991	Guinea	11250
+1991	Sierra Leone	7000
+1991	Ghana	5500
+1991	Mozambique	5055
+1991	Lao People's Democratic Republic	4025
+1991	Suriname	1400
+1991	Central African Republic	800
+1991	French Polynesia	560
+1991	Grenada	195
+1992	India	3810073
+1992	Brazil	3469872
+1992	Thailand	2374000
+1992	Philippines	1154240
+1992	Mexico	833932
+1992	South Africa	647772
+1992	Ecuador	345000
+1992	Viet Nam	321850
+1992	Guyana	154050
+1992	Haiti	142928
+1992	Paraguay	139410
+1992	Nepal	129134
+1992	Myanmar	121540
+1992	Egypt	117000
+1992	Guatemala	113076
+1992	Argentina	90600
+1992	Costa Rica	64566
+1992	Bangladesh	57000
+1992	Liberia	52250
+1992	Uganda	40000
+1992	Panama	31757
+1992	Honduras	28388
+1992	Cameroon	27000
+1992	El Salvador	25000
+1992	Congo	25000
+1992	Burkina Faso	20000
+1992	United Republic of Tanzania	15510
+1992	Côte d'Ivoire	13610
+1992	Angola	13500
+1992	Guinea	10000
+1992	Ghana	5500
+1992	Sierra Leone	4900
+1992	Lao People's Democratic Republic	4721
+1992	Mozambique	3187
+1992	Suriname	1400
+1992	Central African Republic	565
+1992	French Polynesia	560
+1992	Grenada	195
+1993	India	3420488
+1993	Brazil	2350704
+1993	Thailand	1991350
+1993	Philippines	1189920
+1993	Mexico	858619
+1993	South Africa	562222
+1993	Ecuador	350000
+1993	Viet Nam	304135
+1993	Guyana	152800
+1993	Paraguay	140573
+1993	Haiti	140000
+1993	Nepal	136587
+1993	Myanmar	135950
+1993	Egypt	124000
+1993	Guatemala	117411
+1993	Argentina	64900
+1993	Costa Rica	56973
+1993	Liberia	55600
+1993	Uganda	50000
+1993	Bangladesh	50000
+1993	Honduras	29188
+1993	Cameroon	27000
+1993	Burkina Faso	20000
+1993	United Republic of Tanzania	15081
+1993	El Salvador	15000
+1993	Congo	15000
+1993	Côte d'Ivoire	12742
+1993	Guinea	11000
+1993	Angola	11000
+1993	Panama	8000
+1993	Ghana	5500
+1993	Lao People's Democratic Republic	4478
+1993	Mozambique	3690
+1993	Sierra Leone	2450
+1993	Central African Republic	1437
+1993	Suriname	1400
+1993	French Polynesia	560
+1993	Grenada	195
+1994	India	3445050
+1994	Thailand	1891150
+1994	Brazil	1771840
+1994	Philippines	1067760
+1994	Mexico	811735
+1994	South Africa	784167
+1994	Viet Nam	377505
+1994	Ecuador	340000
+1994	Guyana	157445
+1994	Nepal	143100
+1994	Paraguay	139966
+1994	Egypt	138000
+1994	Haiti	130000
+1994	Guatemala	118624
+1994	Myanmar	112750
+1994	Costa Rica	78164
+1994	Liberia	58450
+1994	Argentina	50400
+1994	Uganda	49993
+1994	Honduras	30778
+1994	Cameroon	27000
+1994	Burkina Faso	20000
+1994	Bangladesh	17000
+1994	United Republic of Tanzania	16137
+1994	El Salvador	15000
+1994	Congo	15000
+1994	Côte d'Ivoire	12003
+1994	Angola	12000
+1994	Guinea	11000
+1994	Panama	10000
+1994	Sierra Leone	5600
+1994	Ghana	5500
+1994	Mozambique	4000
+1994	Lao People's Democratic Republic	3257
+1994	Suriname	1800
+1994	Central African Republic	1445
+1994	French Polynesia	560
+1994	Grenada	195
+1995	India	4133101
+1995	Thailand	2529850
+1995	Brazil	2364512
+1995	Philippines	976000
+1995	Mexico	889059
+1995	South Africa	835684
+1995	Viet Nam	535555
+1995	Ecuador	337500
+1995	Guyana	160463
+1995	Myanmar	159960
+1995	Guatemala	154438
+1995	Nepal	150000
+1995	Egypt	141000
+1995	Paraguay	128800
+1995	Haiti	120000
+1995	Argentina	89000
+1995	Costa Rica	64473
+1995	Liberia	58500
+1995	Uganda	49743
+1995	Panama	34630
+1995	Honduras	30591
+1995	Cameroon	27000
+1995	Bangladesh	27000
+1995	Burkina Faso	20000
+1995	Angola	16500
+1995	Congo	15177
+1995	El Salvador	15000
+1995	United Republic of Tanzania	14124
+1995	Côte d'Ivoire	11722
+1995	Guinea	11000
+1995	Mozambique	6265
+1995	Ghana	5500
+1995	Lao People's Democratic Republic	3116
+1995	Suriname	2400
+1995	Sierra Leone	2100
+1995	Central African Republic	1489
+1995	French Polynesia	560
+1995	Grenada	195
+1996	India	4216501
+1996	Thailand	2898700
+1996	Brazil	1705984
+1996	Philippines	1063680
+1996	South Africa	1047548
+1996	Mexico	901613
+1996	Viet Nam	568590
+1996	Ecuador	335000
+1996	Myanmar	202200
+1996	Guyana	161095
+1996	Nepal	156870
+1996	Guatemala	155829
+1996	Egypt	140000
+1996	Paraguay	136800
+1996	Haiti	120000
+1996	Argentina	88000
+1996	Costa Rica	60470
+1996	Liberia	58650
+1996	Uganda	49890
+1996	Panama	44652
+1996	Honduras	35802
+1996	Cameroon	27000
+1996	El Salvador	20000
+1996	Burkina Faso	20000
+1996	United Republic of Tanzania	15059
+1996	Angola	14500
+1996	Côte d'Ivoire	12360
+1996	Guinea	11500
+1996	Ghana	6995
+1996	Mozambique	6317
+1996	Sierra Leone	5800
+1996	Congo	5256
+1996	Lao People's Democratic Republic	4353
+1996	Suriname	1800
+1996	Central African Republic	1574
+1996	Bangladesh	1000
+1996	French Polynesia	560
+1996	Grenada	195
+1997	India	4163401
+1997	Thailand	2819700
+1997	Brazil	1207680
+1997	South Africa	1107739
+1997	Philippines	1080000
+1997	Mexico	904390
+1997	Viet Nam	596045
+1997	Myanmar	252829
+1997	Ecuador	250000
+1997	Guatemala	176870
+1997	Nepal	162930
+1997	Guyana	153676
+1997	Paraguay	139750
+1997	Egypt	137000
+1997	Haiti	110000
+1997	Argentina	74690
+1997	Costa Rica	61469
+1997	Liberia	57500
+1997	Uganda	49990
+1997	Panama	48744
+1997	Honduras	36371
+1997	El Salvador	30000
+1997	Cameroon	27000
+1997	Burkina Faso	20000
+1997	Angola	15500
+1997	United Republic of Tanzania	14278
+1997	Côte d'Ivoire	12702
+1997	Guinea	12000
+1997	Bangladesh	12000
+1997	Ghana	6975
+1997	Sierra Leone	6900
+1997	Mozambique	5579
+1997	Lao People's Democratic Republic	4750
+1997	Congo	4528
+1997	Suriname	2400
+1997	Central African Republic	1570
+1997	French Polynesia	560
+1997	Grenada	198
+1998	India	4193124
+1998	Thailand	2343650
+1998	South Africa	1146515
+1998	Brazil	1099968
+1998	Philippines	1051480
+1998	Mexico	977905
+1998	Viet Nam	692175
+1998	Ecuador	350000
+1998	Myanmar	267195
+1998	Guatemala	181894
+1998	Nepal	171755
+1998	Guyana	148300
+1998	Egypt	144000
+1998	Paraguay	140000
+1998	Haiti	100010
+1998	Argentina	75000
+1998	Costa Rica	63464
+1998	Liberia	55500
+1998	Panama	54963
+1998	Uganda	49999
+1998	El Salvador	40000
+1998	Honduras	37785
+1998	Cameroon	27000
+1998	Burkina Faso	20000
+1998	Angola	17000
+1998	Guinea	12000
+1998	Bangladesh	12000
+1998	United Republic of Tanzania	10823
+1998	Côte d'Ivoire	10811
+1998	Congo	9433
+1998	Lao People's Democratic Republic	8510
+1998	Mozambique	7374
+1998	Ghana	7335
+1998	Sierra Leone	6900
+1998	Central African Republic	1814
+1998	Suriname	1400
+1998	French Polynesia	600
+1998	Grenada	198
+1999	India	4654992
+1999	Thailand	2516600
+1999	South Africa	1061155
+1999	Philippines	951204
+1999	Mexico	937600
+1999	Brazil	917984
+1999	Viet Nam	888015
+1999	Ecuador	278115
+1999	Myanmar	268160
+1999	Costa Rica	200472
+1999	Nepal	197180
+1999	Guatemala	170128
+1999	Guyana	162230
+1999	Egypt	155000
+1999	Paraguay	143614
+1999	Haiti	100000
+1999	Liberia	52500
+1999	Panama	51456
+1999	Argentina	48000
+1999	El Salvador	40000
+1999	Honduras	37558
+1999	Cameroon	27000
+1999	Uganda	20109
+1999	Burkina Faso	20000
+1999	Angola	17000
+1999	Côte d'Ivoire	14539
+1999	United Republic of Tanzania	13958
+1999	Guinea	13500
+1999	Bangladesh	11000
+1999	Mozambique	9916
+1999	Lao People's Democratic Republic	8680
+1999	Sierra Leone	8100
+1999	Ghana	7000
+1999	Congo	3990
+1999	Central African Republic	1820
+1999	Suriname	1800
+1999	French Polynesia	600
+1999	Grenada	198
+2000	India	4489863
+2000	Brazil	3480000
+2000	Thailand	2702606
+2000	South Africa	1193808
+2000	Philippines	979640
+2000	Mexico	882000
+2000	Viet Nam	752215
+2000	Myanmar	290042
+2000	Ecuador	270119
+2000	Costa Rica	265192
+2000	Nepal	210343
+2000	Guatemala	165524
+2000	Egypt	160000
+2000	Guyana	135485
+2000	Paraguay	112246
+2000	Haiti	80000
+2000	Liberia	52500
+2000	Panama	50236
+2000	Argentina	45470
+2000	El Salvador	40000
+2000	Honduras	39740
+2000	Cameroon	27000
+2000	Congo	20256
+2000	Burkina Faso	20000
+2000	Angola	17500
+2000	Côte d'Ivoire	16720
+2000	United Republic of Tanzania	14905
+2000	Lao People's Democratic Republic	14848
+2000	Guinea	13500
+2000	Bangladesh	11000
+2000	Sierra Leone	8100
+2000	Mozambique	7946
+2000	Ghana	7000
+2000	Uganda	6215
+2000	Suriname	2400
+2000	Central African Republic	1800
+2000	French Polynesia	640
+2000	Grenada	201
+2001	India	4439340
+2001	Brazil	4371936
+2001	Thailand	2478144
+2001	Philippines	1080000
+2001	South Africa	1057827
+2001	Mexico	945000
+2001	Viet Nam	732845
+2001	Costa Rica	391350
+2001	Myanmar	350190
+2001	Ecuador	282697
+2001	Nepal	221178
+2001	Guatemala	169349
+2001	Egypt	160000
+2001	Guyana	157050
+2001	Paraguay	119814
+2001	Haiti	100810
+2001	Liberia	52350
+2001	Argentina	50000
+2001	Panama	42958
+2001	Honduras	41170
+2001	El Salvador	30000
+2001	Cameroon	27000
+2001	Bangladesh	25000
+2001	Burkina Faso	21000
+2001	Congo	19433
+2001	Angola	18000
+2001	Côte d'Ivoire	16528
+2001	United Republic of Tanzania	16500
+2001	Mozambique	13512
+2001	Guinea	13500
+2001	Lao People's Democratic Republic	10442
+2001	Ghana	7000
+2001	Sierra Leone	6900
+2001	Uganda	2581
+2001	Suriname	2400
+2001	Central African Republic	1800
+2001	French Polynesia	600
+2001	Grenada	202
+2002	India	4458117
+2002	Thailand	3000649
+2002	Brazil	1781024
+2002	South Africa	1150628
+2002	Philippines	1100000
+2002	Mexico	912706
+2002	Viet Nam	856000
+2002	Myanmar	316365
+2002	Ecuador	270382
+2002	Nepal	224799
+2002	Costa Rica	200891
+2002	Guyana	185400
+2002	Guatemala	174899
+2002	Egypt	165000
+2002	Paraguay	160492
+2002	Haiti	59500
+2002	Liberia	52350
+2002	Uganda	50000
+2002	Argentina	50000
+2002	Panama	44977
+2002	Honduras	36600
+2002	Mozambique	31725
+2002	El Salvador	30000
+2002	Cameroon	28000
+2002	Burkina Faso	22500
+2002	United Republic of Tanzania	19250
+2002	Angola	18000
+2002	Côte d'Ivoire	15442
+2002	Guinea	13500
+2002	Lao People's Democratic Republic	11102
+2002	Bangladesh	11000
+2002	Congo	10949
+2002	Ghana	7000
+2002	Sierra Leone	6900
+2002	Suriname	2400
+2002	Central African Republic	1800
+2002	French Polynesia	600
+2002	Grenada	202
+2003	India	4310748
+2003	Thailand	3712926
+2003	Brazil	2119296
+2003	Philippines	1240000
+2003	South Africa	1020947
+2003	Mexico	949680
+2003	Viet Nam	842735
+2003	Myanmar	340215
+2003	Costa Rica	304298
+2003	Ecuador	291741
+2003	Nepal	234305
+2003	Guatemala	174000
+2003	Guyana	169125
+2003	Egypt	165000
+2003	Paraguay	163024
+2003	Congo	154035
+2003	Haiti	60000
+2003	Honduras	53628
+2003	Liberia	52350
+2003	Uganda	50000
+2003	Argentina	50000
+2003	Panama	44156
+2003	Mozambique	38816
+2003	El Salvador	30000
+2003	Cameroon	28000
+2003	Burkina Faso	22500
+2003	United Republic of Tanzania	19000
+2003	Angola	18000
+2003	Lao People's Democratic Republic	15421
+2003	Guinea	14000
+2003	Côte d'Ivoire	12644
+2003	Bangladesh	11400
+2003	Ghana	7000
+2003	Sierra Leone	6900
+2003	Central African Republic	1800
+2003	Suriname	1400
+2003	French Polynesia	620
+2003	Grenada	204
+2004	India	3507927
+2004	Thailand	3249787
+2004	Brazil	2138112
+2004	Philippines	1340000
+2004	Mexico	973245
+2004	South Africa	954738
+2004	Viet Nam	782465
+2004	Myanmar	359745
+2004	Ecuador	305935
+2004	Nepal	230533
+2004	Guatemala	200000
+2004	Guyana	187210
+2004	Paraguay	181850
+2004	Egypt	170000
+2004	Congo	169076
+2004	Haiti	105000
+2004	Costa Rica	57031
+2004	Honduras	54659
+2004	Liberia	52350
+2004	Argentina	50000
+2004	Uganda	49995
+2004	Panama	49140
+2004	El Salvador	40000
+2004	Mozambique	37465
+2004	Cameroon	29000
+2004	Burkina Faso	22500
+2004	United Republic of Tanzania	21000
+2004	Angola	17250
+2004	Côte d'Ivoire	14563
+2004	Guinea	14000
+2004	Lao People's Democratic Republic	11165
+2004	Bangladesh	10000
+2004	Sierra Leone	7000
+2004	Ghana	7000
+2004	Central African Republic	1800
+2004	Suriname	1400
+2004	French Polynesia	600
+2004	Grenada	204
+2005	India	3556326
+2005	Thailand	2479318
+2005	Brazil	2256640
+2005	Philippines	1256000
+2005	South Africa	1063250
+2005	Mexico	1032911
+2005	Viet Nam	747435
+2005	Myanmar	353650
+2005	Ecuador	341704
+2005	Nepal	237610
+2005	Guatemala	234540
+2005	Paraguay	191001
+2005	Congo	172000
+2005	Egypt	170000
+2005	Guyana	150290
+2005	Haiti	105000
+2005	Honduras	56254
+2005	Liberia	52350
+2005	Argentina	50000
+2005	Uganda	49999
+2005	Panama	49606
+2005	Costa Rica	47709
+2005	Mozambique	44940
+2005	El Salvador	30000
+2005	Cameroon	29000
+2005	Burkina Faso	22500
+2005	United Republic of Tanzania	20000
+2005	Angola	17250
+2005	Côte d'Ivoire	14563
+2005	Guinea	14000
+2005	Bangladesh	10000
+2005	Lao People's Democratic Republic	9805
+2005	Sierra Leone	7000
+2005	Ghana	7000
+2005	Central African Republic	1800
+2005	Suriname	1400
+2005	French Polynesia	600
+2005	Grenada	204
+2006	India	4217577
+2006	Brazil	2770656
+2006	Thailand	2382905
+2006	Philippines	1262000
+2006	South Africa	1013772
+2006	Mexico	1013516
+2006	Viet Nam	835975
+2006	Myanmar	401945
+2006	Ecuador	349781
+2006	Nepal	246257
+2006	Guatemala	187214
+2006	Egypt	170000
+2006	Paraguay	160000
+2006	Guyana	148750
+2006	Costa Rica	110749
+2006	Haiti	107500
+2006	Congo	105000
+2006	Honduras	55700
+2006	Liberia	52350
+2006	Uganda	50000
+2006	Argentina	50000
+2006	Panama	49758
+2006	Mozambique	41206
+2006	El Salvador	30107
+2006	Cameroon	29000
+2006	Burkina Faso	22500
+2006	United Republic of Tanzania	20000
+2006	Angola	18000
+2006	Côte d'Ivoire	14480
+2006	Guinea	14050
+2006	Lao People's Democratic Republic	10922
+2006	Sierra Leone	7000
+2006	Ghana	7000
+2006	Suriname	2400
+2006	Central African Republic	1860
+2006	Bangladesh	1000
+2006	French Polynesia	600
+2006	Grenada	216
+2007	India	5332796
+2007	Thailand	3218274
+2007	Brazil	2554304
+2007	Philippines	1280000
+2007	Mexico	1041787
+2007	South Africa	986200
+2007	Viet Nam	869835
+2007	Myanmar	483865
+2007	Ecuador	418000
+2007	Nepal	259979
+2007	Guatemala	214374
+2007	Paraguay	205000
+2007	Guyana	154960
+2007	Egypt	150000
+2007	Haiti	110000
+2007	Congo	105000
+2007	Costa Rica	63401
+2007	Honduras	60809
+2007	Liberia	52050
+2007	Uganda	50000
+2007	Argentina	50000
+2007	Mozambique	41213
+2007	El Salvador	30054
+2007	Cameroon	29000
+2007	Burkina Faso	22750
+2007	United Republic of Tanzania	20000
+2007	Angola	18000
+2007	Panama	17247
+2007	Côte d'Ivoire	16363
+2007	Lao People's Democratic Republic	16194
+2007	Guinea	14150
+2007	Ghana	7250
+2007	Sierra Leone	7000
+2007	Bangladesh	5000
+2007	Suriname	2400
+2007	Central African Republic	1900
+2007	French Polynesia	600
+2007	Grenada	216
+2008	India	5222818
+2008	Thailand	3675080
+2008	Brazil	2348224
+2008	Philippines	1360000
+2008	Mexico	1022138
+2008	South Africa	962770
+2008	Viet Nam	807275
+2008	Myanmar	495029
+2008	Ecuador	467055
+2008	Paraguay	253981
+2008	Nepal	248544
+2008	Guatemala	198086
+2008	Egypt	145000
+2008	Guyana	138325
+2008	Haiti	111000
+2008	Congo	95000
+2008	Costa Rica	63035
+2008	Honduras	61417
+2008	Liberia	52050
+2008	Uganda	50000
+2008	Argentina	50000
+2008	Mozambique	49023
+2008	El Salvador	33527
+2008	Cameroon	29000
+2008	Burkina Faso	22750
+2008	Lao People's Democratic Republic	20836
+2008	United Republic of Tanzania	20000
+2008	Angola	18000
+2008	Panama	17749
+2008	Côte d'Ivoire	16601
+2008	Guinea	14150
+2008	Ghana	7250
+2008	Sierra Leone	7000
+2008	Bangladesh	4700
+2008	Suriname	2400
+2008	Central African Republic	1900
+2008	French Polynesia	600
+2008	Grenada	216
+2009	India	4275435
+2009	Thailand	3340822
+2009	Brazil	2449920
+2009	Philippines	1300000
+2009	Mexico	989854
+2009	South Africa	932754
+2009	Viet Nam	780415
+2009	Myanmar	485771
+2009	Ecuador	423657
+2009	Paraguay	240000
+2009	Nepal	235441
+2009	Guatemala	216907
+2009	Guyana	138300
+2009	Egypt	135000
+2009	Haiti	111000
+2009	Congo	95000
+2009	Honduras	68953
+2009	Costa Rica	63514
+2009	Liberia	52050
+2009	Uganda	50000
+2009	Argentina	50000
+2009	Mozambique	44140
+2009	El Salvador	38078
+2009	Cameroon	29000
+2009	Burkina Faso	22750
+2009	Lao People's Democratic Republic	21675
+2009	United Republic of Tanzania	20000
+2009	Panama	19139
+2009	Angola	18000
+2009	Côte d'Ivoire	15786
+2009	Guinea	14150
+2009	Ghana	7250
+2009	Sierra Leone	7000
+2009	Bangladesh	4700
+2009	Suriname	2400
+2009	Central African Republic	1900
+2009	French Polynesia	600
+2009	Grenada	216

@@ -1,0 +1,6696 @@
+1961	Zambia	436
+1961	Malawi	404
+1961	Zimbabwe	337
+1961	Mexico	331
+1961	South Africa	325
+1961	Kenya	306
+1961	Guatemala	293
+1961	Cape Verde	270
+1961	Lesotho	255
+1961	Albania	246
+1961	Honduras	245
+1961	Romania	189
+1961	Nicaragua	176
+1961	El Salvador	173
+1961	Nepal	157
+1961	Benin	154
+1961	Venezuela (Bolivarian Republic of)	148
+1961	Cameroon	146
+1961	United Republic of Tanzania	138
+1961	Egypt	129
+1961	Angola	129
+1961	Botswana	128
+1961	Haiti	126
+1961	Namibia	125
+1961	Mozambique	121
+1961	Colombia	116
+1961	Portugal	101
+1961	Panama	97
+1961	Sao Tome and Principe	95
+1961	Bolivia (Plurinational State of)	95
+1961	Togo	91
+1961	Timor-Leste	85
+1961	Democratic People's Republic of Korea	83
+1961	Costa Rica	78
+1961	Burundi	78
+1961	Swaziland	77
+1961	Paraguay	77
+1961	Yugoslav SFR	73
+1961	Brazil	73
+1961	Belize	65
+1961	Indonesia	60
+1961	Ecuador	60
+1961	Central African Republic	58
+1961	Guinea	55
+1961	Madagascar	52
+1961	Ethiopia PDR	52
+1961	Uganda	47
+1961	Côte d'Ivoire	47
+1961	Gabon	45
+1961	Senegal	37
+1961	Burkina Faso	37
+1961	Nigeria	36
+1961	Turkey	32
+1961	Ghana	32
+1961	Philippines	31
+1961	Bulgaria	29
+1961	Brunei Darussalam	26
+1961	Dominican Republic	25
+1961	Pakistan	24
+1961	Barbados	24
+1961	Rwanda	23
+1961	Italy	23
+1961	India	22
+1961	Comoros	22
+1961	United States of America	21
+1961	Morocco	21
+1961	Jamaica	21
+1961	Viet Nam	20
+1961	Seychelles	20
+1961	Lao People's Democratic Republic	20
+1961	Cambodia	17
+1961	Grenada	16
+1961	Mali	15
+1961	Mauritius	14
+1961	Austria	14
+1961	Saint Kitts and Nevis	12
+1961	Netherlands	12
+1961	Greece	12
+1961	Suriname	11
+1961	Trinidad and Tobago	10
+1961	Sierra Leone	10
+1961	Israel	10
+1961	Saint Vincent and the Grenadines	8
+1961	Mauritania	8
+1961	Guinea-Bissau	8
+1961	Dominica	8
+1961	Denmark	8
+1961	Argentina	8
+1961	Chad	7
+1961	Yemen	6
+1961	Switzerland	6
+1961	Ireland	6
+1961	China	6
+1961	Chile	6
+1961	Spain	5
+1961	Netherlands Antilles	4
+1961	Malta	4
+1961	Germany	4
+1961	Congo	4
+1961	Canada	4
+1961	Australia	4
+1961	Sweden	3
+1961	Sri Lanka	3
+1961	Saudi Arabia	3
+1961	Myanmar	3
+1961	Malaysia	3
+1961	Gambia	3
+1961	Belgium-Luxembourg	3
+1961	United Kingdom	2
+1961	Saint Lucia	2
+1961	Niger	2
+1961	Libya	2
+1961	Japan	2
+1961	USSR	1
+1961	Uruguay	1
+1961	Sudan (former)	1
+1961	Republic of Korea	1
+1961	Norway	1
+1961	Guyana	1
+1961	France	1
+1961	Bahamas	1
+1961	Algeria	1
+1962	Zambia	451
+1962	Malawi	409
+1962	South Africa	327
+1962	Mexico	327
+1962	Zimbabwe	318
+1962	Kenya	300
+1962	Guatemala	294
+1962	Lesotho	258
+1962	Honduras	250
+1962	Albania	245
+1962	Cape Verde	225
+1962	Romania	190
+1962	Nicaragua	181
+1962	El Salvador	172
+1962	Benin	163
+1962	Nepal	154
+1962	Venezuela (Bolivarian Republic of)	149
+1962	Cameroon	143
+1962	United Republic of Tanzania	136
+1962	Botswana	135
+1962	Namibia	130
+1962	Egypt	127
+1962	Angola	126
+1962	Haiti	124
+1962	Mozambique	119
+1962	Colombia	103
+1962	Sao Tome and Principe	102
+1962	Portugal	102
+1962	Timor-Leste	96
+1962	Bolivia (Plurinational State of)	95
+1962	Yugoslav SFR	94
+1962	Togo	94
+1962	Swaziland	94
+1962	Democratic People's Republic of Korea	85
+1962	Panama	82
+1962	Paraguay	79
+1962	Costa Rica	79
+1962	Burundi	75
+1962	Brazil	74
+1962	Indonesia	60
+1962	Morocco	56
+1962	Ecuador	53
+1962	Belize	52
+1962	Guinea	51
+1962	Côte d'Ivoire	51
+1962	Ethiopia PDR	48
+1962	Madagascar	45
+1962	Gabon	45
+1962	Bulgaria	45
+1962	Uganda	44
+1962	Central African Republic	42
+1962	Senegal	37
+1962	Burkina Faso	37
+1962	Nigeria	32
+1962	Philippines	31
+1962	Ghana	31
+1962	Dominican Republic	27
+1962	Seychelles	25
+1962	Brunei Darussalam	25
+1962	Turkey	24
+1962	Mali	24
+1962	Pakistan	23
+1962	India	23
+1962	Viet Nam	22
+1962	Rwanda	22
+1962	Jamaica	22
+1962	Italy	22
+1962	Comoros	22
+1962	United States of America	21
+1962	Lao People's Democratic Republic	21
+1962	Barbados	21
+1962	Cambodia	17
+1962	Grenada	16
+1962	Austria	14
+1962	Saint Kitts and Nevis	13
+1962	Mauritius	13
+1962	Suriname	11
+1962	Trinidad and Tobago	10
+1962	Sierra Leone	10
+1962	Mauritania	9
+1962	Greece	9
+1962	Saint Vincent and the Grenadines	8
+1962	Netherlands	8
+1962	Israel	8
+1962	Guinea-Bissau	8
+1962	Dominica	8
+1962	Denmark	8
+1962	Argentina	8
+1962	Switzerland	7
+1962	Chile	7
+1962	Yemen	6
+1962	Malta	6
+1962	Malaysia	6
+1962	Ireland	6
+1962	China	6
+1962	Chad	6
+1962	Uruguay	5
+1962	Niger	5
+1962	Australia	5
+1962	Spain	4
+1962	Netherlands Antilles	4
+1962	Myanmar	4
+1962	Germany	4
+1962	Congo	4
+1962	Canada	4
+1962	United Kingdom	3
+1962	Sweden	3
+1962	Sri Lanka	3
+1962	Saudi Arabia	3
+1962	Gambia	3
+1962	Belgium-Luxembourg	3
+1962	Sudan (former)	2
+1962	Saint Lucia	2
+1962	Japan	2
+1962	USSR	1
+1962	Republic of Korea	1
+1962	Norway	1
+1962	New Zealand	1
+1962	Libya	1
+1962	Guyana	1
+1962	France	1
+1962	Bahamas	1
+1962	Algeria	1
+1963	Malawi	442
+1963	Zambia	431
+1963	South Africa	340
+1963	Mexico	329
+1963	Zimbabwe	297
+1963	Guatemala	296
+1963	Kenya	294
+1963	Lesotho	276
+1963	Honduras	246
+1963	Albania	246
+1963	Cape Verde	203
+1963	Romania	187
+1963	Nicaragua	183
+1963	El Salvador	180
+1963	Nepal	153
+1963	Benin	153
+1963	Venezuela (Bolivarian Republic of)	146
+1963	United Republic of Tanzania	140
+1963	Cameroon	136
+1963	Botswana	131
+1963	Egypt	128
+1963	Namibia	127
+1963	Mozambique	122
+1963	Haiti	121
+1963	Angola	117
+1963	Colombia	104
+1963	Togo	102
+1963	Portugal	101
+1963	Yugoslav SFR	92
+1963	Panama	91
+1963	Bolivia (Plurinational State of)	91
+1963	Timor-Leste	87
+1963	Democratic People's Republic of Korea	87
+1963	Sao Tome and Principe	86
+1963	Swaziland	85
+1963	Côte d'Ivoire	77
+1963	Paraguay	76
+1963	Costa Rica	76
+1963	Burundi	73
+1963	Ecuador	71
+1963	Indonesia	67
+1963	Belize	55
+1963	Brazil	54
+1963	Ethiopia PDR	48
+1963	Morocco	46
+1963	Madagascar	46
+1963	Senegal	44
+1963	Gabon	44
+1963	Burkina Faso	42
+1963	Uganda	40
+1963	Guinea	39
+1963	Bulgaria	37
+1963	Nigeria	36
+1963	Central African Republic	36
+1963	Turkey	31
+1963	Philippines	31
+1963	Mali	30
+1963	Rwanda	26
+1963	Pakistan	25
+1963	Barbados	25
+1963	Viet Nam	24
+1963	Ghana	24
+1963	Brunei Darussalam	24
+1963	India	22
+1963	United States of America	21
+1963	Jamaica	21
+1963	Dominican Republic	21
+1963	Comoros	21
+1963	Seychelles	19
+1963	Cambodia	18
+1963	Lao People's Democratic Republic	17
+1963	Saint Kitts and Nevis	15
+1963	Italy	15
+1963	Grenada	15
+1963	Austria	14
+1963	Mauritius	13
+1963	Congo	12
+1963	Trinidad and Tobago	10
+1963	Sierra Leone	10
+1963	Netherlands	9
+1963	Mauritania	9
+1963	Malaysia	9
+1963	Greece	9
+1963	Dominica	9
+1963	Saint Vincent and the Grenadines	8
+1963	Israel	8
+1963	Guinea-Bissau	8
+1963	Australia	8
+1963	Argentina	8
+1963	Suriname	7
+1963	Denmark	7
+1963	China	7
+1963	Chile	7
+1963	Chad	7
+1963	Yemen	6
+1963	Uruguay	6
+1963	Switzerland	6
+1963	Spain	5
+1963	Myanmar	5
+1963	Ireland	5
+1963	Netherlands Antilles	4
+1963	Malta	4
+1963	Japan	4
+1963	Germany	4
+1963	Canada	4
+1963	United Kingdom	3
+1963	Sweden	3
+1963	Sri Lanka	3
+1963	Saint Lucia	3
+1963	Belgium-Luxembourg	3
+1963	Sudan (former)	2
+1963	Saudi Arabia	2
+1963	Niger	2
+1963	Gambia	2
+1963	France	2
+1963	USSR	1
+1963	Republic of Korea	1
+1963	Norway	1
+1963	New Zealand	1
+1963	Libya	1
+1963	Bahamas	1
+1963	Algeria	1
+1964	Malawi	472
+1964	Zambia	424
+1964	South Africa	336
+1964	Mexico	325
+1964	Zimbabwe	313
+1964	Guatemala	303
+1964	Kenya	301
+1964	Lesotho	268
+1964	Albania	251
+1964	Honduras	249
+1964	Cape Verde	232
+1964	Nicaragua	186
+1964	Romania	181
+1964	El Salvador	176
+1964	Venezuela (Bolivarian Republic of)	164
+1964	Benin	152
+1964	Nepal	151
+1964	Botswana	137
+1964	United Republic of Tanzania	136
+1964	Egypt	132
+1964	Cameroon	130
+1964	Namibia	124
+1964	Haiti	122
+1964	Angola	122
+1964	Mozambique	120
+1964	Sao Tome and Principe	119
+1964	Colombia	117
+1964	Paraguay	93
+1964	Panama	92
+1964	Democratic People's Republic of Korea	92
+1964	Yugoslav SFR	89
+1964	Swaziland	88
+1964	Burundi	85
+1964	Togo	83
+1964	Portugal	80
+1964	Costa Rica	77
+1964	Timor-Leste	75
+1964	Côte d'Ivoire	75
+1964	Bolivia (Plurinational State of)	74
+1964	Indonesia	65
+1964	Brazil	58
+1964	Ethiopia PDR	57
+1964	Madagascar	56
+1964	Guinea	56
+1964	Burkina Faso	54
+1964	Morocco	52
+1964	Uganda	47
+1964	Belize	47
+1964	Ecuador	46
+1964	Gabon	43
+1964	Bulgaria	37
+1964	Central African Republic	36
+1964	Mali	35
+1964	Nigeria	34
+1964	Senegal	32
+1964	Philippines	30
+1964	Turkey	28
+1964	Rwanda	26
+1964	Jamaica	25
+1964	Barbados	25
+1964	Pakistan	24
+1964	Comoros	24
+1964	Ghana	23
+1964	Viet Nam	22
+1964	United States of America	22
+1964	India	22
+1964	Dominican Republic	22
+1964	Lao People's Democratic Republic	21
+1964	Brunei Darussalam	20
+1964	Seychelles	18
+1964	Saint Kitts and Nevis	17
+1964	Cambodia	16
+1964	Grenada	15
+1964	Mauritius	14
+1964	Italy	14
+1964	Suriname	12
+1964	Austria	12
+1964	Congo	11
+1964	Trinidad and Tobago	10
+1964	Sierra Leone	10
+1964	Mauritania	10
+1964	Guinea-Bissau	10
+1964	Saint Vincent and the Grenadines	8
+1964	Malaysia	8
+1964	Dominica	8
+1964	Chad	8
+1964	Australia	8
+1964	Argentina	8
+1964	Uruguay	7
+1964	Netherlands	7
+1964	Denmark	7
+1964	China	7
+1964	Chile	7
+1964	Yemen	6
+1964	Switzerland	6
+1964	Republic of Korea	6
+1964	Ireland	6
+1964	Spain	5
+1964	Japan	5
+1964	Israel	5
+1964	Canada	5
+1964	Sweden	4
+1964	Saint Lucia	4
+1964	Netherlands Antilles	4
+1964	Myanmar	4
+1964	Greece	4
+1964	Sudan (former)	3
+1964	Sri Lanka	3
+1964	Niger	3
+1964	Malta	3
+1964	Germany	3
+1964	Gambia	3
+1964	Belgium-Luxembourg	3
+1964	Saudi Arabia	2
+1964	France	2
+1964	USSR	1
+1964	United Kingdom	1
+1964	Norway	1
+1964	New Zealand	1
+1964	Libya	1
+1964	Guyana	1
+1964	Bahamas	1
+1964	Algeria	1
+1965	Malawi	474
+1965	Zambia	410
+1965	South Africa	358
+1965	Mexico	330
+1965	Kenya	328
+1965	Zimbabwe	311
+1965	Guatemala	298
+1965	Lesotho	267
+1965	Honduras	258
+1965	Albania	244
+1965	Cape Verde	226
+1965	Nicaragua	182
+1965	Romania	179
+1965	El Salvador	176
+1965	Benin	167
+1965	Venezuela (Bolivarian Republic of)	159
+1965	Nepal	148
+1965	United Republic of Tanzania	145
+1965	Egypt	135
+1965	Mozambique	130
+1965	Cameroon	127
+1965	Namibia	124
+1965	Botswana	120
+1965	Haiti	119
+1965	Angola	115
+1965	Sao Tome and Principe	110
+1965	Colombia	109
+1965	Paraguay	101
+1965	Swaziland	96
+1965	Togo	93
+1965	Democratic People's Republic of Korea	87
+1965	Yugoslav SFR	86
+1965	Panama	83
+1965	Burundi	83
+1965	Bolivia (Plurinational State of)	82
+1965	Costa Rica	77
+1965	Côte d'Ivoire	74
+1965	Timor-Leste	71
+1965	Portugal	71
+1965	Indonesia	69
+1965	Ecuador	67
+1965	Brazil	67
+1965	Ethiopia PDR	58
+1965	Uganda	51
+1965	Belize	51
+1965	Madagascar	50
+1965	Burkina Faso	44
+1965	Morocco	43
+1965	Gabon	43
+1965	Bulgaria	39
+1965	Senegal	38
+1965	Nigeria	35
+1965	Mali	34
+1965	Central African Republic	34
+1965	Guinea	32
+1965	Philippines	31
+1965	Rwanda	30
+1965	Comoros	27
+1965	Turkey	26
+1965	Ghana	26
+1965	Lao People's Democratic Republic	25
+1965	Pakistan	24
+1965	Jamaica	23
+1965	India	23
+1965	United States of America	22
+1965	Barbados	22
+1965	Viet Nam	21
+1965	Brunei Darussalam	19
+1965	Saint Kitts and Nevis	16
+1965	Uruguay	15
+1965	Grenada	15
+1965	Italy	14
+1965	Dominican Republic	14
+1965	Cambodia	13
+1965	Congo	11
+1965	Trinidad and Tobago	10
+1965	Sierra Leone	10
+1965	Mauritius	10
+1965	Guinea-Bissau	10
+1965	Mauritania	9
+1965	Dominica	9
+1965	Chad	9
+1965	Austria	9
+1965	Saint Vincent and the Grenadines	8
+1965	Republic of Korea	8
+1965	Germany	8
+1965	China	8
+1965	Chile	8
+1965	Australia	8
+1965	Argentina	8
+1965	Netherlands	7
+1965	Yemen	6
+1965	Suriname	6
+1965	Seychelles	6
+1965	Israel	6
+1965	Ireland	6
+1965	Denmark	6
+1965	Canada	6
+1965	Switzerland	5
+1965	Spain	5
+1965	Malaysia	5
+1965	Japan	5
+1965	Greece	5
+1965	United Kingdom	4
+1965	Sweden	4
+1965	Netherlands Antilles	4
+1965	Belgium-Luxembourg	4
+1965	Sudan (former)	3
+1965	Sri Lanka	3
+1965	Myanmar	3
+1965	Malta	3
+1965	Gambia	3
+1965	Saudi Arabia	2
+1965	Saint Lucia	2
+1965	Niger	2
+1965	New Zealand	2
+1965	France	2
+1965	Algeria	2
+1965	USSR	1
+1965	Norway	1
+1965	Libya	1
+1965	Guyana	1
+1965	Bahamas	1
+1966	Malawi	462
+1966	Zambia	402
+1966	Mexico	328
+1966	South Africa	321
+1966	Kenya	321
+1966	Zimbabwe	313
+1966	Guatemala	300
+1966	Honduras	274
+1966	Albania	237
+1966	Cape Verde	234
+1966	Lesotho	229
+1966	Nicaragua	195
+1966	Romania	178
+1966	El Salvador	176
+1966	Venezuela (Bolivarian Republic of)	156
+1966	Benin	156
+1966	United Republic of Tanzania	140
+1966	Nepal	139
+1966	Egypt	136
+1966	Mozambique	131
+1966	Namibia	125
+1966	Cameroon	121
+1966	Haiti	116
+1966	Botswana	115
+1966	Paraguay	114
+1966	Angola	113
+1966	Sao Tome and Principe	111
+1966	Swaziland	105
+1966	Colombia	104
+1966	Togo	95
+1966	Bolivia (Plurinational State of)	88
+1966	Democratic People's Republic of Korea	86
+1966	Panama	83
+1966	Burundi	83
+1966	Portugal	80
+1966	Yugoslav SFR	77
+1966	Indonesia	76
+1966	Côte d'Ivoire	74
+1966	Costa Rica	74
+1966	Timor-Leste	70
+1966	Brazil	63
+1966	Morocco	61
+1966	Ecuador	59
+1966	Madagascar	55
+1966	Burkina Faso	50
+1966	Uganda	47
+1966	Ethiopia PDR	46
+1966	Bulgaria	44
+1966	Gabon	42
+1966	Brunei Darussalam	40
+1966	Guinea	39
+1966	Central African Republic	39
+1966	Senegal	37
+1966	Ghana	35
+1966	Belize	34
+1966	Philippines	32
+1966	Rwanda	30
+1966	Nigeria	29
+1966	Mali	29
+1966	Comoros	29
+1966	Turkey	27
+1966	Pakistan	25
+1966	United States of America	23
+1966	Jamaica	22
+1966	India	22
+1966	Barbados	22
+1966	Lao People's Democratic Republic	21
+1966	Viet Nam	17
+1966	Guinea-Bissau	16
+1966	Dominican Republic	16
+1966	Chad	16
+1966	Grenada	15
+1966	Saint Kitts and Nevis	14
+1966	Italy	13
+1966	Israel	13
+1966	Cambodia	12
+1966	Uruguay	11
+1966	Mauritius	11
+1966	Congo	11
+1966	Sierra Leone	10
+1966	Germany	10
+1966	Austria	10
+1966	Trinidad and Tobago	9
+1966	Mauritania	9
+1966	Japan	9
+1966	Dominica	9
+1966	Denmark	9
+1966	Chile	9
+1966	Australia	9
+1966	Saint Vincent and the Grenadines	8
+1966	China	8
+1966	Argentina	8
+1966	Ireland	7
+1966	Canada	7
+1966	Yemen	6
+1966	United Kingdom	6
+1966	Netherlands	6
+1966	Malaysia	6
+1966	Spain	4
+1966	Republic of Korea	4
+1966	Netherlands Antilles	4
+1966	Myanmar	4
+1966	Gambia	4
+1966	Belgium-Luxembourg	4
+1966	Switzerland	3
+1966	Sweden	3
+1966	Suriname	3
+1966	Sudan (former)	3
+1966	Sri Lanka	3
+1966	Saint Lucia	3
+1966	Seychelles	2
+1966	Saudi Arabia	2
+1966	New Zealand	2
+1966	Malta	2
+1966	Guyana	2
+1966	Greece	2
+1966	France	2
+1966	Algeria	2
+1966	USSR	1
+1966	Norway	1
+1966	Niger	1
+1966	Libya	1
+1966	Bahamas	1
+1967	Malawi	469
+1967	Zambia	408
+1967	Zimbabwe	357
+1967	Mexico	335
+1967	Kenya	325
+1967	South Africa	323
+1967	Guatemala	300
+1967	Honduras	269
+1967	Lesotho	255
+1967	Cape Verde	237
+1967	Albania	236
+1967	Nicaragua	193
+1967	El Salvador	178
+1967	Romania	176
+1967	Venezuela (Bolivarian Republic of)	159
+1967	Benin	144
+1967	Botswana	142
+1967	Egypt	136
+1967	Swaziland	131
+1967	Nepal	125
+1967	Namibia	121
+1967	Mozambique	121
+1967	United Republic of Tanzania	120
+1967	Paraguay	118
+1967	Haiti	115
+1967	Cameroon	115
+1967	Angola	114
+1967	Togo	113
+1967	Sao Tome and Principe	109
+1967	Colombia	102
+1967	Panama	85
+1967	Burundi	85
+1967	Bolivia (Plurinational State of)	85
+1967	Democratic People's Republic of Korea	78
+1967	Côte d'Ivoire	78
+1967	Ecuador	76
+1967	Portugal	75
+1967	Costa Rica	73
+1967	Timor-Leste	72
+1967	Indonesia	72
+1967	Yugoslav SFR	71
+1967	Brazil	63
+1967	Madagascar	55
+1967	Ethiopia PDR	55
+1967	Uganda	54
+1967	Burkina Faso	52
+1967	Ghana	50
+1967	Morocco	47
+1967	Brunei Darussalam	46
+1967	Belize	45
+1967	Central African Republic	44
+1967	Gabon	42
+1967	Philippines	39
+1967	Bulgaria	39
+1967	Guinea	35
+1967	Rwanda	34
+1967	Senegal	33
+1967	Mali	33
+1967	Pakistan	30
+1967	Comoros	30
+1967	Turkey	28
+1967	India	28
+1967	Nigeria	27
+1967	Uruguay	25
+1967	Jamaica	24
+1967	United States of America	23
+1967	Lao People's Democratic Republic	23
+1967	Cambodia	21
+1967	Dominican Republic	20
+1967	Chad	20
+1967	Barbados	19
+1967	Viet Nam	15
+1967	Guinea-Bissau	15
+1967	Grenada	15
+1967	Saint Kitts and Nevis	14
+1967	Japan	14
+1967	Mauritania	13
+1967	Italy	13
+1967	Mauritius	11
+1967	Israel	11
+1967	Congo	11
+1967	Chile	11
+1967	Trinidad and Tobago	10
+1967	Sierra Leone	10
+1967	Austria	10
+1967	Saint Vincent and the Grenadines	9
+1967	Dominica	9
+1967	China	9
+1967	United Kingdom	8
+1967	Gambia	8
+1967	Canada	8
+1967	Argentina	8
+1967	Netherlands	7
+1967	Malaysia	7
+1967	Ireland	7
+1967	Denmark	7
+1967	Australia	7
+1967	Yemen	6
+1967	Sri Lanka	6
+1967	Germany	6
+1967	Myanmar	5
+1967	Suriname	4
+1967	Spain	4
+1967	Saint Lucia	4
+1967	Netherlands Antilles	4
+1967	Belgium-Luxembourg	4
+1967	Sweden	3
+1967	Sudan (former)	3
+1967	Seychelles	3
+1967	Republic of Korea	3
+1967	Malta	3
+1967	France	3
+1967	Algeria	3
+1967	Switzerland	2
+1967	Saudi Arabia	2
+1967	Niger	2
+1967	New Zealand	2
+1967	Greece	2
+1967	USSR	1
+1967	Norway	1
+1967	Maldives	1
+1967	Libya	1
+1967	Guyana	1
+1967	Bahamas	1
+1968	Malawi	470
+1968	Zambia	406
+1968	Zimbabwe	365
+1968	Mexico	347
+1968	South Africa	341
+1968	Kenya	331
+1968	Guatemala	297
+1968	Honduras	272
+1968	Lesotho	270
+1968	Cape Verde	244
+1968	Albania	237
+1968	Nicaragua	198
+1968	El Salvador	178
+1968	Romania	171
+1968	Venezuela (Bolivarian Republic of)	168
+1968	Benin	168
+1968	Swaziland	144
+1968	Botswana	143
+1968	Egypt	137
+1968	Cameroon	127
+1968	Nepal	126
+1968	Namibia	125
+1968	Paraguay	123
+1968	Haiti	110
+1968	United Republic of Tanzania	108
+1968	Togo	107
+1968	Sao Tome and Principe	103
+1968	Colombia	103
+1968	Angola	100
+1968	Mozambique	99
+1968	Burundi	87
+1968	Bolivia (Plurinational State of)	82
+1968	Panama	80
+1968	Côte d'Ivoire	80
+1968	Portugal	74
+1968	Democratic People's Republic of Korea	73
+1968	Costa Rica	73
+1968	Yugoslav SFR	71
+1968	Brazil	63
+1968	Indonesia	60
+1968	Burkina Faso	57
+1968	Timor-Leste	56
+1968	Ecuador	56
+1968	Madagascar	53
+1968	Central African Republic	50
+1968	Uganda	46
+1968	Gabon	41
+1968	Ethiopia PDR	41
+1968	Morocco	38
+1968	Philippines	36
+1968	Ghana	36
+1968	Rwanda	34
+1968	Senegal	33
+1968	Mali	32
+1968	Nigeria	31
+1968	Guinea	31
+1968	Comoros	30
+1968	Turkey	26
+1968	Pakistan	26
+1968	Jamaica	26
+1968	Lao People's Democratic Republic	25
+1968	Bulgaria	25
+1968	India	24
+1968	Belize	24
+1968	Barbados	22
+1968	Cambodia	21
+1968	United States of America	20
+1968	Saint Kitts and Nevis	20
+1968	Dominican Republic	18
+1968	Japan	17
+1968	Viet Nam	16
+1968	Grenada	16
+1968	Congo	16
+1968	Mauritius	14
+1968	Uruguay	13
+1968	Italy	13
+1968	Guinea-Bissau	13
+1968	Gambia	13
+1968	Austria	11
+1968	Sierra Leone	10
+1968	Seychelles	10
+1968	Chile	10
+1968	Trinidad and Tobago	9
+1968	Mauritania	9
+1968	Saint Vincent and the Grenadines	8
+1968	Israel	8
+1968	Ireland	8
+1968	Dominica	8
+1968	China	8
+1968	Chad	8
+1968	Canada	8
+1968	Australia	8
+1968	Argentina	8
+1968	Malaysia	7
+1968	Germany	7
+1968	Denmark	7
+1968	Yemen	6
+1968	United Kingdom	6
+1968	Netherlands	6
+1968	Suriname	5
+1968	Myanmar	5
+1968	Spain	4
+1968	Saudi Arabia	4
+1968	Republic of Korea	4
+1968	Netherlands Antilles	4
+1968	France	4
+1968	Belgium-Luxembourg	4
+1968	Sweden	3
+1968	Sudan (former)	3
+1968	Sri Lanka	3
+1968	Saint Lucia	3
+1968	Malta	3
+1968	Greece	3
+1968	Switzerland	2
+1968	New Zealand	2
+1968	Bahamas	2
+1968	Algeria	2
+1968	USSR	1
+1968	Norway	1
+1968	Niger	1
+1968	Libya	1
+1968	Guyana	1
+1968	Brunei Darussalam	1
+1969	Malawi	462
+1969	Zambia	400
+1969	Zimbabwe	353
+1969	Mexico	349
+1969	Kenya	342
+1969	South Africa	332
+1969	Guatemala	312
+1969	Honduras	272
+1969	Lesotho	257
+1969	Albania	238
+1969	Cape Verde	232
+1969	Nicaragua	188
+1969	El Salvador	178
+1969	Venezuela (Bolivarian Republic of)	176
+1969	Romania	166
+1969	Swaziland	151
+1969	Benin	150
+1969	Cameroon	140
+1969	Egypt	134
+1969	United Republic of Tanzania	130
+1969	Nepal	128
+1969	Paraguay	125
+1969	Togo	123
+1969	Namibia	122
+1969	Angola	119
+1969	Botswana	113
+1969	Haiti	110
+1969	Mozambique	109
+1969	Colombia	95
+1969	Sao Tome and Principe	90
+1969	Burundi	89
+1969	Democratic People's Republic of Korea	88
+1969	Bolivia (Plurinational State of)	85
+1969	Panama	81
+1969	Côte d'Ivoire	80
+1969	Portugal	75
+1969	Costa Rica	73
+1969	Yugoslav SFR	72
+1969	Timor-Leste	67
+1969	Brazil	67
+1969	Uganda	65
+1969	Ecuador	65
+1969	Indonesia	53
+1969	Madagascar	52
+1969	Ethiopia PDR	51
+1969	Burkina Faso	51
+1969	Morocco	50
+1969	Central African Republic	48
+1969	Philippines	43
+1969	Brunei Darussalam	43
+1969	Gabon	41
+1969	Senegal	35
+1969	Nigeria	34
+1969	Guinea	34
+1969	Ghana	34
+1969	Rwanda	32
+1969	Mali	32
+1969	Comoros	29
+1969	Belize	29
+1969	Pakistan	27
+1969	Turkey	26
+1969	Lao People's Democratic Republic	25
+1969	Cambodia	25
+1969	India	24
+1969	Jamaica	23
+1969	Bulgaria	23
+1969	Japan	21
+1969	United States of America	20
+1969	Dominican Republic	20
+1969	Barbados	20
+1969	Viet Nam	17
+1969	Grenada	17
+1969	Uruguay	14
+1969	Italy	14
+1969	Saint Kitts and Nevis	13
+1969	Gambia	13
+1969	Sierra Leone	11
+1969	Mauritius	10
+1969	Chile	10
+1969	Austria	10
+1969	Trinidad and Tobago	9
+1969	Ireland	9
+1969	Saint Vincent and the Grenadines	8
+1969	Netherlands	8
+1969	Mauritania	8
+1969	Malaysia	8
+1969	Guinea-Bissau	8
+1969	Germany	8
+1969	Congo	8
+1969	China	8
+1969	Chad	8
+1969	Canada	8
+1969	Bahamas	8
+1969	United Kingdom	7
+1969	Israel	7
+1969	Denmark	7
+1969	Australia	7
+1969	Argentina	7
+1969	Republic of Korea	6
+1969	Dominica	6
+1969	Yemen	5
+1969	Sri Lanka	4
+1969	Spain	4
+1969	Netherlands Antilles	4
+1969	France	4
+1969	Belgium-Luxembourg	4
+1969	Sweden	3
+1969	Suriname	3
+1969	Sudan (former)	3
+1969	Seychelles	3
+1969	Myanmar	3
+1969	Malta	3
+1969	Algeria	3
+1969	Switzerland	2
+1969	Saudi Arabia	2
+1969	Saint Lucia	2
+1969	New Zealand	2
+1969	Guyana	2
+1969	Greece	2
+1969	USSR	1
+1969	Norway	1
+1969	Niger	1
+1969	Maldives	1
+1969	Libya	1
+1970	Malawi	486
+1970	Zambia	369
+1970	Mexico	338
+1970	South Africa	336
+1970	Zimbabwe	334
+1970	Kenya	323
+1970	Guatemala	312
+1970	Honduras	270
+1970	Cape Verde	245
+1970	Lesotho	238
+1970	Albania	237
+1970	Nicaragua	188
+1970	El Salvador	186
+1970	Venezuela (Bolivarian Republic of)	170
+1970	Swaziland	168
+1970	Romania	142
+1970	Cameroon	140
+1970	Benin	134
+1970	Egypt	133
+1970	Botswana	133
+1970	Nepal	132
+1970	Togo	128
+1970	Namibia	118
+1970	Paraguay	117
+1970	United Republic of Tanzania	109
+1970	Haiti	108
+1970	Angola	102
+1970	Colombia	95
+1970	Sao Tome and Principe	93
+1970	Burundi	92
+1970	Mozambique	90
+1970	Côte d'Ivoire	88
+1970	Democratic People's Republic of Korea	85
+1970	Bolivia (Plurinational State of)	80
+1970	Portugal	77
+1970	Ecuador	77
+1970	Yugoslav SFR	72
+1970	Costa Rica	72
+1970	Panama	63
+1970	Brazil	60
+1970	Uganda	54
+1970	Timor-Leste	54
+1970	Indonesia	54
+1970	Ethiopia PDR	54
+1970	Central African Republic	50
+1970	Morocco	46
+1970	Ghana	41
+1970	Gabon	41
+1970	Philippines	39
+1970	Nigeria	39
+1970	Madagascar	39
+1970	Cambodia	36
+1970	Rwanda	34
+1970	Guinea	34
+1970	Senegal	32
+1970	Belize	32
+1970	India	31
+1970	Comoros	28
+1970	Burkina Faso	27
+1970	Turkey	26
+1970	Mali	25
+1970	Lao People's Democratic Republic	24
+1970	Japan	24
+1970	Pakistan	23
+1970	Seychelles	22
+1970	Jamaica	22
+1970	Barbados	22
+1970	Dominican Republic	20
+1970	Bulgaria	19
+1970	United States of America	18
+1970	Viet Nam	17
+1970	Grenada	17
+1970	Gambia	15
+1970	Uruguay	14
+1970	Saint Kitts and Nevis	14
+1970	Italy	13
+1970	Bahamas	13
+1970	Chile	11
+1970	Sierra Leone	10
+1970	Ireland	10
+1970	Trinidad and Tobago	9
+1970	Saint Vincent and the Grenadines	9
+1970	Mauritius	9
+1970	Germany	9
+1970	China	9
+1970	Austria	9
+1970	United Kingdom	8
+1970	Mauritania	8
+1970	Guinea-Bissau	8
+1970	Denmark	8
+1970	Congo	8
+1970	Canada	8
+1970	Netherlands	7
+1970	Malaysia	7
+1970	Chad	7
+1970	Australia	7
+1970	Argentina	7
+1970	Dominica	6
+1970	Yemen	5
+1970	Republic of Korea	5
+1970	Israel	5
+1970	Spain	4
+1970	Netherlands Antilles	4
+1970	Belgium-Luxembourg	4
+1970	Algeria	4
+1970	Sweden	3
+1970	Sudan (former)	3
+1970	Sri Lanka	3
+1970	Myanmar	3
+1970	Malta	3
+1970	Greece	3
+1970	France	3
+1970	Switzerland	2
+1970	Saudi Arabia	2
+1970	Saint Lucia	2
+1970	Guyana	2
+1970	Brunei Darussalam	2
+1970	USSR	1
+1970	Suriname	1
+1970	Norway	1
+1970	Niger	1
+1970	New Zealand	1
+1971	Malawi	474
+1971	Zambia	380
+1971	Zimbabwe	337
+1971	Mexico	337
+1971	South Africa	308
+1971	Kenya	300
+1971	Guatemala	299
+1971	Honduras	264
+1971	Lesotho	236
+1971	Albania	234
+1971	Cape Verde	216
+1971	Swaziland	212
+1971	El Salvador	190
+1971	Togo	188
+1971	Nicaragua	187
+1971	Venezuela (Bolivarian Republic of)	164
+1971	Romania	146
+1971	Benin	144
+1971	Cameroon	143
+1971	Botswana	143
+1971	Egypt	130
+1971	United Republic of Tanzania	128
+1971	Paraguay	118
+1971	Nepal	118
+1971	Namibia	118
+1971	Haiti	108
+1971	Angola	108
+1971	Burundi	93
+1971	Colombia	92
+1971	Sao Tome and Principe	89
+1971	Mozambique	88
+1971	Democratic People's Republic of Korea	86
+1971	Côte d'Ivoire	80
+1971	Bolivia (Plurinational State of)	78
+1971	Costa Rica	71
+1971	Portugal	70
+1971	Yugoslav SFR	69
+1971	Ecuador	63
+1971	Panama	61
+1971	Brazil	61
+1971	Ethiopia PDR	56
+1971	Indonesia	49
+1971	Ghana	49
+1971	Uganda	47
+1971	Central African Republic	47
+1971	Morocco	45
+1971	Gabon	44
+1971	Philippines	43
+1971	Timor-Leste	42
+1971	Brunei Darussalam	41
+1971	Cambodia	40
+1971	Madagascar	38
+1971	Senegal	35
+1971	Rwanda	35
+1971	Nigeria	34
+1971	Guinea	34
+1971	Turkey	28
+1971	Comoros	28
+1971	Belize	28
+1971	Burkina Faso	27
+1971	Japan	26
+1971	Bulgaria	25
+1971	Lao People's Democratic Republic	24
+1971	Barbados	24
+1971	Pakistan	22
+1971	Dominican Republic	22
+1971	Jamaica	21
+1971	Mali	20
+1971	Uruguay	19
+1971	Ireland	19
+1971	India	19
+1971	Grenada	18
+1971	Gambia	18
+1971	United States of America	17
+1971	Bahamas	16
+1971	Viet Nam	14
+1971	Seychelles	14
+1971	Italy	13
+1971	Congo	13
+1971	Chile	12
+1971	Sierra Leone	11
+1971	Saint Kitts and Nevis	11
+1971	Denmark	11
+1971	Yemen	9
+1971	Trinidad and Tobago	9
+1971	Saint Vincent and the Grenadines	9
+1971	China	9
+1971	Argentina	9
+1971	Netherlands	8
+1971	Mauritania	8
+1971	Germany	8
+1971	Chad	8
+1971	Canada	8
+1971	Austria	8
+1971	Australia	8
+1971	Guinea-Bissau	7
+1971	United Kingdom	6
+1971	Mauritius	6
+1971	Israel	6
+1971	Dominica	6
+1971	Republic of Korea	5
+1971	Malaysia	5
+1971	Saint Lucia	4
+1971	Netherlands Antilles	4
+1971	Myanmar	4
+1971	Malta	4
+1971	Belgium-Luxembourg	4
+1971	Sweden	3
+1971	Sudan (former)	3
+1971	Sri Lanka	3
+1971	Spain	3
+1971	Saudi Arabia	3
+1971	Niger	3
+1971	Greece	3
+1971	France	3
+1971	Algeria	3
+1971	Switzerland	2
+1971	Suriname	2
+1971	USSR	1
+1971	Norway	1
+1971	New Zealand	1
+1971	Libya	1
+1971	Guyana	1
+1972	Malawi	468
+1972	Zambia	370
+1972	Zimbabwe	345
+1972	Mexico	332
+1972	Kenya	326
+1972	South Africa	319
+1972	Lesotho	301
+1972	Guatemala	299
+1972	Honduras	259
+1972	Albania	230
+1972	Cape Verde	226
+1972	Swaziland	197
+1972	Nicaragua	184
+1972	El Salvador	184
+1972	Togo	167
+1972	Venezuela (Bolivarian Republic of)	162
+1972	Romania	142
+1972	Cameroon	140
+1972	Paraguay	137
+1972	Botswana	136
+1972	Egypt	129
+1972	Nepal	123
+1972	United Republic of Tanzania	120
+1972	Namibia	117
+1972	Benin	113
+1972	Angola	113
+1972	Haiti	105
+1972	Sao Tome and Principe	91
+1972	Mozambique	84
+1972	Côte d'Ivoire	83
+1972	Colombia	83
+1972	Burundi	82
+1972	Democratic People's Republic of Korea	79
+1972	Bolivia (Plurinational State of)	78
+1972	Ecuador	74
+1972	Costa Rica	71
+1972	Yugoslav SFR	69
+1972	Brazil	63
+1972	Portugal	61
+1972	Indonesia	55
+1972	Uganda	54
+1972	Ghana	53
+1972	Central African Republic	49
+1972	Philippines	45
+1972	Panama	45
+1972	Morocco	44
+1972	Ethiopia PDR	41
+1972	Senegal	40
+1972	Mali	39
+1972	Timor-Leste	37
+1972	Madagascar	36
+1972	Cambodia	36
+1972	Rwanda	34
+1972	Gabon	34
+1972	Guinea	33
+1972	Belize	32
+1972	Ireland	30
+1972	Burkina Faso	29
+1972	Comoros	28
+1972	Japan	27
+1972	Barbados	25
+1972	Turkey	24
+1972	Lao People's Democratic Republic	24
+1972	India	24
+1972	Gambia	24
+1972	Pakistan	22
+1972	Jamaica	21
+1972	Dominican Republic	19
+1972	Seychelles	17
+1972	Bahamas	17
+1972	United States of America	16
+1972	Nigeria	16
+1972	Viet Nam	15
+1972	Uruguay	15
+1972	Italy	13
+1972	Grenada	13
+1972	Bulgaria	13
+1972	Mauritania	12
+1972	Denmark	12
+1972	Chile	12
+1972	Sierra Leone	11
+1972	Saint Kitts and Nevis	10
+1972	Trinidad and Tobago	9
+1972	Germany	9
+1972	Congo	9
+1972	Canada	9
+1972	Yemen	8
+1972	Israel	8
+1972	Guinea-Bissau	8
+1972	Dominica	8
+1972	China	8
+1972	Chad	8
+1972	Austria	8
+1972	Australia	8
+1972	Argentina	8
+1972	Saint Vincent and the Grenadines	7
+1972	Netherlands	7
+1972	Greece	7
+1972	United Kingdom	6
+1972	Malaysia	6
+1972	Republic of Korea	5
+1972	Netherlands Antilles	5
+1972	Belgium-Luxembourg	5
+1972	Algeria	5
+1972	Mauritius	4
+1972	Sweden	3
+1972	Suriname	3
+1972	Sudan (former)	3
+1972	Sri Lanka	3
+1972	Spain	3
+1972	Saint Lucia	3
+1972	Myanmar	3
+1972	Malta	3
+1972	France	3
+1972	Brunei Darussalam	3
+1972	Switzerland	2
+1972	Saudi Arabia	2
+1972	New Zealand	2
+1972	Guyana	2
+1972	USSR	1
+1972	Norway	1
+1972	Niger	1
+1972	Libya	1
+1973	Malawi	458
+1973	Zambia	400
+1973	Zimbabwe	349
+1973	Mexico	331
+1973	Kenya	316
+1973	South Africa	312
+1973	Guatemala	305
+1973	Honduras	261
+1973	Lesotho	259
+1973	Albania	223
+1973	Cape Verde	207
+1973	Swaziland	201
+1973	El Salvador	200
+1973	Nicaragua	181
+1973	Venezuela (Bolivarian Republic of)	163
+1973	Paraguay	144
+1973	Romania	142
+1973	Cameroon	140
+1973	United Republic of Tanzania	139
+1973	Benin	131
+1973	Egypt	129
+1973	Nepal	120
+1973	Namibia	119
+1973	Togo	115
+1973	Botswana	114
+1973	Mozambique	106
+1973	Angola	103
+1973	Haiti	99
+1973	Burundi	94
+1973	Colombia	85
+1973	Bolivia (Plurinational State of)	79
+1973	Sao Tome and Principe	73
+1973	Indonesia	70
+1973	Costa Rica	70
+1973	Yugoslav SFR	69
+1973	Uganda	68
+1973	Côte d'Ivoire	68
+1973	Brazil	66
+1973	Portugal	60
+1973	Ethiopia PDR	59
+1973	Democratic People's Republic of Korea	57
+1973	Panama	55
+1973	Senegal	46
+1973	Central African Republic	46
+1973	Philippines	45
+1973	Ghana	45
+1973	Timor-Leste	43
+1973	Morocco	43
+1973	Ecuador	42
+1973	Belize	42
+1973	Madagascar	36
+1973	Guinea	35
+1973	Gabon	34
+1973	Rwanda	33
+1973	Burkina Faso	31
+1973	Japan	29
+1973	Cambodia	29
+1973	Mali	28
+1973	Ireland	28
+1973	Comoros	28
+1973	Jamaica	25
+1973	Gambia	25
+1973	Turkey	24
+1973	Lao People's Democratic Republic	24
+1973	Pakistan	23
+1973	Uruguay	22
+1973	India	22
+1973	Barbados	22
+1973	Nigeria	20
+1973	Antigua and Barbuda	20
+1973	Bahamas	18
+1973	Viet Nam	16
+1973	United States of America	16
+1973	Italy	14
+1973	Mauritania	13
+1973	Grenada	13
+1973	Chile	13
+1973	Guinea-Bissau	12
+1973	Germany	12
+1973	Congo	12
+1973	Bulgaria	12
+1973	Saint Kitts and Nevis	11
+1973	Canada	11
+1973	Yemen	10
+1973	Sierra Leone	9
+1973	Seychelles	9
+1973	Israel	9
+1973	Dominican Republic	9
+1973	Denmark	9
+1973	China	9
+1973	United Kingdom	8
+1973	Trinidad and Tobago	8
+1973	Australia	8
+1973	Argentina	8
+1973	Saint Vincent and the Grenadines	7
+1973	Niger	7
+1973	Netherlands	7
+1973	Malaysia	7
+1973	Dominica	7
+1973	Republic of Korea	6
+1973	Chad	6
+1973	Austria	6
+1973	Sri Lanka	5
+1973	Netherlands Antilles	5
+1973	Myanmar	5
+1973	Mauritius	5
+1973	Algeria	5
+1973	Sweden	4
+1973	Malta	4
+1973	Greece	4
+1973	Belgium-Luxembourg	4
+1973	Sudan (former)	3
+1973	Guyana	3
+1973	France	3
+1973	Switzerland	2
+1973	Suriname	2
+1973	Spain	2
+1973	Saudi Arabia	2
+1973	Saint Lucia	2
+1973	USSR	1
+1973	Norway	1
+1973	New Zealand	1
+1973	Libya	1
+1973	Brunei Darussalam	1
+1974	Malawi	453
+1974	Zambia	429
+1974	Mexico	329
+1974	Kenya	329
+1974	Zimbabwe	324
+1974	South Africa	308
+1974	Guatemala	302
+1974	Honduras	249
+1974	Cape Verde	235
+1974	Swaziland	218
+1974	Albania	218
+1974	El Salvador	209
+1974	Lesotho	193
+1974	Nicaragua	176
+1974	Venezuela (Bolivarian Republic of)	161
+1974	Romania	155
+1974	United Republic of Tanzania	149
+1974	Cameroon	147
+1974	Botswana	143
+1974	Benin	143
+1974	Paraguay	138
+1974	Egypt	133
+1974	Namibia	121
+1974	Angola	121
+1974	Nepal	119
+1974	Togo	115
+1974	Mozambique	110
+1974	Haiti	97
+1974	Colombia	82
+1974	Panama	78
+1974	Sao Tome and Principe	77
+1974	Burundi	73
+1974	Costa Rica	69
+1974	Bolivia (Plurinational State of)	69
+1974	Yugoslav SFR	68
+1974	Côte d'Ivoire	65
+1974	Brazil	65
+1974	Democratic People's Republic of Korea	61
+1974	Central African Republic	61
+1974	Indonesia	60
+1974	Portugal	57
+1974	Ethiopia PDR	56
+1974	Uganda	55
+1974	Timor-Leste	52
+1974	Philippines	51
+1974	Burkina Faso	43
+1974	Belize	42
+1974	Morocco	41
+1974	Mali	40
+1974	Guinea	40
+1974	Madagascar	39
+1974	Senegal	38
+1974	Rwanda	36
+1974	Gabon	36
+1974	Ireland	32
+1974	Ghana	32
+1974	Ecuador	31
+1974	Cambodia	30
+1974	Japan	29
+1974	Comoros	28
+1974	Uruguay	26
+1974	Turkey	26
+1974	Jamaica	26
+1974	Gambia	24
+1974	Lao People's Democratic Republic	23
+1974	Barbados	23
+1974	Pakistan	22
+1974	Antigua and Barbuda	22
+1974	India	20
+1974	Bahamas	19
+1974	Congo	18
+1974	United States of America	17
+1974	Saint Kitts and Nevis	17
+1974	Guinea-Bissau	17
+1974	Viet Nam	16
+1974	Dominican Republic	16
+1974	Italy	14
+1974	Mauritania	13
+1974	Germany	13
+1974	Denmark	13
+1974	Chile	13
+1974	Chad	13
+1974	Sierra Leone	12
+1974	Nigeria	12
+1974	Grenada	12
+1974	Yemen	11
+1974	Israel	11
+1974	Canada	11
+1974	Argentina	11
+1974	Saint Vincent and the Grenadines	10
+1974	China	10
+1974	Netherlands	9
+1974	United Kingdom	8
+1974	Malaysia	8
+1974	Bulgaria	8
+1974	Australia	8
+1974	Niger	7
+1974	Dominica	7
+1974	Austria	7
+1974	Trinidad and Tobago	6
+1974	Seychelles	6
+1974	Republic of Korea	6
+1974	Sri Lanka	5
+1974	Netherlands Antilles	5
+1974	Myanmar	5
+1974	Sweden	4
+1974	Sudan (former)	4
+1974	Mauritius	4
+1974	Greece	4
+1974	Belgium-Luxembourg	4
+1974	Algeria	4
+1974	Saint Lucia	3
+1974	Malta	3
+1974	France	3
+1974	Switzerland	2
+1974	Spain	2
+1974	Saudi Arabia	2
+1974	Guyana	2
+1974	USSR	1
+1974	Suriname	1
+1974	Norway	1
+1974	New Zealand	1
+1974	Maldives	1
+1974	Iran (Islamic Republic of)	1
+1974	Brunei Darussalam	1
+1975	Malawi	437
+1975	Zambia	424
+1975	Zimbabwe	335
+1975	Mexico	332
+1975	Kenya	331
+1975	Guatemala	311
+1975	South Africa	305
+1975	Honduras	270
+1975	Lesotho	267
+1975	Cape Verde	251
+1975	Swaziland	225
+1975	El Salvador	222
+1975	Albania	213
+1975	United Republic of Tanzania	193
+1975	Nicaragua	173
+1975	Botswana	160
+1975	Venezuela (Bolivarian Republic of)	158
+1975	Angola	142
+1975	Romania	141
+1975	Cameroon	140
+1975	Benin	140
+1975	Togo	137
+1975	Egypt	134
+1975	Paraguay	132
+1975	Namibia	120
+1975	Nepal	105
+1975	Mozambique	100
+1975	Burundi	92
+1975	Haiti	90
+1975	Democratic People's Republic of Korea	75
+1975	Ethiopia PDR	74
+1975	Bolivia (Plurinational State of)	72
+1975	Timor-Leste	69
+1975	Yugoslav SFR	68
+1975	Costa Rica	68
+1975	Colombia	68
+1975	Côte d'Ivoire	65
+1975	Brazil	64
+1975	Sao Tome and Principe	59
+1975	Portugal	54
+1975	Philippines	54
+1975	Indonesia	54
+1975	Panama	51
+1975	Uganda	50
+1975	Belize	44
+1975	Central African Republic	41
+1975	Morocco	40
+1975	Madagascar	38
+1975	Rwanda	37
+1975	Guinea	37
+1975	Ghana	37
+1975	Ecuador	36
+1975	Gabon	33
+1975	Nigeria	32
+1975	Mali	32
+1975	Burkina Faso	32
+1975	Guinea-Bissau	31
+1975	Senegal	30
+1975	Uruguay	29
+1975	Ireland	29
+1975	Jamaica	28
+1975	Comoros	28
+1975	India	26
+1975	Turkey	25
+1975	Japan	25
+1975	Lao People's Democratic Republic	23
+1975	Cambodia	23
+1975	Antigua and Barbuda	23
+1975	Gambia	22
+1975	Barbados	21
+1975	Congo	20
+1975	Bahamas	20
+1975	United States of America	18
+1975	Pakistan	18
+1975	Viet Nam	17
+1975	Italy	15
+1975	Dominican Republic	15
+1975	Germany	14
+1975	Saint Kitts and Nevis	13
+1975	Grenada	13
+1975	Israel	12
+1975	Yemen	11
+1975	China	11
+1975	Chile	11
+1975	Argentina	11
+1975	Sierra Leone	10
+1975	Mauritania	9
+1975	Denmark	9
+1975	Canada	9
+1975	Australia	9
+1975	United Kingdom	8
+1975	Netherlands	8
+1975	Chad	8
+1975	Saint Vincent and the Grenadines	7
+1975	Niger	7
+1975	Malaysia	7
+1975	Dominica	7
+1975	Austria	7
+1975	Seychelles	6
+1975	Republic of Korea	6
+1975	Trinidad and Tobago	5
+1975	Netherlands Antilles	5
+1975	Mauritius	5
+1975	Sweden	4
+1975	Sudan (former)	4
+1975	Sri Lanka	4
+1975	Myanmar	4
+1975	Malta	4
+1975	Greece	4
+1975	Bulgaria	4
+1975	Algeria	4
+1975	Saint Lucia	3
+1975	Guyana	3
+1975	France	3
+1975	Belgium-Luxembourg	3
+1975	Switzerland	2
+1975	Suriname	2
+1975	Spain	2
+1975	Saudi Arabia	2
+1975	Libya	2
+1975	USSR	1
+1975	Norway	1
+1975	New Zealand	1
+1975	Iran (Islamic Republic of)	1
+1975	Brunei Darussalam	1
+1976	Malawi	429
+1976	Zambia	414
+1976	Kenya	357
+1976	Zimbabwe	336
+1976	Mexico	334
+1976	South Africa	297
+1976	Guatemala	292
+1976	Lesotho	270
+1976	Honduras	266
+1976	Cape Verde	251
+1976	El Salvador	213
+1976	United Republic of Tanzania	209
+1976	Albania	209
+1976	Swaziland	195
+1976	Nicaragua	169
+1976	Venezuela (Bolivarian Republic of)	156
+1976	Botswana	148
+1976	Cameroon	143
+1976	Romania	136
+1976	Egypt	135
+1976	Angola	135
+1976	Benin	132
+1976	Paraguay	124
+1976	Namibia	120
+1976	Togo	118
+1976	Nepal	115
+1976	Mozambique	109
+1976	Sao Tome and Principe	99
+1976	Burundi	92
+1976	Timor-Leste	88
+1976	Colombia	85
+1976	Haiti	84
+1976	Ethiopia PDR	73
+1976	Uganda	72
+1976	Bolivia (Plurinational State of)	72
+1976	Democratic People's Republic of Korea	69
+1976	Yugoslav SFR	68
+1976	Côte d'Ivoire	67
+1976	Costa Rica	66
+1976	Brazil	63
+1976	Guinea-Bissau	60
+1976	Philippines	52
+1976	Panama	51
+1976	Portugal	49
+1976	Indonesia	48
+1976	Belize	45
+1976	Madagascar	41
+1976	Ireland	41
+1976	Morocco	39
+1976	Guinea	38
+1976	Rwanda	37
+1976	Ecuador	37
+1976	Senegal	35
+1976	Central African Republic	35
+1976	Japan	34
+1976	Ghana	32
+1976	Burkina Faso	32
+1976	Jamaica	30
+1976	Comoros	29
+1976	Turkey	27
+1976	Gabon	27
+1976	Cambodia	27
+1976	Congo	26
+1976	Nigeria	25
+1976	Lao People's Democratic Republic	25
+1976	Uruguay	24
+1976	Bahamas	23
+1976	India	22
+1976	Gambia	21
+1976	Viet Nam	20
+1976	Mali	20
+1976	Israel	20
+1976	United States of America	18
+1976	Barbados	18
+1976	Antigua and Barbuda	18
+1976	Saint Kitts and Nevis	17
+1976	Pakistan	16
+1976	Dominican Republic	16
+1976	Yemen	12
+1976	Italy	12
+1976	Chile	12
+1976	Denmark	11
+1976	China	11
+1976	Argentina	11
+1976	Sierra Leone	10
+1976	Grenada	9
+1976	Dominica	9
+1976	Chad	9
+1976	Canada	9
+1976	United Kingdom	8
+1976	Netherlands	8
+1976	Mauritania	8
+1976	Australia	8
+1976	Saint Vincent and the Grenadines	7
+1976	Niger	7
+1976	Malaysia	7
+1976	Germany	7
+1976	Bulgaria	7
+1976	Austria	7
+1976	Saint Lucia	6
+1976	Sudan (former)	5
+1976	Sri Lanka	5
+1976	Republic of Korea	5
+1976	Netherlands Antilles	5
+1976	Greece	5
+1976	France	5
+1976	Trinidad and Tobago	4
+1976	Sweden	4
+1976	Seychelles	4
+1976	Saudi Arabia	4
+1976	Myanmar	4
+1976	Mauritius	4
+1976	Malta	4
+1976	Algeria	4
+1976	Switzerland	3
+1976	Libya	3
+1976	Guyana	3
+1976	Belgium-Luxembourg	3
+1976	Spain	2
+1976	USSR	1
+1976	United Arab Emirates	1
+1976	Suriname	1
+1976	Norway	1
+1976	New Zealand	1
+1976	Iran (Islamic Republic of)	1
+1976	Brunei Darussalam	1
+1977	Zambia	462
+1977	Malawi	423
+1977	Zimbabwe	380
+1977	Kenya	348
+1977	Mexico	336
+1977	South Africa	302
+1977	Guatemala	283
+1977	Honduras	265
+1977	El Salvador	221
+1977	Cape Verde	216
+1977	Albania	204
+1977	United Republic of Tanzania	203
+1977	Lesotho	201
+1977	Nicaragua	174
+1977	Botswana	172
+1977	Swaziland	158
+1977	Venezuela (Bolivarian Republic of)	154
+1977	Cameroon	140
+1977	Angola	133
+1977	Egypt	131
+1977	Namibia	123
+1977	Romania	121
+1977	Timor-Leste	116
+1977	Paraguay	112
+1977	Benin	109
+1977	Mozambique	106
+1977	Nepal	104
+1977	Togo	97
+1977	Burundi	91
+1977	Uganda	82
+1977	Haiti	79
+1977	Colombia	79
+1977	Democratic People's Republic of Korea	75
+1977	Sao Tome and Principe	73
+1977	Bolivia (Plurinational State of)	73
+1977	Yugoslav SFR	68
+1977	Ethiopia PDR	64
+1977	Côte d'Ivoire	63
+1977	Costa Rica	63
+1977	Brazil	63
+1977	Panama	57
+1977	Indonesia	56
+1977	Philippines	54
+1977	Belize	54
+1977	Portugal	52
+1977	Uruguay	43
+1977	Guinea-Bissau	43
+1977	Rwanda	39
+1977	Ireland	36
+1977	Morocco	35
+1977	Madagascar	35
+1977	Japan	35
+1977	Guinea	35
+1977	Senegal	34
+1977	Central African Republic	33
+1977	Ghana	32
+1977	Ecuador	31
+1977	Comoros	30
+1977	Cambodia	30
+1977	Lao People's Democratic Republic	29
+1977	Jamaica	29
+1977	Mali	28
+1977	Turkey	26
+1977	Israel	25
+1977	Burkina Faso	25
+1977	Gambia	22
+1977	Gabon	22
+1977	Bahamas	22
+1977	Viet Nam	21
+1977	Argentina	21
+1977	United States of America	20
+1977	India	20
+1977	Congo	19
+1977	Pakistan	18
+1977	Dominican Republic	18
+1977	Barbados	18
+1977	Antigua and Barbuda	18
+1977	Denmark	17
+1977	Nigeria	16
+1977	Yemen	12
+1977	Sierra Leone	12
+1977	Italy	12
+1977	Grenada	12
+1977	China	12
+1977	Chile	12
+1977	Saint Kitts and Nevis	11
+1977	Dominica	11
+1977	Germany	10
+1977	Canada	10
+1977	United Kingdom	9
+1977	Sri Lanka	8
+1977	Saint Lucia	8
+1977	Netherlands	8
+1977	Australia	8
+1977	Saint Vincent and the Grenadines	7
+1977	Mauritania	7
+1977	Malaysia	7
+1977	Bulgaria	7
+1977	Republic of Korea	6
+1977	Niger	6
+1977	Austria	6
+1977	Trinidad and Tobago	5
+1977	Sudan (former)	5
+1977	Netherlands Antilles	5
+1977	Greece	5
+1977	France	5
+1977	Chad	5
+1977	Belgium-Luxembourg	5
+1977	Algeria	5
+1977	Sweden	4
+1977	Myanmar	4
+1977	Mauritius	4
+1977	Malta	4
+1977	Seychelles	3
+1977	Switzerland	2
+1977	Suriname	2
+1977	Spain	2
+1977	Libya	2
+1977	Iran (Islamic Republic of)	2
+1977	Guyana	2
+1977	USSR	1
+1977	Saudi Arabia	1
+1977	Norway	1
+1977	New Zealand	1
+1977	Brunei Darussalam	1
+1978	Zambia	439
+1978	Malawi	438
+1978	Zimbabwe	386
+1978	Mexico	338
+1978	Kenya	336
+1978	South Africa	324
+1978	Guatemala	279
+1978	Honduras	259
+1978	Cape Verde	246
+1978	El Salvador	222
+1978	Albania	200
+1978	Lesotho	193
+1978	United Republic of Tanzania	181
+1978	Botswana	181
+1978	Swaziland	159
+1978	Nicaragua	159
+1978	Venezuela (Bolivarian Republic of)	152
+1978	Timor-Leste	142
+1978	Angola	136
+1978	Egypt	131
+1978	Namibia	125
+1978	Cameroon	125
+1978	Romania	118
+1978	Benin	118
+1978	Togo	110
+1978	Mozambique	110
+1978	Paraguay	104
+1978	Democratic People's Republic of Korea	103
+1978	Burundi	102
+1978	Nepal	101
+1978	Colombia	84
+1978	Haiti	76
+1978	Bolivia (Plurinational State of)	75
+1978	Indonesia	71
+1978	Uganda	68
+1978	Sao Tome and Principe	68
+1978	Yugoslav SFR	67
+1978	Ethiopia PDR	66
+1978	Guinea-Bissau	63
+1978	Côte d'Ivoire	63
+1978	Brazil	62
+1978	Costa Rica	60
+1978	Belize	56
+1978	Philippines	55
+1978	Panama	52
+1978	Brunei Darussalam	48
+1978	Uruguay	45
+1978	Guinea	38
+1978	Burkina Faso	37
+1978	Senegal	35
+1978	Portugal	35
+1978	Japan	35
+1978	Central African Republic	35
+1978	Morocco	32
+1978	Madagascar	32
+1978	Mali	31
+1978	Jamaica	31
+1978	Comoros	31
+1978	Cambodia	31
+1978	Rwanda	29
+1978	Ghana	29
+1978	Ecuador	29
+1978	Gambia	27
+1978	Turkey	26
+1978	Israel	26
+1978	Ireland	25
+1978	Viet Nam	24
+1978	Lao People's Democratic Republic	24
+1978	Argentina	22
+1978	United States of America	21
+1978	India	20
+1978	Gabon	20
+1978	Antigua and Barbuda	18
+1978	Pakistan	17
+1978	Dominican Republic	17
+1978	Barbados	17
+1978	Nigeria	16
+1978	Denmark	16
+1978	Congo	15
+1978	Saint Kitts and Nevis	14
+1978	Yemen	13
+1978	Grenada	13
+1978	Germany	13
+1978	China	13
+1978	Sierra Leone	12
+1978	Italy	12
+1978	Chile	12
+1978	Bahamas	11
+1978	Canada	10
+1978	Australia	10
+1978	Dominica	9
+1978	United Kingdom	8
+1978	Seychelles	8
+1978	Saint Lucia	8
+1978	Netherlands	8
+1978	Mauritania	8
+1978	Bulgaria	8
+1978	Saint Vincent and the Grenadines	7
+1978	Niger	7
+1978	Chad	7
+1978	Trinidad and Tobago	6
+1978	Republic of Korea	6
+1978	Malta	6
+1978	Malaysia	6
+1978	Belgium-Luxembourg	6
+1978	Austria	6
+1978	Sudan (former)	5
+1978	Netherlands Antilles	5
+1978	Sweden	4
+1978	Myanmar	4
+1978	Mauritius	4
+1978	Greece	4
+1978	Algeria	4
+1978	Switzerland	3
+1978	Sri Lanka	3
+1978	Libya	3
+1978	France	3
+1978	Suriname	2
+1978	Spain	2
+1978	Saudi Arabia	2
+1978	New Zealand	2
+1978	USSR	1
+1978	Norway	1
+1978	Iran (Islamic Republic of)	1
+1978	Guyana	1
+1979	Zambia	449
+1979	Malawi	441
+1979	Zimbabwe	382
+1979	Mexico	337
+1979	South Africa	335
+1979	Kenya	325
+1979	Guatemala	284
+1979	Cape Verde	278
+1979	Honduras	256
+1979	Lesotho	253
+1979	El Salvador	231
+1979	Albania	196
+1979	United Republic of Tanzania	194
+1979	Botswana	187
+1979	Timor-Leste	174
+1979	Nicaragua	158
+1979	Benin	152
+1979	Swaziland	149
+1979	Venezuela (Bolivarian Republic of)	148
+1979	Egypt	130
+1979	Togo	127
+1979	Namibia	122
+1979	Cameroon	119
+1979	Angola	117
+1979	Mozambique	110
+1979	Democratic People's Republic of Korea	101
+1979	Romania	96
+1979	Paraguay	88
+1979	Burundi	84
+1979	Colombia	82
+1979	Nepal	77
+1979	Bolivia (Plurinational State of)	76
+1979	Uruguay	75
+1979	Haiti	75
+1979	Uganda	74
+1979	Ethiopia PDR	74
+1979	Sao Tome and Principe	71
+1979	Yugoslav SFR	69
+1979	Côte d'Ivoire	62
+1979	Brazil	62
+1979	Indonesia	61
+1979	Costa Rica	59
+1979	Brunei Darussalam	57
+1979	Belize	53
+1979	Panama	52
+1979	Philippines	50
+1979	Burkina Faso	43
+1979	Guinea	41
+1979	Rwanda	40
+1979	Portugal	36
+1979	Ireland	36
+1979	Guinea-Bissau	36
+1979	Central African Republic	35
+1979	Japan	33
+1979	Jamaica	33
+1979	Madagascar	32
+1979	Morocco	31
+1979	Ghana	30
+1979	Ecuador	30
+1979	Comoros	30
+1979	Israel	29
+1979	Mali	28
+1979	Cambodia	27
+1979	Turkey	26
+1979	Senegal	26
+1979	Gambia	26
+1979	Lao People's Democratic Republic	25
+1979	Barbados	25
+1979	United States of America	21
+1979	Gabon	21
+1979	India	18
+1979	Antigua and Barbuda	18
+1979	Pakistan	17
+1979	Dominican Republic	17
+1979	Congo	17
+1979	Argentina	17
+1979	Denmark	16
+1979	Viet Nam	15
+1979	Italy	14
+1979	Yemen	13
+1979	Nigeria	13
+1979	China	13
+1979	Chile	12
+1979	Sierra Leone	11
+1979	Grenada	11
+1979	Saint Kitts and Nevis	10
+1979	Chad	10
+1979	Canada	10
+1979	United Kingdom	9
+1979	Saint Lucia	9
+1979	Dominica	9
+1979	Australia	9
+1979	Saint Vincent and the Grenadines	8
+1979	Netherlands	8
+1979	Mauritania	8
+1979	Germany	8
+1979	Bulgaria	8
+1979	Switzerland	7
+1979	Saudi Arabia	7
+1979	Niger	7
+1979	Malta	7
+1979	Bahamas	7
+1979	Trinidad and Tobago	6
+1979	Republic of Korea	6
+1979	Myanmar	6
+1979	Mauritius	6
+1979	Malaysia	6
+1979	Belgium-Luxembourg	6
+1979	Sudan (former)	5
+1979	Netherlands Antilles	5
+1979	Austria	5
+1979	Sweden	4
+1979	Sri Lanka	4
+1979	Greece	4
+1979	Algeria	4
+1979	Syrian Arab Republic	3
+1979	Seychelles	3
+1979	Libya	3
+1979	France	3
+1979	Suriname	2
+1979	Spain	2
+1979	New Zealand	2
+1979	Iran (Islamic Republic of)	2
+1979	Guyana	2
+1979	Djibouti	2
+1979	USSR	1
+1979	United Arab Emirates	1
+1979	Norway	1
+1980	Zambia	446
+1980	Malawi	437
+1980	Zimbabwe	384
+1980	Mexico	330
+1980	South Africa	329
+1980	Kenya	312
+1980	Guatemala	283
+1980	Honduras	260
+1980	Cape Verde	254
+1980	Lesotho	237
+1980	El Salvador	231
+1980	United Republic of Tanzania	220
+1980	Venezuela (Bolivarian Republic of)	207
+1980	Albania	192
+1980	Timor-Leste	174
+1980	Benin	167
+1980	Botswana	165
+1980	Nicaragua	156
+1980	Swaziland	141
+1980	Egypt	133
+1980	Togo	129
+1980	Namibia	124
+1980	Angola	122
+1980	Democratic People's Republic of Korea	118
+1980	Cameroon	111
+1980	Sao Tome and Principe	99
+1980	Brunei Darussalam	99
+1980	Mozambique	98
+1980	Nepal	95
+1980	Romania	93
+1980	Colombia	87
+1980	Paraguay	86
+1980	Burundi	84
+1980	Haiti	73
+1980	Bolivia (Plurinational State of)	73
+1980	Yugoslav SFR	70
+1980	Côte d'Ivoire	68
+1980	Indonesia	63
+1980	Uruguay	62
+1980	Philippines	61
+1980	Costa Rica	61
+1980	Brazil	61
+1980	Belize	60
+1980	Ethiopia PDR	59
+1980	Uganda	55
+1980	Guinea-Bissau	53
+1980	Panama	50
+1980	Guinea	44
+1980	Portugal	41
+1980	Senegal	40
+1980	Japan	40
+1980	Jamaica	40
+1980	Rwanda	39
+1980	Peru	38
+1980	Ireland	38
+1980	Burkina Faso	37
+1980	Madagascar	35
+1980	Central African Republic	34
+1980	Saudi Arabia	32
+1980	Israel	32
+1980	Ghana	31
+1980	Cambodia	31
+1980	Morocco	30
+1980	Comoros	30
+1980	Turkey	23
+1980	Ecuador	23
+1980	United States of America	22
+1980	Mali	22
+1980	Lao People's Democratic Republic	22
+1980	India	22
+1980	Gabon	21
+1980	Barbados	21
+1980	Antigua and Barbuda	20
+1980	Viet Nam	19
+1980	Denmark	19
+1980	Pakistan	18
+1980	Dominican Republic	17
+1980	Nigeria	16
+1980	Argentina	16
+1980	Gambia	15
+1980	Italy	14
+1980	Yemen	13
+1980	Congo	13
+1980	China	13
+1980	Chad	13
+1980	Switzerland	12
+1980	Sierra Leone	11
+1980	Grenada	10
+1980	Canada	10
+1980	United Kingdom	9
+1980	Saint Vincent and the Grenadines	9
+1980	Saint Lucia	9
+1980	Germany	9
+1980	Dominica	9
+1980	Chile	9
+1980	Netherlands	8
+1980	Myanmar	8
+1980	Mauritania	8
+1980	Trinidad and Tobago	7
+1980	Niger	7
+1980	Malta	7
+1980	Saint Kitts and Nevis	6
+1980	Netherlands Antilles	6
+1980	Malaysia	6
+1980	Bulgaria	6
+1980	Bahamas	6
+1980	Australia	6
+1980	Sudan (former)	5
+1980	Greece	5
+1980	France	5
+1980	Belgium-Luxembourg	5
+1980	Austria	5
+1980	Sweden	4
+1980	Sri Lanka	4
+1980	Republic of Korea	4
+1980	New Zealand	4
+1980	Mauritius	4
+1980	Guyana	4
+1980	Algeria	4
+1980	Syrian Arab Republic	3
+1980	Seychelles	3
+1980	Libya	3
+1980	United Arab Emirates	2
+1980	Suriname	2
+1980	Spain	2
+1980	Iran (Islamic Republic of)	2
+1980	Djibouti	2
+1980	USSR	1
+1980	Norway	1
+1981	Zambia	451
+1981	Malawi	435
+1981	Zimbabwe	364
+1981	Mexico	332
+1981	Lesotho	327
+1981	Guatemala	321
+1981	Kenya	314
+1981	South Africa	313
+1981	Cape Verde	266
+1981	Honduras	261
+1981	El Salvador	236
+1981	United Republic of Tanzania	230
+1981	Botswana	180
+1981	Albania	177
+1981	Timor-Leste	176
+1981	Venezuela (Bolivarian Republic of)	152
+1981	Benin	146
+1981	Egypt	139
+1981	Nicaragua	135
+1981	Angola	124
+1981	Namibia	122
+1981	Togo	112
+1981	Cameroon	111
+1981	Democratic People's Republic of Korea	110
+1981	Romania	107
+1981	Paraguay	98
+1981	Mozambique	95
+1981	Nepal	88
+1981	Côte d'Ivoire	86
+1981	Burundi	85
+1981	Uruguay	83
+1981	Colombia	79
+1981	Haiti	77
+1981	Bolivia (Plurinational State of)	77
+1981	Yugoslav SFR	72
+1981	Swaziland	67
+1981	Belize	64
+1981	Indonesia	63
+1981	Costa Rica	63
+1981	Philippines	62
+1981	Ethiopia PDR	61
+1981	Brazil	61
+1981	Guinea-Bissau	60
+1981	Panama	52
+1981	Sao Tome and Principe	51
+1981	Brunei Darussalam	49
+1981	Guinea	48
+1981	Burkina Faso	43
+1981	Japan	42
+1981	Senegal	40
+1981	Central African Republic	40
+1981	Uganda	38
+1981	Rwanda	38
+1981	Portugal	37
+1981	Jamaica	35
+1981	Peru	34
+1981	Ireland	34
+1981	Israel	33
+1981	Madagascar	32
+1981	Comoros	30
+1981	Morocco	29
+1981	Cambodia	29
+1981	Ghana	26
+1981	Lao People's Democratic Republic	25
+1981	Saudi Arabia	23
+1981	Mali	23
+1981	United States of America	22
+1981	Turkey	22
+1981	India	21
+1981	Argentina	21
+1981	Nigeria	20
+1981	Ecuador	20
+1981	Barbados	20
+1981	Congo	19
+1981	Viet Nam	18
+1981	Saint Vincent and the Grenadines	18
+1981	Pakistan	18
+1981	Denmark	18
+1981	Chad	17
+1981	Gambia	15
+1981	Italy	14
+1981	Yemen	13
+1981	China	13
+1981	Antigua and Barbuda	13
+1981	Switzerland	12
+1981	Republic of Korea	12
+1981	Gabon	12
+1981	Dominican Republic	12
+1981	Germany	10
+1981	Dominica	10
+1981	Canada	10
+1981	United Kingdom	9
+1981	Sierra Leone	9
+1981	Saint Lucia	9
+1981	Saint Kitts and Nevis	9
+1981	Myanmar	9
+1981	Grenada	9
+1981	Chile	9
+1981	Netherlands	8
+1981	Bulgaria	8
+1981	Australia	8
+1981	Austria	7
+1981	Trinidad and Tobago	6
+1981	Netherlands Antilles	6
+1981	Mauritania	6
+1981	Malta	6
+1981	Bahamas	6
+1981	Sudan (former)	5
+1981	Niger	5
+1981	New Zealand	5
+1981	Malaysia	5
+1981	France	5
+1981	Belgium-Luxembourg	5
+1981	Sweden	4
+1981	Sri Lanka	4
+1981	Spain	4
+1981	Mauritius	4
+1981	Syrian Arab Republic	3
+1981	Suriname	3
+1981	Libya	3
+1981	Greece	3
+1981	Algeria	3
+1981	United Arab Emirates	2
+1981	Seychelles	2
+1981	Iran (Islamic Republic of)	2
+1981	Djibouti	2
+1981	USSR	1
+1981	Norway	1
+1981	Guyana	1
+1982	Malawi	437
+1982	Zambia	419
+1982	Zimbabwe	383
+1982	Lesotho	353
+1982	Mexico	332
+1982	Guatemala	325
+1982	South Africa	313
+1982	Kenya	311
+1982	Honduras	254
+1982	El Salvador	235
+1982	Cape Verde	230
+1982	United Republic of Tanzania	197
+1982	Botswana	197
+1982	Timor-Leste	184
+1982	Albania	181
+1982	Venezuela (Bolivarian Republic of)	150
+1982	Egypt	138
+1982	Benin	138
+1982	Nicaragua	133
+1982	Angola	117
+1982	Togo	116
+1982	Namibia	115
+1982	Democratic People's Republic of Korea	112
+1982	Cameroon	107
+1982	Romania	97
+1982	Panama	94
+1982	Paraguay	88
+1982	Mozambique	87
+1982	Nepal	82
+1982	Colombia	82
+1982	Côte d'Ivoire	81
+1982	Burundi	81
+1982	Bolivia (Plurinational State of)	76
+1982	Swaziland	72
+1982	Yugoslav SFR	70
+1982	Haiti	70
+1982	Ethiopia PDR	66
+1982	Belize	66
+1982	Philippines	63
+1982	Brazil	61
+1982	Costa Rica	59
+1982	Uruguay	57
+1982	Ireland	54
+1982	Guinea	47
+1982	Uganda	46
+1982	Indonesia	45
+1982	Burkina Faso	44
+1982	Central African Republic	43
+1982	Peru	42
+1982	Brunei Darussalam	41
+1982	Rwanda	40
+1982	Japan	39
+1982	Israel	38
+1982	Sao Tome and Principe	37
+1982	Portugal	35
+1982	Gambia	35
+1982	Senegal	34
+1982	Jamaica	33
+1982	Guinea-Bissau	33
+1982	Morocco	31
+1982	Madagascar	29
+1982	France	29
+1982	Comoros	28
+1982	Cambodia	27
+1982	Turkey	26
+1982	Saudi Arabia	26
+1982	Saint Vincent and the Grenadines	26
+1982	Lao People's Democratic Republic	26
+1982	Ghana	26
+1982	Ecuador	26
+1982	United States of America	23
+1982	Mali	23
+1982	Barbados	23
+1982	Nigeria	22
+1982	India	20
+1982	Argentina	20
+1982	Pakistan	19
+1982	Denmark	18
+1982	Gabon	17
+1982	Viet Nam	16
+1982	Republic of Korea	15
+1982	Mauritania	15
+1982	Chad	14
+1982	Antigua and Barbuda	14
+1982	Yemen	13
+1982	China	13
+1982	Sierra Leone	12
+1982	Congo	12
+1982	Myanmar	11
+1982	Dominican Republic	11
+1982	Bulgaria	11
+1982	Italy	10
+1982	Chile	10
+1982	Canada	10
+1982	United Kingdom	9
+1982	Grenada	9
+1982	Australia	9
+1982	Netherlands	8
+1982	Malta	8
+1982	Switzerland	7
+1982	Saint Kitts and Nevis	7
+1982	Germany	7
+1982	Dominica	7
+1982	Bahamas	7
+1982	Austria	7
+1982	Trinidad and Tobago	6
+1982	Niger	6
+1982	New Zealand	6
+1982	Netherlands Antilles	6
+1982	Malaysia	6
+1982	Belgium-Luxembourg	6
+1982	Syrian Arab Republic	4
+1982	Sweden	4
+1982	Sudan (former)	4
+1982	Sri Lanka	4
+1982	Saint Lucia	4
+1982	Mauritius	4
+1982	Algeria	4
+1982	Seychelles	3
+1982	Libya	3
+1982	Greece	3
+1982	Djibouti	3
+1982	United Arab Emirates	2
+1982	Suriname	2
+1982	USSR	1
+1982	Spain	1
+1982	Norway	1
+1982	Iran (Islamic Republic of)	1
+1982	Hungary	1
+1983	Malawi	455
+1983	Zambia	435
+1983	Zimbabwe	359
+1983	Mexico	339
+1983	Guatemala	303
+1983	South Africa	297
+1983	Kenya	297
+1983	Cape Verde	277
+1983	Honduras	264
+1983	Lesotho	261
+1983	El Salvador	239
+1983	Botswana	238
+1983	United Republic of Tanzania	194
+1983	Timor-Leste	182
+1983	Albania	175
+1983	Venezuela (Bolivarian Republic of)	150
+1983	Egypt	141
+1983	Benin	136
+1983	Nicaragua	134
+1983	Democratic People's Republic of Korea	125
+1983	Namibia	117
+1983	Angola	113
+1983	Togo	111
+1983	Cameroon	102
+1983	Paraguay	99
+1983	Swaziland	92
+1983	Romania	89
+1983	Nepal	87
+1983	Côte d'Ivoire	81
+1983	Burundi	81
+1983	Belize	80
+1983	Haiti	79
+1983	Bolivia (Plurinational State of)	78
+1983	Mozambique	77
+1983	Colombia	77
+1983	Panama	76
+1983	Yugoslav SFR	69
+1983	Indonesia	68
+1983	Costa Rica	67
+1983	Ethiopia PDR	61
+1983	Brazil	61
+1983	Philippines	58
+1983	Ireland	57
+1983	Uruguay	55
+1983	Brunei Darussalam	48
+1983	Guinea	45
+1983	Uganda	44
+1983	Japan	44
+1983	Israel	40
+1983	Burkina Faso	40
+1983	Sao Tome and Principe	39
+1983	Central African Republic	39
+1983	Rwanda	37
+1983	France	37
+1983	Jamaica	36
+1983	Gambia	36
+1983	Senegal	35
+1983	Mali	35
+1983	Ghana	35
+1983	Madagascar	34
+1983	Saudi Arabia	33
+1983	Saint Vincent and the Grenadines	33
+1983	Peru	33
+1983	Morocco	31
+1983	Guinea-Bissau	30
+1983	Turkey	26
+1983	Portugal	26
+1983	Barbados	26
+1983	United States of America	25
+1983	Comoros	25
+1983	Ecuador	24
+1983	Lao People's Democratic Republic	23
+1983	India	23
+1983	Denmark	21
+1983	Nigeria	20
+1983	Cambodia	19
+1983	Viet Nam	18
+1983	Republic of Korea	18
+1983	Pakistan	18
+1983	Argentina	17
+1983	Antigua and Barbuda	17
+1983	Germany	15
+1983	Gabon	15
+1983	Myanmar	14
+1983	Congo	14
+1983	China	14
+1983	Chad	14
+1983	Yemen	13
+1983	Saint Kitts and Nevis	13
+1983	Sierra Leone	12
+1983	Chile	12
+1983	Bulgaria	12
+1983	Italy	10
+1983	Dominican Republic	10
+1983	Dominica	10
+1983	Canada	10
+1983	United Kingdom	9
+1983	Mauritania	9
+1983	Bahamas	9
+1983	Australia	9
+1983	Switzerland	8
+1983	Netherlands	8
+1983	Grenada	8
+1983	Belgium-Luxembourg	8
+1983	Trinidad and Tobago	7
+1983	Saint Lucia	7
+1983	Malta	7
+1983	Malaysia	7
+1983	Austria	7
+1983	United Arab Emirates	6
+1983	Niger	6
+1983	New Zealand	6
+1983	Netherlands Antilles	6
+1983	Sri Lanka	5
+1983	Sweden	4
+1983	Sudan (former)	4
+1983	Seychelles	4
+1983	Mauritius	4
+1983	Syrian Arab Republic	3
+1983	Libya	2
+1983	Iran (Islamic Republic of)	2
+1983	Djibouti	2
+1983	Algeria	2
+1983	USSR	1
+1983	Thailand	1
+1983	Suriname	1
+1983	Spain	1
+1983	Norway	1
+1983	Hungary	1
+1983	Greece	1
+1984	Malawi	427
+1984	Zambia	420
+1984	Zimbabwe	361
+1984	Mexico	340
+1984	South Africa	306
+1984	Lesotho	287
+1984	Kenya	279
+1984	Honduras	259
+1984	Guatemala	259
+1984	Cape Verde	249
+1984	El Salvador	244
+1984	United Republic of Tanzania	209
+1984	Timor-Leste	183
+1984	Botswana	174
+1984	Albania	165
+1984	Venezuela (Bolivarian Republic of)	155
+1984	Nicaragua	148
+1984	Egypt	140
+1984	Democratic People's Republic of Korea	135
+1984	Benin	126
+1984	Namibia	118
+1984	Swaziland	113
+1984	Togo	110
+1984	Mozambique	108
+1984	Paraguay	98
+1984	Cameroon	97
+1984	Nepal	91
+1984	Romania	90
+1984	Angola	90
+1984	Brunei Darussalam	87
+1984	Belize	85
+1984	Bolivia (Plurinational State of)	79
+1984	Haiti	77
+1984	Ethiopia PDR	75
+1984	Burundi	73
+1984	Colombia	72
+1984	Indonesia	71
+1984	Côte d'Ivoire	71
+1984	Yugoslav SFR	70
+1984	Uruguay	68
+1984	Costa Rica	65
+1984	Brazil	61
+1984	Panama	58
+1984	Philippines	55
+1984	Senegal	49
+1984	Sao Tome and Principe	46
+1984	Ireland	45
+1984	Mali	44
+1984	Jamaica	44
+1984	Saint Vincent and the Grenadines	43
+1984	Guinea	43
+1984	Uganda	42
+1984	Japan	42
+1984	Israel	42
+1984	Rwanda	38
+1984	Central African Republic	37
+1984	Saudi Arabia	36
+1984	Madagascar	34
+1984	Burkina Faso	34
+1984	Turkey	33
+1984	Peru	33
+1984	France	33
+1984	Morocco	31
+1984	Barbados	30
+1984	Ghana	28
+1984	United States of America	27
+1984	Guinea-Bissau	27
+1984	Portugal	26
+1984	Lao People's Democratic Republic	24
+1984	India	24
+1984	Ecuador	24
+1984	Nigeria	23
+1984	Germany	22
+1984	Denmark	22
+1984	Republic of Korea	19
+1984	Dominican Republic	19
+1984	Pakistan	18
+1984	Comoros	18
+1984	Antigua and Barbuda	18
+1984	Viet Nam	17
+1984	Gambia	17
+1984	Congo	16
+1984	Argentina	15
+1984	China	14
+1984	Chad	14
+1984	Cambodia	14
+1984	Yemen	13
+1984	Myanmar	13
+1984	Chile	13
+1984	Sierra Leone	11
+1984	Dominica	11
+1984	Bulgaria	11
+1984	Italy	10
+1984	Canada	10
+1984	United Kingdom	9
+1984	Grenada	9
+1984	Australia	9
+1984	Saint Kitts and Nevis	8
+1984	Netherlands	8
+1984	Malaysia	8
+1984	Djibouti	8
+1984	Belgium-Luxembourg	8
+1984	Bahamas	8
+1984	Switzerland	7
+1984	Sri Lanka	7
+1984	Mauritania	7
+1984	Malta	7
+1984	Austria	7
+1984	Trinidad and Tobago	6
+1984	Niger	6
+1984	New Zealand	6
+1984	Netherlands Antilles	6
+1984	Sweden	4
+1984	Sudan (former)	4
+1984	Saint Lucia	4
+1984	Mauritius	4
+1984	Gabon	4
+1984	United Arab Emirates	3
+1984	Syrian Arab Republic	3
+1984	Suriname	3
+1984	Seychelles	3
+1984	Greece	3
+1984	Libya	2
+1984	Algeria	2
+1984	USSR	1
+1984	Thailand	1
+1984	Spain	1
+1984	Norway	1
+1984	Iran (Islamic Republic of)	1
+1984	Hungary	1
+1985	Malawi	431
+1985	Zambia	422
+1985	Lesotho	377
+1985	Mexico	350
+1985	Zimbabwe	336
+1985	South Africa	306
+1985	Guatemala	302
+1985	Kenya	285
+1985	Honduras	265
+1985	El Salvador	242
+1985	Cape Verde	221
+1985	United Republic of Tanzania	214
+1985	Timor-Leste	184
+1985	Benin	171
+1985	Nicaragua	167
+1985	Swaziland	166
+1985	Botswana	166
+1985	Albania	165
+1985	Mozambique	153
+1985	Togo	145
+1985	Egypt	140
+1985	Democratic People's Republic of Korea	134
+1985	Brunei Darussalam	131
+1985	Venezuela (Bolivarian Republic of)	129
+1985	Namibia	112
+1985	Belize	101
+1985	Nepal	93
+1985	Angola	91
+1985	Panama	87
+1985	Cameroon	86
+1985	Haiti	85
+1985	Burundi	80
+1985	Bolivia (Plurinational State of)	80
+1985	Romania	78
+1985	Paraguay	78
+1985	Côte d'Ivoire	75
+1985	Yugoslav SFR	71
+1985	Uruguay	68
+1985	Ethiopia PDR	68
+1985	Colombia	66
+1985	Costa Rica	64
+1985	Brazil	62
+1985	Israel	58
+1985	Philippines	56
+1985	Indonesia	56
+1985	Senegal	54
+1985	Ghana	54
+1985	Japan	51
+1985	Mali	50
+1985	Ireland	45
+1985	Saint Vincent and the Grenadines	43
+1985	Burkina Faso	43
+1985	Uganda	42
+1985	Guinea	42
+1985	Jamaica	39
+1985	Central African Republic	39
+1985	Saudi Arabia	38
+1985	Rwanda	38
+1985	Turkey	37
+1985	France	37
+1985	Morocco	35
+1985	Nigeria	34
+1985	Madagascar	34
+1985	Sao Tome and Principe	33
+1985	Peru	33
+1985	Saint Kitts and Nevis	32
+1985	Gambia	31
+1985	United States of America	29
+1985	Barbados	29
+1985	Ecuador	27
+1985	Portugal	26
+1985	Republic of Korea	25
+1985	Guinea-Bissau	24
+1985	Chad	24
+1985	Lao People's Democratic Republic	23
+1985	Denmark	23
+1985	Germany	22
+1985	Viet Nam	20
+1985	India	19
+1985	Congo	19
+1985	Comoros	18
+1985	Pakistan	17
+1985	Argentina	17
+1985	Antigua and Barbuda	15
+1985	Dominica	14
+1985	Yemen	13
+1985	Dominican Republic	13
+1985	Chile	13
+1985	Niger	12
+1985	Myanmar	12
+1985	China	12
+1985	Sierra Leone	10
+1985	Canada	10
+1985	United Kingdom	9
+1985	Italy	9
+1985	Grenada	9
+1985	Djibouti	9
+1985	Cambodia	9
+1985	Australia	9
+1985	Switzerland	8
+1985	New Zealand	8
+1985	Netherlands	8
+1985	Malaysia	8
+1985	Bahamas	8
+1985	Austria	7
+1985	Saint Lucia	6
+1985	Netherlands Antilles	6
+1985	Mauritania	6
+1985	Malta	6
+1985	Bulgaria	6
+1985	Belgium-Luxembourg	6
+1985	Trinidad and Tobago	5
+1985	Syrian Arab Republic	4
+1985	Sweden	4
+1985	Sudan (former)	4
+1985	Mauritius	4
+1985	Sri Lanka	3
+1985	Seychelles	3
+1985	Jordan	3
+1985	Greece	3
+1985	United Arab Emirates	2
+1985	Suriname	2
+1985	Spain	2
+1985	Norway	2
+1985	Libya	2
+1985	Iran (Islamic Republic of)	2
+1985	Gabon	2
+1985	Algeria	2
+1985	USSR	1
+1985	Thailand	1
+1985	Hungary	1
+1986	Zambia	423
+1986	Malawi	413
+1986	Lesotho	395
+1986	Mexico	359
+1986	Guatemala	342
+1986	Zimbabwe	336
+1986	South Africa	297
+1986	Kenya	276
+1986	Honduras	263
+1986	El Salvador	239
+1986	Cape Verde	233
+1986	United Republic of Tanzania	204
+1986	Botswana	199
+1986	Timor-Leste	183
+1986	Benin	168
+1986	Nicaragua	167
+1986	Albania	155
+1986	Egypt	141
+1986	Venezuela (Bolivarian Republic of)	139
+1986	Democratic People's Republic of Korea	134
+1986	Swaziland	123
+1986	Belize	119
+1986	Togo	113
+1986	Paraguay	108
+1986	Namibia	107
+1986	Mozambique	107
+1986	Brunei Darussalam	103
+1986	Angola	99
+1986	Cameroon	92
+1986	Nepal	90
+1986	Romania	85
+1986	Burundi	81
+1986	Haiti	78
+1986	Bolivia (Plurinational State of)	78
+1986	Israel	77
+1986	Indonesia	76
+1986	Ethiopia PDR	73
+1986	Côte d'Ivoire	73
+1986	Yugoslav SFR	69
+1986	Uruguay	69
+1986	Colombia	65
+1986	Nigeria	63
+1986	Costa Rica	63
+1986	Panama	62
+1986	Brazil	62
+1986	Mali	58
+1986	Philippines	52
+1986	Burkina Faso	50
+1986	Senegal	49
+1986	Ireland	49
+1986	Turkey	48
+1986	Japan	46
+1986	Ghana	46
+1986	Saint Vincent and the Grenadines	45
+1986	Gabon	45
+1986	Guinea	41
+1986	Uganda	40
+1986	Saudi Arabia	40
+1986	Morocco	40
+1986	Gambia	40
+1986	Central African Republic	40
+1986	Jamaica	39
+1986	Sao Tome and Principe	37
+1986	Madagascar	36
+1986	Rwanda	34
+1986	Peru	34
+1986	France	34
+1986	United States of America	33
+1986	Republic of Korea	30
+1986	Barbados	30
+1986	Congo	28
+1986	Lao People's Democratic Republic	27
+1986	Portugal	26
+1986	Guinea-Bissau	26
+1986	Ecuador	26
+1986	Denmark	25
+1986	India	21
+1986	Germany	21
+1986	Viet Nam	19
+1986	Djibouti	19
+1986	Pakistan	18
+1986	Comoros	18
+1986	Cambodia	15
+1986	Yemen	13
+1986	China	13
+1986	Chile	13
+1986	New Zealand	12
+1986	Myanmar	12
+1986	Argentina	12
+1986	Chad	11
+1986	Trinidad and Tobago	10
+1986	Saint Kitts and Nevis	10
+1986	Dominican Republic	10
+1986	Dominica	10
+1986	Canada	10
+1986	Antigua and Barbuda	10
+1986	United Kingdom	9
+1986	Sri Lanka	9
+1986	Mauritania	9
+1986	Italy	9
+1986	Grenada	9
+1986	Australia	9
+1986	Switzerland	8
+1986	Sierra Leone	8
+1986	Niger	8
+1986	Malaysia	8
+1986	Belgium-Luxembourg	8
+1986	Bahamas	8
+1986	Netherlands Antilles	7
+1986	Netherlands	7
+1986	Austria	7
+1986	Saint Lucia	6
+1986	Malta	5
+1986	Syrian Arab Republic	4
+1986	Sweden	4
+1986	Sudan (former)	4
+1986	Mauritius	4
+1986	Bulgaria	4
+1986	Greece	3
+1986	Algeria	3
+1986	Seychelles	2
+1986	Libya	2
+1986	Iran (Islamic Republic of)	2
+1986	Hungary	2
+1986	USSR	1
+1986	Thailand	1
+1986	Suriname	1
+1986	Spain	1
+1986	Norway	1
+1986	Fiji	1
+1987	Zambia	426
+1987	Malawi	416
+1987	Lesotho	410
+1987	Mexico	358
+1987	Guatemala	330
+1987	Zimbabwe	315
+1987	South Africa	291
+1987	Kenya	277
+1987	El Salvador	266
+1987	Honduras	262
+1987	Cape Verde	224
+1987	United Republic of Tanzania	217
+1987	Timor-Leste	189
+1987	Nicaragua	181
+1987	Botswana	180
+1987	Benin	163
+1987	Venezuela (Bolivarian Republic of)	158
+1987	Egypt	142
+1987	Democratic People's Republic of Korea	142
+1987	Albania	139
+1987	Namibia	119
+1987	Israel	106
+1987	Paraguay	98
+1987	Brunei Darussalam	95
+1987	Nepal	94
+1987	Romania	91
+1987	Cameroon	91
+1987	Panama	88
+1987	Costa Rica	86
+1987	Angola	85
+1987	Mozambique	84
+1987	Togo	83
+1987	Ethiopia PDR	83
+1987	Burundi	81
+1987	Nigeria	80
+1987	Belize	80
+1987	Uruguay	78
+1987	Haiti	76
+1987	Bolivia (Plurinational State of)	74
+1987	Côte d'Ivoire	68
+1987	Indonesia	65
+1987	Colombia	65
+1987	Yugoslav SFR	64
+1987	Brazil	61
+1987	Philippines	55
+1987	Mali	55
+1987	Swaziland	53
+1987	Senegal	51
+1987	Japan	48
+1987	Saint Vincent and the Grenadines	46
+1987	Central African Republic	46
+1987	Burkina Faso	46
+1987	Ireland	45
+1987	Ghana	45
+1987	Turkey	44
+1987	Jamaica	41
+1987	Morocco	40
+1987	Uganda	39
+1987	Saudi Arabia	39
+1987	Republic of Korea	37
+1987	United States of America	36
+1987	Sao Tome and Principe	35
+1987	Madagascar	34
+1987	France	34
+1987	Barbados	34
+1987	Rwanda	33
+1987	Guinea	32
+1987	Gabon	31
+1987	Peru	28
+1987	Portugal	27
+1987	Denmark	27
+1987	Guinea-Bissau	26
+1987	Congo	26
+1987	Lao People's Democratic Republic	24
+1987	Gambia	24
+1987	Ecuador	22
+1987	Germany	21
+1987	Pakistan	18
+1987	Comoros	17
+1987	Viet Nam	16
+1987	India	15
+1987	Argentina	15
+1987	Malaysia	14
+1987	Dominica	14
+1987	Djibouti	14
+1987	Yemen	13
+1987	Chile	13
+1987	China	12
+1987	New Zealand	11
+1987	Trinidad and Tobago	10
+1987	Saint Lucia	10
+1987	Jordan	10
+1987	Grenada	10
+1987	Dominican Republic	10
+1987	Antigua and Barbuda	10
+1987	United Kingdom	9
+1987	Switzerland	9
+1987	Seychelles	9
+1987	Netherlands	9
+1987	Canada	9
+1987	Cambodia	9
+1987	Australia	9
+1987	Saint Kitts and Nevis	8
+1987	Myanmar	8
+1987	Italy	8
+1987	Chad	8
+1987	Belgium-Luxembourg	8
+1987	Bahamas	8
+1987	Sierra Leone	7
+1987	Netherlands Antilles	7
+1987	Austria	7
+1987	Niger	6
+1987	Sweden	5
+1987	Malta	5
+1987	Hungary	5
+1987	United Arab Emirates	4
+1987	Syrian Arab Republic	4
+1987	Sudan (former)	4
+1987	Mauritius	4
+1987	Mauritania	4
+1987	Sri Lanka	3
+1987	Norway	3
+1987	Bulgaria	3
+1987	Suriname	2
+1987	Spain	2
+1987	Libya	2
+1987	Iran (Islamic Republic of)	2
+1987	Greece	2
+1987	Algeria	2
+1987	USSR	1
+1987	Thailand	1
+1987	Guyana	1
+1987	Fiji	1
+1988	Zambia	439
+1988	Malawi	423
+1988	Lesotho	380
+1988	Mexico	369
+1988	Guatemala	344
+1988	Zimbabwe	312
+1988	South Africa	273
+1988	Kenya	262
+1988	El Salvador	260
+1988	Honduras	253
+1988	Cape Verde	232
+1988	United Republic of Tanzania	230
+1988	Timor-Leste	194
+1988	Nicaragua	168
+1988	Venezuela (Bolivarian Republic of)	153
+1988	Egypt	147
+1988	Democratic People's Republic of Korea	143
+1988	Botswana	139
+1988	Albania	134
+1988	Mozambique	133
+1988	Brunei Darussalam	129
+1988	Benin	125
+1988	Togo	121
+1988	Namibia	117
+1988	Nepal	109
+1988	Paraguay	102
+1988	Nigeria	89
+1988	Romania	83
+1988	Ethiopia PDR	83
+1988	Cameroon	83
+1988	Panama	82
+1988	Indonesia	81
+1988	Burundi	80
+1988	Bolivia (Plurinational State of)	79
+1988	Swaziland	78
+1988	Uruguay	76
+1988	Angola	76
+1988	Haiti	74
+1988	Côte d'Ivoire	71
+1988	Colombia	70
+1988	Yugoslav SFR	65
+1988	Burkina Faso	61
+1988	Brazil	61
+1988	Belize	58
+1988	Philippines	54
+1988	Mali	51
+1988	Saudi Arabia	50
+1988	Senegal	49
+1988	Costa Rica	49
+1988	Saint Vincent and the Grenadines	48
+1988	Israel	48
+1988	Uganda	46
+1988	Japan	46
+1988	Jamaica	44
+1988	Turkey	41
+1988	Morocco	41
+1988	Central African Republic	41
+1988	Sao Tome and Principe	40
+1988	Ghana	40
+1988	Peru	38
+1988	Rwanda	37
+1988	United States of America	36
+1988	France	36
+1988	Republic of Korea	35
+1988	Ireland	35
+1988	Lao People's Democratic Republic	33
+1988	Barbados	32
+1988	Gabon	31
+1988	Madagascar	30
+1988	Gambia	29
+1988	Portugal	27
+1988	Denmark	27
+1988	Viet Nam	24
+1988	Guinea	24
+1988	Ecuador	23
+1988	India	22
+1988	Congo	22
+1988	Dominican Republic	21
+1988	Guinea-Bissau	20
+1988	Germany	19
+1988	Comoros	19
+1988	Pakistan	18
+1988	Argentina	15
+1988	Seychelles	14
+1988	Malaysia	14
+1988	Dominica	14
+1988	Chad	14
+1988	Yemen	13
+1988	China	12
+1988	New Zealand	11
+1988	Grenada	11
+1988	Switzerland	10
+1988	Saint Lucia	10
+1988	Mauritania	10
+1988	Chile	10
+1988	Australia	10
+1988	United Kingdom	9
+1988	Italy	9
+1988	Canada	9
+1988	Djibouti	8
+1988	Bahamas	8
+1988	Austria	8
+1988	Antigua and Barbuda	8
+1988	Trinidad and Tobago	7
+1988	Sierra Leone	7
+1988	Netherlands Antilles	7
+1988	Netherlands	7
+1988	Myanmar	7
+1988	Malta	6
+1988	Cambodia	6
+1988	Belgium-Luxembourg	6
+1988	Sweden	5
+1988	Sri Lanka	5
+1988	Hungary	5
+1988	Cyprus	5
+1988	Syrian Arab Republic	4
+1988	Sudan (former)	4
+1988	Niger	4
+1988	Mauritius	4
+1988	Bulgaria	3
+1988	United Arab Emirates	2
+1988	Suriname	2
+1988	Spain	2
+1988	Libya	2
+1988	Greece	2
+1988	Algeria	2
+1988	USSR	1
+1988	Thailand	1
+1988	Norway	1
+1988	Iran (Islamic Republic of)	1
+1988	Guyana	1
+1988	Fiji	1
+1989	Zambia	415
+1989	Malawi	413
+1989	Lesotho	373
+1989	Mexico	365
+1989	Zimbabwe	314
+1989	Guatemala	307
+1989	South Africa	306
+1989	El Salvador	265
+1989	Kenya	259
+1989	Honduras	258
+1989	United Republic of Tanzania	240
+1989	Cape Verde	237
+1989	Timor-Leste	201
+1989	Nicaragua	177
+1989	Benin	173
+1989	Venezuela (Bolivarian Republic of)	168
+1989	Togo	154
+1989	Democratic People's Republic of Korea	153
+1989	Egypt	144
+1989	Swaziland	123
+1989	Nepal	117
+1989	Mozambique	115
+1989	Brunei Darussalam	114
+1989	Botswana	114
+1989	Albania	106
+1989	Namibia	105
+1989	Paraguay	102
+1989	Romania	93
+1989	Cameroon	81
+1989	Ethiopia PDR	80
+1989	Nigeria	78
+1989	Burundi	77
+1989	Colombia	76
+1989	Belize	74
+1989	Israel	73
+1989	Bolivia (Plurinational State of)	71
+1989	Indonesia	70
+1989	Burkina Faso	70
+1989	Panama	68
+1989	Haiti	67
+1989	Côte d'Ivoire	66
+1989	Uruguay	65
+1989	Uganda	65
+1989	Yugoslav SFR	60
+1989	Brazil	60
+1989	Angola	59
+1989	Turkey	57
+1989	Japan	57
+1989	Philippines	53
+1989	Costa Rica	53
+1989	Central African Republic	49
+1989	Senegal	48
+1989	Saudi Arabia	48
+1989	Morocco	48
+1989	Mali	47
+1989	Saint Vincent and the Grenadines	45
+1989	Sao Tome and Principe	42
+1989	Gabon	41
+1989	Republic of Korea	39
+1989	Jamaica	39
+1989	Ghana	38
+1989	Rwanda	37
+1989	United States of America	36
+1989	Ireland	36
+1989	France	36
+1989	Peru	35
+1989	Denmark	32
+1989	Madagascar	30
+1989	Barbados	28
+1989	Gambia	27
+1989	Lao People's Democratic Republic	26
+1989	Guinea	26
+1989	India	25
+1989	Guinea-Bissau	24
+1989	Ecuador	24
+1989	Congo	23
+1989	Portugal	21
+1989	Comoros	21
+1989	Viet Nam	20
+1989	Seychelles	18
+1989	Pakistan	18
+1989	Germany	18
+1989	Dominica	15
+1989	Yemen	13
+1989	Malaysia	13
+1989	Argentina	13
+1989	China	12
+1989	Chile	12
+1989	New Zealand	11
+1989	Australia	11
+1989	Grenada	10
+1989	Dominican Republic	10
+1989	Cambodia	10
+1989	United Kingdom	9
+1989	Saint Lucia	9
+1989	Canada	9
+1989	Trinidad and Tobago	8
+1989	Netherlands	8
+1989	Malta	8
+1989	Italy	8
+1989	Bahamas	8
+1989	Austria	8
+1989	Antigua and Barbuda	8
+1989	Switzerland	7
+1989	Sri Lanka	7
+1989	Sierra Leone	7
+1989	Netherlands Antilles	7
+1989	Myanmar	7
+1989	Chad	7
+1989	Cyprus	6
+1989	Belgium-Luxembourg	6
+1989	Sweden	5
+1989	Greece	5
+1989	Djibouti	5
+1989	United Arab Emirates	4
+1989	Syrian Arab Republic	4
+1989	Sudan (former)	4
+1989	Mauritania	4
+1989	Hungary	4
+1989	Mauritius	3
+1989	Bulgaria	3
+1989	Algeria	3
+1989	Spain	2
+1989	Niger	2
+1989	Libya	2
+1989	Jordan	2
+1989	Iran (Islamic Republic of)	2
+1989	Fiji	2
+1989	USSR	1
+1989	Thailand	1
+1989	Suriname	1
+1989	Norway	1
+1989	Guyana	1
+1990	Malawi	398
+1990	Zambia	395
+1990	Lesotho	364
+1990	Mexico	348
+1990	Guatemala	327
+1990	Zimbabwe	313
+1990	South Africa	295
+1990	Honduras	276
+1990	Kenya	242
+1990	El Salvador	242
+1990	United Republic of Tanzania	217
+1990	Cape Verde	215
+1990	Timor-Leste	206
+1990	Benin	170
+1990	Egypt	155
+1990	Democratic People's Republic of Korea	153
+1990	Venezuela (Bolivarian Republic of)	149
+1990	Togo	143
+1990	Botswana	138
+1990	Nicaragua	129
+1990	Nepal	116
+1990	Swaziland	110
+1990	Mozambique	107
+1990	Paraguay	103
+1990	Namibia	97
+1990	Saint Vincent and the Grenadines	96
+1990	Romania	95
+1990	Burkina Faso	95
+1990	Bolivia (Plurinational State of)	95
+1990	Albania	95
+1990	Brunei Darussalam	91
+1990	Colombia	89
+1990	Nigeria	88
+1990	Cameroon	84
+1990	Sao Tome and Principe	83
+1990	Uruguay	77
+1990	Indonesia	77
+1990	Ethiopia PDR	77
+1990	Burundi	75
+1990	Seychelles	72
+1990	Peru	69
+1990	Côte d'Ivoire	65
+1990	Israel	64
+1990	Uganda	62
+1990	Panama	62
+1990	Angola	62
+1990	Yugoslav SFR	59
+1990	Brazil	59
+1990	Turkey	56
+1990	Costa Rica	56
+1990	Philippines	53
+1990	Japan	53
+1990	Haiti	53
+1990	Belize	52
+1990	Mali	48
+1990	Ghana	48
+1990	Gabon	48
+1990	Senegal	47
+1990	Morocco	45
+1990	Rwanda	41
+1990	Central African Republic	41
+1990	Lao People's Democratic Republic	39
+1990	Ireland	39
+1990	United States of America	36
+1990	Republic of Korea	36
+1990	France	36
+1990	Saudi Arabia	35
+1990	Jamaica	34
+1990	Denmark	33
+1990	Guinea-Bissau	32
+1990	Barbados	28
+1990	Guinea	27
+1990	Madagascar	26
+1990	Gambia	24
+1990	Portugal	21
+1990	India	21
+1990	Comoros	20
+1990	Cambodia	20
+1990	Viet Nam	19
+1990	Germany	18
+1990	Pakistan	17
+1990	Argentina	15
+1990	Chile	14
+1990	Yemen	13
+1990	Malaysia	12
+1990	Grenada	12
+1990	China	12
+1990	Australia	12
+1990	Sri Lanka	11
+1990	Ecuador	11
+1990	Dominica	11
+1990	Dominican Republic	10
+1990	Chad	10
+1990	Austria	10
+1990	United Kingdom	9
+1990	Canada	9
+1990	Trinidad and Tobago	8
+1990	Switzerland	8
+1990	Saint Lucia	8
+1990	New Zealand	8
+1990	Netherlands	8
+1990	Italy	8
+1990	Antigua and Barbuda	8
+1990	Netherlands Antilles	7
+1990	Malta	7
+1990	Greece	7
+1990	Cyprus	7
+1990	Congo	7
+1990	Belgium-Luxembourg	7
+1990	Bahamas	7
+1990	Myanmar	6
+1990	Sweden	5
+1990	Bulgaria	5
+1990	Syrian Arab Republic	4
+1990	Sudan (former)	4
+1990	Sierra Leone	4
+1990	Niger	4
+1990	Mauritius	4
+1990	Djibouti	4
+1990	United Arab Emirates	3
+1990	Spain	3
+1990	Mauritania	3
+1990	Fiji	3
+1990	Algeria	3
+1990	Suriname	2
+1990	Libya	2
+1990	Iran (Islamic Republic of)	2
+1990	Hungary	2
+1990	USSR	1
+1990	Thailand	1
+1990	Norway	1
+1990	Jordan	1
+1990	Guyana	1
+1991	Lesotho	427
+1991	Malawi	388
+1991	Zambia	387
+1991	Mexico	353
+1991	Guatemala	325
+1991	Zimbabwe	313
+1991	South Africa	295
+1991	Honduras	271
+1991	Kenya	240
+1991	El Salvador	238
+1991	Timor-Leste	214
+1991	United Republic of Tanzania	211
+1991	Cape Verde	195
+1991	Democratic People's Republic of Korea	161
+1991	Togo	157
+1991	Benin	156
+1991	Egypt	155
+1991	Venezuela (Bolivarian Republic of)	148
+1991	Nicaragua	134
+1991	Romania	125
+1991	Namibia	125
+1991	Botswana	123
+1991	Swaziland	116
+1991	Mozambique	114
+1991	Bolivia (Plurinational State of)	113
+1991	Nepal	110
+1991	Cameroon	104
+1991	Sao Tome and Principe	103
+1991	Brunei Darussalam	103
+1991	Burkina Faso	102
+1991	Saint Vincent and the Grenadines	95
+1991	Paraguay	94
+1991	Colombia	90
+1991	Nigeria	87
+1991	Peru	81
+1991	Seychelles	79
+1991	Angola	77
+1991	Uruguay	76
+1991	Indonesia	75
+1991	Burundi	75
+1991	Panama	72
+1991	Ethiopia PDR	69
+1991	Costa Rica	69
+1991	Côte d'Ivoire	68
+1991	Haiti	61
+1991	Israel	59
+1991	Brazil	59
+1991	Uganda	58
+1991	Japan	56
+1991	Central African Republic	56
+1991	Yugoslav SFR	53
+1991	Philippines	51
+1991	Belize	51
+1991	Mali	49
+1991	Ghana	43
+1991	Gabon	42
+1991	Albania	41
+1991	Rwanda	40
+1991	Morocco	39
+1991	Senegal	38
+1991	France	38
+1991	United States of America	37
+1991	Turkey	37
+1991	Lao People's Democratic Republic	37
+1991	Republic of Korea	35
+1991	Netherlands Antilles	33
+1991	Ireland	32
+1991	Guinea-Bissau	30
+1991	Jamaica	29
+1991	Madagascar	27
+1991	Guinea	27
+1991	Denmark	27
+1991	Barbados	27
+1991	Portugal	21
+1991	Germany	21
+1991	Gambia	21
+1991	Yemen	20
+1991	Pakistan	17
+1991	Chad	17
+1991	India	16
+1991	Comoros	16
+1991	Viet Nam	14
+1991	Austria	14
+1991	Ecuador	13
+1991	Dominican Republic	13
+1991	Dominica	13
+1991	China	13
+1991	Sri Lanka	12
+1991	Malaysia	12
+1991	Australia	12
+1991	Argentina	12
+1991	Grenada	11
+1991	Chile	11
+1991	Trinidad and Tobago	10
+1991	Canada	10
+1991	United Kingdom	9
+1991	Italy	9
+1991	Saint Lucia	8
+1991	New Zealand	8
+1991	Antigua and Barbuda	8
+1991	Switzerland	7
+1991	Netherlands	7
+1991	Djibouti	7
+1991	Cyprus	7
+1991	Cambodia	7
+1991	Bahamas	7
+1991	Malta	6
+1991	Belgium-Luxembourg	6
+1991	Sweden	5
+1991	Sudan (former)	5
+1991	Greece	5
+1991	Congo	5
+1991	Bulgaria	5
+1991	Syrian Arab Republic	4
+1991	Spain	4
+1991	Sierra Leone	4
+1991	Saudi Arabia	4
+1991	Myanmar	4
+1991	Mauritius	4
+1991	United Arab Emirates	3
+1991	Fiji	3
+1991	Norway	2
+1991	Niger	2
+1991	Mauritania	2
+1991	Libya	2
+1991	Iran (Islamic Republic of)	2
+1991	Hungary	2
+1991	Algeria	2
+1991	USSR	1
+1991	Thailand	1
+1991	Suriname	1
+1991	Jordan	1
+1991	Guyana	1
+1992	Lesotho	394
+1992	Zambia	383
+1992	Malawi	356
+1992	Mexico	341
+1992	Zimbabwe	322
+1992	South Africa	297
+1992	Guatemala	294
+1992	Bosnia and Herzegovina	267
+1992	Honduras	257
+1992	Kenya	248
+1992	El Salvador	236
+1992	Timor-Leste	227
+1992	Cape Verde	226
+1992	United Republic of Tanzania	210
+1992	Benin	158
+1992	Venezuela (Bolivarian Republic of)	154
+1992	Egypt	154
+1992	Democratic People's Republic of Korea	149
+1992	Namibia	143
+1992	Togo	136
+1992	Romania	136
+1992	Mozambique	136
+1992	Nepal	120
+1992	Swaziland	114
+1992	Paraguay	112
+1992	Cameroon	111
+1992	Nicaragua	110
+1992	Sao Tome and Principe	103
+1992	Botswana	98
+1992	Colombia	96
+1992	Saint Vincent and the Grenadines	95
+1992	Brunei Darussalam	90
+1992	Nigeria	85
+1992	Peru	82
+1992	Slovenia	80
+1992	Panama	80
+1992	Indonesia	79
+1992	Israel	76
+1992	Bolivia (Plurinational State of)	75
+1992	Seychelles	74
+1992	Côte d'Ivoire	73
+1992	Burkina Faso	73
+1992	Ethiopia PDR	72
+1992	Burundi	70
+1992	Angola	70
+1992	Haiti	69
+1992	Netherlands Antilles	64
+1992	Brazil	60
+1992	Uganda	58
+1992	Georgia	57
+1992	Central African Republic	57
+1992	Ghana	56
+1992	Uruguay	53
+1992	Japan	53
+1992	Costa Rica	50
+1992	Philippines	48
+1992	Mali	48
+1992	Rwanda	47
+1992	Serbia and Montenegro	46
+1992	Senegal	41
+1992	Belize	41
+1992	Turkey	39
+1992	Republic of Korea	38
+1992	Morocco	38
+1992	France	38
+1992	United States of America	37
+1992	Denmark	34
+1992	Ireland	32
+1992	Gambia	32
+1992	Chad	30
+1992	Barbados	30
+1992	Lao People's Democratic Republic	29
+1992	Madagascar	28
+1992	Guinea	28
+1992	Republic of Moldova	25
+1992	Jamaica	25
+1992	Yemen	23
+1992	Ukraine	23
+1992	Guinea-Bissau	23
+1992	Gabon	23
+1992	Uzbekistan	22
+1992	Portugal	22
+1992	Germany	20
+1992	India	19
+1992	Albania	17
+1992	Viet Nam	16
+1992	Pakistan	16
+1992	Comoros	15
+1992	Chile	15
+1992	China	14
+1992	Argentina	14
+1992	Australia	13
+1992	Saudi Arabia	12
+1992	Malaysia	12
+1992	Grenada	12
+1992	Ecuador	12
+1992	Dominica	12
+1992	Cambodia	12
+1992	Austria	12
+1992	Trinidad and Tobago	11
+1992	Sri Lanka	10
+1992	United Kingdom	9
+1992	Italy	9
+1992	Dominican Republic	9
+1992	Croatia	9
+1992	Canada	9
+1992	Netherlands	8
+1992	Malta	8
+1992	Cuba	8
+1992	Antigua and Barbuda	8
+1992	The former Yugoslav Republic of Macedonia	7
+1992	Switzerland	7
+1992	Cyprus	7
+1992	Congo	7
+1992	Saint Lucia	6
+1992	Djibouti	6
+1992	Belgium-Luxembourg	6
+1992	Sweden	5
+1992	Myanmar	5
+1992	Mauritius	5
+1992	Greece	5
+1992	Bahamas	5
+1992	Algeria	5
+1992	Syrian Arab Republic	4
+1992	Sudan (former)	4
+1992	Spain	4
+1992	New Zealand	4
+1992	Mauritania	4
+1992	Fiji	4
+1992	Bulgaria	4
+1992	Sierra Leone	3
+1992	Niger	3
+1992	Hungary	3
+1992	United Arab Emirates	2
+1992	Suriname	2
+1992	Norway	2
+1992	Libya	2
+1992	Kazakhstan	2
+1992	Iran (Islamic Republic of)	2
+1992	Thailand	1
+1992	Russian Federation	1
+1992	Jordan	1
+1992	Guyana	1
+1993	Malawi	380
+1993	Zambia	366
+1993	Lesotho	356
+1993	Mexico	339
+1993	Guatemala	330
+1993	Zimbabwe	317
+1993	South Africa	315
+1993	Bosnia and Herzegovina	259
+1993	Honduras	250
+1993	Timor-Leste	234
+1993	Kenya	232
+1993	El Salvador	232
+1993	Cape Verde	230
+1993	United Republic of Tanzania	204
+1993	Togo	176
+1993	Democratic People's Republic of Korea	176
+1993	Egypt	160
+1993	Benin	159
+1993	Namibia	146
+1993	Venezuela (Bolivarian Republic of)	144
+1993	Romania	143
+1993	Mozambique	134
+1993	Swaziland	132
+1993	Nicaragua	118
+1993	Saint Vincent and the Grenadines	116
+1993	Paraguay	112
+1993	Nepal	112
+1993	Sao Tome and Principe	103
+1993	Colombia	102
+1993	Ethiopia	101
+1993	Cameroon	95
+1993	Nigeria	90
+1993	Panama	85
+1993	Indonesia	85
+1993	Burkina Faso	84
+1993	Slovenia	82
+1993	Angola	82
+1993	Israel	81
+1993	Bolivia (Plurinational State of)	80
+1993	Seychelles	79
+1993	Peru	77
+1993	Botswana	74
+1993	Côte d'Ivoire	71
+1993	Saudi Arabia	70
+1993	Burundi	67
+1993	Brunei Darussalam	65
+1993	Haiti	64
+1993	The former Yugoslav Republic of Macedonia	63
+1993	Ghana	62
+1993	Central African Republic	60
+1993	Brazil	60
+1993	Mali	59
+1993	Uganda	58
+1993	Georgia	58
+1993	Uruguay	55
+1993	Rwanda	51
+1993	Japan	50
+1993	Costa Rica	46
+1993	Serbia and Montenegro	43
+1993	Netherlands Antilles	43
+1993	Belize	43
+1993	Senegal	40
+1993	Turkey	39
+1993	Republic of Korea	39
+1993	Morocco	38
+1993	Uzbekistan	37
+1993	United States of America	37
+1993	Philippines	37
+1993	Denmark	36
+1993	France	35
+1993	Barbados	34
+1993	Ireland	33
+1993	Ukraine	30
+1993	Madagascar	28
+1993	Gambia	28
+1993	Dominican Republic	28
+1993	Guinea-Bissau	26
+1993	Guinea	26
+1993	Saint Kitts and Nevis	25
+1993	Republic of Moldova	25
+1993	Viet Nam	22
+1993	Jamaica	22
+1993	Portugal	21
+1993	Lao People's Democratic Republic	21
+1993	Gabon	21
+1993	Argentina	21
+1993	Chad	20
+1993	Chile	19
+1993	Yemen	18
+1993	Germany	17
+1993	Albania	17
+1993	Pakistan	16
+1993	Dominica	16
+1993	India	15
+1993	Eritrea	15
+1993	Comoros	15
+1993	China	15
+1993	Malaysia	14
+1993	Grenada	13
+1993	Ecuador	13
+1993	Croatia	13
+1993	Austria	12
+1993	Australia	12
+1993	Trinidad and Tobago	10
+1993	Sri Lanka	10
+1993	United Kingdom	9
+1993	Mauritania	9
+1993	Italy	9
+1993	Canada	9
+1993	Cambodia	9
+1993	New Zealand	8
+1993	Netherlands	8
+1993	Malta	8
+1993	Cuba	8
+1993	Antigua and Barbuda	8
+1993	Algeria	8
+1993	Saint Lucia	7
+1993	Cyprus	7
+1993	Switzerland	6
+1993	Sweden	6
+1993	Mauritius	6
+1993	Djibouti	6
+1993	Belgium-Luxembourg	6
+1993	Bahamas	6
+1993	Myanmar	5
+1993	Greece	5
+1993	Congo	5
+1993	Syrian Arab Republic	4
+1993	Sudan (former)	4
+1993	Spain	4
+1993	Bulgaria	4
+1993	Sierra Leone	3
+1993	Niger	3
+1993	United Arab Emirates	2
+1993	Suriname	2
+1993	Libya	2
+1993	Kazakhstan	2
+1993	Hungary	2
+1993	Fiji	2
+1993	Thailand	1
+1993	Russian Federation	1
+1993	Maldives	1
+1993	Iran (Islamic Republic of)	1
+1993	Guyana	1
+1994	Zambia	383
+1994	Malawi	381
+1994	Lesotho	377
+1994	Mexico	332
+1994	Guatemala	324
+1994	Zimbabwe	309
+1994	South Africa	298
+1994	Kenya	255
+1994	Honduras	248
+1994	Bosnia and Herzegovina	248
+1994	Timor-Leste	244
+1994	El Salvador	232
+1994	Togo	200
+1994	United Republic of Tanzania	197
+1994	Democratic People's Republic of Korea	168
+1994	Cape Verde	166
+1994	Benin	164
+1994	Venezuela (Bolivarian Republic of)	156
+1994	Egypt	155
+1994	Swaziland	143
+1994	Romania	140
+1994	Namibia	140
+1994	Mozambique	134
+1994	Paraguay	117
+1994	Nicaragua	115
+1994	Nepal	112
+1994	Botswana	107
+1994	Saint Vincent and the Grenadines	106
+1994	Cameroon	102
+1994	Ethiopia	100
+1994	Colombia	100
+1994	Nigeria	97
+1994	Slovenia	94
+1994	The former Yugoslav Republic of Macedonia	93
+1994	Panama	89
+1994	Indonesia	88
+1994	Bolivia (Plurinational State of)	81
+1994	Seychelles	80
+1994	Sao Tome and Principe	78
+1994	Angola	76
+1994	Saudi Arabia	73
+1994	Côte d'Ivoire	70
+1994	Brunei Darussalam	67
+1994	Peru	66
+1994	Central African Republic	66
+1994	Uganda	65
+1994	Israel	65
+1994	Haiti	65
+1994	Burundi	65
+1994	Uruguay	61
+1994	Burkina Faso	60
+1994	Georgia	59
+1994	Rwanda	58
+1994	Mali	58
+1994	Ghana	58
+1994	Brazil	56
+1994	Chad	55
+1994	Belize	54
+1994	Philippines	52
+1994	Japan	46
+1994	Serbia and Montenegro	44
+1994	Netherlands Antilles	43
+1994	Ireland	42
+1994	Morocco	40
+1994	Republic of Korea	38
+1994	United States of America	37
+1994	Senegal	35
+1994	France	35
+1994	Barbados	34
+1994	Denmark	33
+1994	Gambia	32
+1994	Dominican Republic	30
+1994	Republic of Moldova	28
+1994	Madagascar	28
+1994	Guinea-Bissau	27
+1994	Turkey	24
+1994	Lao People's Democratic Republic	24
+1994	Guinea	24
+1994	Costa Rica	24
+1994	Viet Nam	23
+1994	Uzbekistan	23
+1994	Austria	23
+1994	Saint Kitts and Nevis	22
+1994	Portugal	22
+1994	Gabon	22
+1994	Chile	22
+1994	Ukraine	21
+1994	Jamaica	21
+1994	Germany	18
+1994	Pakistan	17
+1994	China	17
+1994	Albania	17
+1994	Eritrea	15
+1994	Croatia	15
+1994	Comoros	15
+1994	Yemen	13
+1994	Malaysia	13
+1994	Trinidad and Tobago	12
+1994	India	12
+1994	Grenada	12
+1994	Dominica	12
+1994	Australia	12
+1994	Ecuador	11
+1994	Canada	11
+1994	Italy	10
+1994	Argentina	10
+1994	United Kingdom	9
+1994	Cambodia	9
+1994	Sri Lanka	8
+1994	Netherlands	8
+1994	Mauritania	8
+1994	Bulgaria	8
+1994	Antigua and Barbuda	8
+1994	Algeria	8
+1994	New Zealand	7
+1994	Malta	7
+1994	Liberia	7
+1994	Djibouti	7
+1994	Switzerland	6
+1994	Sweden	6
+1994	Saint Lucia	6
+1994	Mauritius	6
+1994	Cyprus	6
+1994	Cuba	6
+1994	Bahamas	6
+1994	Syrian Arab Republic	5
+1994	Myanmar	5
+1994	Greece	5
+1994	Congo	5
+1994	Belgium-Luxembourg	5
+1994	Sudan (former)	4
+1994	Spain	4
+1994	Sierra Leone	4
+1994	Niger	3
+1994	Fiji	3
+1994	United Arab Emirates	2
+1994	Suriname	2
+1994	Libya	2
+1994	Kazakhstan	2
+1994	Jordan	2
+1994	Iran (Islamic Republic of)	2
+1994	Hungary	2
+1994	Thailand	1
+1994	Russian Federation	1
+1994	Maldives	1
+1994	Guyana	1
+1995	Zambia	403
+1995	Malawi	393
+1995	Lesotho	369
+1995	Mexico	348
+1995	Zimbabwe	315
+1995	Guatemala	304
+1995	South Africa	286
+1995	Kenya	258
+1995	Honduras	256
+1995	Timor-Leste	251
+1995	El Salvador	249
+1995	Bosnia and Herzegovina	221
+1995	United Republic of Tanzania	204
+1995	Togo	197
+1995	Venezuela (Bolivarian Republic of)	157
+1995	Namibia	154
+1995	Egypt	152
+1995	Swaziland	149
+1995	Benin	148
+1995	Mozambique	133
+1995	Botswana	133
+1995	Democratic People's Republic of Korea	127
+1995	Saudi Arabia	125
+1995	Nicaragua	124
+1995	Cape Verde	122
+1995	Paraguay	112
+1995	Nepal	112
+1995	Bolivia (Plurinational State of)	112
+1995	Romania	107
+1995	Cameroon	105
+1995	Colombia	100
+1995	Saint Vincent and the Grenadines	99
+1995	Ethiopia	99
+1995	Nigeria	95
+1995	Panama	91
+1995	Indonesia	90
+1995	Burkina Faso	90
+1995	Slovenia	89
+1995	Brunei Darussalam	86
+1995	Sao Tome and Principe	78
+1995	Seychelles	75
+1995	Angola	75
+1995	Côte d'Ivoire	74
+1995	Uganda	70
+1995	Peru	70
+1995	Haiti	64
+1995	The former Yugoslav Republic of Macedonia	62
+1995	Burundi	62
+1995	Ghana	60
+1995	Rwanda	59
+1995	Central African Republic	59
+1995	Netherlands Antilles	58
+1995	Mali	57
+1995	Uruguay	56
+1995	Israel	56
+1995	Georgia	53
+1995	Brazil	52
+1995	Belize	52
+1995	Morocco	51
+1995	Ireland	48
+1995	Republic of Korea	46
+1995	Serbia and Montenegro	43
+1995	Japan	42
+1995	Uzbekistan	40
+1995	United States of America	38
+1995	Denmark	38
+1995	Turkey	37
+1995	France	35
+1995	Barbados	35
+1995	Senegal	33
+1995	Gabon	32
+1995	Philippines	31
+1995	Madagascar	31
+1995	Guinea-Bissau	31
+1995	Austria	29
+1995	Ukraine	28
+1995	Republic of Moldova	28
+1995	Guinea	27
+1995	Costa Rica	25
+1995	Chile	23
+1995	Pakistan	22
+1995	Liberia	21
+1995	Germany	21
+1995	Estonia	21
+1995	Chad	21
+1995	Lao People's Democratic Republic	20
+1995	Gambia	20
+1995	Dominican Republic	19
+1995	China	19
+1995	Jamaica	18
+1995	Viet Nam	17
+1995	Portugal	17
+1995	Argentina	17
+1995	Croatia	16
+1995	Saint Kitts and Nevis	15
+1995	Eritrea	15
+1995	Comoros	15
+1995	Malaysia	14
+1995	Djibouti	14
+1995	India	13
+1995	Trinidad and Tobago	12
+1995	Grenada	12
+1995	Australia	12
+1995	Congo	11
+1995	Canada	11
+1995	Cambodia	11
+1995	Bahamas	11
+1995	Yemen	10
+1995	Switzerland	10
+1995	Italy	10
+1995	Ecuador	10
+1995	United Kingdom	9
+1995	Myanmar	9
+1995	Dominica	9
+1995	Bulgaria	9
+1995	Algeria	9
+1995	Albania	9
+1995	Sri Lanka	7
+1995	Saint Lucia	7
+1995	Netherlands	7
+1995	Malta	7
+1995	Cuba	7
+1995	Sweden	6
+1995	Niger	6
+1995	Mauritius	6
+1995	Cyprus	6
+1995	Belgium-Luxembourg	6
+1995	Antigua and Barbuda	6
+1995	Tajikistan	5
+1995	Syrian Arab Republic	5
+1995	New Zealand	5
+1995	Greece	5
+1995	Sudan (former)	4
+1995	Spain	4
+1995	Mauritania	4
+1995	Sierra Leone	3
+1995	Fiji	3
+1995	United Arab Emirates	2
+1995	Suriname	2
+1995	Libya	2
+1995	Kazakhstan	2
+1995	Jordan	2
+1995	Iran (Islamic Republic of)	2
+1995	Hungary	2
+1995	Thailand	1
+1995	Russian Federation	1
+1995	Latvia	1
+1995	Guyana	1
+1996	Zambia	394
+1996	Lesotho	383
+1996	Malawi	378
+1996	Mexico	348
+1996	Zimbabwe	315
+1996	Guatemala	305
+1996	South Africa	287
+1996	Kenya	253
+1996	Timor-Leste	251
+1996	Bosnia and Herzegovina	250
+1996	El Salvador	240
+1996	Honduras	230
+1996	United Republic of Tanzania	207
+1996	Swaziland	180
+1996	Benin	166
+1996	Venezuela (Bolivarian Republic of)	165
+1996	Namibia	161
+1996	Togo	156
+1996	Egypt	149
+1996	Mozambique	148
+1996	Cape Verde	147
+1996	Nicaragua	134
+1996	Democratic People's Republic of Korea	129
+1996	Paraguay	121
+1996	Bolivia (Plurinational State of)	119
+1996	Nepal	112
+1996	Cameroon	111
+1996	Romania	109
+1996	Ethiopia	106
+1996	Colombia	105
+1996	Botswana	105
+1996	Saudi Arabia	103
+1996	Indonesia	92
+1996	Brunei Darussalam	90
+1996	Angola	90
+1996	Uganda	86
+1996	Panama	86
+1996	Slovenia	85
+1996	Sao Tome and Principe	78
+1996	Seychelles	75
+1996	Nigeria	75
+1996	Central African Republic	74
+1996	Saint Vincent and the Grenadines	73
+1996	Côte d'Ivoire	73
+1996	Haiti	65
+1996	Peru	61
+1996	Burundi	60
+1996	Burkina Faso	60
+1996	Mali	59
+1996	Netherlands Antilles	58
+1996	Ghana	57
+1996	Morocco	55
+1996	Georgia	55
+1996	The former Yugoslav Republic of Macedonia	53
+1996	Israel	53
+1996	Brazil	51
+1996	Belize	51
+1996	Uruguay	50
+1996	Rwanda	49
+1996	Republic of Korea	49
+1996	Ireland	48
+1996	Japan	45
+1996	Serbia and Montenegro	43
+1996	Turkey	42
+1996	United States of America	38
+1996	Barbados	37
+1996	Lao People's Democratic Republic	36
+1996	France	35
+1996	Gabon	33
+1996	Madagascar	31
+1996	Austria	31
+1996	Senegal	29
+1996	Republic of Moldova	27
+1996	Denmark	27
+1996	Chad	27
+1996	Guinea	25
+1996	Uzbekistan	23
+1996	Ukraine	23
+1996	Philippines	23
+1996	Pakistan	22
+1996	Dominican Republic	22
+1996	China	22
+1996	Croatia	20
+1996	Germany	19
+1996	Chile	19
+1996	Canada	19
+1996	Algeria	19
+1996	Portugal	18
+1996	Jamaica	18
+1996	Gambia	18
+1996	Costa Rica	18
+1996	Guinea-Bissau	17
+1996	Argentina	17
+1996	Djibouti	16
+1996	Mauritania	15
+1996	India	15
+1996	Eritrea	15
+1996	Malaysia	14
+1996	Grenada	14
+1996	Comoros	14
+1996	Trinidad and Tobago	13
+1996	Dominica	13
+1996	Switzerland	12
+1996	Bahamas	12
+1996	Australia	12
+1996	Viet Nam	11
+1996	Bulgaria	11
+1996	Malta	10
+1996	Italy	10
+1996	Ecuador	10
+1996	Congo	10
+1996	Cambodia	10
+1996	Yemen	9
+1996	United Kingdom	9
+1996	Estonia	9
+1996	Albania	9
+1996	Belgium-Luxembourg	8
+1996	Tajikistan	7
+1996	Saint Kitts and Nevis	7
+1996	Netherlands	7
+1996	Mauritius	7
+1996	Cuba	7
+1996	Sweden	6
+1996	Sri Lanka	6
+1996	Saint Lucia	6
+1996	Liberia	6
+1996	Cyprus	6
+1996	Antigua and Barbuda	6
+1996	Syrian Arab Republic	5
+1996	Sudan (former)	5
+1996	Sierra Leone	5
+1996	Niger	5
+1996	Spain	4
+1996	Myanmar	4
+1996	Greece	4
+1996	Occupied Palestinian Territory 	3
+1996	New Zealand	3
+1996	Libya	3
+1996	United Arab Emirates	2
+1996	Suriname	2
+1996	Kazakhstan	2
+1996	Jordan	2
+1996	Iran (Islamic Republic of)	2
+1996	Hungary	2
+1996	Fiji	2
+1996	Thailand	1
+1996	Russian Federation	1
+1996	Lithuania	1
+1996	Guyana	1
+1997	Lesotho	391
+1997	Malawi	371
+1997	Zambia	365
+1997	Mexico	342
+1997	Zimbabwe	309
+1997	South Africa	281
+1997	Bosnia and Herzegovina	280
+1997	Guatemala	263
+1997	Kenya	256
+1997	Timor-Leste	239
+1997	El Salvador	228
+1997	Honduras	202
+1997	Swaziland	201
+1997	Benin	187
+1997	Togo	181
+1997	United Republic of Tanzania	176
+1997	Cape Verde	158
+1997	Egypt	157
+1997	Mozambique	154
+1997	Venezuela (Bolivarian Republic of)	147
+1997	Paraguay	132
+1997	Namibia	131
+1997	Democratic People's Republic of Korea	131
+1997	Nicaragua	122
+1997	Bolivia (Plurinational State of)	121
+1997	Romania	113
+1997	Colombia	111
+1997	Ethiopia	110
+1997	Nepal	108
+1997	Cameroon	107
+1997	Botswana	107
+1997	Angola	96
+1997	Indonesia	95
+1997	Panama	89
+1997	Burkina Faso	87
+1997	Peru	85
+1997	Brunei Darussalam	85
+1997	Uganda	84
+1997	Seychelles	81
+1997	Slovenia	78
+1997	Saudi Arabia	77
+1997	Morocco	77
+1997	Sao Tome and Principe	73
+1997	Côte d'Ivoire	70
+1997	Nigeria	68
+1997	Mali	65
+1997	Haiti	65
+1997	The former Yugoslav Republic of Macedonia	62
+1997	Burundi	61
+1997	Ghana	56
+1997	Georgia	54
+1997	Central African Republic	54
+1997	Brazil	53
+1997	Republic of Korea	52
+1997	Belize	51
+1997	Uruguay	49
+1997	Israel	49
+1997	Ireland	48
+1997	Japan	46
+1997	Serbia and Montenegro	43
+1997	Chile	43
+1997	Turkey	42
+1997	United States of America	38
+1997	Rwanda	37
+1997	Lao People's Democratic Republic	37
+1997	France	36
+1997	Barbados	33
+1997	Austria	33
+1997	Guinea	31
+1997	Chad	31
+1997	Canada	31
+1997	Guinea-Bissau	30
+1997	Philippines	29
+1997	Netherlands Antilles	29
+1997	Madagascar	29
+1997	Gabon	29
+1997	Senegal	28
+1997	Croatia	28
+1997	Republic of Moldova	27
+1997	Denmark	27
+1997	Liberia	24
+1997	Saint Vincent and the Grenadines	23
+1997	Pakistan	22
+1997	Dominican Republic	21
+1997	Ukraine	19
+1997	Germany	19
+1997	Uzbekistan	17
+1997	Portugal	17
+1997	Costa Rica	17
+1997	China	17
+1997	Argentina	17
+1997	Trinidad and Tobago	16
+1997	Switzerland	16
+1997	Jamaica	16
+1997	Viet Nam	15
+1997	Grenada	15
+1997	India	14
+1997	Eritrea	14
+1997	Ecuador	14
+1997	Comoros	14
+1997	Niger	13
+1997	Gambia	13
+1997	Australia	13
+1997	Yemen	12
+1997	Mauritania	12
+1997	Malaysia	12
+1997	Bulgaria	12
+1997	Bahamas	12
+1997	Algeria	12
+1997	Congo	11
+1997	Malta	10
+1997	Italy	10
+1997	Dominica	10
+1997	United Kingdom	9
+1997	Myanmar	9
+1997	Cuba	9
+1997	New Zealand	8
+1997	Cambodia	8
+1997	Tajikistan	7
+1997	Saint Kitts and Nevis	7
+1997	Netherlands	7
+1997	Albania	7
+1997	Syrian Arab Republic	6
+1997	Sweden	6
+1997	Saint Lucia	6
+1997	Mauritius	6
+1997	Djibouti	6
+1997	Cyprus	6
+1997	Belgium-Luxembourg	6
+1997	Antigua and Barbuda	6
+1997	Sudan (former)	5
+1997	Sierra Leone	5
+1997	Sri Lanka	4
+1997	Spain	4
+1997	Greece	4
+1997	Libya	3
+1997	Kazakhstan	3
+1997	Jordan	3
+1997	Iran (Islamic Republic of)	3
+1997	Guyana	3
+1997	Fiji	3
+1997	United Arab Emirates	2
+1997	Suriname	2
+1997	Hungary	2
+1997	Estonia	2
+1997	Azerbaijan	2
+1997	Thailand	1
+1997	Russian Federation	1
+1997	Occupied Palestinian Territory 	1
+1997	Maldives	1
+1997	Lithuania	1
+1997	Latvia	1
+1998	Lesotho	397
+1998	Malawi	374
+1998	Zambia	362
+1998	Mexico	349
+1998	Zimbabwe	310
+1998	South Africa	293
+1998	Bosnia and Herzegovina	271
+1998	Guatemala	260
+1998	Kenya	246
+1998	Honduras	226
+1998	El Salvador	219
+1998	Timor-Leste	215
+1998	United Republic of Tanzania	206
+1998	Swaziland	206
+1998	Benin	186
+1998	Togo	175
+1998	Egypt	161
+1998	Mozambique	152
+1998	Paraguay	143
+1998	Cape Verde	143
+1998	Venezuela (Bolivarian Republic of)	131
+1998	Namibia	128
+1998	Democratic People's Republic of Korea	128
+1998	Bolivia (Plurinational State of)	115
+1998	Nicaragua	114
+1998	Botswana	114
+1998	Colombia	111
+1998	Ethiopia	110
+1998	Nepal	109
+1998	Romania	108
+1998	Cameroon	108
+1998	Angola	95
+1998	Indonesia	94
+1998	Burkina Faso	92
+1998	Morocco	80
+1998	Slovenia	77
+1998	Seychelles	74
+1998	Uganda	73
+1998	Brunei Darussalam	72
+1998	Panama	70
+1998	Côte d'Ivoire	70
+1998	Mali	66
+1998	Nigeria	65
+1998	Haiti	64
+1998	Peru	60
+1998	Burundi	58
+1998	Saudi Arabia	57
+1998	Central African Republic	57
+1998	Georgia	55
+1998	Ghana	54
+1998	The former Yugoslav Republic of Macedonia	52
+1998	Belize	52
+1998	Uruguay	51
+1998	Israel	51
+1998	Japan	48
+1998	Chad	48
+1998	Ireland	47
+1998	Republic of Korea	46
+1998	Brazil	46
+1998	Sao Tome and Principe	45
+1998	Serbia and Montenegro	43
+1998	Turkey	42
+1998	Lao People's Democratic Republic	41
+1998	Chile	40
+1998	Austria	39
+1998	United States of America	38
+1998	Barbados	37
+1998	France	35
+1998	Croatia	33
+1998	Senegal	30
+1998	Netherlands Antilles	30
+1998	Canada	30
+1998	Ukraine	28
+1998	Rwanda	28
+1998	Guinea-Bissau	28
+1998	Republic of Moldova	26
+1998	Niger	25
+1998	Madagascar	25
+1998	Liberia	25
+1998	Guinea	25
+1998	Philippines	24
+1998	Gabon	24
+1998	Saint Vincent and the Grenadines	23
+1998	Denmark	23
+1998	Germany	20
+1998	Dominican Republic	20
+1998	Viet Nam	19
+1998	China	19
+1998	Bulgaria	19
+1998	Argentina	19
+1998	Portugal	18
+1998	New Zealand	18
+1998	Jamaica	18
+1998	Switzerland	17
+1998	Pakistan	17
+1998	Trinidad and Tobago	16
+1998	Grenada	16
+1998	Gambia	16
+1998	India	15
+1998	Estonia	15
+1998	Congo	15
+1998	Comoros	14
+1998	Bahamas	14
+1998	Malaysia	13
+1998	Ecuador	13
+1998	Cuba	13
+1998	Australia	13
+1998	Yemen	12
+1998	Uzbekistan	12
+1998	Eritrea	12
+1998	Costa Rica	12
+1998	Mauritania	11
+1998	Malta	11
+1998	Cambodia	11
+1998	United Kingdom	10
+1998	Netherlands	10
+1998	Italy	10
+1998	Dominica	10
+1998	Tajikistan	9
+1998	Sri Lanka	9
+1998	Kuwait	8
+1998	Djibouti	8
+1998	Sierra Leone	7
+1998	Antigua and Barbuda	7
+1998	Albania	7
+1998	Syrian Arab Republic	6
+1998	Saint Lucia	6
+1998	Mauritius	6
+1998	Cyprus	6
+1998	Belgium-Luxembourg	6
+1998	Sweden	5
+1998	Guyana	5
+1998	Thailand	4
+1998	Spain	4
+1998	Saint Kitts and Nevis	4
+1998	Greece	4
+1998	Suriname	3
+1998	Libya	3
+1998	Jordan	3
+1998	Azerbaijan	3
+1998	Algeria	3
+1998	Sudan (former)	2
+1998	Iran (Islamic Republic of)	2
+1998	Hungary	2
+1998	Fiji	2
+1998	United Arab Emirates	1
+1998	Russian Federation	1
+1998	Occupied Palestinian Territory 	1
+1998	New Caledonia	1
+1998	Myanmar	1
+1998	Maldives	1
+1998	Lithuania	1
+1998	Latvia	1
+1998	Kazakhstan	1
+1999	Lesotho	394
+1999	Malawi	378
+1999	Zambia	352
+1999	Mexico	347
+1999	Zimbabwe	314
+1999	South Africa	290
+1999	Bosnia and Herzegovina	259
+1999	Guatemala	250
+1999	Kenya	236
+1999	Honduras	218
+1999	El Salvador	210
+1999	United Republic of Tanzania	206
+1999	Swaziland	205
+1999	Timor-Leste	204
+1999	Benin	195
+1999	Mozambique	171
+1999	Egypt	168
+1999	Togo	162
+1999	Cape Verde	145
+1999	Paraguay	142
+1999	Cameroon	136
+1999	Venezuela (Bolivarian Republic of)	129
+1999	Democratic People's Republic of Korea	125
+1999	Namibia	119
+1999	Romania	117
+1999	Nicaragua	116
+1999	Ethiopia	115
+1999	Botswana	114
+1999	Colombia	113
+1999	Angola	109
+1999	Nepal	106
+1999	Bolivia (Plurinational State of)	102
+1999	Indonesia	94
+1999	Uganda	79
+1999	Seychelles	79
+1999	Morocco	71
+1999	Brunei Darussalam	69
+1999	Nigeria	68
+1999	Mali	67
+1999	Côte d'Ivoire	63
+1999	Haiti	62
+1999	Central African Republic	61
+1999	Saudi Arabia	60
+1999	Burundi	59
+1999	Burkina Faso	59
+1999	Georgia	58
+1999	Panama	57
+1999	Ghana	54
+1999	Peru	52
+1999	Belize	52
+1999	Slovenia	50
+1999	Israel	50
+1999	Uruguay	49
+1999	Guinea-Bissau	48
+1999	Canada	48
+1999	Japan	47
+1999	Ireland	46
+1999	Brazil	45
+1999	Turkey	43
+1999	Serbia and Montenegro	43
+1999	Sao Tome and Principe	43
+1999	Republic of Korea	43
+1999	Chile	43
+1999	Austria	41
+1999	United States of America	38
+1999	Barbados	37
+1999	Lao People's Democratic Republic	36
+1999	France	35
+1999	The former Yugoslav Republic of Macedonia	34
+1999	Bulgaria	32
+1999	Netherlands Antilles	30
+1999	Dominican Republic	30
+1999	Croatia	30
+1999	Madagascar	28
+1999	Gabon	28
+1999	Republic of Moldova	26
+1999	Philippines	25
+1999	Guinea	25
+1999	Argentina	24
+1999	Saint Vincent and the Grenadines	23
+1999	Rwanda	23
+1999	Viet Nam	22
+1999	Senegal	22
+1999	Jamaica	21
+1999	Gambia	21
+1999	Germany	20
+1999	Portugal	19
+1999	Cuba	19
+1999	Chad	19
+1999	China	18
+1999	Cambodia	18
+1999	Yemen	17
+1999	Ukraine	17
+1999	Congo	17
+1999	Trinidad and Tobago	16
+1999	Pakistan	16
+1999	India	14
+1999	Denmark	14
+1999	Comoros	14
+1999	Bahamas	14
+1999	Uzbekistan	13
+1999	Switzerland	13
+1999	Malaysia	13
+1999	Liberia	13
+1999	Costa Rica	13
+1999	Syrian Arab Republic	12
+1999	Malta	12
+1999	Dominica	12
+1999	Australia	12
+1999	Tajikistan	11
+1999	New Caledonia	11
+1999	Kuwait	11
+1999	Italy	11
+1999	Eritrea	11
+1999	Ecuador	11
+1999	Algeria	10
+1999	United Kingdom	9
+1999	Sri Lanka	9
+1999	Netherlands	9
+1999	Grenada	9
+1999	Albania	9
+1999	Niger	8
+1999	New Zealand	8
+1999	Myanmar	8
+1999	Saint Lucia	7
+1999	Azerbaijan	7
+1999	Sierra Leone	6
+1999	Mauritius	6
+1999	Estonia	6
+1999	Belgium-Luxembourg	6
+1999	Antigua and Barbuda	6
+1999	Saint Kitts and Nevis	5
+1999	Cyprus	5
+1999	Sweden	4
+1999	Spain	4
+1999	Mauritania	4
+1999	Greece	4
+1999	Djibouti	4
+1999	Thailand	3
+1999	Suriname	3
+1999	Sudan (former)	3
+1999	Libya	3
+1999	Iran (Islamic Republic of)	3
+1999	Bangladesh	3
+1999	Jordan	2
+1999	Hungary	2
+1999	Guyana	2
+1999	Fiji	2
+1999	United Arab Emirates	1
+1999	Russian Federation	1
+1999	Occupied Palestinian Territory 	1
+1999	Maldives	1
+1999	Lithuania	1
+1999	Kazakhstan	1
+1999	Belarus	1
+2000	Lesotho	395
+2000	Malawi	383
+2000	Mexico	350
+2000	Zambia	327
+2000	Zimbabwe	312
+2000	South Africa	304
+2000	Bosnia and Herzegovina	262
+2000	Guatemala	246
+2000	Kenya	236
+2000	Honduras	219
+2000	El Salvador	214
+2000	Timor-Leste	201
+2000	Swaziland	201
+2000	United Republic of Tanzania	190
+2000	Togo	186
+2000	Benin	180
+2000	Mozambique	173
+2000	Egypt	163
+2000	Cape Verde	149
+2000	Venezuela (Bolivarian Republic of)	147
+2000	Paraguay	143
+2000	Nicaragua	123
+2000	Botswana	122
+2000	Cameroon	121
+2000	Namibia	119
+2000	Burkina Faso	119
+2000	Democratic People's Republic of Korea	117
+2000	Colombia	116
+2000	Ethiopia	115
+2000	Romania	114
+2000	Nepal	108
+2000	Bolivia (Plurinational State of)	104
+2000	Angola	101
+2000	Morocco	93
+2000	Indonesia	93
+2000	Uruguay	83
+2000	Saudi Arabia	83
+2000	Uganda	81
+2000	Seychelles	67
+2000	Mali	65
+2000	Panama	64
+2000	Haiti	64
+2000	Central African Republic	62
+2000	Brunei Darussalam	62
+2000	Côte d'Ivoire	61
+2000	Peru	59
+2000	Sao Tome and Principe	57
+2000	Burundi	56
+2000	Georgia	55
+2000	Ghana	54
+2000	Canada	52
+2000	Belize	52
+2000	Algeria	51
+2000	Guinea-Bissau	49
+2000	Nigeria	48
+2000	Austria	48
+2000	Japan	46
+2000	Ireland	46
+2000	Republic of Korea	45
+2000	Lao People's Democratic Republic	43
+2000	Chile	43
+2000	Brazil	43
+2000	Serbia and Montenegro	42
+2000	Israel	41
+2000	Netherlands Antilles	38
+2000	United States of America	37
+2000	Turkey	37
+2000	France	37
+2000	Bulgaria	37
+2000	Barbados	36
+2000	Slovenia	35
+2000	Rwanda	35
+2000	Croatia	33
+2000	Guinea	30
+2000	Cuba	30
+2000	Ukraine	29
+2000	Argentina	29
+2000	Gabon	28
+2000	Chad	28
+2000	The former Yugoslav Republic of Macedonia	27
+2000	Republic of Moldova	27
+2000	Madagascar	27
+2000	Yemen	25
+2000	Philippines	25
+2000	Portugal	24
+2000	Senegal	23
+2000	Saint Vincent and the Grenadines	23
+2000	Germany	23
+2000	Dominican Republic	23
+2000	Viet Nam	22
+2000	Jamaica	21
+2000	Luxembourg	20
+2000	Gambia	20
+2000	Cambodia	20
+2000	Estonia	19
+2000	Azerbaijan	19
+2000	Trinidad and Tobago	18
+2000	Niger	18
+2000	China	18
+2000	Pakistan	16
+2000	Malaysia	16
+2000	Congo	16
+2000	Tajikistan	15
+2000	New Zealand	15
+2000	Albania	15
+2000	Kuwait	14
+2000	Comoros	14
+2000	Syrian Arab Republic	13
+2000	Switzerland	13
+2000	Mauritania	13
+2000	India	13
+2000	Dominica	13
+2000	Bahamas	13
+2000	Uzbekistan	12
+2000	Australia	12
+2000	Malta	11
+2000	Italy	11
+2000	Eritrea	11
+2000	Ecuador	11
+2000	Liberia	10
+2000	United Kingdom	9
+2000	Sri Lanka	9
+2000	Netherlands	9
+2000	Antigua and Barbuda	9
+2000	Grenada	8
+2000	Denmark	8
+2000	Costa Rica	8
+2000	Sudan (former)	7
+2000	Sierra Leone	6
+2000	Saint Lucia	6
+2000	Mauritius	6
+2000	Belgium	6
+2000	Spain	5
+2000	Myanmar	5
+2000	Guyana	5
+2000	Cyprus	5
+2000	Bangladesh	5
+2000	Sweden	4
+2000	Saint Kitts and Nevis	4
+2000	Latvia	4
+2000	Greece	4
+2000	Thailand	3
+2000	Suriname	3
+2000	Libya	3
+2000	Jordan	3
+2000	Iran (Islamic Republic of)	3
+2000	Djibouti	3
+2000	New Caledonia	2
+2000	Hungary	2
+2000	Fiji	2
+2000	United Arab Emirates	1
+2000	Russian Federation	1
+2000	Occupied Palestinian Territory 	1
+2000	Maldives	1
+2000	Lithuania	1
+2000	Kazakhstan	1
+2000	Belarus	1
+2001	Lesotho	398
+2001	Malawi	375
+2001	Mexico	352
+2001	Zambia	323
+2001	Zimbabwe	309
+2001	South Africa	308
+2001	Bosnia and Herzegovina	274
+2001	Guatemala	248
+2001	Kenya	233
+2001	Honduras	221
+2001	El Salvador	220
+2001	Swaziland	214
+2001	Timor-Leste	202
+2001	United Republic of Tanzania	188
+2001	Togo	185
+2001	Mozambique	168
+2001	Benin	166
+2001	Egypt	158
+2001	Nicaragua	152
+2001	Paraguay	147
+2001	Venezuela (Bolivarian Republic of)	139
+2001	Cape Verde	126
+2001	Botswana	118
+2001	Namibia	117
+2001	Ethiopia	112
+2001	Angola	112
+2001	Colombia	111
+2001	Nepal	110
+2001	Romania	103
+2001	Bolivia (Plurinational State of)	103
+2001	Cameroon	101
+2001	Democratic People's Republic of Korea	93
+2001	Burkina Faso	86
+2001	Uruguay	85
+2001	Morocco	83
+2001	Indonesia	83
+2001	Uganda	81
+2001	Seychelles	74
+2001	Saudi Arabia	74
+2001	Sao Tome and Principe	65
+2001	Central African Republic	65
+2001	Haiti	63
+2001	Brunei Darussalam	63
+2001	Côte d'Ivoire	62
+2001	Mali	61
+2001	Panama	58
+2001	Kyrgyzstan	58
+2001	Slovenia	57
+2001	Belize	57
+2001	Nigeria	54
+2001	Israel	54
+2001	Guinea-Bissau	54
+2001	Tajikistan	52
+2001	Brazil	52
+2001	Peru	51
+2001	Georgia	51
+2001	Burundi	51
+2001	Canada	50
+2001	Austria	50
+2001	Turkey	49
+2001	Ghana	48
+2001	Republic of Korea	46
+2001	Japan	44
+2001	Ireland	43
+2001	Chile	43
+2001	Algeria	42
+2001	Lao People's Democratic Republic	39
+2001	Cuba	39
+2001	Serbia and Montenegro	38
+2001	Netherlands Antilles	38
+2001	United States of America	37
+2001	France	37
+2001	Barbados	35
+2001	Yemen	34
+2001	Bulgaria	34
+2001	Croatia	33
+2001	Gabon	31
+2001	Rwanda	29
+2001	Pakistan	29
+2001	Argentina	29
+2001	Republic of Moldova	27
+2001	Madagascar	27
+2001	Guinea	27
+2001	Ukraine	26
+2001	Luxembourg	26
+2001	Senegal	25
+2001	Germany	25
+2001	Cambodia	25
+2001	Saint Vincent and the Grenadines	23
+2001	Philippines	23
+2001	Viet Nam	22
+2001	Chad	22
+2001	Azerbaijan	21
+2001	The former Yugoslav Republic of Macedonia	20
+2001	Kuwait	20
+2001	Gambia	20
+2001	Dominican Republic	19
+2001	Trinidad and Tobago	18
+2001	China	18
+2001	Portugal	17
+2001	Jamaica	17
+2001	Congo	17
+2001	Malaysia	16
+2001	Dominica	14
+2001	Syrian Arab Republic	13
+2001	Comoros	13
+2001	Bahamas	13
+2001	Italy	12
+2001	India	12
+2001	Ecuador	12
+2001	Uzbekistan	11
+2001	Switzerland	11
+2001	Sri Lanka	11
+2001	Malta	11
+2001	Australia	11
+2001	Sierra Leone	10
+2001	Liberia	10
+2001	Antigua and Barbuda	10
+2001	United Kingdom	9
+2001	Sudan (former)	9
+2001	Niger	9
+2001	Costa Rica	9
+2001	Albania	9
+2001	Saint Lucia	8
+2001	Grenada	8
+2001	Estonia	8
+2001	Eritrea	8
+2001	Denmark	8
+2001	Netherlands	7
+2001	New Caledonia	6
+2001	Mauritius	6
+2001	Mauritania	6
+2001	Belgium	6
+2001	Saint Kitts and Nevis	5
+2001	Guyana	5
+2001	Bangladesh	5
+2001	Spain	4
+2001	New Zealand	4
+2001	Greece	4
+2001	Thailand	3
+2001	Sweden	3
+2001	Suriname	3
+2001	Myanmar	3
+2001	Libya	3
+2001	Jordan	3
+2001	Iran (Islamic Republic of)	3
+2001	Cyprus	3
+2001	Kazakhstan	2
+2001	Hungary	2
+2001	Fiji	2
+2001	United Arab Emirates	1
+2001	Russian Federation	1
+2001	Occupied Palestinian Territory 	1
+2001	Maldives	1
+2001	Lithuania	1
+2001	Latvia	1
+2001	Djibouti	1
+2002	Lesotho	404
+2002	Malawi	370
+2002	Mexico	347
+2002	Zambia	322
+2002	Zimbabwe	314
+2002	South Africa	307
+2002	Bosnia and Herzegovina	280
+2002	Guatemala	254
+2002	Honduras	228
+2002	Kenya	221
+2002	El Salvador	215
+2002	Timor-Leste	203
+2002	Swaziland	202
+2002	United Republic of Tanzania	185
+2002	Togo	175
+2002	Mozambique	166
+2002	Egypt	162
+2002	Benin	156
+2002	Paraguay	148
+2002	Nicaragua	148
+2002	Venezuela (Bolivarian Republic of)	131
+2002	Namibia	129
+2002	Cape Verde	118
+2002	Colombia	114
+2002	Angola	113
+2002	Ethiopia	111
+2002	Nepal	110
+2002	Democratic People's Republic of Korea	110
+2002	Romania	104
+2002	Morocco	104
+2002	Bolivia (Plurinational State of)	103
+2002	Burkina Faso	97
+2002	Botswana	94
+2002	Cameroon	89
+2002	Indonesia	84
+2002	Uganda	82
+2002	Uruguay	78
+2002	Seychelles	71
+2002	Central African Republic	68
+2002	Saudi Arabia	65
+2002	Sao Tome and Principe	65
+2002	Panama	63
+2002	Mali	62
+2002	Belize	62
+2002	Slovenia	60
+2002	Côte d'Ivoire	59
+2002	Brazil	57
+2002	Nigeria	56
+2002	Israel	56
+2002	Haiti	55
+2002	Canada	55
+2002	Burundi	54
+2002	Kyrgyzstan	52
+2002	Georgia	50
+2002	Cuba	50
+2002	Peru	49
+2002	Brunei Darussalam	46
+2002	Japan	45
+2002	Turkey	44
+2002	Ireland	44
+2002	Austria	44
+2002	Republic of Korea	42
+2002	Pakistan	41
+2002	Lao People's Democratic Republic	41
+2002	Guinea-Bissau	41
+2002	Serbia and Montenegro	38
+2002	Netherlands Antilles	38
+2002	Algeria	38
+2002	United States of America	37
+2002	Ghana	37
+2002	Yemen	36
+2002	Barbados	36
+2002	Gabon	35
+2002	France	35
+2002	Bulgaria	35
+2002	Rwanda	34
+2002	Chile	34
+2002	Senegal	32
+2002	Croatia	31
+2002	Germany	30
+2002	Luxembourg	29
+2002	Cambodia	29
+2002	Argentina	29
+2002	Republic of Moldova	27
+2002	Ukraine	26
+2002	Guinea	26
+2002	The former Yugoslav Republic of Macedonia	25
+2002	Madagascar	25
+2002	Viet Nam	23
+2002	Tajikistan	23
+2002	Chad	23
+2002	Saint Vincent and the Grenadines	22
+2002	Jamaica	22
+2002	Gambia	22
+2002	Azerbaijan	22
+2002	Portugal	20
+2002	Philippines	20
+2002	Kuwait	20
+2002	Dominican Republic	19
+2002	China	19
+2002	Trinidad and Tobago	18
+2002	Congo	17
+2002	Malaysia	15
+2002	Dominica	15
+2002	Bahamas	15
+2002	Syrian Arab Republic	14
+2002	Sri Lanka	14
+2002	Liberia	14
+2002	Australia	14
+2002	Niger	13
+2002	Comoros	13
+2002	Uzbekistan	12
+2002	Malta	12
+2002	Italy	12
+2002	Estonia	11
+2002	Ecuador	11
+2002	Switzerland	10
+2002	Sierra Leone	10
+2002	India	10
+2002	Guyana	10
+2002	Costa Rica	10
+2002	Antigua and Barbuda	10
+2002	United Kingdom	9
+2002	Saint Lucia	9
+2002	Grenada	9
+2002	Eritrea	9
+2002	Albania	9
+2002	Denmark	8
+2002	Netherlands	7
+2002	Sudan (former)	6
+2002	Mauritius	6
+2002	Belgium	6
+2002	Bangladesh	6
+2002	Djibouti	5
+2002	Spain	4
+2002	Saint Kitts and Nevis	4
+2002	New Caledonia	4
+2002	Mauritania	4
+2002	Greece	4
+2002	Cyprus	4
+2002	Thailand	3
+2002	Sweden	3
+2002	Suriname	3
+2002	New Zealand	3
+2002	Myanmar	3
+2002	Libya	3
+2002	Jordan	3
+2002	Iran (Islamic Republic of)	3
+2002	Latvia	2
+2002	Kazakhstan	2
+2002	Hungary	2
+2002	Fiji	2
+2002	Solomon Islands	1
+2002	Russian Federation	1
+2002	Maldives	1
+2002	Lithuania	1
+2002	Belarus	1
+2003	Lesotho	410
+2003	Malawi	361
+2003	Mexico	342
+2003	Zambia	322
+2003	South Africa	313
+2003	Zimbabwe	309
+2003	Bosnia and Herzegovina	283
+2003	Guatemala	234
+2003	Kenya	226
+2003	Honduras	222
+2003	El Salvador	221
+2003	Timor-Leste	207
+2003	Swaziland	199
+2003	Togo	194
+2003	Benin	188
+2003	United Republic of Tanzania	183
+2003	Egypt	165
+2003	Nicaragua	160
+2003	Mozambique	158
+2003	Venezuela (Bolivarian Republic of)	151
+2003	Paraguay	147
+2003	Burkina Faso	126
+2003	Cape Verde	121
+2003	Colombia	117
+2003	Namibia	116
+2003	Nepal	113
+2003	Democratic People's Republic of Korea	111
+2003	Ethiopia	108
+2003	Angola	106
+2003	Bolivia (Plurinational State of)	104
+2003	Romania	102
+2003	Cameroon	101
+2003	Botswana	98
+2003	Indonesia	93
+2003	Slovenia	88
+2003	Morocco	84
+2003	Uganda	81
+2003	Seychelles	75
+2003	Central African Republic	71
+2003	Uruguay	70
+2003	Brazil	70
+2003	Cuba	66
+2003	Mali	65
+2003	Turkey	64
+2003	Burundi	64
+2003	Panama	63
+2003	Sao Tome and Principe	60
+2003	Nigeria	58
+2003	Ghana	58
+2003	Côte d'Ivoire	57
+2003	Canada	57
+2003	Belize	57
+2003	Saudi Arabia	56
+2003	Haiti	55
+2003	Georgia	54
+2003	Israel	53
+2003	Kyrgyzstan	52
+2003	Peru	48
+2003	Madagascar	47
+2003	The former Yugoslav Republic of Macedonia	46
+2003	Chile	46
+2003	Republic of Korea	43
+2003	Ireland	43
+2003	Austria	43
+2003	Lao People's Democratic Republic	42
+2003	Guinea-Bissau	41
+2003	Japan	40
+2003	Tajikistan	39
+2003	Brunei Darussalam	39
+2003	Netherlands Antilles	38
+2003	Cambodia	38
+2003	Bulgaria	38
+2003	Yemen	37
+2003	United States of America	36
+2003	Serbia and Montenegro	36
+2003	Gabon	36
+2003	Barbados	36
+2003	Senegal	35
+2003	France	35
+2003	Rwanda	33
+2003	Croatia	32
+2003	Luxembourg	30
+2003	Algeria	30
+2003	Ukraine	28
+2003	Argentina	28
+2003	Guinea	27
+2003	Republic of Moldova	26
+2003	Azerbaijan	26
+2003	Germany	25
+2003	Viet Nam	24
+2003	Gambia	24
+2003	Saint Vincent and the Grenadines	23
+2003	Pakistan	23
+2003	Chad	23
+2003	Philippines	20
+2003	Liberia	20
+2003	Kuwait	20
+2003	Portugal	19
+2003	Jamaica	19
+2003	China	19
+2003	Trinidad and Tobago	18
+2003	Costa Rica	18
+2003	Malaysia	17
+2003	Congo	17
+2003	Sri Lanka	16
+2003	Dominican Republic	16
+2003	Syrian Arab Republic	15
+2003	India	15
+2003	Comoros	15
+2003	Australia	14
+2003	Uzbekistan	13
+2003	Malta	12
+2003	Italy	12
+2003	Grenada	12
+2003	Ecuador	12
+2003	Switzerland	10
+2003	Saint Lucia	10
+2003	Estonia	10
+2003	Bahamas	10
+2003	Antigua and Barbuda	10
+2003	United Kingdom	9
+2003	Dominica	9
+2003	Albania	9
+2003	Sierra Leone	8
+2003	Eritrea	8
+2003	Bangladesh	8
+2003	Niger	7
+2003	New Zealand	7
+2003	Netherlands	7
+2003	Denmark	7
+2003	Mauritius	6
+2003	Mauritania	6
+2003	Iran (Islamic Republic of)	6
+2003	Belgium	6
+2003	Thailand	4
+2003	Sudan (former)	4
+2003	Spain	4
+2003	Myanmar	4
+2003	Latvia	4
+2003	Guyana	4
+2003	Greece	4
+2003	United Arab Emirates	3
+2003	Sweden	3
+2003	Suriname	3
+2003	Saint Kitts and Nevis	3
+2003	Libya	3
+2003	Jordan	3
+2003	Fiji	3
+2003	Djibouti	3
+2003	Cyprus	3
+2003	New Caledonia	2
+2003	Kazakhstan	2
+2003	Russian Federation	1
+2003	Occupied Palestinian Territory 	1
+2003	Maldives	1
+2003	Lithuania	1
+2003	Hungary	1
+2003	Belarus	1
+2004	Lesotho	413
+2004	Malawi	370
+2004	Mexico	340
+2004	Zambia	311
+2004	South Africa	305
+2004	Zimbabwe	299
+2004	Bosnia and Herzegovina	255
+2004	El Salvador	236
+2004	Guatemala	229
+2004	Kenya	226
+2004	Honduras	216
+2004	Timor-Leste	207
+2004	Swaziland	195
+2004	Togo	188
+2004	Benin	180
+2004	United Republic of Tanzania	175
+2004	Nicaragua	160
+2004	Egypt	158
+2004	Venezuela (Bolivarian Republic of)	157
+2004	Mozambique	149
+2004	Paraguay	147
+2004	Burkina Faso	123
+2004	Namibia	118
+2004	Colombia	116
+2004	Nepal	112
+2004	Democratic People's Republic of Korea	112
+2004	Botswana	108
+2004	Slovenia	107
+2004	Angola	106
+2004	Cameroon	103
+2004	Ethiopia	102
+2004	Cape Verde	97
+2004	Morocco	96
+2004	Bolivia (Plurinational State of)	96
+2004	Indonesia	95
+2004	Romania	92
+2004	Seychelles	79
+2004	Uganda	76
+2004	The former Yugoslav Republic of Macedonia	76
+2004	Cuba	74
+2004	Central African Republic	74
+2004	Uruguay	73
+2004	Kyrgyzstan	70
+2004	Mali	69
+2004	Brazil	66
+2004	Senegal	65
+2004	Belize	65
+2004	Panama	63
+2004	Ghana	63
+2004	Burundi	63
+2004	Sao Tome and Principe	61
+2004	Nigeria	61
+2004	Haiti	59
+2004	Israel	58
+2004	Côte d'Ivoire	57
+2004	Georgia	56
+2004	Guinea-Bissau	55
+2004	Saudi Arabia	54
+2004	Canada	54
+2004	Turkey	53
+2004	Bulgaria	52
+2004	Madagascar	50
+2004	Peru	48
+2004	Chile	48
+2004	Lao People's Democratic Republic	43
+2004	Republic of Korea	42
+2004	Ireland	42
+2004	Gabon	42
+2004	Serbia and Montenegro	41
+2004	Cambodia	41
+2004	Tajikistan	39
+2004	Japan	38
+2004	Croatia	38
+2004	Netherlands Antilles	37
+2004	United States of America	36
+2004	Germany	36
+2004	France	36
+2004	Barbados	36
+2004	Rwanda	35
+2004	Brunei Darussalam	35
+2004	Austria	34
+2004	Costa Rica	32
+2004	Chad	32
+2004	Malaysia	30
+2004	Luxembourg	30
+2004	Portugal	29
+2004	Pakistan	29
+2004	Azerbaijan	29
+2004	Argentina	28
+2004	Guinea	27
+2004	Algeria	27
+2004	Yemen	26
+2004	Viet Nam	26
+2004	Ukraine	26
+2004	Republic of Moldova	25
+2004	Saint Vincent and the Grenadines	22
+2004	Gambia	21
+2004	Philippines	19
+2004	China	19
+2004	Jamaica	18
+2004	Niger	17
+2004	Estonia	17
+2004	Trinidad and Tobago	16
+2004	Sri Lanka	16
+2004	Kuwait	16
+2004	Congo	16
+2004	Comoros	16
+2004	Dominican Republic	15
+2004	Uzbekistan	14
+2004	Syrian Arab Republic	14
+2004	Australia	14
+2004	Malta	12
+2004	Liberia	12
+2004	Ecuador	12
+2004	Italy	11
+2004	India	11
+2004	Saint Lucia	10
+2004	Grenada	10
+2004	Antigua and Barbuda	10
+2004	United Kingdom	9
+2004	Switzerland	9
+2004	Dominica	9
+2004	Bangladesh	9
+2004	Thailand	8
+2004	Sierra Leone	8
+2004	Mauritania	8
+2004	Eritrea	8
+2004	Sudan (former)	7
+2004	New Zealand	7
+2004	Netherlands	7
+2004	Denmark	7
+2004	Bahamas	7
+2004	Albania	7
+2004	Myanmar	6
+2004	Mauritius	6
+2004	Belgium	6
+2004	Spain	4
+2004	Saint Kitts and Nevis	4
+2004	Jordan	4
+2004	Iran (Islamic Republic of)	4
+2004	Guyana	4
+2004	Greece	4
+2004	Djibouti	4
+2004	Sweden	3
+2004	Suriname	3
+2004	Libya	3
+2004	Kazakhstan	3
+2004	Cyprus	3
+2004	Russian Federation	2
+2004	New Caledonia	2
+2004	Latvia	2
+2004	Occupied Palestinian Territory 	1
+2004	Maldives	1
+2004	Lithuania	1
+2004	Hungary	1
+2004	Fiji	1
+2004	Belarus	1
+2005	Lesotho	417
+2005	Malawi	376
+2005	Mexico	330
+2005	Zimbabwe	310
+2005	Zambia	307
+2005	South Africa	300
+2005	Bosnia and Herzegovina	234
+2005	Guatemala	229
+2005	Kenya	227
+2005	Timor-Leste	225
+2005	El Salvador	222
+2005	Honduras	206
+2005	Swaziland	189
+2005	Togo	177
+2005	Benin	174
+2005	United Republic of Tanzania	160
+2005	Nicaragua	159
+2005	Egypt	155
+2005	Venezuela (Bolivarian Republic of)	154
+2005	Paraguay	148
+2005	Mozambique	147
+2005	Nepal	119
+2005	Namibia	118
+2005	Ethiopia	114
+2005	Democratic People's Republic of Korea	114
+2005	Colombia	112
+2005	Bolivia (Plurinational State of)	110
+2005	Burkina Faso	108
+2005	Cameroon	106
+2005	Angola	104
+2005	Slovenia	101
+2005	Morocco	101
+2005	Cape Verde	100
+2005	Botswana	98
+2005	Romania	97
+2005	Senegal	88
+2005	Indonesia	87
+2005	Cuba	85
+2005	Seychelles	84
+2005	Uruguay	82
+2005	Central African Republic	78
+2005	The former Yugoslav Republic of Macedonia	73
+2005	Mali	73
+2005	Kyrgyzstan	73
+2005	Uganda	72
+2005	Sao Tome and Principe	68
+2005	Panama	65
+2005	Nigeria	64
+2005	Côte d'Ivoire	62
+2005	Burundi	62
+2005	Brazil	62
+2005	Belize	62
+2005	Israel	61
+2005	Ghana	60
+2005	Chile	56
+2005	Guinea-Bissau	55
+2005	Georgia	55
+2005	Haiti	54
+2005	Canada	54
+2005	Saudi Arabia	53
+2005	Madagascar	53
+2005	Turkey	51
+2005	Peru	50
+2005	Bulgaria	48
+2005	Serbia and Montenegro	44
+2005	Cambodia	43
+2005	Lao People's Democratic Republic	41
+2005	Japan	41
+2005	Gabon	41
+2005	Republic of Korea	40
+2005	Yemen	38
+2005	Netherlands Antilles	37
+2005	Brunei Darussalam	37
+2005	United States of America	36
+2005	Pakistan	36
+2005	Barbados	36
+2005	Germany	35
+2005	France	35
+2005	Croatia	33
+2005	Costa Rica	33
+2005	Portugal	32
+2005	Chad	32
+2005	Austria	32
+2005	Rwanda	31
+2005	Azerbaijan	31
+2005	Ukraine	29
+2005	Luxembourg	29
+2005	Guinea	28
+2005	Argentina	28
+2005	Algeria	27
+2005	Tajikistan	25
+2005	Viet Nam	24
+2005	Saint Vincent and the Grenadines	23
+2005	Republic of Moldova	23
+2005	Ireland	23
+2005	Malaysia	21
+2005	Jamaica	20
+2005	Gambia	19
+2005	Dominican Republic	19
+2005	China	19
+2005	Trinidad and Tobago	18
+2005	Thailand	17
+2005	Philippines	17
+2005	Syrian Arab Republic	16
+2005	Estonia	16
+2005	India	14
+2005	Eritrea	14
+2005	Australia	14
+2005	Malta	13
+2005	Kuwait	13
+2005	Comoros	13
+2005	Bahamas	13
+2005	Uzbekistan	12
+2005	Ecuador	12
+2005	Congo	12
+2005	Antigua and Barbuda	12
+2005	Sierra Leone	11
+2005	Italy	11
+2005	Mauritania	10
+2005	United Kingdom	9
+2005	Sudan (former)	9
+2005	Sri Lanka	9
+2005	Saint Lucia	9
+2005	Grenada	9
+2005	Niger	8
+2005	Dominica	8
+2005	Bangladesh	8
+2005	Netherlands	7
+2005	Guyana	7
+2005	Denmark	7
+2005	Albania	7
+2005	Switzerland	6
+2005	New Zealand	6
+2005	Myanmar	6
+2005	Mauritius	6
+2005	Belgium	6
+2005	Iran (Islamic Republic of)	5
+2005	United Arab Emirates	4
+2005	Spain	4
+2005	Libya	4
+2005	Jordan	4
+2005	Greece	4
+2005	Djibouti	4
+2005	Sweden	3
+2005	Suriname	3
+2005	Liberia	3
+2005	Kazakhstan	3
+2005	Cyprus	3
+2005	Saint Kitts and Nevis	2
+2005	Russian Federation	2
+2005	New Caledonia	2
+2005	Occupied Palestinian Territory 	1
+2005	Maldives	1
+2005	Lithuania	1
+2005	Hungary	1
+2005	Fiji	1
+2005	Belarus	1
+2006	Lesotho	416
+2006	Malawi	376
+2006	Mexico	334
+2006	Zimbabwe	315
+2006	Zambia	303
+2006	South Africa	281
+2006	Timor-Leste	231
+2006	Bosnia and Herzegovina	230
+2006	Guatemala	229
+2006	Kenya	225
+2006	Honduras	201
+2006	El Salvador	191
+2006	Togo	188
+2006	Swaziland	186
+2006	Nicaragua	178
+2006	United Republic of Tanzania	162
+2006	Venezuela (Bolivarian Republic of)	159
+2006	Egypt	157
+2006	Benin	153
+2006	Paraguay	151
+2006	Mozambique	142
+2006	Burkina Faso	130
+2006	Nepal	118
+2006	Democratic People's Republic of Korea	117
+2006	Ethiopia	116
+2006	Bolivia (Plurinational State of)	116
+2006	Colombia	115
+2006	Namibia	108
+2006	Botswana	107
+2006	Angola	107
+2006	Cape Verde	101
+2006	Slovenia	100
+2006	Romania	99
+2006	Morocco	96
+2006	Indonesia	95
+2006	Cameroon	92
+2006	Seychelles	86
+2006	Uruguay	84
+2006	Belize	84
+2006	Central African Republic	78
+2006	Mali	77
+2006	Senegal	74
+2006	Cuba	73
+2006	Kyrgyzstan	72
+2006	Israel	72
+2006	Uganda	69
+2006	The former Yugoslav Republic of Macedonia	67
+2006	Brazil	67
+2006	Panama	65
+2006	Sao Tome and Principe	62
+2006	Nigeria	61
+2006	Ghana	61
+2006	Côte d'Ivoire	59
+2006	Burundi	59
+2006	Chile	57
+2006	Saudi Arabia	56
+2006	Bulgaria	56
+2006	Guinea-Bissau	55
+2006	Madagascar	54
+2006	Algeria	54
+2006	Canada	53
+2006	Peru	52
+2006	Georgia	50
+2006	Haiti	49
+2006	Serbia	48
+2006	Cambodia	45
+2006	Gabon	44
+2006	Turkey	39
+2006	Republic of Korea	38
+2006	Ireland	38
+2006	Austria	37
+2006	Yemen	36
+2006	United States of America	36
+2006	Montenegro	36
+2006	Japan	36
+2006	Germany	36
+2006	Croatia	36
+2006	Brunei Darussalam	36
+2006	Barbados	36
+2006	Tajikistan	34
+2006	Lao People's Democratic Republic	34
+2006	France	34
+2006	Chad	33
+2006	Rwanda	32
+2006	Portugal	32
+2006	Costa Rica	32
+2006	Ukraine	31
+2006	Azerbaijan	30
+2006	Luxembourg	28
+2006	Argentina	28
+2006	Guinea	27
+2006	Jamaica	26
+2006	Gambia	24
+2006	Viet Nam	23
+2006	Saint Vincent and the Grenadines	23
+2006	Republic of Moldova	22
+2006	Malaysia	21
+2006	Pakistan	20
+2006	Trinidad and Tobago	18
+2006	Thailand	18
+2006	Malta	18
+2006	Dominican Republic	18
+2006	China	18
+2006	Estonia	17
+2006	Comoros	17
+2006	Syrian Arab Republic	15
+2006	Philippines	14
+2006	Mauritania	14
+2006	Australia	14
+2006	India	13
+2006	Eritrea	13
+2006	Bangladesh	13
+2006	Bahamas	13
+2006	Uzbekistan	12
+2006	Sierra Leone	12
+2006	Kuwait	12
+2006	Italy	12
+2006	Ecuador	12
+2006	Greece	11
+2006	Niger	10
+2006	Antigua and Barbuda	10
+2006	United Kingdom	9
+2006	Sudan (former)	9
+2006	Saint Lucia	9
+2006	Grenada	9
+2006	Dominica	9
+2006	Congo	9
+2006	Albania	8
+2006	Netherlands	7
+2006	Switzerland	6
+2006	New Zealand	6
+2006	Myanmar	6
+2006	Mauritius	6
+2006	Denmark	6
+2006	Belgium	6
+2006	Jordan	5
+2006	Iran (Islamic Republic of)	5
+2006	Guyana	5
+2006	Cyprus	5
+2006	Spain	4
+2006	Netherlands Antilles	4
+2006	Libya	4
+2006	Sweden	3
+2006	Suriname	3
+2006	Sri Lanka	3
+2006	New Caledonia	3
+2006	Kazakhstan	3
+2006	United Arab Emirates	2
+2006	Saint Kitts and Nevis	2
+2006	Russian Federation	2
+2006	Djibouti	2
+2006	Vanuatu	1
+2006	Occupied Palestinian Territory 	1
+2006	Maldives	1
+2006	Lithuania	1
+2006	Lebanon	1
+2006	Latvia	1
+2006	Hungary	1
+2006	Fiji	1
+2006	Belarus	1
+2007	Lesotho	404
+2007	Malawi	367
+2007	Mexico	331
+2007	Zambia	311
+2007	Zimbabwe	305
+2007	South Africa	278
+2007	Guatemala	231
+2007	Bosnia and Herzegovina	227
+2007	Timor-Leste	221
+2007	Kenya	218
+2007	Honduras	211
+2007	Togo	198
+2007	El Salvador	194
+2007	Nicaragua	187
+2007	Swaziland	186
+2007	United Republic of Tanzania	161
+2007	Venezuela (Bolivarian Republic of)	160
+2007	Egypt	155
+2007	Paraguay	152
+2007	Burkina Faso	149
+2007	Benin	146
+2007	Mozambique	144
+2007	Nepal	123
+2007	Colombia	117
+2007	Ethiopia	113
+2007	Namibia	112
+2007	Democratic People's Republic of Korea	112
+2007	Bolivia (Plurinational State of)	109
+2007	Morocco	107
+2007	Botswana	101
+2007	Romania	100
+2007	Cape Verde	100
+2007	Slovenia	99
+2007	Angola	99
+2007	Cameroon	92
+2007	Indonesia	90
+2007	Israel	89
+2007	Cuba	87
+2007	Seychelles	86
+2007	Mali	86
+2007	The former Yugoslav Republic of Macedonia	85
+2007	Belize	85
+2007	Central African Republic	82
+2007	Uruguay	78
+2007	Senegal	73
+2007	Kyrgyzstan	72
+2007	Nigeria	69
+2007	Brazil	69
+2007	Uganda	67
+2007	Panama	66
+2007	Ghana	65
+2007	Algeria	64
+2007	Burundi	63
+2007	Sao Tome and Principe	61
+2007	Saudi Arabia	59
+2007	Chile	58
+2007	Haiti	57
+2007	Turkey	56
+2007	Madagascar	54
+2007	Canada	53
+2007	Peru	52
+2007	Bulgaria	51
+2007	Serbia	48
+2007	Guinea-Bissau	48
+2007	Georgia	48
+2007	Côte d'Ivoire	47
+2007	Cambodia	46
+2007	Lao People's Democratic Republic	45
+2007	Gabon	44
+2007	Ireland	40
+2007	Republic of Korea	38
+2007	Croatia	38
+2007	Germany	37
+2007	Yemen	36
+2007	Rwanda	36
+2007	Barbados	36
+2007	United States of America	35
+2007	Portugal	34
+2007	Japan	34
+2007	France	34
+2007	Montenegro	33
+2007	Chad	33
+2007	Brunei Darussalam	32
+2007	Austria	32
+2007	Azerbaijan	31
+2007	Viet Nam	30
+2007	Luxembourg	30
+2007	Costa Rica	29
+2007	Ukraine	27
+2007	Argentina	27
+2007	Guinea	26
+2007	Tajikistan	25
+2007	Gambia	25
+2007	Saint Vincent and the Grenadines	23
+2007	Republic of Moldova	22
+2007	Pakistan	21
+2007	Jamaica	20
+2007	Bangladesh	19
+2007	Trinidad and Tobago	18
+2007	Dominican Republic	18
+2007	China	18
+2007	Malaysia	17
+2007	Estonia	17
+2007	Denmark	17
+2007	Philippines	16
+2007	Malta	16
+2007	Eritrea	16
+2007	Syrian Arab Republic	15
+2007	India	15
+2007	Comoros	15
+2007	Bahamas	15
+2007	Thailand	14
+2007	Australia	14
+2007	Uzbekistan	12
+2007	Sierra Leone	12
+2007	Italy	12
+2007	Grenada	12
+2007	Ecuador	12
+2007	Niger	11
+2007	Mauritania	11
+2007	Kuwait	11
+2007	Antigua and Barbuda	11
+2007	United Kingdom	10
+2007	Saint Lucia	9
+2007	Dominica	9
+2007	Congo	9
+2007	Guyana	8
+2007	Albania	8
+2007	Switzerland	7
+2007	Netherlands	7
+2007	Myanmar	7
+2007	Mauritius	7
+2007	Iran (Islamic Republic of)	7
+2007	Sudan (former)	6
+2007	Belgium	6
+2007	Jordan	5
+2007	Sri Lanka	4
+2007	Spain	4
+2007	New Zealand	4
+2007	Greece	4
+2007	Sweden	3
+2007	Suriname	3
+2007	Saint Kitts and Nevis	3
+2007	Libya	3
+2007	Kazakhstan	3
+2007	Cyprus	3
+2007	Armenia	3
+2007	United Arab Emirates	2
+2007	Russian Federation	2
+2007	New Caledonia	2
+2007	Netherlands Antilles	2
+2007	Djibouti	2
+2007	Occupied Palestinian Territory 	1
+2007	Maldives	1
+2007	Lithuania	1
+2007	Latvia	1
+2007	Hungary	1
+2007	Fiji	1
+2007	Belarus	1
+2008	Lesotho	417
+2008	Malawi	366
+2008	Mexico	339
+2008	Zambia	297
+2008	Zimbabwe	295
+2008	South Africa	270
+2008	Timor-Leste	248
+2008	Guatemala	233
+2008	Bosnia and Herzegovina	226
+2008	Kenya	211
+2008	Honduras	208
+2008	Togo	201
+2008	El Salvador	196
+2008	Swaziland	193
+2008	Nicaragua	181
+2008	Namibia	179
+2008	Venezuela (Bolivarian Republic of)	170
+2008	United Republic of Tanzania	160
+2008	Egypt	158
+2008	Paraguay	153
+2008	Benin	150
+2008	Mozambique	145
+2008	Nepal	124
+2008	Ethiopia	120
+2008	Colombia	118
+2008	Democratic People's Republic of Korea	115
+2008	Burkina Faso	112
+2008	Romania	107
+2008	Morocco	105
+2008	Indonesia	103
+2008	Angola	102
+2008	Bolivia (Plurinational State of)	101
+2008	Botswana	97
+2008	Cameroon	94
+2008	Cape Verde	92
+2008	Slovenia	91
+2008	Mali	86
+2008	Seychelles	85
+2008	Central African Republic	85
+2008	Cuba	83
+2008	Senegal	80
+2008	Uruguay	79
+2008	Nigeria	76
+2008	Kyrgyzstan	74
+2008	Panama	69
+2008	Brazil	69
+2008	Uganda	68
+2008	The former Yugoslav Republic of Macedonia	68
+2008	Israel	68
+2008	Belize	65
+2008	Saudi Arabia	64
+2008	Haiti	64
+2008	Sao Tome and Principe	63
+2008	Ghana	62
+2008	Chile	61
+2008	Burundi	60
+2008	Bulgaria	58
+2008	Côte d'Ivoire	55
+2008	Madagascar	53
+2008	Canada	53
+2008	Peru	52
+2008	Georgia	50
+2008	Cambodia	46
+2008	Turkey	45
+2008	Lao People's Democratic Republic	44
+2008	Gabon	44
+2008	Rwanda	43
+2008	Algeria	43
+2008	Gambia	41
+2008	Republic of Korea	40
+2008	Yemen	36
+2008	Portugal	36
+2008	Barbados	36
+2008	United States of America	35
+2008	Ireland	35
+2008	Guinea-Bissau	35
+2008	Croatia	35
+2008	Austria	34
+2008	France	33
+2008	Chad	33
+2008	Brunei Darussalam	33
+2008	Viet Nam	32
+2008	Japan	32
+2008	Ukraine	31
+2008	Azerbaijan	31
+2008	Serbia	30
+2008	Montenegro	29
+2008	Costa Rica	29
+2008	Luxembourg	27
+2008	Germany	27
+2008	Argentina	27
+2008	Guinea	26
+2008	Tajikistan	25
+2008	Bangladesh	25
+2008	Republic of Moldova	24
+2008	Pakistan	23
+2008	Malta	23
+2008	Malaysia	22
+2008	Dominican Republic	19
+2008	China	19
+2008	Trinidad and Tobago	18
+2008	Saint Vincent and the Grenadines	18
+2008	Estonia	17
+2008	India	16
+2008	Bahamas	15
+2008	Syrian Arab Republic	14
+2008	Philippines	14
+2008	Jamaica	14
+2008	Australia	14
+2008	Uzbekistan	13
+2008	Thailand	13
+2008	Grenada	13
+2008	Comoros	13
+2008	Mauritania	12
+2008	Sierra Leone	11
+2008	Kuwait	11
+2008	Italy	11
+2008	Ecuador	11
+2008	Congo	10
+2008	Saint Lucia	9
+2008	Myanmar	9
+2008	Dominica	9
+2008	United Kingdom	8
+2008	Guyana	8
+2008	Switzerland	7
+2008	Netherlands	7
+2008	Denmark	7
+2008	Albania	7
+2008	Sudan (former)	6
+2008	Niger	6
+2008	Mauritius	6
+2008	Jordan	6
+2008	Belgium	6
+2008	Sri Lanka	5
+2008	Iran (Islamic Republic of)	5
+2008	Spain	4
+2008	New Zealand	4
+2008	Latvia	4
+2008	Greece	4
+2008	Cyprus	4
+2008	Antigua and Barbuda	4
+2008	United Arab Emirates	3
+2008	Sweden	3
+2008	Suriname	3
+2008	Libya	3
+2008	Kazakhstan	3
+2008	Eritrea	3
+2008	Saint Kitts and Nevis	2
+2008	Russian Federation	2
+2008	New Caledonia	2
+2008	Netherlands Antilles	2
+2008	Maldives	2
+2008	Fiji	2
+2008	Djibouti	2
+2008	Occupied Palestinian Territory 	1
+2008	Lithuania	1
+2008	Hungary	1
+2008	Belarus	1
+2009	Lesotho	409
+2009	Malawi	365
+2009	Mexico	330
+2009	Zimbabwe	303
+2009	Zambia	302
+2009	South Africa	284
+2009	Timor-Leste	245
+2009	Guatemala	236
+2009	Bosnia and Herzegovina	224
+2009	Honduras	215
+2009	Kenya	212
+2009	Togo	202
+2009	El Salvador	199
+2009	Swaziland	191
+2009	Namibia	187
+2009	Nicaragua	186
+2009	Venezuela (Bolivarian Republic of)	176
+2009	Egypt	165
+2009	United Republic of Tanzania	159
+2009	Benin	152
+2009	Paraguay	150
+2009	Mozambique	147
+2009	Burkina Faso	140
+2009	Nepal	122
+2009	Ethiopia	121
+2009	Democratic People's Republic of Korea	121
+2009	Bolivia (Plurinational State of)	111
+2009	Romania	110
+2009	Colombia	109
+2009	Indonesia	105
+2009	Morocco	103
+2009	Angola	102
+2009	Central African Republic	100
+2009	Cameroon	96
+2009	Botswana	94
+2009	Slovenia	90
+2009	Mali	89
+2009	Seychelles	87
+2009	Israel	83
+2009	Nigeria	81
+2009	Uruguay	80
+2009	Senegal	80
+2009	Belize	79
+2009	Cape Verde	77
+2009	Cuba	76
+2009	Kyrgyzstan	73
+2009	Ghana	71
+2009	The former Yugoslav Republic of Macedonia	67
+2009	Brazil	67
+2009	Panama	65
+2009	Haiti	65
+2009	Saudi Arabia	62
+2009	Chile	62
+2009	Uganda	61
+2009	Burundi	60
+2009	Bulgaria	60
+2009	Côte d'Ivoire	57
+2009	Sao Tome and Principe	55
+2009	Serbia	54
+2009	Georgia	54
+2009	Canada	54
+2009	Peru	53
+2009	Madagascar	52
+2009	Gambia	52
+2009	Rwanda	46
+2009	Cambodia	46
+2009	Lao People's Democratic Republic	45
+2009	Turkey	43
+2009	Portugal	42
+2009	Germany	40
+2009	Austria	39
+2009	Republic of Korea	38
+2009	Algeria	38
+2009	Yemen	36
+2009	Gabon	36
+2009	Barbados	36
+2009	United States of America	35
+2009	Croatia	35
+2009	Ireland	34
+2009	Guinea-Bissau	34
+2009	France	33
+2009	Brunei Darussalam	33
+2009	Ukraine	32
+2009	Japan	31
+2009	Chad	31
+2009	Azerbaijan	31
+2009	Viet Nam	30
+2009	Republic of Moldova	28
+2009	Montenegro	28
+2009	Luxembourg	27
+2009	Costa Rica	27
+2009	Argentina	27
+2009	Trinidad and Tobago	25
+2009	Saint Vincent and the Grenadines	25
+2009	Guinea	25
+2009	Tajikistan	24
+2009	Pakistan	22
+2009	Bangladesh	22
+2009	Malaysia	21
+2009	China	19
+2009	Philippines	18
+2009	Dominican Republic	18
+2009	Estonia	17
+2009	Bahamas	16
+2009	Jamaica	15
+2009	Dominica	15
+2009	Syrian Arab Republic	14
+2009	India	14
+2009	Comoros	14
+2009	Australia	14
+2009	Uzbekistan	13
+2009	Ecuador	13
+2009	Denmark	13
+2009	Mauritania	12
+2009	Malta	12
+2009	Grenada	12
+2009	Thailand	11
+2009	Sudan (former)	11
+2009	Sierra Leone	11
+2009	Italy	11
+2009	Kuwait	10
+2009	Guyana	10
+2009	Saint Lucia	9
+2009	New Zealand	9
+2009	Myanmar	9
+2009	Eritrea	9
+2009	United Kingdom	8
+2009	Antigua and Barbuda	8
+2009	Albania	8
+2009	Switzerland	7
+2009	Netherlands	7
+2009	Congo	7
+2009	Mauritius	6
+2009	Jordan	6
+2009	Iran (Islamic Republic of)	6
+2009	Belgium	6
+2009	Sri Lanka	5
+2009	Niger	5
+2009	Spain	4
+2009	Greece	4
+2009	Cyprus	4
+2009	United Arab Emirates	3
+2009	Sweden	3
+2009	Suriname	3
+2009	New Caledonia	3
+2009	Libya	3
+2009	Kazakhstan	3
+2009	Armenia	3
+2009	Russian Federation	2
+2009	Occupied Palestinian Territory 	2
+2009	Netherlands Antilles	2
+2009	Maldives	2
+2009	Djibouti	2
+2009	Saint Kitts and Nevis	1
+2009	Lithuania	1
+2009	Lebanon	1
+2009	Latvia	1
+2009	Hungary	1
+2009	Belarus	1
+XXX 000

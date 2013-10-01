@@ -1,0 +1,1250 @@
+2010	China	96
+2010	United States of America	59
+2010	India	57
+2010	Indonesia	21
+2010	Brazil	12
+2010	France	10
+2010	Russian Federation	8
+2010	Bangladesh	14
+2010	Argentina	7
+2010	Canada	6
+2010	Viet Nam	11
+2010	Germany	6
+2010	Ukraine	5
+2010	Thailand	9
+2010	Myanmar	9
+2010	Mexico	5
+2010	Pakistan	6
+2010	Australia	5
+2010	Turkey	5
+2010	Poland	4
+2010	Iran (Islamic Republic of)	3
+2010	Philippines	5
+2010	United Kingdom	3
+2010	Egypt	3
+2010	Nigeria	3
+2009	China	94
+2009	United States of America	61
+2009	India	54
+2009	Russian Federation	13
+2009	Indonesia	20
+2009	Brazil	12
+2009	France	10
+2009	Germany	7
+2009	Canada	7
+2009	Bangladesh	13
+2009	Ukraine	6
+2009	Viet Nam	11
+2009	Pakistan	7
+2009	Thailand	9
+2009	Australia	5
+2009	Myanmar	9
+2009	Turkey	5
+2009	Mexico	5
+2009	Poland	4
+2009	Argentina	4
+2009	Philippines	5
+2009	Egypt	4
+2009	United Kingdom	3
+2009	Nigeria	4
+2009	Iran (Islamic Republic of)	3
+2008	China	93
+2008	United States of America	59
+2008	India	59
+2008	Russian Federation	14
+2008	Brazil	13
+2008	Indonesia	19
+2008	France	10
+2008	Canada	8
+2008	Ukraine	7
+2008	Germany	7
+2008	Bangladesh	13
+2008	Viet Nam	11
+2008	Argentina	5
+2008	Thailand	9
+2008	Mexico	5
+2008	Pakistan	7
+2008	Australia	5
+2008	Myanmar	9
+2008	Nigeria	5
+2008	Turkey	4
+2008	Poland	4
+2008	United Kingdom	3
+2008	Spain	3
+2008	Philippines	6
+2008	Egypt	4
+2007	China	90
+2007	United States of America	60
+2007	India	57
+2007	Russian Federation	10
+2007	Indonesia	18
+2007	Brazil	11
+2007	France	9
+2007	Canada	7
+2007	Bangladesh	12
+2007	Argentina	7
+2007	Germany	6
+2007	Viet Nam	10
+2007	Thailand	9
+2007	Pakistan	6
+2007	Mexico	5
+2007	Myanmar	9
+2007	Turkey	4
+2007	Ukraine	4
+2007	Nigeria	5
+2007	Poland	4
+2007	Spain	3
+2007	Australia	3
+2007	Iran (Islamic Republic of)	4
+2007	Philippines	5
+2007	Egypt	4
+2006	China	88
+2006	United States of America	49
+2006	India	53
+2006	Russian Federation	10
+2006	Indonesia	17
+2006	France	9
+2006	Brazil	10
+2006	Canada	7
+2006	Germany	6
+2006	Bangladesh	11
+2006	Viet Nam	10
+2006	Turkey	5
+2006	Argentina	5
+2006	Thailand	9
+2006	Ukraine	4
+2006	Pakistan	6
+2006	Myanmar	9
+2006	Mexico	5
+2006	Nigeria	5
+2006	Egypt	4
+2006	Iran (Islamic Republic of)	4
+2006	Poland	3
+2006	Philippines	5
+2006	United Kingdom	3
+2006	Italy	3
+2005	China	84
+2005	United States of America	54
+2005	India	53
+2005	Russian Federation	10
+2005	Indonesia	17
+2005	France	9
+2005	Brazil	10
+2005	Canada	7
+2005	Germany	6
+2005	Bangladesh	11
+2005	Australia	6
+2005	Viet Nam	10
+2005	Argentina	6
+2005	Ukraine	5
+2005	Turkey	5
+2005	Thailand	9
+2005	Pakistan	6
+2005	Myanmar	8
+2005	Mexico	4
+2005	Poland	4
+2005	Nigeria	5
+2005	Egypt	4
+2005	Iran (Islamic Republic of)	3
+2005	Italy	3
+2005	United Kingdom	3
+2004	China	82
+2004	United States of America	57
+2004	India	50
+2004	Russian Federation	10
+2004	France	10
+2004	Indonesia	17
+2004	Brazil	11
+2004	Germany	7
+2004	Canada	7
+2004	Ukraine	5
+2004	Viet Nam	10
+2004	Bangladesh	10
+2004	Argentina	5
+2004	Australia	5
+2004	Turkey	5
+2004	Thailand	8
+2004	Mexico	5
+2004	Pakistan	5
+2004	Poland	4
+2004	Myanmar	7
+2004	Spain	3
+2004	Romania	3
+2004	Nigeria	4
+2004	Italy	3
+2004	United Kingdom	3
+2003	China	74
+2003	United States of America	51
+2003	India	52
+2003	Brazil	11
+2003	Russian Federation	8
+2003	Indonesia	16
+2003	France	8
+2003	Canada	7
+2003	Australia	6
+2003	Bangladesh	11
+2003	Germany	5
+2003	Viet Nam	10
+2003	Argentina	5
+2003	Thailand	9
+2003	Mexico	4
+2003	Turkey	4
+2003	Pakistan	5
+2003	Myanmar	6
+2003	Poland	3
+2003	Nigeria	4
+2003	United Kingdom	3
+2003	Spain	3
+2003	Iran (Islamic Republic of)	3
+2003	Egypt	4
+2003	Ukraine	2
+2002	China	79
+2002	United States of America	44
+2002	India	44
+2002	Russian Federation	11
+2002	France	10
+2002	Indonesia	16
+2002	Brazil	9
+2002	Germany	6
+2002	Bangladesh	10
+2002	Ukraine	5
+2002	Viet Nam	10
+2002	Canada	5
+2002	Thailand	8
+2002	Argentina	5
+2002	Turkey	4
+2002	Mexico	4
+2002	Pakistan	5
+2002	Poland	4
+2002	United Kingdom	3
+2002	Myanmar	6
+2002	Spain	3
+2002	Nigeria	4
+2002	Italy	3
+2002	Egypt	4
+2002	Iran (Islamic Republic of)	3
+2001	China	80
+2001	United States of America	48
+2001	India	54
+2001	Russian Federation	10
+2001	France	9
+2001	Indonesia	15
+2001	Brazil	9
+2001	Germany	7
+2001	Canada	6
+2001	Ukraine	5
+2001	Australia	6
+2001	Bangladesh	10
+2001	Argentina	5
+2001	Viet Nam	9
+2001	Thailand	8
+2001	Mexico	4
+2001	Turkey	4
+2001	Pakistan	5
+2001	Poland	4
+2001	Myanmar	6
+2001	Nigeria	3
+2001	Italy	3
+2001	United Kingdom	3
+2001	Romania	3
+2001	Egypt	3
+2000	China	82
+2000	United States of America	50
+2000	India	51
+2000	France	10
+2000	Russian Federation	8
+2000	Indonesia	16
+2000	Canada	7
+2000	Brazil	8
+2000	Germany	6
+2000	Bangladesh	10
+2000	Argentina	6
+2000	Viet Nam	9
+2000	Australia	5
+2000	Turkey	4
+2000	Thailand	8
+2000	Pakistan	5
+2000	Mexico	4
+2000	Spain	3
+2000	United Kingdom	3
+2000	Ukraine	3
+2000	Poland	3
+2000	Myanmar	6
+2000	Nigeria	4
+2000	Italy	3
+2000	Egypt	4
+1999	China	91
+1999	United States of America	49
+1999	India	52
+1999	France	9
+1999	Indonesia	15
+1999	Canada	7
+1999	Russian Federation	6
+1999	Brazil	8
+1999	Germany	6
+1999	Bangladesh	10
+1999	Australia	5
+1999	Argentina	5
+1999	Viet Nam	9
+1999	Turkey	4
+1999	Thailand	7
+1999	Pakistan	5
+1999	Mexico	4
+1999	Poland	3
+1999	Ukraine	3
+1999	Nigeria	4
+1999	United Kingdom	3
+1999	Italy	3
+1999	Myanmar	6
+1999	Egypt	4
+1999	Spain	2
+1998	China	91
+1998	United States of America	51
+1998	India	50
+1998	France	10
+1998	Indonesia	15
+1998	Canada	7
+1998	Russian Federation	5
+1998	Germany	6
+1998	Brazil	7
+1998	Argentina	6
+1998	Australia	5
+1998	Turkey	4
+1998	Bangladesh	8
+1998	Viet Nam	8
+1998	Mexico	4
+1998	Thailand	7
+1998	Pakistan	5
+1998	Poland	3
+1998	Ukraine	3
+1998	United Kingdom	3
+1998	Spain	3
+1998	Nigeria	4
+1998	Italy	3
+1998	Iran (Islamic Republic of)	3
+1998	Egypt	3
+1997	China	90
+1997	United States of America	49
+1997	India	49
+1997	Russian Federation	10
+1997	France	9
+1997	Indonesia	15
+1997	Canada	7
+1997	Germany	6
+1997	Brazil	7
+1997	Argentina	5
+1997	Ukraine	5
+1997	Australia	5
+1997	Turkey	4
+1997	Bangladesh	8
+1997	Viet Nam	8
+1997	Mexico	4
+1997	Thailand	7
+1997	Poland	3
+1997	Pakistan	5
+1997	United Kingdom	3
+1997	Romania	3
+1997	Nigeria	4
+1997	Italy	3
+1997	Spain	3
+1997	Egypt	3
+1996	China	90
+1996	United States of America	49
+1996	India	48
+1996	Russian Federation	7
+1996	France	9
+1996	Indonesia	15
+1996	Canada	8
+1996	Brazil	7
+1996	Germany	6
+1996	Australia	5
+1996	Argentina	5
+1996	Bangladesh	8
+1996	Turkey	4
+1996	Mexico	4
+1996	Viet Nam	7
+1996	Thailand	7
+1996	Pakistan	5
+1996	Poland	3
+1996	United Kingdom	3
+1996	Ukraine	3
+1996	Spain	3
+1996	Nigeria	4
+1996	Italy	3
+1996	Myanmar	5
+1996	Egypt	3
+1995	China	84
+1995	United States of America	41
+1995	India	46
+1995	Russian Federation	7
+1995	Indonesia	15
+1995	France	8
+1995	Brazil	8
+1995	Canada	7
+1995	Germany	5
+1995	Ukraine	4
+1995	Turkey	4
+1995	Bangladesh	7
+1995	Australia	4
+1995	Mexico	4
+1995	Thailand	7
+1995	Viet Nam	7
+1995	Poland	3
+1995	Pakistan	4
+1995	Argentina	4
+1995	Nigeria	4
+1995	United Kingdom	3
+1995	Romania	3
+1995	Italy	3
+1995	Myanmar	5
+1995	Iran (Islamic Republic of)	3
+1994	China	79
+1994	United States of America	52
+1994	India	47
+1994	Russian Federation	9
+1994	Indonesia	14
+1994	France	8
+1994	Canada	6
+1994	Brazil	8
+1994	Germany	5
+1994	Ukraine	4
+1994	Turkey	4
+1994	Mexico	4
+1994	Bangladesh	7
+1994	Argentina	4
+1994	Thailand	6
+1994	Viet Nam	7
+1994	Pakistan	4
+1994	Poland	3
+1994	Nigeria	3
+1994	United Kingdom	3
+1994	Italy	3
+1994	Myanmar	5
+1994	Romania	2
+1994	Iran (Islamic Republic of)	3
+1994	Kazakhstan	2
+1993	China	81
+1993	United States of America	38
+1993	India	46
+1993	Russian Federation	11
+1993	France	8
+1993	Indonesia	14
+1993	Canada	7
+1993	Brazil	7
+1993	Ukraine	6
+1993	Germany	5
+1993	Turkey	4
+1993	Bangladesh	7
+1993	Australia	4
+1993	Mexico	4
+1993	Argentina	4
+1993	Pakistan	4
+1993	Viet Nam	6
+1993	Poland	3
+1993	Thailand	6
+1993	Kazakhstan	3
+1993	Nigeria	3
+1993	Italy	3
+1993	United Kingdom	3
+1993	Spain	2
+1993	Myanmar	5
+1992	China	82
+1992	United States of America	52
+1992	India	43
+1992	Russian Federation	12
+1992	France	9
+1992	Indonesia	14
+1992	Canada	7
+1992	Brazil	7
+1992	Ukraine	5
+1992	Germany	5
+1992	Kazakhstan	4
+1992	Turkey	4
+1992	Bangladesh	8
+1992	Mexico	4
+1992	Argentina	4
+1992	Australia	4
+1992	Thailand	6
+1992	Viet Nam	6
+1992	Pakistan	4
+1992	United Kingdom	3
+1992	Poland	3
+1992	Italy	3
+1992	Nigeria	3
+1992	Iran (Islamic Republic of)	2
+1992	Myanmar	4
+1991	China	80
+1991	United States of America	41
+1991	India	43
+1991	USSR	19
+1991	France	9
+1991	Canada	8
+1991	Indonesia	13
+1991	Germany	5
+1991	Brazil	6
+1991	Turkey	4
+1991	Bangladesh	7
+1991	Poland	4
+1991	Thailand	6
+1991	Mexico	3
+1991	United Kingdom	3
+1991	Argentina	3
+1991	Pakistan	4
+1991	Viet Nam	5
+1991	Spain	3
+1991	Romania	3
+1991	Yugoslav SFR	3
+1991	Italy	3
+1991	Australia	3
+1991	Nigeria	3
+1991	Hungary	2
+1990	China	82
+1990	United States of America	46
+1990	USSR	27
+1990	India	43
+1990	Canada	8
+1990	France	8
+1990	Indonesia	13
+1990	Germany	5
+1990	Brazil	5
+1990	Turkey	4
+1990	Poland	4
+1990	Bangladesh	7
+1990	Mexico	4
+1990	Australia	3
+1990	United Kingdom	3
+1990	Thailand	5
+1990	Pakistan	4
+1990	Argentina	3
+1990	Viet Nam	5
+1990	Spain	2
+1990	Nigeria	3
+1990	Italy	3
+1990	Romania	2
+1990	Philippines	3
+1990	Japan	4
+1989	China	76
+1989	United States of America	41
+1989	India	42
+1989	USSR	24
+1989	France	8
+1989	Indonesia	13
+1989	Canada	7
+1989	Brazil	8
+1989	Germany	5
+1989	Bangladesh	7
+1989	Poland	3
+1989	Thailand	6
+1989	Turkey	3
+1989	United Kingdom	3
+1989	Australia	3
+1989	Mexico	3
+1989	Pakistan	4
+1989	Viet Nam	5
+1989	Spain	3
+1989	Romania	3
+1989	Argentina	3
+1989	Nigeria	3
+1989	Italy	3
+1989	Yugoslav SFR	2
+1989	Hungary	2
+1988	China	72
+1988	United States of America	30
+1988	India	39
+1988	USSR	22
+1988	France	8
+1988	Indonesia	12
+1988	Brazil	8
+1988	Germany	5
+1988	Canada	5
+1988	Turkey	4
+1988	Thailand	6
+1988	Poland	3
+1988	Bangladesh	6
+1988	Spain	3
+1988	Argentina	3
+1988	Australia	3
+1988	Mexico	3
+1988	United Kingdom	3
+1988	Romania	3
+1988	Pakistan	3
+1988	Viet Nam	5
+1988	Italy	3
+1988	Nigeria	3
+1988	Yugoslav SFR	2
+1988	Hungary	2
+1987	China	74
+1987	United States of America	41
+1987	USSR	23
+1987	India	33
+1987	France	7
+1987	Canada	7
+1987	Indonesia	12
+1987	Brazil	8
+1987	Germany	5
+1987	Turkey	4
+1987	Poland	3
+1987	Bangladesh	6
+1987	Mexico	3
+1987	Argentina	3
+1987	United Kingdom	3
+1987	Thailand	5
+1987	Spain	3
+1987	Australia	3
+1987	Pakistan	3
+1987	Italy	3
+1987	Romania	2
+1987	Nigeria	3
+1987	Viet Nam	4
+1987	Yugoslav SFR	2
+1987	Japan	4
+1986	China	72
+1986	United States of America	46
+1986	USSR	23
+1986	India	35
+1986	Canada	8
+1986	France	7
+1986	Indonesia	12
+1986	Brazil	7
+1986	Germany	5
+1986	Turkey	4
+1986	Argentina	4
+1986	Poland	3
+1986	United Kingdom	3
+1986	Bangladesh	6
+1986	Australia	3
+1986	Thailand	6
+1986	Mexico	3
+1986	Pakistan	4
+1986	Romania	3
+1986	Italy	3
+1986	Yugoslav SFR	3
+1986	Viet Nam	4
+1986	Spain	2
+1986	Japan	4
+1986	Myanmar	4
+1985	United States of America	50
+1985	China	70
+1985	USSR	21
+1985	India	35
+1985	France	8
+1985	Canada	7
+1985	Indonesia	11
+1985	Germany	5
+1985	Brazil	6
+1985	Argentina	4
+1985	Mexico	4
+1985	Turkey	4
+1985	Thailand	6
+1985	Australia	4
+1985	Bangladesh	6
+1985	Poland	3
+1985	United Kingdom	3
+1985	Spain	3
+1985	Romania	3
+1985	Italy	3
+1985	Pakistan	3
+1985	Viet Nam	4
+1985	Japan	4
+1985	Yugoslav SFR	2
+1985	Myanmar	4
+1984	China	76
+1984	United States of America	46
+1984	India	34
+1984	USSR	18
+1984	France	8
+1984	Indonesia	11
+1984	Canada	6
+1984	Germany	5
+1984	Brazil	6
+1984	Argentina	5
+1984	Australia	4
+1984	United Kingdom	4
+1984	Turkey	4
+1984	Thailand	6
+1984	Poland	3
+1984	Mexico	3
+1984	Bangladesh	6
+1984	Spain	3
+1984	Romania	3
+1984	Italy	3
+1984	Yugoslav SFR	3
+1984	Pakistan	3
+1984	Viet Nam	4
+1984	Japan	4
+1984	Hungary	2
+1983	China	71
+1983	United States of America	30
+1983	USSR	21
+1983	India	35
+1983	Canada	7
+1983	France	7
+1983	Indonesia	10
+1983	Germany	4
+1983	Argentina	5
+1983	Australia	4
+1983	Brazil	5
+1983	Turkey	3
+1983	Thailand	6
+1983	Bangladesh	6
+1983	Mexico	3
+1983	Poland	3
+1983	United Kingdom	3
+1983	Pakistan	3
+1983	Italy	3
+1983	Romania	2
+1983	Yugoslav SFR	2
+1983	Viet Nam	4
+1983	Myanmar	4
+1983	Japan	4
+1983	Hungary	2
+1982	United States of America	48
+1982	China	66
+1982	USSR	21
+1982	India	28
+1982	Canada	7
+1982	France	7
+1982	Indonesia	10
+1982	Germany	4
+1982	Argentina	5
+1982	Brazil	6
+1982	Turkey	4
+1982	Bangladesh	6
+1982	United Kingdom	3
+1982	Poland	3
+1982	Mexico	3
+1982	Thailand	5
+1982	Romania	3
+1982	Italy	3
+1982	Pakistan	3
+1982	Yugoslav SFR	2
+1982	Hungary	2
+1982	Myanmar	4
+1982	Viet Nam	4
+1982	Australia	2
+1982	Japan	4
+1981	United States of America	48
+1981	China	59
+1981	India	31
+1981	USSR	17
+1981	Canada	7
+1981	France	6
+1981	Indonesia	10
+1981	Brazil	5
+1981	Germany	4
+1981	Argentina	4
+1981	Turkey	3
+1981	Mexico	4
+1981	Australia	3
+1981	Bangladesh	6
+1981	Thailand	5
+1981	Poland	2
+1981	United Kingdom	3
+1981	Italy	3
+1981	Pakistan	3
+1981	South Africa	3
+1981	Romania	2
+1981	Yugoslav SFR	2
+1981	Myanmar	4
+1981	Japan	4
+1981	Hungary	2
+1980	China	57
+1980	United States of America	39
+1980	USSR	21
+1980	India	30
+1980	France	7
+1980	Canada	6
+1980	Indonesia	9
+1980	Brazil	6
+1980	Germany	4
+1980	Turkey	3
+1980	Bangladesh	6
+1980	Mexico	3
+1980	Thailand	5
+1980	United Kingdom	3
+1980	Romania	3
+1980	Spain	2
+1980	Argentina	3
+1980	Poland	2
+1980	Italy	3
+1980	Pakistan	3
+1980	Australia	2
+1980	Yugoslav SFR	2
+1980	Hungary	2
+1980	Myanmar	4
+1980	South Africa	2
+1979	United States of America	44
+1979	China	60
+1979	USSR	20
+1979	India	26
+1979	France	6
+1979	Canada	5
+1979	Germany	4
+1979	Indonesia	8
+1979	Brazil	5
+1979	Turkey	3
+1979	Argentina	4
+1979	Australia	3
+1979	Bangladesh	5
+1979	Thailand	5
+1979	Romania	3
+1979	Italy	3
+1979	United Kingdom	2
+1979	Poland	2
+1979	Pakistan	3
+1979	Japan	4
+1979	Mexico	2
+1979	Yugoslav SFR	2
+1979	Spain	2
+1979	Hungary	2
+1979	Viet Nam	3
+1978	United States of America	40
+1978	China	56
+1978	USSR	27
+1978	India	30
+1978	France	6
+1978	Canada	6
+1978	Germany	4
+1978	Indonesia	8
+1978	Argentina	4
+1978	Australia	4
+1978	Turkey	3
+1978	Brazil	4
+1978	Poland	3
+1978	Thailand	5
+1978	Bangladesh	5
+1978	Mexico	3
+1978	Romania	3
+1978	Italy	3
+1978	United Kingdom	2
+1978	Japan	4
+1978	Spain	2
+1978	Pakistan	3
+1978	Yugoslav SFR	2
+1978	Hungary	2
+1978	South Africa	2
+1977	United States of America	38
+1977	China	50
+1977	USSR	21
+1977	India	29
+1977	Canada	6
+1977	France	5
+1977	Brazil	5
+1977	Germany	4
+1977	Indonesia	7
+1977	Turkey	3
+1977	Argentina	3
+1977	Bangladesh	5
+1977	Poland	2
+1977	Romania	3
+1977	Mexico	3
+1977	Japan	5
+1977	United Kingdom	2
+1977	Yugoslav SFR	2
+1977	Thailand	4
+1977	Pakistan	3
+1977	Australia	2
+1977	Italy	2
+1977	Spain	2
+1977	Hungary	2
+1977	South Africa	2
+1976	United States of America	37
+1976	China	51
+1976	USSR	25
+1976	India	25
+1976	Canada	6
+1976	France	5
+1976	Brazil	6
+1976	Germany	3
+1976	Indonesia	7
+1976	Argentina	4
+1976	Turkey	3
+1976	Poland	3
+1976	Romania	3
+1976	Bangladesh	5
+1976	Thailand	4
+1976	Australia	2
+1976	Italy	2
+1976	Mexico	2
+1976	Yugoslav SFR	2
+1976	Japan	4
+1976	Pakistan	3
+1976	United Kingdom	2
+1976	Spain	2
+1976	Viet Nam	3
+1976	Hungary	2
+1975	United States of America	36
+1975	China	50
+1975	India	27
+1975	USSR	14
+1975	Canada	5
+1975	France	5
+1975	Germany	4
+1975	Brazil	5
+1975	Indonesia	7
+1975	Argentina	3
+1975	Turkey	3
+1975	Poland	2
+1975	Bangladesh	5
+1975	Thailand	5
+1975	Australia	3
+1975	Japan	5
+1975	Italy	3
+1975	Mexico	2
+1975	Romania	2
+1975	Yugoslav SFR	2
+1975	Spain	2
+1975	United Kingdom	2
+1975	Pakistan	2
+1975	Hungary	2
+1975	South Africa	2
+1974	China	49
+1974	United States of America	30
+1974	USSR	22
+1974	India	23
+1974	France	6
+1974	Germany	4
+1974	Canada	4
+1974	Brazil	5
+1974	Indonesia	7
+1974	Argentina	3
+1974	Poland	3
+1974	Bangladesh	4
+1974	Turkey	2
+1974	Italy	2
+1974	Japan	4
+1974	United Kingdom	2
+1974	Australia	2
+1974	Thailand	4
+1974	Yugoslav SFR	2
+1974	Mexico	2
+1974	South Africa	2
+1974	Romania	2
+1974	Spain	2
+1974	Pakistan	2
+1974	Hungary	2
+1973	China	46
+1973	USSR	25
+1973	India	25
+1973	France	6
+1973	Canada	5
+1973	Germany	4
+1973	Indonesia	6
+1973	Argentina	3
+1973	Brazil	4
+1973	Poland	3
+1973	Bangladesh	5
+1973	Thailand	4
+1973	Australia	2
+1973	Japan	4
+1973	Italy	2
+1973	Turkey	2
+1973	United Kingdom	2
+1973	Mexico	2
+1973	Yugoslav SFR	2
+1973	Romania	2
+1973	Pakistan	2
+1973	Hungary	2
+1973	Spain	2
+1973	Viet Nam	3
+1972	United States of America	33
+1972	China	43
+1972	USSR	19
+1972	India	23
+1972	France	6
+1972	Canada	5
+1972	Germany	4
+1972	Brazil	4
+1972	Indonesia	6
+1972	Poland	2
+1972	Argentina	3
+1972	Turkey	2
+1972	Romania	2
+1972	Japan	4
+1972	Italy	2
+1972	United Kingdom	2
+1972	Bangladesh	4
+1972	Mexico	2
+1972	Thailand	4
+1972	Yugoslav SFR	2
+1972	Spain	2
+1972	South Africa	2
+1972	Pakistan	2
+1972	Viet Nam	3
+1972	Hungary	2
+1971	United States of America	34
+1971	China	44
+1971	USSR	21
+1971	India	24
+1971	Canada	5
+1971	France	5
+1971	Germany	4
+1971	Brazil	4
+1971	Indonesia	6
+1971	Argentina	3
+1971	Turkey	3
+1971	Poland	2
+1971	Italy	2
+1971	Thailand	4
+1971	Japan	4
+1971	Bangladesh	4
+1971	United Kingdom	2
+1971	Australia	2
+1971	Mexico	2
+1971	Romania	2
+1971	Yugoslav SFR	2
+1971	Spain	2
+1971	Pakistan	2
+1971	South Africa	2
+1971	Viet Nam	3
+1970	China	42
+1970	United States of America	27
+1970	USSR	21
+1970	India	24
+1970	France	4
+1970	Canada	4
+1970	Germany	3
+1970	Brazil	4
+1970	Indonesia	6
+1970	Argentina	3
+1970	Japan	5
+1970	Bangladesh	4
+1970	Poland	2
+1970	Italy	2
+1970	Turkey	2
+1970	Thailand	4
+1970	Mexico	2
+1970	United Kingdom	2
+1970	Australia	2
+1970	Pakistan	2
+1970	Yugoslav SFR	2
+1970	Romania	1
+1970	Viet Nam	3
+1970	Spain	1
+1970	Nigeria	1
+1969	United States of America	29
+1969	China	36
+1969	USSR	18
+1969	India	23
+1969	Canada	5
+1969	France	4
+1969	Germany	3
+1969	Brazil	4
+1969	Indonesia	5
+1969	Japan	5
+1969	Poland	2
+1969	Argentina	3
+1969	Bangladesh	5
+1969	Turkey	2
+1969	Italy	2
+1969	Thailand	4
+1969	Australia	2
+1969	Mexico	2
+1969	Yugoslav SFR	2
+1969	United Kingdom	2
+1969	Romania	2
+1969	Pakistan	2
+1969	Spain	1
+1969	Hungary	1
+1969	Viet Nam	2
+1968	United States of America	29
+1968	China	37
+1968	USSR	19
+1968	India	22
+1968	Canada	5
+1968	France	4
+1968	Germany	3
+1968	Japan	5
+1968	Brazil	4
+1968	Indonesia	5
+1968	Australia	3
+1968	Poland	2
+1968	Bangladesh	4
+1968	Argentina	2
+1968	Turkey	2
+1968	Italy	2
+1968	Mexico	2
+1968	Thailand	4
+1968	United Kingdom	2
+1968	Romania	2
+1968	Yugoslav SFR	2
+1968	Spain	2
+1968	Pakistan	2
+1968	Viet Nam	2
+1968	Hungary	1
+1967	United States of America	30
+1967	China	37
+1967	USSR	16
+1967	India	21
+1967	France	4
+1967	Canada	4
+1967	Germany	3
+1967	Japan	5
+1967	Brazil	4
+1967	Argentina	3
+1967	Turkey	2
+1967	Bangladesh	4
+1967	Poland	2
+1967	Indonesia	4
+1967	Italy	2
+1967	United Kingdom	2
+1967	Romania	2
+1967	Yugoslav SFR	2
+1967	Mexico	2
+1967	Thailand	3
+1967	South Africa	2
+1967	Spain	1
+1967	Australia	1
+1967	Viet Nam	3
+1967	Pakistan	1
+1966	United States of America	26
+1966	China	37
+1966	USSR	20
+1966	India	17
+1966	Canada	5
+1966	France	4
+1966	Germany	3
+1966	Japan	5
+1966	Brazil	3
+1966	Indonesia	4
+1966	Argentina	2
+1966	Australia	2
+1966	Turkey	2
+1966	Poland	2
+1966	Thailand	4
+1966	Bangladesh	4
+1966	Italy	2
+1966	Yugoslav SFR	2
+1966	Romania	2
+1966	United Kingdom	2
+1966	Mexico	2
+1966	Spain	1
+1966	Viet Nam	2
+1966	Republic of Korea	2
+1966	Hungary	1
+1965	United States of America	26
+1965	China	33
+1965	USSR	12
+1965	India	17
+1965	Canada	4
+1965	France	4
+1965	Germany	3
+1965	Brazil	4
+1965	Japan	5
+1965	Poland	2
+1965	Bangladesh	4
+1965	Indonesia	4
+1965	Turkey	2
+1965	Italy	2
+1965	Argentina	2
+1965	United Kingdom	2
+1965	Romania	2
+1965	Mexico	2
+1965	Thailand	3
+1965	Yugoslav SFR	1
+1965	Viet Nam	3
+1965	Australia	1
+1965	Spain	1
+1965	Nigeria	1
+1965	Myanmar	2
+1964	United States of America	23
+1964	China	31
+1964	USSR	16
+1964	India	21
+1964	Canada	4
+1964	France	4
+1964	Germany	3
+1964	Argentina	3
+1964	Japan	5
+1964	Brazil	3
+1964	Indonesia	4
+1964	Bangladesh	4
+1964	Turkey	2
+1964	Poland	2
+1964	Italy	2
+1964	Australia	2
+1964	United Kingdom	2
+1964	Thailand	3
+1964	Yugoslav SFR	2
+1964	Mexico	2
+1964	Romania	2
+1964	Viet Nam	3
+1964	Myanmar	2
+1964	Spain	1
+1964	Nigeria	1
+1963	United States of America	25
+1963	China	28
+1963	USSR	10
+1963	India	20
+1963	Canada	5
+1963	France	3
+1963	Germany	3
+1963	Japan	5
+1963	Turkey	2
+1963	Argentina	2
+1963	Brazil	3
+1963	Bangladesh	4
+1963	Poland	2
+1963	Indonesia	4
+1963	Italy	2
+1963	Thailand	3
+1963	Australia	2
+1963	United Kingdom	1
+1963	Yugoslav SFR	1
+1963	Romania	1
+1963	Viet Nam	3
+1963	Mexico	1
+1963	Spain	1
+1963	Nigeria	1
+1963	Myanmar	2
+1962	United States of America	23
+1962	USSR	15
+1962	China	24
+1962	India	19
+1962	Canada	4
+1962	France	3
+1962	Germany	3
+1962	Japan	5
+1962	Indonesia	4
+1962	Brazil	3
+1962	Turkey	2
+1962	Italy	2
+1962	Poland	2
+1962	Argentina	2
+1962	Bangladesh	3
+1962	Thailand	3
+1962	United Kingdom	1
+1962	Australia	2
+1962	Viet Nam	3
+1962	Yugoslav SFR	1
+1962	Romania	1
+1962	Spain	1
+1962	Mexico	1
+1962	Nigeria	1
+1962	Myanmar	2
+1961	United States of America	23
+1961	USSR	14
+1961	China	21
+1961	India	19
+1961	France	3
+1961	Japan	5
+1961	Germany	2
+1961	Canada	2
+1961	Poland	2
+1961	Brazil	3
+1961	Bangladesh	4
+1961	Argentina	2
+1961	Indonesia	4
+1961	Italy	2
+1961	Turkey	2
+1961	Thailand	3
+1961	Romania	1
+1961	United Kingdom	1
+1961	Viet Nam	2
+1961	Australia	1
+1961	Yugoslav SFR	1
+1961	Mexico	1
+1961	Nigeria	1
+1961	Spain	1
+1961	Myanmar	2
+XXX 000

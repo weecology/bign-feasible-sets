@@ -1,0 +1,292 @@
+1990	Hungary	47
+1990	Iran (Islamic Republic of)	26
+1990	Honduras	15
+1990	India	11
+1990	Germany	5
+1990	Angola	3
+1990	Namibia	2
+1990	Oman	1
+1990	Mauritius	1
+1991	Hungary	16
+1991	India	15
+1991	Jordan	13
+1991	Honduras	9
+1991	Iran (Islamic Republic of)	6
+1991	Germany	6
+1991	Namibia	2
+1991	Cameroon	2
+1991	Oman	1
+1991	Botswana	1
+1991	Bhutan	1
+1992	Bulgaria	23
+1992	Hungary	21
+1992	Honduras	12
+1992	India	10
+1992	Oman	5
+1992	Germany	4
+1992	Namibia	3
+1992	Jordan	3
+1992	Sri Lanka	1
+1992	Bhutan	1
+1992	Bangladesh	1
+1993	Egypt	462
+1993	Hungary	38
+1993	India	20
+1993	Costa Rica	18
+1993	Seychelles	11
+1993	Jordan	9
+1993	Namibia	4
+1993	Angola	2
+1993	Albania	2
+1993	Sri Lanka	1
+1993	Germany	1
+1993	Bhutan	1
+1993	Bangladesh	1
+1993	Argentina	1
+1993	Senegal	0
+1993	Madagascar	0
+1994	Dominican Republic	35
+1994	Mozambique	32
+1994	India	26
+1994	Hungary	26
+1994	Seychelles	11
+1994	Oman	3
+1994	Albania	3
+1994	Angola	2
+1994	Sri Lanka	1
+1994	Germany	1
+1994	Argentina	1
+1994	Uruguay	0
+1994	Senegal	0
+1995	Dominican Republic	80
+1995	Mozambique	43
+1995	Peru	36
+1995	India	30
+1995	Zimbabwe	25
+1995	Hungary	18
+1995	Seychelles	14
+1995	Nicaragua	8
+1995	Costa Rica	4
+1995	Albania	4
+1995	Bangladesh	2
+1995	Jordan	1
+1995	Germany	1
+1995	Argentina	1
+1995	Angola	1
+1995	Senegal	0
+1995	Uruguay	0
+1995	Cook Islands	0
+1996	Hungary	63
+1996	Mozambique	34
+1996	India	30
+1996	Zimbabwe	25
+1996	Dominican Republic	23
+1996	Seychelles	13
+1996	Peru	11
+1996	Costa Rica	8
+1996	Jordan	7
+1996	Oman	6
+1996	Kuwait	5
+1996	Argentina	3
+1996	Bangladesh	2
+1996	Ethiopia	1
+1996	Angola	1
+1996	Senegal	0
+1996	Cook Islands	0
+1996	Uruguay	0
+1996	Madagascar	0
+1997	Costa Rica	80
+1997	Jordan	38
+1997	Zimbabwe	25
+1997	Mozambique	25
+1997	Dominican Republic	25
+1997	India	24
+1997	Oman	15
+1997	Seychelles	13
+1997	Peru	10
+1997	Russian Federation	6
+1997	Kuwait	3
+1997	Argentina	3
+1997	Iraq	1
+1997	Germany	1
+1997	Malawi	1
+1997	Senegal	0
+1997	Uruguay	0
+1997	Cook Islands	0
+1998	Nicaragua	42
+1998	India	42
+1998	Dominican Republic	38
+1998	Syrian Arab Republic	31
+1998	Zimbabwe	25
+1998	Seychelles	10
+1998	Jordan	10
+1998	Kuwait	5
+1998	Oman	4
+1998	Argentina	3
+1998	Iraq	1
+1998	Senegal	0
+1998	Bahrain	0
+1998	Uruguay	0
+1998	Malawi	0
+1998	Cook Islands	0
+1998	Madagascar	0
+1999	Nicaragua	90
+1999	India	79
+1999	Chile	14
+1999	Syrian Arab Republic	5
+1999	Uruguay	0
+1999	Malawi	0
+1999	Cook Islands	0
+2000	Nicaragua	70
+2000	Syrian Arab Republic	30
+2000	Dominican Republic	25
+2000	Sudan (former)	8
+2000	Oman	1
+2000	Senegal	0
+2000	Germany	0
+2000	Malawi	0
+2000	Yemen	0
+2000	Bahrain	0
+2000	Japan	0
+2000	Uruguay	0
+2000	Cook Islands	0
+2000	Slovakia	0
+2000	Madagascar	0
+2001	Nicaragua	31
+2001	Dominican Republic	25
+2001	Syrian Arab Republic	12
+2001	Bahrain	0
+2001	Senegal	0
+2001	Germany	0
+2001	Japan	0
+2001	Uruguay	0
+2001	Slovakia	0
+2001	Madagascar	0
+2001	Czech Republic	0
+2002	Nicaragua	12
+2002	Suriname	9
+2002	Japan	0
+2002	Germany	0
+2002	French Polynesia	0
+2002	Uruguay	0
+2002	Timor-Leste	0
+2003	Nicaragua	34
+2003	Togo	11
+2003	Suriname	3
+2003	Thailand	3
+2003	Dominican Republic	1
+2003	Bahrain	0
+2003	Germany	0
+2003	Uruguay	0
+2003	Ecuador	0
+2004	Nicaragua	51
+2004	Togo	10
+2004	Suriname	10
+2004	Ecuador	7
+2004	Dominican Republic	6
+2004	Thailand	2
+2004	French Polynesia	0
+2004	Guyana	0
+2004	Bahrain	0
+2004	Japan	0
+2004	Germany	0
+2004	Uruguay	0
+2004	Burundi	0
+2005	Nicaragua	48
+2005	Dominican Republic	28
+2005	Suriname	13
+2005	Togo	10
+2005	Thailand	3
+2005	Ecuador	1
+2005	Guyana	1
+2005	Bahrain	0
+2005	French Polynesia	0
+2005	Madagascar	0
+2005	Japan	0
+2005	Germany	0
+2005	Czech Republic	0
+2005	Uruguay	0
+2005	Burundi	0
+2006	Malaysia	230
+2006	Nicaragua	63
+2006	Dominican Republic	31
+2006	Togo	15
+2006	Suriname	7
+2006	Mali	5
+2006	Thailand	3
+2006	Guyana	1
+2006	French Polynesia	0
+2006	Ecuador	0
+2006	Belize	0
+2006	Japan	0
+2006	Germany	0
+2006	Bahrain	0
+2006	Madagascar	0
+2006	Uruguay	0
+2006	Czech Republic	0
+2007	Malaysia	265
+2007	Nicaragua	56
+2007	Dominican Republic	24
+2007	Suriname	14
+2007	Togo	10
+2007	Thailand	5
+2007	French Polynesia	0
+2007	Timor-Leste	0
+2007	Bahrain	0
+2007	Guyana	0
+2007	Japan	0
+2007	Germany	0
+2007	Madagascar	0
+2007	Ecuador	0
+2007	Czech Republic	0
+2007	Iceland	0
+2008	Malaysia	355
+2008	Nicaragua	36
+2008	Dominican Republic	29
+2008	Togo	16
+2008	Suriname	11
+2008	Thailand	5
+2008	Guyana	1
+2008	Mali	1
+2008	Germany	0
+2008	French Polynesia	0
+2008	Timor-Leste	0
+2008	Japan	0
+2008	Netherlands	0
+2008	Lao People's Democratic Republic	0
+2008	Iceland	0
+2009	Ecuador	100
+2009	Nicaragua	48
+2009	Bangladesh	46
+2009	Dominican Republic	45
+2009	Suriname	16
+2009	Togo	12
+2009	Thailand	1
+2009	Germany	0
+2009	Mali	0
+2009	Madagascar	0
+2009	French Polynesia	0
+2009	Uruguay	0
+2009	Japan	0
+2009	Lao People's Democratic Republic	0
+2009	Netherlands	0
+2009	Azerbaijan	0
+2009	Guyana	0
+2010	Bangladesh	60
+2010	Dominican Republic	57
+2010	Nicaragua	53
+2010	Togo	12
+2010	Ecuador	6
+2010	Poland	2
+2010	Mali	1
+2010	Guyana	0
+2010	French Polynesia	0
+2010	Madagascar	0
+2010	Japan	0
+2010	Germany	0
+2010	Netherlands	0
+2010	Costa Rica	0
+2010	Azerbaijan	0
+2010	Uruguay	0
+2010	Suriname	0
+2010	Mauritania	0

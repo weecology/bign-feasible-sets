@@ -1,0 +1,6742 @@
+1980	China	743212
+1980	India	438614
+1980	Indonesia	80848
+1980	USSR	60603
+1980	Bangladesh	58044
+1980	Pakistan	50073
+1980	Brazil	44007
+1980	Nigeria	40660
+1980	Viet Nam	39577
+1980	Ethiopia PDR	33680
+1980	Thailand	30529
+1980	Mexico	26182
+1980	Egypt	25805
+1980	Myanmar	24942
+1980	Philippines	24165
+1980	Democratic Republic of the Congo	19303
+1980	Turkey	17615
+1980	United Republic of Tanzania	15706
+1980	Iran (Islamic Republic of)	14965
+1980	Sudan (former)	14468
+1980	Nepal	14058
+1980	Kenya	13369
+1980	Republic of Korea	12617
+1980	Japan	12215
+1980	Uganda	10922
+1980	Colombia	10598
+1980	Morocco	10466
+1980	Afghanistan	9992
+1980	Mozambique	9849
+1980	Poland	9394
+1980	United States of America	8447
+1980	Sri Lanka	8001
+1980	Democratic People's Republic of Korea	7612
+1980	Romania	7267
+1980	South Africa	7128
+1980	Italy	7098
+1980	Madagascar	7087
+1980	Spain	6879
+1980	Peru	6720
+1980	Ghana	6662
+1980	Algeria	6654
+1980	Burkina Faso	6647
+1980	Mali	6399
+1980	Cameroon	6281
+1980	Angola	5817
+1980	Côte d'Ivoire	5487
+1980	Malaysia	5431
+1980	Germany	5411
+1980	Yemen	5406
+1980	Zimbabwe	5317
+1980	Niger	5292
+1980	Malawi	5192
+1980	Cambodia	4915
+1980	Rwanda	4815
+1980	France	4450
+1980	Senegal	4355
+1980	Zambia	4314
+1980	Saudi Arabia	4214
+1980	Haiti	4031
+1980	Guinea	4007
+1980	Guatemala	3947
+1980	Chad	3898
+1980	Burundi	3847
+1980	Argentina	3735
+1980	Iraq	3659
+1980	Yugoslav SFR	3268
+1980	Ecuador	3246
+1980	Syrian Arab Republic	2998
+1980	Portugal	2821
+1980	Bolivia (Plurinational State of)	2762
+1980	Papua New Guinea	2736
+1980	Cuba	2639
+1980	Greece	2582
+1980	Lao People's Democratic Republic	2580
+1980	Venezuela (Bolivarian Republic of)	2578
+1980	Benin	2418
+1980	Tunisia	2388
+1980	Sierra Leone	2306
+1980	Chile	2291
+1980	Hungary	2191
+1980	Honduras	2181
+1980	El Salvador	2060
+1980	Czechoslovakia	2025
+1980	Dominican Republic	1925
+1980	Central African Republic	1921
+1980	Bulgaria	1905
+1980	Togo	1833
+1980	Canada	1764
+1980	Albania	1538
+1980	Liberia	1474
+1980	United Kingdom	1471
+1980	Paraguay	1448
+1980	Nicaragua	1264
+1980	Mauritania	1081
+1980	Congo	1028
+1980	Australia	955
+1980	Netherlands	785
+1980	Costa Rica	784
+1980	Austria	742
+1980	Guinea-Bissau	729
+1980	Libya	687
+1980	Mongolia	672
+1980	Jamaica	664
+1980	Namibia	656
+1980	Ireland	636
+1980	Panama	625
+1980	Finland	620
+1980	Botswana	612
+1980	Switzerland	599
+1980	Lesotho	589
+1980	Sweden	567
+1980	Oman	559
+1980	Gambia	533
+1980	Timor-Leste	487
+1980	Gabon	447
+1980	Bhutan	403
+1980	Uruguay	398
+1980	Lebanon	393
+1980	Jordan	379
+1980	Norway	373
+1980	Occupied Palestinian Territory 	355
+1980	Denmark	354
+1980	New Zealand	345
+1980	Swaziland	319
+1980	Belgium-Luxembourg	307
+1980	Fiji	295
+1980	Djibouti	287
+1980	Comoros	265
+1980	Mauritius	257
+1980	Puerto Rico	244
+1980	Israel	226
+1980	Guyana	207
+1980	Solomon Islands	179
+1980	Cyprus	175
+1980	Equatorial Guinea	172
+1980	Réunion	145
+1980	Trinidad and Tobago	116
+1980	Cape Verde	111
+1980	Maldives	93
+1980	Suriname	86
+1980	Western Sahara	85
+1980	Samoa	75
+1980	French Polynesia	74
+1980	New Caledonia	70
+1980	Sao Tome and Principe	68
+1980	Guadeloupe	61
+1980	Vanuatu	58
+1980	Belize	56
+1980	Seychelles	53
+1980	Pacific Islands Trust Territory	47
+1980	United Arab Emirates	46
+1980	Tonga	46
+1980	Mayotte	44
+1980	Martinique	42
+1980	Guam	41
+1980	Saint Lucia	40
+1980	Singapore	38
+1980	Saint Vincent and the Grenadines	34
+1980	United States Virgin Islands	30
+1980	Grenada	30
+1980	Malta	26
+1980	Kuwait	26
+1980	Dominica	25
+1980	Barbados	25
+1980	Antigua and Barbuda	24
+1980	Iceland	23
+1980	French Guiana	21
+1980	Aruba	20
+1980	Kiribati	19
+1980	American Samoa	16
+1980	Saint Kitts and Nevis	14
+1980	Bahrain	14
+1980	Bahamas	12
+1980	Brunei Darussalam	10
+1980	Cook Islands	9
+1980	Andorra	7
+1980	Qatar	6
+1980	Cayman Islands	6
+1980	Wallis and Futuna Islands	5
+1980	Gibraltar	5
+1980	Tuvalu	4
+1980	San Marino	4
+1980	Saint Helena	4
+1980	Montserrat	4
+1980	British Virgin Islands	4
+1980	Turks and Caicos Islands	3
+1980	Nauru	3
+1980	Faroe Islands	3
+1980	Niue	2
+1980	Monaco	2
+1980	Liechtenstein	2
+1980	Greenland	2
+1980	Bermuda	2
+1980	Anguilla	2
+1980	Tokelau	1
+1980	Netherlands Antilles	1
+1980	Falkland Islands (Malvinas)	1
+1981	China	751366
+1981	India	445216
+1981	Indonesia	82272
+1981	USSR	60300
+1981	Bangladesh	59093
+1981	Pakistan	51799
+1981	Brazil	43446
+1981	Nigeria	40883
+1981	Viet Nam	40266
+1981	Ethiopia PDR	34380
+1981	Thailand	30798
+1981	Mexico	26024
+1981	Egypt	25812
+1981	Myanmar	25357
+1981	Philippines	24550
+1981	Democratic Republic of the Congo	19740
+1981	Turkey	17709
+1981	United Republic of Tanzania	16177
+1981	Iran (Islamic Republic of)	15239
+1981	Sudan (former)	14913
+1981	Nepal	14391
+1981	Kenya	13844
+1981	Republic of Korea	12121
+1981	Japan	11894
+1981	Uganda	11221
+1981	Morocco	10493
+1981	Colombia	10457
+1981	Mozambique	10071
+1981	Afghanistan	9815
+1981	Poland	9406
+1981	United States of America	8358
+1981	Sri Lanka	8065
+1981	Democratic People's Republic of Korea	7619
+1981	Madagascar	7238
+1981	South Africa	7160
+1981	Romania	7074
+1981	Italy	6895
+1981	Ghana	6836
+1981	Burkina Faso	6811
+1981	Peru	6804
+1981	Algeria	6691
+1981	Spain	6685
+1981	Mali	6505
+1981	Cameroon	6394
+1981	Angola	6005
+1981	Côte d'Ivoire	5691
+1981	Yemen	5516
+1981	Zimbabwe	5496
+1981	Niger	5434
+1981	Malaysia	5380
+1981	Malawi	5325
+1981	Germany	5174
+1981	Cambodia	5006
+1981	Rwanda	4963
+1981	Senegal	4449
+1981	Zambia	4448
+1981	France	4321
+1981	Saudi Arabia	4242
+1981	Haiti	4114
+1981	Guinea	4054
+1981	Guatemala	4045
+1981	Chad	3972
+1981	Burundi	3961
+1981	Argentina	3799
+1981	Iraq	3591
+1981	Ecuador	3287
+1981	Yugoslav SFR	3128
+1981	Syrian Arab Republic	3065
+1981	Papua New Guinea	2803
+1981	Bolivia (Plurinational State of)	2791
+1981	Portugal	2762
+1981	Lao People's Democratic Republic	2625
+1981	Venezuela (Bolivarian Republic of)	2603
+1981	Cuba	2601
+1981	Greece	2522
+1981	Benin	2469
+1981	Tunisia	2384
+1981	Sierra Leone	2351
+1981	Chile	2314
+1981	Honduras	2194
+1981	Hungary	2153
+1981	El Salvador	2052
+1981	Czechoslovakia	2007
+1981	Central African Republic	1966
+1981	Dominican Republic	1920
+1981	Togo	1883
+1981	Bulgaria	1848
+1981	Canada	1695
+1981	Albania	1561
+1981	Liberia	1516
+1981	Paraguay	1469
+1981	United Kingdom	1454
+1981	Nicaragua	1261
+1981	Mauritania	1087
+1981	Congo	1044
+1981	Australia	954
+1981	Costa Rica	788
+1981	Netherlands	772
+1981	Guinea-Bissau	747
+1981	Austria	726
+1981	Libya	680
+1981	Mongolia	676
+1981	Namibia	662
+1981	Jamaica	661
+1981	Ireland	628
+1981	Panama	626
+1981	Botswana	617
+1981	Finland	604
+1981	Lesotho	602
+1981	Switzerland	593
+1981	Oman	587
+1981	Sweden	550
+1981	Gambia	550
+1981	Timor-Leste	489
+1981	Gabon	451
+1981	Bhutan	414
+1981	Uruguay	397
+1981	Jordan	387
+1981	Lebanon	376
+1981	Norway	365
+1981	Occupied Palestinian Territory 	356
+1981	Denmark	348
+1981	New Zealand	346
+1981	Swaziland	322
+1981	Belgium-Luxembourg	304
+1981	Fiji	302
+1981	Djibouti	298
+1981	Comoros	273
+1981	Mauritius	250
+1981	Puerto Rico	242
+1981	Israel	222
+1981	Guyana	203
+1981	Solomon Islands	185
+1981	Equatorial Guinea	180
+1981	Cyprus	168
+1981	Réunion	136
+1981	Trinidad and Tobago	118
+1981	Cape Verde	110
+1981	Maldives	93
+1981	Western Sahara	89
+1981	Suriname	85
+1981	Samoa	75
+1981	French Polynesia	75
+1981	New Caledonia	70
+1981	Sao Tome and Principe	69
+1981	Vanuatu	59
+1981	Guadeloupe	57
+1981	Belize	57
+1981	United Arab Emirates	54
+1981	Seychelles	54
+1981	Pacific Islands Trust Territory	49
+1981	Mayotte	46
+1981	Tonga	45
+1981	Guam	41
+1981	Saint Lucia	40
+1981	Martinique	40
+1981	Singapore	35
+1981	Saint Vincent and the Grenadines	34
+1981	United States Virgin Islands	30
+1981	Grenada	30
+1981	Kuwait	26
+1981	Malta	25
+1981	Dominica	25
+1981	Barbados	24
+1981	Iceland	23
+1981	Antigua and Barbuda	23
+1981	French Guiana	22
+1981	Kiribati	20
+1981	Aruba	20
+1981	American Samoa	16
+1981	Saint Kitts and Nevis	14
+1981	Bahrain	14
+1981	Bahamas	12
+1981	Brunei Darussalam	9
+1981	Cook Islands	8
+1981	Qatar	7
+1981	Andorra	7
+1981	Wallis and Futuna Islands	6
+1981	Cayman Islands	6
+1981	Gibraltar	5
+1981	Tuvalu	4
+1981	San Marino	4
+1981	Saint Helena	4
+1981	Montserrat	4
+1981	British Virgin Islands	4
+1981	Turks and Caicos Islands	3
+1981	Nauru	3
+1981	Faroe Islands	3
+1981	Niue	2
+1981	Monaco	2
+1981	Liechtenstein	2
+1981	Greenland	2
+1981	Bermuda	2
+1981	Anguilla	2
+1981	Tokelau	1
+1981	Netherlands Antilles	1
+1981	Falkland Islands (Malvinas)	1
+1982	China	759779
+1982	India	451905
+1982	Indonesia	83695
+1982	Bangladesh	60115
+1982	USSR	59992
+1982	Pakistan	52686
+1982	Brazil	42844
+1982	Nigeria	41078
+1982	Viet Nam	41038
+1982	Ethiopia PDR	35233
+1982	Thailand	31044
+1982	Mexico	25976
+1982	Egypt	25827
+1982	Myanmar	25766
+1982	Philippines	24934
+1982	Democratic Republic of the Congo	20167
+1982	Turkey	17891
+1982	United Republic of Tanzania	16664
+1982	Iran (Islamic Republic of)	15563
+1982	Sudan (former)	15373
+1982	Nepal	14735
+1982	Kenya	14335
+1982	Republic of Korea	11659
+1982	Japan	11572
+1982	Uganda	11527
+1982	Morocco	10549
+1982	Colombia	10303
+1982	Mozambique	10288
+1982	Afghanistan	9562
+1982	Poland	9418
+1982	United States of America	8273
+1982	Sri Lanka	8122
+1982	Democratic People's Republic of Korea	7631
+1982	Madagascar	7390
+1982	South Africa	7195
+1982	Ghana	7044
+1982	Burkina Faso	6982
+1982	Peru	6888
+1982	Romania	6872
+1982	Algeria	6733
+1982	Italy	6687
+1982	Mali	6617
+1982	Cameroon	6509
+1982	Spain	6480
+1982	Angola	6211
+1982	Côte d'Ivoire	5895
+1982	Zimbabwe	5683
+1982	Yemen	5633
+1982	Niger	5577
+1982	Malawi	5453
+1982	Malaysia	5325
+1982	Cambodia	5181
+1982	Rwanda	5105
+1982	Germany	4934
+1982	Zambia	4586
+1982	Senegal	4554
+1982	Saudi Arabia	4247
+1982	Haiti	4203
+1982	France	4193
+1982	Guatemala	4169
+1982	Guinea	4121
+1982	Burundi	4084
+1982	Chad	4052
+1982	Argentina	3862
+1982	Iraq	3513
+1982	Ecuador	3429
+1982	Syrian Arab Republic	3118
+1982	Yugoslav SFR	2984
+1982	Papua New Guinea	2872
+1982	Bolivia (Plurinational State of)	2819
+1982	Portugal	2680
+1982	Lao People's Democratic Republic	2680
+1982	Venezuela (Bolivarian Republic of)	2638
+1982	Cuba	2567
+1982	Benin	2523
+1982	Greece	2455
+1982	Sierra Leone	2395
+1982	Tunisia	2375
+1982	Chile	2313
+1982	Honduras	2205
+1982	Hungary	2112
+1982	El Salvador	2041
+1982	Central African Republic	2016
+1982	Czechoslovakia	1987
+1982	Togo	1939
+1982	Dominican Republic	1929
+1982	Bulgaria	1790
+1982	Canada	1624
+1982	Albania	1584
+1982	Liberia	1561
+1982	Paraguay	1494
+1982	United Kingdom	1426
+1982	Nicaragua	1271
+1982	Mauritania	1093
+1982	Congo	1062
+1982	Australia	954
+1982	Costa Rica	800
+1982	Guinea-Bissau	761
+1982	Netherlands	760
+1982	Austria	710
+1982	Mongolia	679
+1982	Libya	672
+1982	Namibia	669
+1982	Jamaica	658
+1982	Panama	639
+1982	Botswana	622
+1982	Oman	617
+1982	Lesotho	616
+1982	Ireland	615
+1982	Switzerland	589
+1982	Finland	587
+1982	Gambia	570
+1982	Sweden	535
+1982	Timor-Leste	499
+1982	Gabon	454
+1982	Bhutan	424
+1982	Jordan	398
+1982	Uruguay	397
+1982	Norway	359
+1982	Lebanon	359
+1982	Occupied Palestinian Territory 	357
+1982	New Zealand	344
+1982	Denmark	340
+1982	Swaziland	324
+1982	Fiji	310
+1982	Djibouti	305
+1982	Belgium-Luxembourg	300
+1982	Comoros	282
+1982	Mauritius	243
+1982	Puerto Rico	241
+1982	Israel	219
+1982	Guyana	198
+1982	Equatorial Guinea	193
+1982	Solomon Islands	190
+1982	Cyprus	161
+1982	Réunion	128
+1982	Trinidad and Tobago	120
+1982	Cape Verde	110
+1982	Maldives	93
+1982	Western Sahara	91
+1982	Suriname	85
+1982	French Polynesia	76
+1982	Samoa	74
+1982	Sao Tome and Principe	70
+1982	New Caledonia	70
+1982	United Arab Emirates	61
+1982	Vanuatu	59
+1982	Belize	58
+1982	Guadeloupe	55
+1982	Seychelles	54
+1982	Pacific Islands Trust Territory	50
+1982	Mayotte	48
+1982	Tonga	45
+1982	Guam	42
+1982	Saint Lucia	40
+1982	Martinique	39
+1982	Saint Vincent and the Grenadines	34
+1982	Singapore	33
+1982	United States Virgin Islands	30
+1982	Grenada	30
+1982	Kuwait	26
+1982	Iceland	24
+1982	Dominica	24
+1982	Malta	23
+1982	Barbados	23
+1982	French Guiana	22
+1982	Antigua and Barbuda	22
+1982	Kiribati	20
+1982	Aruba	20
+1982	American Samoa	17
+1982	Saint Kitts and Nevis	14
+1982	Bahrain	14
+1982	Bahamas	12
+1982	Brunei Darussalam	9
+1982	Cook Islands	8
+1982	Andorra	8
+1982	Qatar	7
+1982	Wallis and Futuna Islands	6
+1982	Cayman Islands	6
+1982	Gibraltar	5
+1982	Tuvalu	4
+1982	San Marino	4
+1982	Saint Helena	4
+1982	Montserrat	4
+1982	British Virgin Islands	4
+1982	Turks and Caicos Islands	3
+1982	Nauru	3
+1982	Faroe Islands	3
+1982	Monaco	2
+1982	Liechtenstein	2
+1982	Greenland	2
+1982	Bermuda	2
+1982	Anguilla	2
+1982	Tokelau	1
+1982	Niue	1
+1982	Netherlands Antilles	1
+1982	Falkland Islands (Malvinas)	1
+1983	China	768665
+1983	India	458571
+1983	Indonesia	85097
+1983	Bangladesh	61124
+1983	USSR	59687
+1983	Pakistan	53299
+1983	Brazil	42197
+1983	Viet Nam	41870
+1983	Nigeria	41217
+1983	Ethiopia PDR	36206
+1983	Thailand	31262
+1983	Myanmar	26170
+1983	Mexico	26094
+1983	Egypt	25864
+1983	Philippines	25320
+1983	Democratic Republic of the Congo	20608
+1983	Turkey	18086
+1983	United Republic of Tanzania	17164
+1983	Iran (Islamic Republic of)	15890
+1983	Sudan (former)	15828
+1983	Nepal	15088
+1983	Kenya	14840
+1983	Uganda	11849
+1983	Japan	11247
+1983	Republic of Korea	11157
+1983	Morocco	10575
+1983	Mozambique	10482
+1983	Colombia	10141
+1983	Poland	9427
+1983	Afghanistan	9269
+1983	United States of America	8201
+1983	Sri Lanka	8175
+1983	Democratic People's Republic of Korea	7646
+1983	Madagascar	7545
+1983	Ghana	7272
+1983	South Africa	7226
+1983	Burkina Faso	7161
+1983	Peru	6895
+1983	Algeria	6767
+1983	Mali	6734
+1983	Cameroon	6670
+1983	Romania	6663
+1983	Italy	6468
+1983	Angola	6423
+1983	Spain	6266
+1983	Côte d'Ivoire	6099
+1983	Zimbabwe	5878
+1983	Yemen	5776
+1983	Niger	5721
+1983	Malawi	5593
+1983	Cambodia	5413
+1983	Malaysia	5268
+1983	Rwanda	5254
+1983	Zambia	4728
+1983	Germany	4696
+1983	Senegal	4662
+1983	Guatemala	4292
+1983	Haiti	4287
+1983	Saudi Arabia	4230
+1983	Burundi	4216
+1983	Guinea	4202
+1983	Chad	4138
+1983	France	4064
+1983	Argentina	3921
+1983	Ecuador	3443
+1983	Iraq	3439
+1983	Syrian Arab Republic	3166
+1983	Papua New Guinea	2943
+1983	Bolivia (Plurinational State of)	2845
+1983	Yugoslav SFR	2836
+1983	Lao People's Democratic Republic	2743
+1983	Venezuela (Bolivarian Republic of)	2665
+1983	Portugal	2613
+1983	Benin	2577
+1983	Cuba	2527
+1983	Sierra Leone	2441
+1983	Greece	2383
+1983	Tunisia	2365
+1983	Chile	2315
+1983	Honduras	2211
+1983	Hungary	2067
+1983	Central African Republic	2066
+1983	El Salvador	2028
+1983	Togo	2000
+1983	Czechoslovakia	1965
+1983	Dominican Republic	1937
+1983	Bulgaria	1731
+1983	Albania	1607
+1983	Liberia	1602
+1983	Canada	1551
+1983	Paraguay	1520
+1983	United Kingdom	1397
+1983	Nicaragua	1268
+1983	Mauritania	1097
+1983	Congo	1076
+1983	Australia	954
+1983	Costa Rica	809
+1983	Guinea-Bissau	772
+1983	Netherlands	749
+1983	Austria	695
+1983	Mongolia	683
+1983	Namibia	676
+1983	Panama	661
+1983	Libya	661
+1983	Jamaica	655
+1983	Oman	646
+1983	Lesotho	629
+1983	Botswana	627
+1983	Ireland	601
+1983	Gambia	591
+1983	Switzerland	586
+1983	Finland	572
+1983	Sweden	518
+1983	Timor-Leste	516
+1983	Gabon	458
+1983	Bhutan	434
+1983	Jordan	409
+1983	Uruguay	398
+1983	Occupied Palestinian Territory 	360
+1983	Norway	350
+1983	New Zealand	343
+1983	Lebanon	343
+1983	Denmark	332
+1983	Swaziland	327
+1983	Fiji	318
+1983	Djibouti	311
+1983	Belgium-Luxembourg	297
+1983	Comoros	290
+1983	Puerto Rico	239
+1983	Mauritius	235
+1983	Israel	215
+1983	Equatorial Guinea	208
+1983	Solomon Islands	196
+1983	Guyana	193
+1983	Cyprus	154
+1983	Trinidad and Tobago	123
+1983	Réunion	118
+1983	Cape Verde	110
+1983	Maldives	93
+1983	Western Sahara	92
+1983	Suriname	84
+1983	French Polynesia	77
+1983	Samoa	73
+1983	Sao Tome and Principe	71
+1983	New Caledonia	71
+1983	United Arab Emirates	68
+1983	Vanuatu	60
+1983	Belize	59
+1983	Seychelles	55
+1983	Pacific Islands Trust Territory	52
+1983	Mayotte	51
+1983	Guadeloupe	51
+1983	Tonga	44
+1983	Guam	42
+1983	Saint Lucia	40
+1983	Martinique	37
+1983	Saint Vincent and the Grenadines	33
+1983	Singapore	31
+1983	Grenada	31
+1983	United States Virgin Islands	30
+1983	Kuwait	26
+1983	Iceland	24
+1983	Dominica	24
+1983	Malta	22
+1983	French Guiana	22
+1983	Barbados	22
+1983	Antigua and Barbuda	22
+1983	Kiribati	20
+1983	Aruba	20
+1983	American Samoa	17
+1983	Saint Kitts and Nevis	14
+1983	Bahrain	13
+1983	Bahamas	13
+1983	Brunei Darussalam	9
+1983	Qatar	8
+1983	Cook Islands	8
+1983	Andorra	8
+1983	Wallis and Futuna Islands	6
+1983	Cayman Islands	6
+1983	Gibraltar	5
+1983	Tuvalu	4
+1983	San Marino	4
+1983	Saint Helena	4
+1983	Montserrat	4
+1983	British Virgin Islands	4
+1983	Turks and Caicos Islands	3
+1983	Nauru	3
+1983	Faroe Islands	3
+1983	Monaco	2
+1983	Liechtenstein	2
+1983	Greenland	2
+1983	Bermuda	2
+1983	Anguilla	2
+1983	Tokelau	1
+1983	Niue	1
+1983	Netherlands Antilles	1
+1983	Falkland Islands (Malvinas)	1
+1984	China	778050
+1984	India	465218
+1984	Indonesia	86467
+1984	Bangladesh	62144
+1984	USSR	59384
+1984	Pakistan	54142
+1984	Viet Nam	42728
+1984	Brazil	41463
+1984	Nigeria	41362
+1984	Ethiopia PDR	37249
+1984	Thailand	31473
+1984	Myanmar	26568
+1984	Mexico	25971
+1984	Philippines	25780
+1984	Egypt	25757
+1984	Democratic Republic of the Congo	21082
+1984	Turkey	18261
+1984	United Republic of Tanzania	17675
+1984	Sudan (former)	16239
+1984	Iran (Islamic Republic of)	16195
+1984	Nepal	15450
+1984	Kenya	15359
+1984	Uganda	12194
+1984	Japan	10894
+1984	Mozambique	10635
+1984	Morocco	10602
+1984	Republic of Korea	10588
+1984	Colombia	9972
+1984	Poland	9429
+1984	Afghanistan	8980
+1984	Sri Lanka	8227
+1984	United States of America	8117
+1984	Madagascar	7708
+1984	Democratic People's Republic of Korea	7657
+1984	Ghana	7498
+1984	Burkina Faso	7346
+1984	South Africa	7241
+1984	Peru	6879
+1984	Mali	6844
+1984	Cameroon	6837
+1984	Algeria	6793
+1984	Angola	6632
+1984	Romania	6454
+1984	Côte d'Ivoire	6296
+1984	Italy	6254
+1984	Zimbabwe	6074
+1984	Spain	6045
+1984	Yemen	5919
+1984	Niger	5863
+1984	Malawi	5778
+1984	Cambodia	5666
+1984	Rwanda	5423
+1984	Malaysia	5208
+1984	Zambia	4872
+1984	Senegal	4770
+1984	Germany	4467
+1984	Guatemala	4396
+1984	Haiti	4373
+1984	Burundi	4352
+1984	Guinea	4291
+1984	Chad	4233
+1984	Saudi Arabia	4182
+1984	Argentina	3952
+1984	France	3932
+1984	Ecuador	3453
+1984	Iraq	3356
+1984	Syrian Arab Republic	3246
+1984	Papua New Guinea	3014
+1984	Bolivia (Plurinational State of)	2871
+1984	Lao People's Democratic Republic	2812
+1984	Venezuela (Bolivarian Republic of)	2690
+1984	Yugoslav SFR	2688
+1984	Benin	2634
+1984	Portugal	2525
+1984	Sierra Leone	2491
+1984	Cuba	2480
+1984	Tunisia	2351
+1984	Chile	2334
+1984	Greece	2319
+1984	Honduras	2216
+1984	Central African Republic	2116
+1984	Togo	2062
+1984	Hungary	2022
+1984	El Salvador	2014
+1984	Dominican Republic	1943
+1984	Czechoslovakia	1943
+1984	Bulgaria	1670
+1984	Liberia	1632
+1984	Albania	1632
+1984	Paraguay	1546
+1984	Canada	1477
+1984	United Kingdom	1370
+1984	Nicaragua	1274
+1984	Mauritania	1100
+1984	Congo	1088
+1984	Australia	953
+1984	Costa Rica	815
+1984	Guinea-Bissau	784
+1984	Netherlands	739
+1984	Namibia	687
+1984	Mongolia	686
+1984	Austria	681
+1984	Oman	674
+1984	Panama	668
+1984	Jamaica	650
+1984	Libya	645
+1984	Lesotho	645
+1984	Botswana	630
+1984	Gambia	614
+1984	Ireland	586
+1984	Switzerland	583
+1984	Finland	556
+1984	Timor-Leste	533
+1984	Sweden	503
+1984	Gabon	461
+1984	Bhutan	445
+1984	Jordan	422
+1984	Uruguay	398
+1984	Occupied Palestinian Territory 	363
+1984	Norway	343
+1984	New Zealand	342
+1984	Swaziland	331
+1984	Lebanon	325
+1984	Denmark	325
+1984	Fiji	324
+1984	Djibouti	321
+1984	Comoros	297
+1984	Belgium-Luxembourg	293
+1984	Puerto Rico	231
+1984	Mauritius	227
+1984	Equatorial Guinea	223
+1984	Israel	210
+1984	Solomon Islands	201
+1984	Guyana	187
+1984	Cyprus	146
+1984	Trinidad and Tobago	125
+1984	Cape Verde	111
+1984	Réunion	108
+1984	Maldives	93
+1984	Western Sahara	92
+1984	Suriname	84
+1984	French Polynesia	78
+1984	United Arab Emirates	75
+1984	Sao Tome and Principe	72
+1984	Samoa	72
+1984	New Caledonia	71
+1984	Vanuatu	60
+1984	Belize	60
+1984	Seychelles	55
+1984	Pacific Islands Trust Territory	54
+1984	Mayotte	53
+1984	Guadeloupe	48
+1984	Tonga	44
+1984	Guam	42
+1984	Saint Lucia	39
+1984	Martinique	36
+1984	Saint Vincent and the Grenadines	33
+1984	Grenada	31
+1984	United States Virgin Islands	30
+1984	Singapore	29
+1984	Kuwait	26
+1984	Iceland	25
+1984	French Guiana	23
+1984	Dominica	23
+1984	Barbados	22
+1984	Kiribati	21
+1984	Antigua and Barbuda	21
+1984	Malta	20
+1984	Aruba	20
+1984	American Samoa	17
+1984	Saint Kitts and Nevis	13
+1984	Bahrain	13
+1984	Bahamas	13
+1984	Qatar	9
+1984	Cook Islands	8
+1984	Brunei Darussalam	8
+1984	Andorra	8
+1984	Wallis and Futuna Islands	6
+1984	Cayman Islands	6
+1984	Gibraltar	5
+1984	Tuvalu	4
+1984	San Marino	4
+1984	Saint Helena	4
+1984	Montserrat	4
+1984	British Virgin Islands	4
+1984	Turks and Caicos Islands	3
+1984	Nauru	3
+1984	Faroe Islands	3
+1984	Monaco	2
+1984	Liechtenstein	2
+1984	Greenland	2
+1984	Bermuda	2
+1984	Anguilla	2
+1984	Tokelau	1
+1984	Niue	1
+1984	Netherlands Antilles	1
+1984	Falkland Islands (Malvinas)	1
+1985	China	787985
+1985	India	471845
+1985	Indonesia	87796
+1985	Bangladesh	63191
+1985	USSR	59077
+1985	Pakistan	54386
+1985	Viet Nam	43584
+1985	Nigeria	41501
+1985	Brazil	40633
+1985	Ethiopia PDR	38323
+1985	Thailand	31689
+1985	Myanmar	26960
+1985	Philippines	26238
+1985	Mexico	25879
+1985	Egypt	25649
+1985	Democratic Republic of the Congo	21577
+1985	Turkey	18449
+1985	United Republic of Tanzania	18198
+1985	Sudan (former)	16620
+1985	Iran (Islamic Republic of)	16493
+1985	Kenya	15888
+1985	Nepal	15820
+1985	Uganda	12567
+1985	Mozambique	10735
+1985	Morocco	10621
+1985	Japan	10525
+1985	Republic of Korea	10054
+1985	Colombia	9799
+1985	Poland	9420
+1985	Afghanistan	8736
+1985	Sri Lanka	8281
+1985	United States of America	8030
+1985	Madagascar	7879
+1985	Ghana	7715
+1985	Democratic People's Republic of Korea	7662
+1985	Burkina Faso	7539
+1985	South Africa	7248
+1985	Cameroon	7016
+1985	Mali	6938
+1985	Peru	6879
+1985	Angola	6827
+1985	Algeria	6801
+1985	Côte d'Ivoire	6498
+1985	Zimbabwe	6276
+1985	Romania	6245
+1985	Yemen	6043
+1985	Italy	6031
+1985	Malawi	6023
+1985	Niger	6019
+1985	Cambodia	5912
+1985	Spain	5817
+1985	Rwanda	5622
+1985	Malaysia	5145
+1985	Zambia	5028
+1985	Senegal	4888
+1985	Guatemala	4514
+1985	Burundi	4491
+1985	Haiti	4458
+1985	Guinea	4383
+1985	Chad	4337
+1985	Germany	4239
+1985	Saudi Arabia	4092
+1985	Argentina	3978
+1985	France	3801
+1985	Ecuador	3458
+1985	Syrian Arab Republic	3329
+1985	Iraq	3255
+1985	Papua New Guinea	3085
+1985	Bolivia (Plurinational State of)	2898
+1985	Lao People's Democratic Republic	2883
+1985	Venezuela (Bolivarian Republic of)	2719
+1985	Benin	2692
+1985	Sierra Leone	2545
+1985	Yugoslav SFR	2540
+1985	Cuba	2444
+1985	Portugal	2436
+1985	Chile	2387
+1985	Tunisia	2335
+1985	Greece	2255
+1985	Honduras	2215
+1985	Central African Republic	2161
+1985	Togo	2124
+1985	El Salvador	1999
+1985	Hungary	1977
+1985	Dominican Republic	1946
+1985	Czechoslovakia	1919
+1985	Albania	1662
+1985	Liberia	1646
+1985	Bulgaria	1607
+1985	Paraguay	1573
+1985	Canada	1403
+1985	United Kingdom	1349
+1985	Nicaragua	1280
+1985	Mauritania	1103
+1985	Congo	1099
+1985	Australia	951
+1985	Costa Rica	822
+1985	Guinea-Bissau	795
+1985	Netherlands	730
+1985	Namibia	703
+1985	Oman	702
+1985	Mongolia	690
+1985	Panama	677
+1985	Austria	665
+1985	Lesotho	660
+1985	Jamaica	643
+1985	Gambia	640
+1985	Botswana	633
+1985	Libya	624
+1985	Switzerland	580
+1985	Ireland	569
+1985	Timor-Leste	549
+1985	Finland	539
+1985	Sweden	489
+1985	Gabon	464
+1985	Bhutan	457
+1985	Jordan	432
+1985	Uruguay	397
+1985	Occupied Palestinian Territory 	365
+1985	New Zealand	341
+1985	Swaziland	336
+1985	Norway	335
+1985	Djibouti	335
+1985	Fiji	329
+1985	Denmark	318
+1985	Lebanon	307
+1985	Comoros	305
+1985	Belgium-Luxembourg	290
+1985	Equatorial Guinea	236
+1985	Puerto Rico	228
+1985	Mauritius	218
+1985	Solomon Islands	207
+1985	Israel	206
+1985	Guyana	181
+1985	Cyprus	139
+1985	Trinidad and Tobago	127
+1985	Cape Verde	111
+1985	Réunion	97
+1985	Western Sahara	93
+1985	Maldives	93
+1985	United Arab Emirates	84
+1985	Suriname	84
+1985	French Polynesia	79
+1985	Sao Tome and Principe	73
+1985	Samoa	72
+1985	New Caledonia	71
+1985	Vanuatu	61
+1985	Belize	61
+1985	Pacific Islands Trust Territory	57
+1985	Seychelles	56
+1985	Mayotte	56
+1985	Guadeloupe	45
+1985	Tonga	43
+1985	Guam	43
+1985	Saint Lucia	39
+1985	Martinique	34
+1985	Saint Vincent and the Grenadines	33
+1985	Grenada	31
+1985	United States Virgin Islands	30
+1985	Singapore	26
+1985	Kuwait	26
+1985	Iceland	25
+1985	French Guiana	24
+1985	Dominica	23
+1985	Kiribati	21
+1985	Barbados	21
+1985	Antigua and Barbuda	20
+1985	Malta	19
+1985	Aruba	19
+1985	American Samoa	18
+1985	Saint Kitts and Nevis	13
+1985	Bahamas	13
+1985	Bahrain	12
+1985	Qatar	10
+1985	Cook Islands	8
+1985	Brunei Darussalam	8
+1985	Andorra	8
+1985	Wallis and Futuna Islands	6
+1985	Cayman Islands	6
+1985	Tuvalu	4
+1985	San Marino	4
+1985	Gibraltar	4
+1985	British Virgin Islands	4
+1985	Turks and Caicos Islands	3
+1985	Saint Helena	3
+1985	Nauru	3
+1985	Montserrat	3
+1985	Monaco	2
+1985	Liechtenstein	2
+1985	Greenland	2
+1985	Faroe Islands	2
+1985	Bermuda	2
+1985	Anguilla	2
+1985	Tokelau	1
+1985	Niue	1
+1985	Netherlands Antilles	1
+1985	Falkland Islands (Malvinas)	1
+1986	China	798580
+1986	India	478439
+1986	Indonesia	89073
+1986	Bangladesh	64264
+1986	USSR	58743
+1986	Pakistan	55317
+1986	Viet Nam	44431
+1986	Nigeria	41636
+1986	Brazil	39722
+1986	Ethiopia PDR	39421
+1986	Thailand	31908
+1986	Myanmar	27347
+1986	Philippines	26672
+1986	Mexico	25909
+1986	Egypt	25533
+1986	Democratic Republic of the Congo	22096
+1986	United Republic of Tanzania	18728
+1986	Turkey	18640
+1986	Sudan (former)	16963
+1986	Iran (Islamic Republic of)	16760
+1986	Kenya	16428
+1986	Nepal	16199
+1986	Uganda	12972
+1986	Mozambique	10771
+1986	Morocco	10621
+1986	Japan	10145
+1986	Colombia	9623
+1986	Republic of Korea	9487
+1986	Poland	9399
+1986	Afghanistan	8530
+1986	Sri Lanka	8331
+1986	Madagascar	8061
+1986	United States of America	7942
+1986	Ghana	7918
+1986	Burkina Faso	7739
+1986	Democratic People's Republic of Korea	7660
+1986	South Africa	7239
+1986	Cameroon	7185
+1986	Mali	7026
+1986	Angola	7003
+1986	Peru	6880
+1986	Algeria	6816
+1986	Côte d'Ivoire	6690
+1986	Zimbabwe	6474
+1986	Malawi	6344
+1986	Niger	6179
+1986	Yemen	6144
+1986	Cambodia	6143
+1986	Romania	6040
+1986	Rwanda	5870
+1986	Italy	5810
+1986	Spain	5582
+1986	Zambia	5190
+1986	Malaysia	5078
+1986	Senegal	5010
+1986	Burundi	4631
+1986	Guatemala	4619
+1986	Haiti	4542
+1986	Guinea	4473
+1986	Chad	4452
+1986	Germany	4015
+1986	Argentina	4013
+1986	Saudi Arabia	3962
+1986	France	3666
+1986	Ecuador	3460
+1986	Syrian Arab Republic	3411
+1986	Papua New Guinea	3155
+1986	Iraq	3137
+1986	Lao People's Democratic Republic	2957
+1986	Bolivia (Plurinational State of)	2926
+1986	Venezuela (Bolivarian Republic of)	2750
+1986	Benin	2749
+1986	Sierra Leone	2609
+1986	Chile	2408
+1986	Cuba	2403
+1986	Yugoslav SFR	2394
+1986	Portugal	2341
+1986	Tunisia	2314
+1986	Honduras	2212
+1986	Central African Republic	2202
+1986	Greece	2185
+1986	Togo	2184
+1986	El Salvador	1985
+1986	Dominican Republic	1947
+1986	Hungary	1932
+1986	Czechoslovakia	1896
+1986	Albania	1696
+1986	Liberia	1645
+1986	Paraguay	1601
+1986	Bulgaria	1542
+1986	Canada	1329
+1986	United Kingdom	1324
+1986	Nicaragua	1273
+1986	Congo	1104
+1986	Mauritania	1103
+1986	Australia	948
+1986	Costa Rica	824
+1986	Guinea-Bissau	809
+1986	Oman	726
+1986	Netherlands	721
+1986	Namibia	721
+1986	Mongolia	695
+1986	Panama	678
+1986	Lesotho	673
+1986	Gambia	669
+1986	Austria	651
+1986	Jamaica	634
+1986	Botswana	633
+1986	Libya	597
+1986	Switzerland	577
+1986	Timor-Leste	563
+1986	Ireland	553
+1986	Finland	522
+1986	Sweden	476
+1986	Bhutan	472
+1986	Gabon	467
+1986	Jordan	440
+1986	Uruguay	396
+1986	Occupied Palestinian Territory 	368
+1986	Djibouti	357
+1986	Swaziland	343
+1986	New Zealand	339
+1986	Fiji	332
+1986	Norway	325
+1986	Comoros	312
+1986	Denmark	311
+1986	Lebanon	287
+1986	Belgium-Luxembourg	287
+1986	Equatorial Guinea	247
+1986	Puerto Rico	222
+1986	Solomon Islands	212
+1986	Mauritius	209
+1986	Israel	201
+1986	Guyana	176
+1986	Cyprus	132
+1986	Trinidad and Tobago	128
+1986	Cape Verde	110
+1986	Western Sahara	94
+1986	United Arab Emirates	94
+1986	Maldives	92
+1986	Réunion	87
+1986	Suriname	84
+1986	French Polynesia	80
+1986	Sao Tome and Principe	74
+1986	New Caledonia	72
+1986	Samoa	71
+1986	Vanuatu	62
+1986	Belize	62
+1986	Mayotte	59
+1986	Pacific Islands Trust Territory	58
+1986	Seychelles	56
+1986	Tonga	43
+1986	Guam	43
+1986	Guadeloupe	41
+1986	Saint Lucia	39
+1986	Martinique	33
+1986	Saint Vincent and the Grenadines	32
+1986	Grenada	30
+1986	United States Virgin Islands	29
+1986	Kuwait	26
+1986	Iceland	26
+1986	French Guiana	24
+1986	Singapore	23
+1986	Dominica	22
+1986	Kiribati	21
+1986	Barbados	20
+1986	Antigua and Barbuda	20
+1986	Aruba	19
+1986	American Samoa	18
+1986	Malta	17
+1986	Saint Kitts and Nevis	13
+1986	Bahamas	13
+1986	Bahrain	12
+1986	Qatar	11
+1986	Cook Islands	8
+1986	Andorra	8
+1986	Brunei Darussalam	7
+1986	Wallis and Futuna Islands	6
+1986	Cayman Islands	6
+1986	Tuvalu	4
+1986	San Marino	4
+1986	Gibraltar	4
+1986	British Virgin Islands	4
+1986	Turks and Caicos Islands	3
+1986	Saint Helena	3
+1986	Nauru	3
+1986	Montserrat	3
+1986	Monaco	2
+1986	Liechtenstein	2
+1986	Greenland	2
+1986	Faroe Islands	2
+1986	Bermuda	2
+1986	Anguilla	2
+1986	Tokelau	1
+1986	Niue	1
+1986	Netherlands Antilles	1
+1986	Falkland Islands (Malvinas)	1
+1987	China	809734
+1987	India	484980
+1987	Indonesia	90338
+1987	Bangladesh	65346
+1987	USSR	58400
+1987	Pakistan	56253
+1987	Viet Nam	45272
+1987	Nigeria	41751
+1987	Ethiopia PDR	40552
+1987	Brazil	38647
+1987	Thailand	32125
+1987	Myanmar	27728
+1987	Philippines	27086
+1987	Mexico	25828
+1987	Egypt	25410
+1987	Democratic Republic of the Congo	22638
+1987	United Republic of Tanzania	19267
+1987	Turkey	18859
+1987	Sudan (former)	17276
+1987	Iran (Islamic Republic of)	17061
+1987	Kenya	16974
+1987	Nepal	16587
+1987	Uganda	13406
+1987	Mozambique	10757
+1987	Morocco	10570
+1987	Japan	9752
+1987	Colombia	9435
+1987	Poland	9368
+1987	Republic of Korea	8901
+1987	Sri Lanka	8397
+1987	Afghanistan	8370
+1987	Madagascar	8254
+1987	Ghana	8111
+1987	Burkina Faso	7947
+1987	United States of America	7857
+1987	Democratic People's Republic of Korea	7650
+1987	Cameroon	7351
+1987	South Africa	7215
+1987	Angola	7168
+1987	Mali	7103
+1987	Peru	6994
+1987	Côte d'Ivoire	6877
+1987	Algeria	6818
+1987	Malawi	6725
+1987	Zimbabwe	6668
+1987	Cambodia	6366
+1987	Niger	6343
+1987	Yemen	6272
+1987	Rwanda	6154
+1987	Romania	5836
+1987	Italy	5584
+1987	Zambia	5351
+1987	Spain	5331
+1987	Senegal	5137
+1987	Malaysia	5009
+1987	Burundi	4771
+1987	Guatemala	4716
+1987	Haiti	4626
+1987	Chad	4577
+1987	Guinea	4564
+1987	Argentina	4047
+1987	Germany	3795
+1987	Saudi Arabia	3792
+1987	France	3532
+1987	Syrian Arab Republic	3492
+1987	Ecuador	3456
+1987	Papua New Guinea	3224
+1987	Lao People's Democratic Republic	3034
+1987	Iraq	3029
+1987	Bolivia (Plurinational State of)	2954
+1987	Benin	2810
+1987	Venezuela (Bolivarian Republic of)	2785
+1987	Sierra Leone	2678
+1987	Chile	2422
+1987	Cuba	2370
+1987	Tunisia	2291
+1987	Portugal	2251
+1987	Yugoslav SFR	2246
+1987	Togo	2244
+1987	Central African Republic	2238
+1987	Honduras	2204
+1987	Greece	2113
+1987	El Salvador	1970
+1987	Dominican Republic	1946
+1987	Hungary	1888
+1987	Czechoslovakia	1872
+1987	Albania	1734
+1987	Paraguay	1629
+1987	Liberia	1628
+1987	Bulgaria	1476
+1987	United Kingdom	1303
+1987	Nicaragua	1261
+1987	Canada	1254
+1987	Congo	1113
+1987	Mauritania	1103
+1987	Australia	947
+1987	Costa Rica	824
+1987	Guinea-Bissau	823
+1987	Oman	747
+1987	Namibia	743
+1987	Netherlands	704
+1987	Panama	699
+1987	Mongolia	699
+1987	Gambia	699
+1987	Lesotho	685
+1987	Austria	636
+1987	Botswana	631
+1987	Jamaica	622
+1987	Timor-Leste	574
+1987	Switzerland	574
+1987	Libya	566
+1987	Ireland	537
+1987	Finland	505
+1987	Bhutan	488
+1987	Gabon	470
+1987	Sweden	461
+1987	Jordan	445
+1987	Uruguay	395
+1987	Djibouti	384
+1987	Occupied Palestinian Territory 	372
+1987	Swaziland	351
+1987	New Zealand	339
+1987	Fiji	332
+1987	Comoros	319
+1987	Norway	318
+1987	Denmark	303
+1987	Belgium-Luxembourg	284
+1987	Lebanon	267
+1987	Equatorial Guinea	255
+1987	Solomon Islands	217
+1987	Puerto Rico	215
+1987	Mauritius	200
+1987	Israel	196
+1987	Guyana	170
+1987	Trinidad and Tobago	129
+1987	Cyprus	125
+1987	Cape Verde	109
+1987	United Arab Emirates	105
+1987	Western Sahara	95
+1987	Maldives	92
+1987	Suriname	84
+1987	French Polynesia	81
+1987	Réunion	76
+1987	Sao Tome and Principe	75
+1987	New Caledonia	72
+1987	Samoa	70
+1987	Belize	63
+1987	Vanuatu	62
+1987	Mayotte	61
+1987	Pacific Islands Trust Territory	60
+1987	Seychelles	57
+1987	Guam	44
+1987	Tonga	42
+1987	Saint Lucia	39
+1987	Guadeloupe	37
+1987	Saint Vincent and the Grenadines	32
+1987	Martinique	32
+1987	Grenada	30
+1987	United States Virgin Islands	28
+1987	Kuwait	26
+1987	Iceland	26
+1987	French Guiana	25
+1987	Kiribati	22
+1987	Dominica	22
+1987	Singapore	20
+1987	Barbados	20
+1987	Antigua and Barbuda	19
+1987	American Samoa	19
+1987	Aruba	18
+1987	Malta	15
+1987	Bahamas	13
+1987	Saint Kitts and Nevis	12
+1987	Qatar	11
+1987	Bahrain	11
+1987	Cook Islands	8
+1987	Cayman Islands	7
+1987	Brunei Darussalam	7
+1987	Andorra	7
+1987	Wallis and Futuna Islands	6
+1987	Tuvalu	4
+1987	San Marino	4
+1987	Gibraltar	4
+1987	British Virgin Islands	4
+1987	Turks and Caicos Islands	3
+1987	Saint Helena	3
+1987	Nauru	3
+1987	Montserrat	3
+1987	Monaco	2
+1987	Liechtenstein	2
+1987	Greenland	2
+1987	Faroe Islands	2
+1987	Bermuda	2
+1987	Anguilla	2
+1987	Tokelau	1
+1987	Niue	1
+1987	Netherlands Antilles	1
+1988	China	821026
+1988	India	491444
+1988	Indonesia	91567
+1988	Bangladesh	66410
+1988	USSR	58033
+1988	Pakistan	57158
+1988	Viet Nam	46112
+1988	Nigeria	41841
+1988	Ethiopia PDR	41719
+1988	Brazil	37529
+1988	Thailand	32313
+1988	Myanmar	28100
+1988	Philippines	27478
+1988	Mexico	25745
+1988	Egypt	25237
+1988	Democratic Republic of the Congo	23214
+1988	United Republic of Tanzania	19824
+1988	Turkey	19061
+1988	Sudan (former)	17575
+1988	Kenya	17528
+1988	Iran (Islamic Republic of)	17325
+1988	Nepal	16987
+1988	Uganda	13862
+1988	Mozambique	10738
+1988	Morocco	10552
+1988	Japan	9351
+1988	Poland	9327
+1988	Colombia	9251
+1988	Sri Lanka	8459
+1988	Madagascar	8458
+1988	Afghanistan	8322
+1988	Ghana	8301
+1988	Republic of Korea	8265
+1988	Burkina Faso	8162
+1988	United States of America	7775
+1988	Democratic People's Republic of Korea	7636
+1988	Cameroon	7512
+1988	Angola	7336
+1988	Mali	7180
+1988	South Africa	7178
+1988	Malawi	7122
+1988	Peru	7068
+1988	Côte d'Ivoire	7061
+1988	Zimbabwe	6853
+1988	Algeria	6807
+1988	Cambodia	6583
+1988	Niger	6516
+1988	Rwanda	6412
+1988	Yemen	6394
+1988	Romania	5627
+1988	Zambia	5515
+1988	Italy	5353
+1988	Senegal	5267
+1988	Spain	5081
+1988	Malaysia	4932
+1988	Burundi	4909
+1988	Guatemala	4804
+1988	Haiti	4708
+1988	Chad	4708
+1988	Guinea	4672
+1988	Argentina	4065
+1988	Saudi Arabia	3587
+1988	Germany	3579
+1988	Syrian Arab Republic	3572
+1988	Ecuador	3448
+1988	France	3396
+1988	Papua New Guinea	3293
+1988	Lao People's Democratic Republic	3114
+1988	Bolivia (Plurinational State of)	2982
+1988	Iraq	2917
+1988	Benin	2873
+1988	Venezuela (Bolivarian Republic of)	2819
+1988	Sierra Leone	2740
+1988	Chile	2436
+1988	Cuba	2335
+1988	Togo	2302
+1988	Central African Republic	2273
+1988	Tunisia	2263
+1988	Honduras	2194
+1988	Portugal	2158
+1988	Yugoslav SFR	2092
+1988	Greece	2045
+1988	El Salvador	1955
+1988	Dominican Republic	1943
+1988	Czechoslovakia	1847
+1988	Hungary	1844
+1988	Albania	1770
+1988	Paraguay	1656
+1988	Liberia	1602
+1988	Bulgaria	1408
+1988	United Kingdom	1284
+1988	Nicaragua	1248
+1988	Canada	1176
+1988	Congo	1127
+1988	Mauritania	1101
+1988	Australia	947
+1988	Guinea-Bissau	837
+1988	Costa Rica	816
+1988	Oman	769
+1988	Namibia	767
+1988	Gambia	731
+1988	Panama	718
+1988	Mongolia	703
+1988	Lesotho	699
+1988	Netherlands	695
+1988	Botswana	629
+1988	Austria	623
+1988	Jamaica	610
+1988	Timor-Leste	585
+1988	Switzerland	571
+1988	Libya	530
+1988	Ireland	523
+1988	Bhutan	504
+1988	Finland	487
+1988	Gabon	473
+1988	Jordan	449
+1988	Sweden	448
+1988	Djibouti	413
+1988	Uruguay	393
+1988	Occupied Palestinian Territory 	376
+1988	Swaziland	358
+1988	New Zealand	340
+1988	Fiji	330
+1988	Comoros	326
+1988	Norway	311
+1988	Denmark	299
+1988	Belgium-Luxembourg	282
+1988	Equatorial Guinea	262
+1988	Lebanon	247
+1988	Solomon Islands	223
+1988	Puerto Rico	205
+1988	Israel	191
+1988	Mauritius	190
+1988	Guyana	165
+1988	Trinidad and Tobago	129
+1988	Cyprus	118
+1988	United Arab Emirates	117
+1988	Cape Verde	108
+1988	Western Sahara	96
+1988	Maldives	91
+1988	Suriname	84
+1988	French Polynesia	82
+1988	Sao Tome and Principe	76
+1988	New Caledonia	72
+1988	Samoa	70
+1988	Réunion	65
+1988	Mayotte	64
+1988	Vanuatu	63
+1988	Belize	63
+1988	Pacific Islands Trust Territory	61
+1988	Seychelles	57
+1988	Guam	45
+1988	Tonga	42
+1988	Saint Lucia	39
+1988	Guadeloupe	34
+1988	Saint Vincent and the Grenadines	31
+1988	Martinique	30
+1988	Grenada	29
+1988	United States Virgin Islands	27
+1988	Iceland	27
+1988	Kuwait	26
+1988	French Guiana	26
+1988	Kiribati	22
+1988	Dominica	21
+1988	Barbados	19
+1988	American Samoa	19
+1988	Aruba	18
+1988	Antigua and Barbuda	18
+1988	Singapore	17
+1988	Malta	13
+1988	Bahamas	13
+1988	Saint Kitts and Nevis	12
+1988	Qatar	12
+1988	Bahrain	11
+1988	Cook Islands	8
+1988	Cayman Islands	7
+1988	Andorra	7
+1988	Wallis and Futuna Islands	6
+1988	Brunei Darussalam	6
+1988	Tuvalu	4
+1988	Gibraltar	4
+1988	British Virgin Islands	4
+1988	Turks and Caicos Islands	3
+1988	San Marino	3
+1988	Saint Helena	3
+1988	Nauru	3
+1988	Montserrat	3
+1988	Monaco	2
+1988	Greenland	2
+1988	Faroe Islands	2
+1988	Bermuda	2
+1988	Anguilla	2
+1988	Tokelau	1
+1988	Niue	1
+1988	Netherlands Antilles	1
+1988	Liechtenstein	1
+1989	China	831884
+1989	India	497805
+1989	Indonesia	92743
+1989	Bangladesh	67427
+1989	Pakistan	57743
+1989	USSR	57567
+1989	Viet Nam	46965
+1989	Ethiopia PDR	42925
+1989	Nigeria	41909
+1989	Brazil	36337
+1989	Thailand	32432
+1989	Myanmar	28461
+1989	Philippines	27824
+1989	Mexico	25674
+1989	Egypt	25012
+1989	Democratic Republic of the Congo	23849
+1989	United Republic of Tanzania	20411
+1989	Turkey	19362
+1989	Kenya	18085
+1989	Sudan (former)	17883
+1989	Iran (Islamic Republic of)	17523
+1989	Nepal	17400
+1989	Uganda	14326
+1989	Mozambique	10774
+1989	Morocco	10487
+1989	Poland	9279
+1989	Colombia	9052
+1989	Japan	8950
+1989	Madagascar	8670
+1989	Sri Lanka	8513
+1989	Ghana	8494
+1989	Afghanistan	8467
+1989	Burkina Faso	8385
+1989	United States of America	7691
+1989	Cameroon	7685
+1989	Democratic People's Republic of Korea	7622
+1989	Republic of Korea	7615
+1989	Angola	7506
+1989	Malawi	7474
+1989	Mali	7269
+1989	Côte d'Ivoire	7252
+1989	South Africa	7139
+1989	Peru	7136
+1989	Zimbabwe	7029
+1989	Cambodia	6803
+1989	Algeria	6781
+1989	Niger	6696
+1989	Rwanda	6557
+1989	Yemen	6542
+1989	Zambia	5676
+1989	Romania	5408
+1989	Senegal	5399
+1989	Italy	5122
+1989	Burundi	5038
+1989	Guatemala	4891
+1989	Malaysia	4845
+1989	Chad	4844
+1989	Spain	4835
+1989	Guinea	4820
+1989	Haiti	4792
+1989	Argentina	4081
+1989	Syrian Arab Republic	3652
+1989	Ecuador	3474
+1989	Germany	3364
+1989	Papua New Guinea	3363
+1989	Saudi Arabia	3350
+1989	France	3257
+1989	Lao People's Democratic Republic	3197
+1989	Bolivia (Plurinational State of)	3011
+1989	Benin	2942
+1989	Venezuela (Bolivarian Republic of)	2850
+1989	Iraq	2799
+1989	Sierra Leone	2789
+1989	Chile	2459
+1989	Togo	2355
+1989	Central African Republic	2309
+1989	Cuba	2296
+1989	Tunisia	2231
+1989	Honduras	2179
+1989	Portugal	2063
+1989	Greece	1975
+1989	El Salvador	1942
+1989	Dominican Republic	1937
+1989	Yugoslav SFR	1929
+1989	Czechoslovakia	1823
+1989	Hungary	1801
+1989	Albania	1795
+1989	Paraguay	1682
+1989	Liberia	1571
+1989	Bulgaria	1338
+1989	United Kingdom	1260
+1989	Nicaragua	1233
+1989	Congo	1137
+1989	Mauritania	1099
+1989	Canada	1096
+1989	Australia	945
+1989	Guinea-Bissau	852
+1989	Costa Rica	818
+1989	Oman	792
+1989	Namibia	790
+1989	Gambia	763
+1989	Panama	721
+1989	Lesotho	712
+1989	Mongolia	704
+1989	Netherlands	688
+1989	Botswana	625
+1989	Austria	609
+1989	Timor-Leste	598
+1989	Jamaica	597
+1989	Switzerland	569
+1989	Bhutan	515
+1989	Ireland	506
+1989	Libya	491
+1989	Gabon	476
+1989	Finland	469
+1989	Jordan	452
+1989	Djibouti	440
+1989	Sweden	435
+1989	Uruguay	391
+1989	Occupied Palestinian Territory 	382
+1989	Swaziland	365
+1989	New Zealand	342
+1989	Comoros	332
+1989	Fiji	329
+1989	Norway	304
+1989	Denmark	293
+1989	Belgium-Luxembourg	280
+1989	Equatorial Guinea	269
+1989	Solomon Islands	228
+1989	Lebanon	228
+1989	Puerto Rico	199
+1989	Israel	186
+1989	Mauritius	181
+1989	Guyana	161
+1989	United Arab Emirates	130
+1989	Trinidad and Tobago	130
+1989	Cyprus	111
+1989	Cape Verde	107
+1989	Western Sahara	97
+1989	Maldives	89
+1989	Suriname	85
+1989	French Polynesia	82
+1989	Sao Tome and Principe	78
+1989	New Caledonia	73
+1989	Samoa	69
+1989	Mayotte	68
+1989	Vanuatu	64
+1989	Pacific Islands Trust Territory	63
+1989	Belize	63
+1989	Seychelles	58
+1989	Réunion	53
+1989	Guam	45
+1989	Tonga	41
+1989	Saint Lucia	39
+1989	Saint Vincent and the Grenadines	31
+1989	Guadeloupe	30
+1989	Martinique	28
+1989	Grenada	28
+1989	United States Virgin Islands	27
+1989	Iceland	27
+1989	French Guiana	26
+1989	Kuwait	25
+1989	Kiribati	22
+1989	Dominica	20
+1989	American Samoa	20
+1989	Barbados	18
+1989	Aruba	18
+1989	Antigua and Barbuda	18
+1989	Singapore	14
+1989	Bahamas	13
+1989	Saint Kitts and Nevis	12
+1989	Qatar	12
+1989	Malta	11
+1989	Bahrain	11
+1989	Cook Islands	8
+1989	Cayman Islands	7
+1989	Andorra	7
+1989	Wallis and Futuna Islands	6
+1989	Brunei Darussalam	6
+1989	British Virgin Islands	5
+1989	Tuvalu	4
+1989	Gibraltar	4
+1989	Turks and Caicos Islands	3
+1989	San Marino	3
+1989	Saint Helena	3
+1989	Nauru	3
+1989	Montserrat	3
+1989	Greenland	2
+1989	Faroe Islands	2
+1989	Bermuda	2
+1989	Anguilla	2
+1989	Tokelau	1
+1989	Niue	1
+1989	Netherlands Antilles	1
+1989	Monaco	1
+1989	Liechtenstein	1
+1990	China	841893
+1990	India	504038
+1990	Indonesia	93867
+1990	Bangladesh	68375
+1990	Pakistan	58217
+1990	USSR	57003
+1990	Viet Nam	47833
+1990	Ethiopia PDR	44173
+1990	Nigeria	41925
+1990	Brazil	35006
+1990	Thailand	32469
+1990	Myanmar	28809
+1990	Philippines	28112
+1990	Mexico	25567
+1990	Democratic Republic of the Congo	24555
+1990	Egypt	24516
+1990	United Republic of Tanzania	21035
+1990	Turkey	19164
+1990	Kenya	18647
+1990	Sudan (former)	18214
+1990	Nepal	17830
+1990	Iran (Islamic Republic of)	17638
+1990	Uganda	14793
+1990	Mozambique	10907
+1990	Morocco	10408
+1990	Poland	9227
+1990	Madagascar	8889
+1990	Colombia	8868
+1990	Afghanistan	8855
+1990	Ghana	8697
+1990	Burkina Faso	8616
+1990	Sri Lanka	8559
+1990	Japan	8542
+1990	Cameroon	7854
+1990	Malawi	7738
+1990	Angola	7699
+1990	United States of America	7616
+1990	Democratic People's Republic of Korea	7610
+1990	Côte d'Ivoire	7437
+1990	Mali	7378
+1990	Peru	7195
+1990	Zimbabwe	7191
+1990	South Africa	7105
+1990	Cambodia	7028
+1990	Republic of Korea	6937
+1990	Niger	6888
+1990	Algeria	6749
+1990	Yemen	6745
+1990	Rwanda	6536
+1990	Zambia	5835
+1990	Senegal	5535
+1990	Romania	5175
+1990	Burundi	5156
+1990	Guinea	5019
+1990	Guatemala	5004
+1990	Chad	4981
+1990	Italy	4889
+1990	Haiti	4877
+1990	Malaysia	4745
+1990	Spain	4587
+1990	Argentina	4112
+1990	Syrian Arab Republic	3732
+1990	Ecuador	3497
+1990	Papua New Guinea	3435
+1990	Lao People's Democratic Republic	3283
+1990	Germany	3151
+1990	France	3116
+1990	Saudi Arabia	3085
+1990	Bolivia (Plurinational State of)	3040
+1990	Benin	3019
+1990	Venezuela (Bolivarian Republic of)	2868
+1990	Sierra Leone	2819
+1990	Iraq	2674
+1990	Chile	2480
+1990	Togo	2404
+1990	Central African Republic	2349
+1990	Cuba	2255
+1990	Tunisia	2195
+1990	Honduras	2160
+1990	Portugal	1973
+1990	El Salvador	1930
+1990	Dominican Republic	1929
+1990	Greece	1907
+1990	Albania	1805
+1990	Czechoslovakia	1799
+1990	Hungary	1759
+1990	Yugoslav SFR	1757
+1990	Paraguay	1721
+1990	Liberia	1538
+1990	Bulgaria	1266
+1990	United Kingdom	1241
+1990	Nicaragua	1219
+1990	Congo	1145
+1990	Mauritania	1096
+1990	Canada	1012
+1990	Australia	943
+1990	Guinea-Bissau	867
+1990	Costa Rica	819
+1990	Oman	817
+1990	Namibia	810
+1990	Gambia	792
+1990	Panama	726
+1990	Lesotho	724
+1990	Mongolia	701
+1990	Netherlands	680
+1990	Botswana	620
+1990	Timor-Leste	613
+1990	Austria	596
+1990	Jamaica	584
+1990	Switzerland	567
+1990	Bhutan	519
+1990	Ireland	490
+1990	Gabon	479
+1990	Jordan	465
+1990	Djibouti	461
+1990	Finland	451
+1990	Libya	449
+1990	Sweden	423
+1990	Uruguay	389
+1990	Occupied Palestinian Territory 	382
+1990	Swaziland	368
+1990	New Zealand	343
+1990	Comoros	339
+1990	Fiji	329
+1990	Norway	297
+1990	Denmark	286
+1990	Belgium-Luxembourg	277
+1990	Equatorial Guinea	276
+1990	Solomon Islands	234
+1990	Lebanon	211
+1990	Puerto Rico	193
+1990	Israel	182
+1990	Mauritius	173
+1990	Guyana	157
+1990	United Arab Emirates	143
+1990	Trinidad and Tobago	134
+1990	Cape Verde	106
+1990	Cyprus	104
+1990	Western Sahara	97
+1990	Maldives	87
+1990	Suriname	85
+1990	French Polynesia	83
+1990	Sao Tome and Principe	79
+1990	New Caledonia	73
+1990	Mayotte	71
+1990	Samoa	69
+1990	Vanuatu	64
+1990	Pacific Islands Trust Territory	64
+1990	Belize	63
+1990	Seychelles	59
+1990	Guam	45
+1990	Réunion	42
+1990	Tonga	41
+1990	Saint Lucia	38
+1990	Saint Vincent and the Grenadines	30
+1990	Iceland	28
+1990	Martinique	27
+1990	Grenada	27
+1990	United States Virgin Islands	26
+1990	French Guiana	26
+1990	Guadeloupe	25
+1990	Kuwait	24
+1990	Kiribati	22
+1990	Dominica	20
+1990	American Samoa	20
+1990	Aruba	18
+1990	Antigua and Barbuda	18
+1990	Barbados	17
+1990	Qatar	13
+1990	Bahamas	13
+1990	Saint Kitts and Nevis	12
+1990	Singapore	11
+1990	Malta	10
+1990	Bahrain	10
+1990	Cook Islands	7
+1990	Cayman Islands	7
+1990	Andorra	7
+1990	Wallis and Futuna Islands	6
+1990	Brunei Darussalam	5
+1990	British Virgin Islands	5
+1990	Tuvalu	4
+1990	Gibraltar	4
+1990	Turks and Caicos Islands	3
+1990	San Marino	3
+1990	Saint Helena	3
+1990	Nauru	3
+1990	Montserrat	3
+1990	Greenland	2
+1990	Faroe Islands	2
+1990	Bermuda	2
+1990	Anguilla	2
+1990	Tokelau	1
+1990	Niue	1
+1990	Netherlands Antilles	1
+1990	Monaco	1
+1990	Liechtenstein	1
+1991	China	847357
+1991	India	510619
+1991	Indonesia	94133
+1991	Bangladesh	69014
+1991	Pakistan	59926
+1991	USSR	55851
+1991	Viet Nam	48596
+1991	Ethiopia PDR	45444
+1991	Nigeria	41959
+1991	Brazil	34216
+1991	Thailand	32376
+1991	Myanmar	29122
+1991	Philippines	28469
+1991	Mexico	25573
+1991	Democratic Republic of the Congo	25323
+1991	Egypt	24283
+1991	United Republic of Tanzania	21634
+1991	Kenya	19186
+1991	Turkey	19066
+1991	Sudan (former)	18479
+1991	Nepal	18270
+1991	Iran (Islamic Republic of)	17647
+1991	Uganda	15231
+1991	Mozambique	11146
+1991	Morocco	10392
+1991	Afghanistan	9499
+1991	Madagascar	9113
+1991	Poland	9034
+1991	Ghana	8907
+1991	Burkina Faso	8851
+1991	Colombia	8728
+1991	Sri Lanka	8598
+1991	Japan	8091
+1991	Cameroon	7942
+1991	Angola	7907
+1991	Malawi	7864
+1991	Democratic People's Republic of Korea	7567
+1991	Côte d'Ivoire	7554
+1991	Mali	7504
+1991	United States of America	7462
+1991	Zimbabwe	7324
+1991	Cambodia	7240
+1991	Peru	7231
+1991	Niger	7089
+1991	South Africa	7050
+1991	Yemen	6951
+1991	Algeria	6881
+1991	Republic of Korea	6598
+1991	Rwanda	6310
+1991	Zambia	5966
+1991	Senegal	5681
+1991	Guinea	5284
+1991	Burundi	5262
+1991	Chad	5103
+1991	Guatemala	5093
+1991	Haiti	4936
+1991	Romania	4934
+1991	Malaysia	4701
+1991	Italy	4665
+1991	Spain	4387
+1991	Syrian Arab Republic	3794
+1991	Argentina	3773
+1991	Papua New Guinea	3504
+1991	Ecuador	3481
+1991	Lao People's Democratic Republic	3370
+1991	Bolivia (Plurinational State of)	3091
+1991	Benin	3078
+1991	Germany	3031
+1991	Saudi Arabia	3005
+1991	France	2979
+1991	Venezuela (Bolivarian Republic of)	2822
+1991	Sierra Leone	2809
+1991	Iraq	2616
+1991	Chile	2494
+1991	Togo	2437
+1991	Central African Republic	2387
+1991	Tunisia	2226
+1991	Cuba	2213
+1991	Honduras	2168
+1991	El Salvador	1928
+1991	Portugal	1919
+1991	Dominican Republic	1906
+1991	Greece	1852
+1991	Albania	1775
+1991	Paraguay	1768
+1991	Czechoslovakia	1754
+1991	Hungary	1695
+1991	Yugoslav SFR	1633
+1991	Liberia	1503
+1991	United Kingdom	1220
+1991	Nicaragua	1218
+1991	Bulgaria	1179
+1991	Congo	1157
+1991	Mauritania	1124
+1991	Canada	986
+1991	Australia	937
+1991	Guinea-Bissau	883
+1991	Oman	840
+1991	Namibia	827
+1991	Costa Rica	822
+1991	Gambia	818
+1991	Lesotho	733
+1991	Panama	718
+1991	Mongolia	694
+1991	Netherlands	663
+1991	Botswana	637
+1991	Timor-Leste	632
+1991	Jamaica	577
+1991	Austria	575
+1991	Switzerland	551
+1991	Bhutan	516
+1991	Gabon	481
+1991	Djibouti	475
+1991	Ireland	474
+1991	Jordan	470
+1991	Finland	435
+1991	Libya	432
+1991	Sweden	412
+1991	Uruguay	389
+1991	Occupied Palestinian Territory 	380
+1991	Swaziland	372
+1991	Comoros	346
+1991	New Zealand	341
+1991	Fiji	323
+1991	Norway	288
+1991	Equatorial Guinea	283
+1991	Denmark	275
+1991	Belgium-Luxembourg	267
+1991	Solomon Islands	239
+1991	Lebanon	202
+1991	Puerto Rico	184
+1991	Israel	180
+1991	Mauritius	169
+1991	Guyana	153
+1991	United Arab Emirates	144
+1991	Trinidad and Tobago	125
+1991	Cape Verde	106
+1991	Cyprus	101
+1991	Western Sahara	99
+1991	Maldives	87
+1991	Suriname	85
+1991	French Polynesia	83
+1991	Sao Tome and Principe	80
+1991	Mayotte	75
+1991	New Caledonia	74
+1991	Samoa	68
+1991	Vanuatu	65
+1991	Belize	64
+1991	Seychelles	59
+1991	Guam	45
+1991	Tonga	40
+1991	Réunion	39
+1991	Saint Lucia	38
+1991	Saint Vincent and the Grenadines	30
+1991	Micronesia (Federated States of)	30
+1991	Iceland	27
+1991	Grenada	27
+1991	French Guiana	27
+1991	United States Virgin Islands	26
+1991	Martinique	25
+1991	Guadeloupe	24
+1991	Kuwait	23
+1991	Kiribati	22
+1991	Dominica	20
+1991	American Samoa	20
+1991	Aruba	18
+1991	Barbados	17
+1991	Antigua and Barbuda	17
+1991	Marshall Islands	15
+1991	Northern Mariana Islands	14
+1991	Bahamas	13
+1991	Qatar	12
+1991	Saint Kitts and Nevis	11
+1991	Singapore	10
+1991	Bahrain	10
+1991	Malta	9
+1991	Cayman Islands	8
+1991	Cook Islands	7
+1991	Andorra	7
+1991	Wallis and Futuna Islands	6
+1991	Palau	5
+1991	Brunei Darussalam	5
+1991	British Virgin Islands	5
+1991	Tuvalu	4
+1991	Turks and Caicos Islands	3
+1991	San Marino	3
+1991	Saint Helena	3
+1991	Nauru	3
+1991	Montserrat	3
+1991	Gibraltar	3
+1991	Greenland	2
+1991	Faroe Islands	2
+1991	Bermuda	2
+1991	Anguilla	2
+1991	Tokelau	1
+1991	Niue	1
+1991	Netherlands Antilles	1
+1991	Monaco	1
+1991	Liechtenstein	1
+1992	China	851795
+1992	India	517045
+1992	Indonesia	94331
+1992	Bangladesh	69458
+1992	Pakistan	60828
+1992	Viet Nam	49359
+1992	Ethiopia PDR	46741
+1992	Nigeria	41961
+1992	Brazil	33400
+1992	Thailand	32202
+1992	Myanmar	29418
+1992	Philippines	28712
+1992	Democratic Republic of the Congo	26125
+1992	Mexico	25402
+1992	Egypt	24106
+1992	United Republic of Tanzania	22261
+1992	Kenya	19725
+1992	Russian Federation	19304
+1992	Sudan (former)	18765
+1992	Turkey	18762
+1992	Nepal	18723
+1992	Iran (Islamic Republic of)	17637
+1992	Uganda	15668
+1992	Mozambique	11483
+1992	Ukraine	10593
+1992	Afghanistan	10379
+1992	Morocco	10318
+1992	Madagascar	9345
+1992	Ghana	9125
+1992	Burkina Faso	9094
+1992	Poland	8839
+1992	Colombia	8651
+1992	Sri Lanka	8633
+1992	Angola	8149
+1992	Cameroon	8020
+1992	Malawi	7902
+1992	Côte d'Ivoire	7665
+1992	Japan	7659
+1992	Mali	7651
+1992	Democratic People's Republic of Korea	7525
+1992	Cambodia	7450
+1992	Zimbabwe	7438
+1992	United States of America	7308
+1992	Niger	7296
+1992	Peru	7262
+1992	Yemen	7236
+1992	Uzbekistan	7182
+1992	South Africa	7003
+1992	Algeria	6980
+1992	Republic of Korea	6267
+1992	Zambia	6074
+1992	Rwanda	5921
+1992	Senegal	5830
+1992	Guinea	5596
+1992	Burundi	5357
+1992	Chad	5225
+1992	Guatemala	5180
+1992	Haiti	5039
+1992	Romania	4694
+1992	Malaysia	4652
+1992	Italy	4452
+1992	Spain	4193
+1992	Syrian Arab Republic	3858
+1992	Kazakhstan	3856
+1992	Argentina	3753
+1992	Papua New Guinea	3576
+1992	Ecuador	3462
+1992	Lao People's Democratic Republic	3458
+1992	Bolivia (Plurinational State of)	3143
+1992	Benin	3142
+1992	Saudi Arabia	2920
+1992	Germany	2917
+1992	Serbia and Montenegro	2892
+1992	France	2847
+1992	Venezuela (Bolivarian Republic of)	2774
+1992	Sierra Leone	2773
+1992	Iraq	2563
+1992	Chile	2477
+1992	Togo	2463
+1992	Central African Republic	2426
+1992	Azerbaijan	2263
+1992	Tunisia	2242
+1992	Tajikistan	2180
+1992	Cuba	2177
+1992	Honduras	2170
+1992	El Salvador	2082
+1992	Dominican Republic	1882
+1992	Belarus	1878
+1992	Portugal	1864
+1992	Greece	1816
+1992	Paraguay	1778
+1992	Albania	1741
+1992	Czechoslovakia	1706
+1992	Hungary	1632
+1992	Liberia	1467
+1992	Turkmenistan	1418
+1992	Kyrgyzstan	1378
+1992	Republic of Moldova	1345
+1992	Georgia	1320
+1992	Nicaragua	1221
+1992	United Kingdom	1198
+1992	Congo	1167
+1992	Mauritania	1150
+1992	Bulgaria	1095
+1992	Canada	962
+1992	Australia	931
+1992	Guinea-Bissau	898
+1992	Oman	865
+1992	Namibia	842
+1992	Gambia	841
+1992	Costa Rica	819
+1992	Lithuania	751
+1992	Lesotho	743
+1992	Panama	715
+1992	Mongolia	683
+1992	Botswana	655
+1992	Timor-Leste	653
+1992	Croatia	651
+1992	Netherlands	647
+1992	Jamaica	570
+1992	Armenia	570
+1992	Austria	557
+1992	Switzerland	543
+1992	Bhutan	507
+1992	Gabon	483
+1992	Djibouti	483
+1992	Jordan	478
+1992	Ireland	458
+1992	Finland	420
+1992	Libya	414
+1992	Sweden	402
+1992	Bosnia and Herzegovina	400
+1992	Latvia	391
+1992	Uruguay	384
+1992	Occupied Palestinian Territory 	379
+1992	The former Yugoslav Republic of Macedonia	377
+1992	Swaziland	374
+1992	Comoros	352
+1992	New Zealand	343
+1992	Fiji	322
+1992	Equatorial Guinea	291
+1992	Norway	281
+1992	Denmark	265
+1992	Belgium-Luxembourg	257
+1992	Solomon Islands	245
+1992	Estonia	210
+1992	Lebanon	196
+1992	Israel	178
+1992	Puerto Rico	174
+1992	Mauritius	166
+1992	Guyana	150
+1992	United Arab Emirates	145
+1992	Trinidad and Tobago	125
+1992	Cape Verde	106
+1992	Western Sahara	101
+1992	Cyprus	99
+1992	Suriname	86
+1992	Slovenia	86
+1992	Maldives	86
+1992	French Polynesia	83
+1992	Sao Tome and Principe	81
+1992	Mayotte	79
+1992	New Caledonia	74
+1992	Samoa	67
+1992	Vanuatu	66
+1992	Belize	64
+1992	Seychelles	59
+1992	Guam	46
+1992	Tonga	39
+1992	Saint Lucia	37
+1992	Réunion	37
+1992	Micronesia (Federated States of)	31
+1992	Saint Vincent and the Grenadines	29
+1992	Iceland	27
+1992	French Guiana	27
+1992	Grenada	26
+1992	United States Virgin Islands	25
+1992	Martinique	24
+1992	Kuwait	22
+1992	Kiribati	22
+1992	Guadeloupe	22
+1992	American Samoa	20
+1992	Dominica	19
+1992	Aruba	18
+1992	Antigua and Barbuda	17
+1992	Barbados	16
+1992	Northern Mariana Islands	15
+1992	Marshall Islands	15
+1992	Bahamas	13
+1992	Saint Kitts and Nevis	11
+1992	Qatar	11
+1992	Singapore	10
+1992	Malta	9
+1992	Bahrain	9
+1992	Cayman Islands	8
+1992	Cook Islands	7
+1992	Andorra	7
+1992	Wallis and Futuna Islands	6
+1992	Palau	5
+1992	British Virgin Islands	5
+1992	Tuvalu	4
+1992	Turks and Caicos Islands	4
+1992	Brunei Darussalam	4
+1992	San Marino	3
+1992	Saint Helena	3
+1992	Nauru	3
+1992	Montserrat	3
+1992	Gibraltar	3
+1992	Greenland	2
+1992	Faroe Islands	2
+1992	Bermuda	2
+1992	Anguilla	2
+1992	Tokelau	1
+1992	Niue	1
+1992	Netherlands Antilles	1
+1992	Monaco	1
+1992	Liechtenstein	1
+1993	China	855326
+1993	India	523300
+1993	Indonesia	94499
+1993	Bangladesh	69813
+1993	Pakistan	61838
+1993	Viet Nam	50093
+1993	Ethiopia	45536
+1993	Nigeria	41934
+1993	Brazil	32714
+1993	Thailand	31981
+1993	Myanmar	29703
+1993	Philippines	28968
+1993	Democratic Republic of the Congo	26985
+1993	Mexico	25208
+1993	Egypt	24040
+1993	United Republic of Tanzania	22898
+1993	Kenya	20258
+1993	Nepal	19191
+1993	Sudan (former)	19070
+1993	Russian Federation	18854
+1993	Turkey	17825
+1993	Iran (Islamic Republic of)	17590
+1993	Uganda	16103
+1993	Mozambique	11883
+1993	Afghanistan	11365
+1993	Morocco	10251
+1993	Ukraine	10238
+1993	Madagascar	9587
+1993	Ghana	9348
+1993	Burkina Faso	9345
+1993	Sri Lanka	8670
+1993	Poland	8643
+1993	Colombia	8598
+1993	Angola	8373
+1993	Cameroon	8090
+1993	Malawi	7891
+1993	Mali	7810
+1993	Côte d'Ivoire	7768
+1993	Cambodia	7654
+1993	Zimbabwe	7538
+1993	Niger	7520
+1993	Democratic People's Republic of Korea	7481
+1993	Yemen	7477
+1993	Peru	7289
+1993	Japan	7247
+1993	Uzbekistan	7181
+1993	United States of America	7159
+1993	Algeria	7077
+1993	South Africa	6948
+1993	Zambia	6184
+1993	Senegal	5979
+1993	Republic of Korea	5947
+1993	Guinea	5924
+1993	Rwanda	5486
+1993	Burundi	5440
+1993	Chad	5349
+1993	Guatemala	5266
+1993	Haiti	5111
+1993	Malaysia	4600
+1993	Romania	4457
+1993	Italy	4242
+1993	Spain	4009
+1993	Syrian Arab Republic	3922
+1993	Kazakhstan	3740
+1993	Argentina	3731
+1993	Papua New Guinea	3649
+1993	Lao People's Democratic Republic	3546
+1993	Ecuador	3440
+1993	Benin	3205
+1993	Bolivia (Plurinational State of)	3195
+1993	Saudi Arabia	2827
+1993	Serbia and Montenegro	2823
+1993	Germany	2808
+1993	Sierra Leone	2728
+1993	Venezuela (Bolivarian Republic of)	2723
+1993	France	2718
+1993	Eritrea	2516
+1993	Iraq	2515
+1993	Togo	2489
+1993	Chile	2470
+1993	Central African Republic	2468
+1993	Azerbaijan	2264
+1993	Tunisia	2254
+1993	Honduras	2176
+1993	Tajikistan	2175
+1993	Cuba	2138
+1993	El Salvador	2056
+1993	Dominican Republic	1856
+1993	Portugal	1817
+1993	Belarus	1807
+1993	Paraguay	1799
+1993	Greece	1777
+1993	Albania	1699
+1993	Hungary	1579
+1993	Turkmenistan	1442
+1993	Liberia	1440
+1993	Kyrgyzstan	1358
+1993	Republic of Moldova	1296
+1993	Georgia	1263
+1993	Nicaragua	1224
+1993	Mauritania	1178
+1993	Congo	1177
+1993	United Kingdom	1176
+1993	Czech Republic	1066
+1993	Bulgaria	1016
+1993	Canada	938
+1993	Australia	924
+1993	Guinea-Bissau	914
+1993	Oman	888
+1993	Gambia	863
+1993	Namibia	854
+1993	Costa Rica	815
+1993	Lesotho	752
+1993	Lithuania	720
+1993	Panama	714
+1993	Botswana	674
+1993	Timor-Leste	673
+1993	Mongolia	671
+1993	Netherlands	631
+1993	Croatia	617
+1993	Slovakia	594
+1993	Jamaica	564
+1993	Austria	539
+1993	Armenia	538
+1993	Switzerland	535
+1993	Bhutan	495
+1993	Djibouti	488
+1993	Jordan	486
+1993	Gabon	484
+1993	Ireland	441
+1993	Finland	405
+1993	Libya	398
+1993	Sweden	391
+1993	Uruguay	383
+1993	Latvia	375
+1993	Swaziland	374
+1993	Occupied Palestinian Territory 	371
+1993	The former Yugoslav Republic of Macedonia	360
+1993	Comoros	359
+1993	Bosnia and Herzegovina	347
+1993	New Zealand	344
+1993	Fiji	322
+1993	Equatorial Guinea	300
+1993	Norway	273
+1993	Denmark	256
+1993	Solomon Islands	251
+1993	Belgium-Luxembourg	248
+1993	Estonia	201
+1993	Lebanon	190
+1993	Israel	177
+1993	Puerto Rico	163
+1993	Mauritius	162
+1993	Guyana	147
+1993	United Arab Emirates	146
+1993	Trinidad and Tobago	125
+1993	Cape Verde	106
+1993	Western Sahara	102
+1993	Cyprus	97
+1993	Suriname	87
+1993	Maldives	85
+1993	Mayotte	84
+1993	French Polynesia	83
+1993	Sao Tome and Principe	82
+1993	Slovenia	78
+1993	New Caledonia	75
+1993	Vanuatu	67
+1993	Samoa	66
+1993	Belize	63
+1993	Seychelles	60
+1993	Guam	46
+1993	Tonga	38
+1993	Saint Lucia	37
+1993	Réunion	35
+1993	Micronesia (Federated States of)	31
+1993	Saint Vincent and the Grenadines	28
+1993	French Guiana	27
+1993	Iceland	26
+1993	Grenada	26
+1993	United States Virgin Islands	25
+1993	Martinique	23
+1993	Kiribati	22
+1993	Kuwait	21
+1993	Guadeloupe	21
+1993	American Samoa	20
+1993	Dominica	19
+1993	Aruba	19
+1993	Antigua and Barbuda	17
+1993	Northern Mariana Islands	16
+1993	Marshall Islands	15
+1993	Barbados	15
+1993	Bahamas	13
+1993	Saint Kitts and Nevis	11
+1993	Qatar	11
+1993	Singapore	9
+1993	Malta	9
+1993	Bahrain	9
+1993	Cayman Islands	8
+1993	Cook Islands	7
+1993	Andorra	7
+1993	Wallis and Futuna Islands	6
+1993	Palau	5
+1993	British Virgin Islands	5
+1993	Tuvalu	4
+1993	Turks and Caicos Islands	4
+1993	Brunei Darussalam	4
+1993	San Marino	3
+1993	Saint Helena	3
+1993	Nauru	3
+1993	Montserrat	3
+1993	Gibraltar	3
+1993	Faroe Islands	2
+1993	Bermuda	2
+1993	Anguilla	2
+1993	Tokelau	1
+1993	Niue	1
+1993	Netherlands Antilles	1
+1993	Monaco	1
+1993	Liechtenstein	1
+1993	Greenland	1
+1994	China	858198
+1994	India	529372
+1994	Indonesia	94607
+1994	Bangladesh	70100
+1994	Pakistan	62790
+1994	Viet Nam	50761
+1994	Ethiopia	46844
+1994	Nigeria	41874
+1994	Brazil	31974
+1994	Thailand	31760
+1994	Myanmar	29989
+1994	Philippines	29261
+1994	Democratic Republic of the Congo	27815
+1994	Mexico	24970
+1994	Egypt	24017
+1994	United Republic of Tanzania	23517
+1994	Kenya	20776
+1994	Nepal	19671
+1994	Sudan (former)	19341
+1994	Russian Federation	18396
+1994	Turkey	18336
+1994	Iran (Islamic Republic of)	17544
+1994	Uganda	16534
+1994	Mozambique	12295
+1994	Afghanistan	12285
+1994	Morocco	10221
+1994	Ukraine	9873
+1994	Madagascar	9837
+1994	Burkina Faso	9604
+1994	Ghana	9570
+1994	Sri Lanka	8697
+1994	Angola	8632
+1994	Colombia	8572
+1994	Poland	8445
+1994	Cameroon	8151
+1994	Mali	7980
+1994	Malawi	7888
+1994	Côte d'Ivoire	7857
+1994	Cambodia	7848
+1994	Niger	7755
+1994	Yemen	7723
+1994	Zimbabwe	7628
+1994	Democratic People's Republic of Korea	7427
+1994	Peru	7311
+1994	Uzbekistan	7169
+1994	Algeria	7158
+1994	United States of America	6995
+1994	South Africa	6877
+1994	Japan	6857
+1994	Zambia	6290
+1994	Guinea	6227
+1994	Senegal	6128
+1994	Republic of Korea	5639
+1994	Burundi	5509
+1994	Chad	5466
+1994	Guatemala	5350
+1994	Haiti	5202
+1994	Rwanda	5167
+1994	Malaysia	4546
+1994	Romania	4229
+1994	Italy	4045
+1994	Syrian Arab Republic	3986
+1994	Spain	3830
+1994	Papua New Guinea	3724
+1994	Argentina	3709
+1994	Lao People's Democratic Republic	3633
+1994	Kazakhstan	3618
+1994	Ecuador	3413
+1994	Benin	3264
+1994	Bolivia (Plurinational State of)	3247
+1994	Serbia and Montenegro	2747
+1994	Saudi Arabia	2724
+1994	Germany	2701
+1994	Sierra Leone	2687
+1994	Venezuela (Bolivarian Republic of)	2670
+1994	France	2597
+1994	Togo	2520
+1994	Eritrea	2514
+1994	Central African Republic	2508
+1994	Chile	2478
+1994	Iraq	2470
+1994	Tunisia	2263
+1994	Azerbaijan	2261
+1994	Honduras	2179
+1994	Tajikistan	2168
+1994	Cuba	2098
+1994	El Salvador	2036
+1994	Paraguay	1815
+1994	Dominican Republic	1796
+1994	Portugal	1769
+1994	Greece	1737
+1994	Belarus	1736
+1994	Albania	1655
+1994	Hungary	1529
+1994	Turkmenistan	1463
+1994	Liberia	1437
+1994	Kyrgyzstan	1340
+1994	Republic of Moldova	1246
+1994	Nicaragua	1225
+1994	Georgia	1207
+1994	Mauritania	1206
+1994	Congo	1185
+1994	United Kingdom	1157
+1994	Czech Republic	1034
+1994	Bulgaria	942
+1994	Guinea-Bissau	930
+1994	Australia	916
+1994	Canada	915
+1994	Oman	903
+1994	Gambia	885
+1994	Namibia	866
+1994	Costa Rica	813
+1994	Lesotho	761
+1994	Panama	710
+1994	Botswana	693
+1994	Timor-Leste	689
+1994	Lithuania	689
+1994	Mongolia	658
+1994	Netherlands	617
+1994	Slovakia	583
+1994	Croatia	583
+1994	Jamaica	558
+1994	Switzerland	527
+1994	Austria	522
+1994	Armenia	508
+1994	Djibouti	494
+1994	Jordan	492
+1994	Gabon	485
+1994	Bhutan	485
+1994	Ireland	429
+1994	Finland	391
+1994	Occupied Palestinian Territory 	382
+1994	Libya	382
+1994	Uruguay	381
+1994	Sweden	381
+1994	Swaziland	374
+1994	Comoros	366
+1994	Latvia	359
+1994	New Zealand	345
+1994	The former Yugoslav Republic of Macedonia	344
+1994	Fiji	322
+1994	Equatorial Guinea	308
+1994	Bosnia and Herzegovina	303
+1994	Norway	266
+1994	Solomon Islands	257
+1994	Denmark	249
+1994	Belgium-Luxembourg	240
+1994	Estonia	193
+1994	Lebanon	184
+1994	Israel	175
+1994	Mauritius	159
+1994	Puerto Rico	155
+1994	United Arab Emirates	146
+1994	Guyana	144
+1994	Trinidad and Tobago	123
+1994	Cape Verde	105
+1994	Western Sahara	104
+1994	Cyprus	95
+1994	Mayotte	88
+1994	Suriname	87
+1994	Maldives	84
+1994	French Polynesia	83
+1994	Sao Tome and Principe	82
+1994	New Caledonia	75
+1994	Slovenia	70
+1994	Vanuatu	67
+1994	Samoa	65
+1994	Belize	63
+1994	Seychelles	60
+1994	Guam	46
+1994	Tonga	38
+1994	Saint Lucia	36
+1994	Réunion	33
+1994	Micronesia (Federated States of)	31
+1994	Saint Vincent and the Grenadines	28
+1994	French Guiana	27
+1994	Grenada	26
+1994	Iceland	25
+1994	United States Virgin Islands	24
+1994	Kiribati	22
+1994	Martinique	21
+1994	Guadeloupe	20
+1994	Aruba	20
+1994	American Samoa	20
+1994	Kuwait	19
+1994	Dominica	18
+1994	Antigua and Barbuda	17
+1994	Northern Mariana Islands	16
+1994	Marshall Islands	15
+1994	Barbados	15
+1994	Bahamas	13
+1994	Saint Kitts and Nevis	11
+1994	Qatar	10
+1994	Singapore	9
+1994	Bahrain	9
+1994	Malta	8
+1994	Cayman Islands	8
+1994	Cook Islands	7
+1994	Andorra	7
+1994	Wallis and Futuna Islands	6
+1994	Palau	5
+1994	British Virgin Islands	5
+1994	Tuvalu	4
+1994	Turks and Caicos Islands	4
+1994	Brunei Darussalam	4
+1994	San Marino	3
+1994	Saint Helena	3
+1994	Nauru	3
+1994	Montserrat	3
+1994	Gibraltar	3
+1994	Faroe Islands	2
+1994	Bermuda	2
+1994	Anguilla	2
+1994	Tokelau	1
+1994	Niue	1
+1994	Netherlands Antilles	1
+1994	Monaco	1
+1994	Liechtenstein	1
+1994	Greenland	1
+1995	China	860598
+1995	India	534938
+1995	Indonesia	94619
+1995	Bangladesh	70331
+1995	Pakistan	63101
+1995	Viet Nam	51336
+1995	Ethiopia	48118
+1995	Nigeria	41791
+1995	Thailand	31575
+1995	Brazil	31234
+1995	Myanmar	30280
+1995	Philippines	29412
+1995	Democratic Republic of the Congo	28537
+1995	Mexico	24630
+1995	United Republic of Tanzania	24100
+1995	Egypt	23852
+1995	Kenya	21275
+1995	Nepal	20162
+1995	Sudan (former)	19618
+1995	Turkey	18179
+1995	Russian Federation	17931
+1995	Iran (Islamic Republic of)	17524
+1995	Uganda	16964
+1995	Afghanistan	13018
+1995	Mozambique	12682
+1995	Morocco	10118
+1995	Madagascar	10095
+1995	Burkina Faso	9871
+1995	Ghana	9784
+1995	Ukraine	9500
+1995	Angola	8843
+1995	Sri Lanka	8707
+1995	Colombia	8507
+1995	Poland	8248
+1995	Cameroon	8206
+1995	Mali	8155
+1995	Cambodia	8029
+1995	Niger	8000
+1995	Yemen	7953
+1995	Côte d'Ivoire	7939
+1995	Malawi	7934
+1995	Zimbabwe	7706
+1995	Democratic People's Republic of Korea	7362
+1995	Peru	7329
+1995	Algeria	7215
+1995	Uzbekistan	7146
+1995	United States of America	6865
+1995	South Africa	6791
+1995	Japan	6483
+1995	Guinea	6474
+1995	Zambia	6406
+1995	Senegal	6274
+1995	Chad	5579
+1995	Burundi	5565
+1995	Guatemala	5431
+1995	Republic of Korea	5342
+1995	Haiti	5279
+1995	Rwanda	5094
+1995	Malaysia	4491
+1995	Syrian Arab Republic	4048
+1995	Romania	4013
+1995	Italy	3856
+1995	Papua New Guinea	3799
+1995	Lao People's Democratic Republic	3716
+1995	Argentina	3686
+1995	Spain	3660
+1995	Kazakhstan	3493
+1995	Ecuador	3384
+1995	Benin	3318
+1995	Bolivia (Plurinational State of)	3298
+1995	Serbia and Montenegro	2662
+1995	Sierra Leone	2647
+1995	Venezuela (Bolivarian Republic of)	2611
+1995	Saudi Arabia	2609
+1995	Germany	2592
+1995	Togo	2561
+1995	Central African Republic	2546
+1995	Eritrea	2525
+1995	Chile	2495
+1995	France	2480
+1995	Iraq	2426
+1995	Tunisia	2270
+1995	Azerbaijan	2255
+1995	Honduras	2178
+1995	Tajikistan	2160
+1995	Cuba	2056
+1995	El Salvador	2049
+1995	Paraguay	1822
+1995	Dominican Republic	1735
+1995	Portugal	1722
+1995	Greece	1698
+1995	Belarus	1665
+1995	Albania	1616
+1995	Hungary	1488
+1995	Turkmenistan	1480
+1995	Liberia	1466
+1995	Kyrgyzstan	1326
+1995	Mauritania	1236
+1995	Nicaragua	1223
+1995	Congo	1211
+1995	Republic of Moldova	1194
+1995	Georgia	1155
+1995	United Kingdom	1138
+1995	Czech Republic	1003
+1995	Guinea-Bissau	946
+1995	Australia	908
+1995	Gambia	907
+1995	Oman	906
+1995	Canada	891
+1995	Namibia	879
+1995	Bulgaria	875
+1995	Costa Rica	811
+1995	Lesotho	771
+1995	Botswana	711
+1995	Panama	710
+1995	Timor-Leste	697
+1995	Lithuania	658
+1995	Mongolia	645
+1995	Netherlands	602
+1995	Slovakia	568
+1995	Jamaica	555
+1995	Croatia	548
+1995	Switzerland	518
+1995	Austria	503
+1995	Djibouti	502
+1995	Jordan	492
+1995	Gabon	484
+1995	Armenia	482
+1995	Bhutan	480
+1995	Ireland	414
+1995	Occupied Palestinian Territory 	385
+1995	Uruguay	379
+1995	Finland	376
+1995	Swaziland	374
+1995	Comoros	374
+1995	Sweden	370
+1995	Libya	367
+1995	New Zealand	346
+1995	Latvia	345
+1995	The former Yugoslav Republic of Macedonia	329
+1995	Fiji	321
+1995	Equatorial Guinea	316
+1995	Bosnia and Herzegovina	269
+1995	Solomon Islands	262
+1995	Norway	259
+1995	Denmark	242
+1995	Belgium-Luxembourg	232
+1995	Estonia	185
+1995	Lebanon	177
+1995	Israel	173
+1995	Mauritius	156
+1995	United Arab Emirates	147
+1995	Puerto Rico	147
+1995	Guyana	141
+1995	Trinidad and Tobago	121
+1995	Western Sahara	105
+1995	Cape Verde	105
+1995	Cyprus	93
+1995	Mayotte	92
+1995	Suriname	87
+1995	Sao Tome and Principe	83
+1995	Maldives	83
+1995	French Polynesia	83
+1995	New Caledonia	76
+1995	Vanuatu	68
+1995	Samoa	65
+1995	Slovenia	64
+1995	Belize	64
+1995	Seychelles	60
+1995	Guam	46
+1995	Tonga	37
+1995	Saint Lucia	36
+1995	Réunion	32
+1995	Micronesia (Federated States of)	31
+1995	Saint Vincent and the Grenadines	27
+1995	French Guiana	27
+1995	Iceland	25
+1995	Grenada	25
+1995	United States Virgin Islands	24
+1995	Kiribati	22
+1995	Martinique	20
+1995	Aruba	20
+1995	American Samoa	20
+1995	Kuwait	19
+1995	Guadeloupe	18
+1995	Dominica	18
+1995	Northern Mariana Islands	17
+1995	Antigua and Barbuda	17
+1995	Marshall Islands	15
+1995	Barbados	14
+1995	Bahamas	12
+1995	Saint Kitts and Nevis	11
+1995	Qatar	10
+1995	Singapore	8
+1995	Malta	8
+1995	Cayman Islands	8
+1995	Bahrain	8
+1995	Cook Islands	7
+1995	Andorra	7
+1995	Wallis and Futuna Islands	5
+1995	Palau	5
+1995	British Virgin Islands	5
+1995	Tuvalu	4
+1995	Turks and Caicos Islands	4
+1995	Brunei Darussalam	4
+1995	San Marino	3
+1995	Saint Helena	3
+1995	Nauru	3
+1995	Montserrat	3
+1995	Gibraltar	3
+1995	Faroe Islands	2
+1995	Bermuda	2
+1995	Anguilla	2
+1995	Tokelau	1
+1995	Niue	1
+1995	Netherlands Antilles	1
+1995	Monaco	1
+1995	Liechtenstein	1
+1995	Greenland	1
+1996	China	862547
+1996	India	540298
+1996	Indonesia	94569
+1996	Bangladesh	70505
+1996	Pakistan	64338
+1996	Viet Nam	51811
+1996	Ethiopia	49347
+1996	Nigeria	41688
+1996	Thailand	31423
+1996	Myanmar	30582
+1996	Brazil	30516
+1996	Philippines	29690
+1996	Democratic Republic of the Congo	29078
+1996	United Republic of Tanzania	24643
+1996	Mexico	24513
+1996	Egypt	23750
+1996	Kenya	21754
+1996	Nepal	20663
+1996	Sudan (former)	19898
+1996	Turkey	17988
+1996	Iran (Islamic Republic of)	17541
+1996	Russian Federation	17430
+1996	Uganda	17390
+1996	Afghanistan	13517
+1996	Mozambique	13034
+1996	Madagascar	10362
+1996	Burkina Faso	10146
+1996	Morocco	10094
+1996	Ghana	9991
+1996	Ukraine	9115
+1996	Angola	9065
+1996	Sri Lanka	8704
+1996	Colombia	8438
+1996	Mali	8333
+1996	Niger	8254
+1996	Cameroon	8253
+1996	Cambodia	8194
+1996	Yemen	8095
+1996	Poland	8050
+1996	Malawi	8039
+1996	Côte d'Ivoire	8006
+1996	Zimbabwe	7778
+1996	Peru	7343
+1996	Democratic People's Republic of Korea	7283
+1996	Algeria	7258
+1996	Uzbekistan	7110
+1996	United States of America	6740
+1996	South Africa	6686
+1996	Guinea	6653
+1996	Zambia	6534
+1996	Senegal	6416
+1996	Japan	6127
+1996	Chad	5696
+1996	Burundi	5606
+1996	Guatemala	5508
+1996	Haiti	5332
+1996	Rwanda	5302
+1996	Republic of Korea	5058
+1996	Malaysia	4436
+1996	Papua New Guinea	3879
+1996	Syrian Arab Republic	3807
+1996	Romania	3803
+1996	Lao People's Democratic Republic	3795
+1996	Italy	3674
+1996	Argentina	3651
+1996	Spain	3496
+1996	Kazakhstan	3366
+1996	Benin	3363
+1996	Ecuador	3352
+1996	Bolivia (Plurinational State of)	3346
+1996	Sierra Leone	2629
+1996	Togo	2613
+1996	Central African Republic	2580
+1996	Serbia and Montenegro	2566
+1996	Eritrea	2556
+1996	Venezuela (Bolivarian Republic of)	2552
+1996	Chile	2489
+1996	Saudi Arabia	2485
+1996	Germany	2483
+1996	Iraq	2384
+1996	France	2370
+1996	Tunisia	2272
+1996	Azerbaijan	2244
+1996	Honduras	2170
+1996	Tajikistan	2154
+1996	El Salvador	2041
+1996	Cuba	2012
+1996	Paraguay	1837
+1996	Portugal	1675
+1996	Dominican Republic	1675
+1996	Greece	1659
+1996	Belarus	1595
+1996	Albania	1581
+1996	Liberia	1532
+1996	Turkmenistan	1491
+1996	Hungary	1436
+1996	Kyrgyzstan	1317
+1996	Mauritania	1265
+1996	Congo	1224
+1996	Nicaragua	1210
+1996	Republic of Moldova	1142
+1996	United Kingdom	1119
+1996	Georgia	1108
+1996	Czech Republic	973
+1996	Guinea-Bissau	963
+1996	Gambia	929
+1996	Australia	901
+1996	Oman	898
+1996	Namibia	891
+1996	Canada	868
+1996	Costa Rica	819
+1996	Bulgaria	813
+1996	Lesotho	783
+1996	Botswana	730
+1996	Panama	707
+1996	Timor-Leste	696
+1996	Mongolia	632
+1996	Lithuania	629
+1996	Netherlands	587
+1996	Slovakia	553
+1996	Jamaica	552
+1996	Djibouti	514
+1996	Croatia	512
+1996	Switzerland	508
+1996	Jordan	487
+1996	Austria	484
+1996	Gabon	483
+1996	Bhutan	482
+1996	Armenia	458
+1996	Ireland	400
+1996	Occupied Palestinian Territory 	385
+1996	Comoros	381
+1996	Uruguay	376
+1996	Swaziland	375
+1996	Finland	362
+1996	Sweden	359
+1996	Libya	353
+1996	New Zealand	344
+1996	Latvia	333
+1996	Equatorial Guinea	325
+1996	Fiji	320
+1996	The former Yugoslav Republic of Macedonia	314
+1996	Solomon Islands	268
+1996	Norway	253
+1996	Bosnia and Herzegovina	247
+1996	Denmark	234
+1996	Belgium-Luxembourg	224
+1996	Estonia	178
+1996	Israel	170
+1996	Lebanon	169
+1996	Mauritius	153
+1996	United Arab Emirates	148
+1996	Puerto Rico	140
+1996	Guyana	138
+1996	Trinidad and Tobago	118
+1996	Western Sahara	106
+1996	Cape Verde	105
+1996	Mayotte	96
+1996	Cyprus	90
+1996	Suriname	87
+1996	Sao Tome and Principe	84
+1996	French Polynesia	83
+1996	Maldives	82
+1996	New Caledonia	76
+1996	Vanuatu	68
+1996	Belize	65
+1996	Samoa	64
+1996	Seychelles	61
+1996	Slovenia	57
+1996	Guam	45
+1996	Tonga	36
+1996	Saint Lucia	36
+1996	Micronesia (Federated States of)	31
+1996	Réunion	30
+1996	Saint Vincent and the Grenadines	27
+1996	French Guiana	27
+1996	Iceland	25
+1996	Grenada	25
+1996	United States Virgin Islands	24
+1996	Kiribati	22
+1996	Aruba	21
+1996	American Samoa	20
+1996	Martinique	19
+1996	Kuwait	18
+1996	Dominica	18
+1996	Antigua and Barbuda	18
+1996	Northern Mariana Islands	17
+1996	Guadeloupe	17
+1996	Marshall Islands	15
+1996	Barbados	13
+1996	Bahamas	12
+1996	Saint Kitts and Nevis	11
+1996	Qatar	9
+1996	Singapore	8
+1996	Malta	8
+1996	Cayman Islands	8
+1996	Bahrain	8
+1996	Cook Islands	7
+1996	Andorra	7
+1996	Wallis and Futuna Islands	5
+1996	Palau	5
+1996	British Virgin Islands	5
+1996	Turks and Caicos Islands	4
+1996	Tuvalu	3
+1996	San Marino	3
+1996	Saint Helena	3
+1996	Nauru	3
+1996	Gibraltar	3
+1996	Brunei Darussalam	3
+1996	Montserrat	2
+1996	Faroe Islands	2
+1996	Anguilla	2
+1996	Tokelau	1
+1996	Niue	1
+1996	Netherlands Antilles	1
+1996	Monaco	1
+1996	Liechtenstein	1
+1996	Greenland	1
+1996	Bermuda	1
+1997	China	863986
+1997	India	545443
+1997	Indonesia	94462
+1997	Bangladesh	70735
+1997	Pakistan	65640
+1997	Viet Nam	52188
+1997	Ethiopia	50536
+1997	Nigeria	41563
+1997	Thailand	31293
+1997	Myanmar	30888
+1997	Philippines	29911
+1997	Brazil	29803
+1997	Democratic Republic of the Congo	29521
+1997	United Republic of Tanzania	25152
+1997	Mexico	24158
+1997	Egypt	23642
+1997	Kenya	22214
+1997	Nepal	21173
+1997	Sudan (former)	20136
+1997	Uganda	17812
+1997	Turkey	17585
+1997	Iran (Islamic Republic of)	17510
+1997	Russian Federation	16935
+1997	Afghanistan	13827
+1997	Mozambique	13362
+1997	Madagascar	10638
+1997	Burkina Faso	10430
+1997	Ghana	10193
+1997	Morocco	10004
+1997	Angola	9277
+1997	Ukraine	8728
+1997	Sri Lanka	8690
+1997	Niger	8518
+1997	Mali	8516
+1997	Cambodia	8343
+1997	Colombia	8304
+1997	Cameroon	8289
+1997	Yemen	8221
+1997	Malawi	8192
+1997	Côte d'Ivoire	8056
+1997	Poland	7854
+1997	Zimbabwe	7838
+1997	Peru	7353
+1997	Algeria	7293
+1997	Democratic People's Republic of Korea	7193
+1997	Uzbekistan	7064
+1997	Guinea	6777
+1997	Zambia	6667
+1997	United States of America	6616
+1997	South Africa	6572
+1997	Senegal	6555
+1997	Chad	5816
+1997	Japan	5789
+1997	Rwanda	5746
+1997	Burundi	5637
+1997	Guatemala	5582
+1997	Haiti	5387
+1997	Republic of Korea	4786
+1997	Malaysia	4380
+1997	Papua New Guinea	3959
+1997	Lao People's Democratic Republic	3871
+1997	Argentina	3615
+1997	Romania	3610
+1997	Syrian Arab Republic	3575
+1997	Italy	3497
+1997	Benin	3403
+1997	Bolivia (Plurinational State of)	3400
+1997	Spain	3338
+1997	Ecuador	3316
+1997	Kazakhstan	3238
+1997	Togo	2674
+1997	Central African Republic	2612
+1997	Sierra Leone	2610
+1997	Eritrea	2603
+1997	Venezuela (Bolivarian Republic of)	2489
+1997	Chile	2475
+1997	Serbia and Montenegro	2463
+1997	Germany	2375
+1997	Saudi Arabia	2355
+1997	Iraq	2343
+1997	Tunisia	2273
+1997	France	2265
+1997	Azerbaijan	2229
+1997	Honduras	2161
+1997	Tajikistan	2143
+1997	El Salvador	2019
+1997	Cuba	1968
+1997	Paraguay	1848
+1997	Portugal	1630
+1997	Liberia	1630
+1997	Dominican Republic	1616
+1997	Greece	1615
+1997	Albania	1551
+1997	Belarus	1526
+1997	Turkmenistan	1498
+1997	Hungary	1385
+1997	Kyrgyzstan	1311
+1997	Mauritania	1296
+1997	Congo	1226
+1997	Nicaragua	1196
+1997	United Kingdom	1099
+1997	Republic of Moldova	1089
+1997	Georgia	1064
+1997	Guinea-Bissau	979
+1997	Gambia	952
+1997	Czech Republic	942
+1997	Namibia	903
+1997	Australia	895
+1997	Oman	881
+1997	Canada	846
+1997	Costa Rica	815
+1997	Lesotho	794
+1997	Bulgaria	756
+1997	Botswana	738
+1997	Panama	699
+1997	Timor-Leste	687
+1997	Mongolia	620
+1997	Lithuania	600
+1997	Netherlands	572
+1997	Jamaica	549
+1997	Slovakia	539
+1997	Djibouti	529
+1997	Switzerland	497
+1997	Bhutan	489
+1997	Gabon	480
+1997	Croatia	477
+1997	Jordan	476
+1997	Austria	465
+1997	Armenia	438
+1997	Ireland	389
+1997	Comoros	389
+1997	Occupied Palestinian Territory 	383
+1997	Swaziland	377
+1997	Uruguay	374
+1997	Sweden	348
+1997	Finland	348
+1997	New Zealand	343
+1997	Libya	340
+1997	Equatorial Guinea	334
+1997	Fiji	321
+1997	Latvia	319
+1997	The former Yugoslav Republic of Macedonia	299
+1997	Solomon Islands	274
+1997	Norway	247
+1997	Bosnia and Herzegovina	232
+1997	Denmark	226
+1997	Belgium-Luxembourg	216
+1997	Estonia	171
+1997	Israel	168
+1997	Lebanon	161
+1997	United Arab Emirates	149
+1997	Mauritius	149
+1997	Guyana	133
+1997	Puerto Rico	132
+1997	Trinidad and Tobago	116
+1997	Western Sahara	108
+1997	Cape Verde	104
+1997	Mayotte	99
+1997	Cyprus	88
+1997	Suriname	87
+1997	Sao Tome and Principe	85
+1997	French Polynesia	82
+1997	Maldives	80
+1997	New Caledonia	76
+1997	Vanuatu	68
+1997	Belize	66
+1997	Samoa	63
+1997	Seychelles	61
+1997	Slovenia	52
+1997	Guam	45
+1997	Saint Lucia	36
+1997	Tonga	35
+1997	Micronesia (Federated States of)	30
+1997	Réunion	28
+1997	French Guiana	27
+1997	Saint Vincent and the Grenadines	26
+1997	Grenada	25
+1997	Iceland	24
+1997	United States Virgin Islands	23
+1997	Kiribati	22
+1997	Aruba	21
+1997	American Samoa	20
+1997	Kuwait	19
+1997	Northern Mariana Islands	18
+1997	Martinique	18
+1997	Antigua and Barbuda	18
+1997	Dominica	17
+1997	Guadeloupe	16
+1997	Marshall Islands	14
+1997	Barbados	13
+1997	Bahamas	12
+1997	Saint Kitts and Nevis	11
+1997	Qatar	9
+1997	Cayman Islands	9
+1997	Bahrain	8
+1997	Singapore	7
+1997	Malta	7
+1997	Cook Islands	7
+1997	Andorra	6
+1997	Wallis and Futuna Islands	5
+1997	Palau	5
+1997	British Virgin Islands	5
+1997	Turks and Caicos Islands	4
+1997	Tuvalu	3
+1997	San Marino	3
+1997	Saint Helena	3
+1997	Nauru	3
+1997	Gibraltar	3
+1997	Brunei Darussalam	3
+1997	Montserrat	2
+1997	Faroe Islands	2
+1997	Anguilla	2
+1997	Tokelau	1
+1997	Niue	1
+1997	Netherlands Antilles	1
+1997	Monaco	1
+1997	Liechtenstein	1
+1997	Greenland	1
+1997	Bermuda	1
+1998	China	864848
+1998	India	550360
+1998	Indonesia	94360
+1998	Bangladesh	70910
+1998	Pakistan	66694
+1998	Viet Nam	52504
+1998	Ethiopia	51693
+1998	Nigeria	41427
+1998	Myanmar	31178
+1998	Thailand	31177
+1998	Philippines	30132
+1998	Democratic Republic of the Congo	29924
+1998	Brazil	29074
+1998	United Republic of Tanzania	25642
+1998	Mexico	24026
+1998	Egypt	23529
+1998	Kenya	22664
+1998	Nepal	21691
+1998	Sudan (former)	20375
+1998	Uganda	18238
+1998	Turkey	17487
+1998	Iran (Islamic Republic of)	17483
+1998	Russian Federation	16444
+1998	Afghanistan	14028
+1998	Mozambique	13672
+1998	Madagascar	10920
+1998	Burkina Faso	10723
+1998	Ghana	10392
+1998	Morocco	9954
+1998	Angola	9498
+1998	Niger	8798
+1998	Mali	8706
+1998	Sri Lanka	8683
+1998	Cambodia	8477
+1998	Malawi	8378
+1998	Ukraine	8348
+1998	Cameroon	8312
+1998	Yemen	8282
+1998	Colombia	8184
+1998	Côte d'Ivoire	8090
+1998	Zimbabwe	7871
+1998	Poland	7657
+1998	Peru	7358
+1998	Algeria	7329
+1998	Democratic People's Republic of Korea	7095
+1998	Uzbekistan	7006
+1998	Guinea	6860
+1998	Zambia	6801
+1998	Senegal	6694
+1998	United States of America	6504
+1998	South Africa	6453
+1998	Rwanda	6326
+1998	Chad	5939
+1998	Burundi	5669
+1998	Guatemala	5652
+1998	Japan	5465
+1998	Haiti	5441
+1998	Republic of Korea	4515
+1998	Malaysia	4323
+1998	Papua New Guinea	4040
+1998	Lao People's Democratic Republic	3943
+1998	Syrian Arab Republic	3648
+1998	Argentina	3578
+1998	Bolivia (Plurinational State of)	3451
+1998	Benin	3439
+1998	Romania	3424
+1998	Italy	3330
+1998	Ecuador	3280
+1998	Spain	3192
+1998	Kazakhstan	3116
+1998	Togo	2740
+1998	Eritrea	2665
+1998	Central African Republic	2641
+1998	Sierra Leone	2616
+1998	Chile	2462
+1998	Venezuela (Bolivarian Republic of)	2428
+1998	Serbia and Montenegro	2357
+1998	Iraq	2302
+1998	Germany	2268
+1998	Tunisia	2267
+1998	Saudi Arabia	2229
+1998	Azerbaijan	2213
+1998	France	2162
+1998	Honduras	2148
+1998	Tajikistan	2130
+1998	El Salvador	1958
+1998	Cuba	1923
+1998	Paraguay	1857
+1998	Liberia	1741
+1998	Portugal	1580
+1998	Greece	1576
+1998	Dominican Republic	1558
+1998	Albania	1525
+1998	Turkmenistan	1502
+1998	Belarus	1458
+1998	Mauritania	1327
+1998	Hungary	1327
+1998	Kyrgyzstan	1306
+1998	Congo	1236
+1998	Nicaragua	1182
+1998	United Kingdom	1082
+1998	Republic of Moldova	1036
+1998	Georgia	1022
+1998	Guinea-Bissau	992
+1998	Gambia	976
+1998	Namibia	914
+1998	Czech Republic	912
+1998	Australia	889
+1998	Oman	857
+1998	Canada	824
+1998	Costa Rica	808
+1998	Lesotho	804
+1998	Botswana	747
+1998	Bulgaria	703
+1998	Panama	692
+1998	Timor-Leste	675
+1998	Mongolia	608
+1998	Lithuania	570
+1998	Netherlands	558
+1998	Jamaica	546
+1998	Djibouti	544
+1998	Slovakia	525
+1998	Bhutan	500
+1998	Switzerland	485
+1998	Gabon	476
+1998	Jordan	464
+1998	Austria	446
+1998	Croatia	443
+1998	Armenia	420
+1998	Comoros	397
+1998	Occupied Palestinian Territory 	386
+1998	Swaziland	378
+1998	Ireland	378
+1998	Uruguay	371
+1998	Equatorial Guinea	343
+1998	New Zealand	341
+1998	Sweden	337
+1998	Finland	335
+1998	Libya	327
+1998	Fiji	321
+1998	Latvia	309
+1998	The former Yugoslav Republic of Macedonia	285
+1998	Solomon Islands	280
+1998	Norway	240
+1998	Bosnia and Herzegovina	222
+1998	Denmark	217
+1998	Belgium-Luxembourg	208
+1998	Estonia	166
+1998	Israel	164
+1998	Lebanon	152
+1998	United Arab Emirates	150
+1998	Mauritius	145
+1998	Guyana	132
+1998	Puerto Rico	125
+1998	Trinidad and Tobago	114
+1998	Western Sahara	110
+1998	Mayotte	103
+1998	Cape Verde	103
+1998	Suriname	87
+1998	Sao Tome and Principe	86
+1998	Cyprus	86
+1998	French Polynesia	82
+1998	Maldives	79
+1998	New Caledonia	77
+1998	Vanuatu	68
+1998	Belize	67
+1998	Samoa	63
+1998	Seychelles	61
+1998	Slovenia	47
+1998	Guam	45
+1998	Saint Lucia	36
+1998	Tonga	35
+1998	Micronesia (Federated States of)	30
+1998	French Guiana	28
+1998	Réunion	27
+1998	Saint Vincent and the Grenadines	26
+1998	Iceland	24
+1998	Grenada	24
+1998	United States Virgin Islands	23
+1998	Kiribati	22
+1998	Aruba	21
+1998	Kuwait	20
+1998	American Samoa	20
+1998	Northern Mariana Islands	18
+1998	Antigua and Barbuda	18
+1998	Martinique	17
+1998	Dominica	17
+1998	Guadeloupe	15
+1998	Marshall Islands	14
+1998	Barbados	12
+1998	Saint Kitts and Nevis	11
+1998	Bahamas	11
+1998	Qatar	9
+1998	Cayman Islands	9
+1998	Bahrain	8
+1998	Singapore	7
+1998	Malta	7
+1998	Cook Islands	6
+1998	Andorra	6
+1998	Wallis and Futuna Islands	5
+1998	Palau	5
+1998	British Virgin Islands	5
+1998	Turks and Caicos Islands	4
+1998	Tuvalu	3
+1998	Saint Helena	3
+1998	Nauru	3
+1998	Gibraltar	3
+1998	Brunei Darussalam	3
+1998	Anguilla	3
+1998	San Marino	2
+1998	Montserrat	2
+1998	Faroe Islands	2
+1998	Tokelau	1
+1998	Niue	1
+1998	Netherlands Antilles	1
+1998	Monaco	1
+1998	Liechtenstein	1
+1998	Greenland	1
+1998	Falkland Islands (Malvinas)	1
+1998	Bermuda	1
+1999	China	865029
+1999	India	555031
+1999	Indonesia	94146
+1999	Bangladesh	71024
+1999	Pakistan	67623
+1999	Ethiopia	52831
+1999	Viet Nam	52789
+1999	Nigeria	41270
+1999	Myanmar	31425
+1999	Thailand	31059
+1999	Democratic Republic of the Congo	30347
+1999	Philippines	30256
+1999	Brazil	28344
+1999	United Republic of Tanzania	26132
+1999	Mexico	23905
+1999	Egypt	23508
+1999	Kenya	23116
+1999	Nepal	22215
+1999	Sudan (former)	20604
+1999	Uganda	18678
+1999	Turkey	17486
+1999	Iran (Islamic Republic of)	17438
+1999	Russian Federation	15961
+1999	Afghanistan	14241
+1999	Mozambique	13979
+1999	Madagascar	11207
+1999	Burkina Faso	11026
+1999	Ghana	10594
+1999	Morocco	9864
+1999	Angola	9736
+1999	Niger	9077
+1999	Mali	8904
+1999	Sri Lanka	8669
+1999	Cambodia	8596
+1999	Malawi	8572
+1999	Yemen	8393
+1999	Cameroon	8329
+1999	Ukraine	8119
+1999	Côte d'Ivoire	8101
+1999	Colombia	8041
+1999	Zimbabwe	7880
+1999	Poland	7462
+1999	Algeria	7357
+1999	Peru	7356
+1999	Democratic People's Republic of Korea	6991
+1999	Uzbekistan	6935
+1999	Zambia	6930
+1999	Guinea	6926
+1999	Rwanda	6898
+1999	Senegal	6838
+1999	United States of America	6391
+1999	South Africa	6327
+1999	Chad	6064
+1999	Guatemala	5718
+1999	Burundi	5716
+1999	Haiti	5489
+1999	Japan	5157
+1999	Republic of Korea	4266
+1999	Malaysia	4259
+1999	Papua New Guinea	4124
+1999	Lao People's Democratic Republic	4011
+1999	Syrian Arab Republic	3816
+1999	Argentina	3540
+1999	Bolivia (Plurinational State of)	3501
+1999	Benin	3476
+1999	Romania	3250
+1999	Ecuador	3244
+1999	Italy	3174
+1999	Spain	3056
+1999	Kazakhstan	3005
+1999	Togo	2803
+1999	Eritrea	2741
+1999	Central African Republic	2665
+1999	Sierra Leone	2639
+1999	Chile	2455
+1999	Venezuela (Bolivarian Republic of)	2371
+1999	Tunisia	2261
+1999	Iraq	2259
+1999	Serbia and Montenegro	2250
+1999	Azerbaijan	2196
+1999	Germany	2164
+1999	Honduras	2133
+1999	Saudi Arabia	2117
+1999	Tajikistan	2114
+1999	France	2066
+1999	El Salvador	1927
+1999	Cuba	1880
+1999	Paraguay	1866
+1999	Liberia	1844
+1999	Portugal	1534
+1999	Greece	1533
+1999	Turkmenistan	1503
+1999	Albania	1502
+1999	Dominican Republic	1501
+1999	Belarus	1393
+1999	Mauritania	1360
+1999	Kyrgyzstan	1298
+1999	Hungary	1277
+1999	Congo	1246
+1999	Nicaragua	1156
+1999	United Kingdom	1065
+1999	Guinea-Bissau	1008
+1999	Gambia	1001
+1999	Republic of Moldova	983
+1999	Georgia	983
+1999	Namibia	924
+1999	Australia	884
+1999	Czech Republic	883
+1999	Oman	834
+1999	Lesotho	812
+1999	Canada	803
+1999	Costa Rica	798
+1999	Botswana	759
+1999	Panama	688
+1999	Timor-Leste	670
+1999	Bulgaria	655
+1999	Mongolia	597
+1999	Djibouti	560
+1999	Netherlands	543
+1999	Jamaica	543
+1999	Lithuania	541
+1999	Bhutan	514
+1999	Slovakia	511
+1999	Switzerland	475
+1999	Gabon	471
+1999	Jordan	452
+1999	Austria	428
+1999	Croatia	411
+1999	Comoros	406
+1999	Armenia	404
+1999	Occupied Palestinian Territory 	389
+1999	Swaziland	378
+1999	Uruguay	370
+1999	Ireland	368
+1999	Equatorial Guinea	352
+1999	New Zealand	340
+1999	Sweden	325
+1999	Finland	321
+1999	Fiji	321
+1999	Libya	314
+1999	Latvia	299
+1999	Solomon Islands	287
+1999	The former Yugoslav Republic of Macedonia	272
+1999	Norway	234
+1999	Bosnia and Herzegovina	212
+1999	Denmark	209
+1999	Belgium-Luxembourg	201
+1999	Estonia	161
+1999	Israel	160
+1999	United Arab Emirates	151
+1999	Lebanon	144
+1999	Mauritius	142
+1999	Guyana	130
+1999	Puerto Rico	115
+1999	Western Sahara	112
+1999	Trinidad and Tobago	112
+1999	Mayotte	106
+1999	Cape Verde	102
+1999	Suriname	88
+1999	Sao Tome and Principe	88
+1999	Cyprus	84
+1999	French Polynesia	82
+1999	New Caledonia	77
+1999	Maldives	77
+1999	Vanuatu	68
+1999	Belize	67
+1999	Seychelles	62
+1999	Samoa	62
+1999	Guam	45
+1999	Slovenia	42
+1999	Saint Lucia	36
+1999	Tonga	34
+1999	Micronesia (Federated States of)	29
+1999	French Guiana	28
+1999	Saint Vincent and the Grenadines	26
+1999	Réunion	25
+1999	Grenada	24
+1999	United States Virgin Islands	23
+1999	Iceland	23
+1999	Kiribati	22
+1999	Kuwait	21
+1999	Aruba	21
+1999	American Samoa	20
+1999	Northern Mariana Islands	18
+1999	Antigua and Barbuda	18
+1999	Dominica	17
+1999	Martinique	16
+1999	Marshall Islands	14
+1999	Guadeloupe	14
+1999	Barbados	12
+1999	Saint Kitts and Nevis	11
+1999	Bahamas	11
+1999	Cayman Islands	9
+1999	Qatar	8
+1999	Malta	7
+1999	Bahrain	7
+1999	Singapore	6
+1999	Cook Islands	6
+1999	Andorra	6
+1999	Wallis and Futuna Islands	5
+1999	Palau	5
+1999	British Virgin Islands	5
+1999	Turks and Caicos Islands	4
+1999	Tuvalu	3
+1999	Saint Helena	3
+1999	Nauru	3
+1999	Brunei Darussalam	3
+1999	Anguilla	3
+1999	San Marino	2
+1999	Gibraltar	2
+1999	Faroe Islands	2
+1999	Tokelau	1
+1999	Niue	1
+1999	Netherlands Antilles	1
+1999	Montserrat	1
+1999	Monaco	1
+1999	Liechtenstein	1
+1999	Greenland	1
+1999	Bermuda	1
+2000	China	864486
+2000	India	559446
+2000	Indonesia	93918
+2000	Bangladesh	71073
+2000	Pakistan	68479
+2000	Ethiopia	53957
+2000	Viet Nam	53049
+2000	Nigeria	41133
+2000	Myanmar	31610
+2000	Thailand	30928
+2000	Democratic Republic of the Congo	30823
+2000	Philippines	30520
+2000	Brazil	27660
+2000	United Republic of Tanzania	26640
+2000	Mexico	23619
+2000	Kenya	23576
+2000	Egypt	23446
+2000	Nepal	22743
+2000	Sudan (former)	20825
+2000	Uganda	19138
+2000	Iran (Islamic Republic of)	17361
+2000	Turkey	16857
+2000	Russian Federation	15466
+2000	Afghanistan	14550
+2000	Mozambique	14296
+2000	Madagascar	11498
+2000	Burkina Faso	11339
+2000	Ghana	10809
+2000	Angola	9993
+2000	Morocco	9696
+2000	Niger	9365
+2000	Mali	9112
+2000	Malawi	8758
+2000	Cambodia	8702
+2000	Sri Lanka	8677
+2000	Yemen	8493
+2000	Cameroon	8338
+2000	Côte d'Ivoire	8085
+2000	Colombia	7949
+2000	Zimbabwe	7868
+2000	Ukraine	7786
+2000	Algeria	7376
+2000	Rwanda	7355
+2000	Peru	7347
+2000	Poland	7270
+2000	Zambia	7053
+2000	Guinea	6996
+2000	Senegal	6986
+2000	Democratic People's Republic of Korea	6885
+2000	Uzbekistan	6853
+2000	United States of America	6279
+2000	South Africa	6201
+2000	Chad	6197
+2000	Burundi	5790
+2000	Guatemala	5725
+2000	Haiti	5540
+2000	Japan	4866
+2000	Papua New Guinea	4205
+2000	Malaysia	4183
+2000	Lao People's Democratic Republic	4076
+2000	Republic of Korea	4028
+2000	Syrian Arab Republic	3810
+2000	Bolivia (Plurinational State of)	3551
+2000	Benin	3517
+2000	Argentina	3500
+2000	Ecuador	3209
+2000	Romania	3082
+2000	Italy	3029
+2000	Spain	2934
+2000	Kazakhstan	2910
+2000	Togo	2860
+2000	Eritrea	2826
+2000	Sierra Leone	2692
+2000	Central African Republic	2686
+2000	Chile	2454
+2000	Venezuela (Bolivarian Republic of)	2308
+2000	Tunisia	2253
+2000	Iraq	2213
+2000	Azerbaijan	2181
+2000	Serbia and Montenegro	2146
+2000	Honduras	2131
+2000	Tajikistan	2095
+2000	Germany	2066
+2000	Saudi Arabia	2027
+2000	France	1976
+2000	Liberia	1923
+2000	El Salvador	1900
+2000	Paraguay	1871
+2000	Cuba	1840
+2000	Turkmenistan	1504
+2000	Portugal	1489
+2000	Greece	1487
+2000	Albania	1482
+2000	Dominican Republic	1448
+2000	Mauritania	1393
+2000	Belarus	1331
+2000	Kyrgyzstan	1285
+2000	Congo	1255
+2000	Hungary	1228
+2000	Nicaragua	1133
+2000	United Kingdom	1048
+2000	Gambia	1026
+2000	Guinea-Bissau	1024
+2000	Georgia	947
+2000	Republic of Moldova	931
+2000	Namibia	930
+2000	Australia	878
+2000	Czech Republic	855
+2000	Lesotho	819
+2000	Oman	815
+2000	Costa Rica	804
+2000	Canada	783
+2000	Botswana	772
+2000	Panama	682
+2000	Timor-Leste	674
+2000	Bulgaria	610
+2000	Mongolia	585
+2000	Djibouti	573
+2000	Jamaica	540
+2000	Netherlands	530
+2000	Bhutan	529
+2000	Lithuania	514
+2000	Slovakia	496
+2000	Gabon	466
+2000	Switzerland	465
+2000	Jordan	441
+2000	Comoros	414
+2000	Austria	411
+2000	Armenia	389
+2000	Croatia	382
+2000	Occupied Palestinian Territory 	380
+2000	Swaziland	377
+2000	Uruguay	367
+2000	Equatorial Guinea	361
+2000	Ireland	360
+2000	New Zealand	339
+2000	Fiji	321
+2000	Sweden	314
+2000	Finland	308
+2000	Libya	302
+2000	Solomon Islands	293
+2000	Latvia	286
+2000	The former Yugoslav Republic of Macedonia	259
+2000	Norway	228
+2000	Denmark	202
+2000	Bosnia and Herzegovina	200
+2000	Belgium	184
+2000	Israel	157
+2000	Estonia	156
+2000	United Arab Emirates	151
+2000	Mauritius	138
+2000	Lebanon	136
+2000	Guyana	128
+2000	Western Sahara	116
+2000	Trinidad and Tobago	110
+2000	Puerto Rico	110
+2000	Mayotte	109
+2000	Cape Verde	101
+2000	Suriname	88
+2000	Sao Tome and Principe	88
+2000	French Polynesia	82
+2000	Cyprus	81
+2000	New Caledonia	77
+2000	Maldives	76
+2000	Vanuatu	68
+2000	Belize	68
+2000	Seychelles	62
+2000	Samoa	61
+2000	Guam	45
+2000	Slovenia	38
+2000	Saint Lucia	36
+2000	Tonga	34
+2000	Micronesia (Federated States of)	29
+2000	French Guiana	28
+2000	Saint Vincent and the Grenadines	25
+2000	Réunion	24
+2000	Grenada	24
+2000	United States Virgin Islands	23
+2000	Iceland	23
+2000	Kiribati	22
+2000	Kuwait	21
+2000	Aruba	21
+2000	American Samoa	20
+2000	Northern Mariana Islands	18
+2000	Antigua and Barbuda	18
+2000	Dominica	16
+2000	Martinique	15
+2000	Marshall Islands	14
+2000	Guadeloupe	13
+2000	Saint Kitts and Nevis	11
+2000	Barbados	11
+2000	Bahamas	11
+2000	Luxembourg	10
+2000	Cayman Islands	9
+2000	Qatar	8
+2000	Malta	7
+2000	Bahrain	7
+2000	Singapore	6
+2000	Cook Islands	6
+2000	Andorra	6
+2000	Wallis and Futuna Islands	5
+2000	Palau	5
+2000	British Virgin Islands	5
+2000	Turks and Caicos Islands	4
+2000	Tuvalu	3
+2000	Saint Helena	3
+2000	Nauru	3
+2000	Anguilla	3
+2000	San Marino	2
+2000	Gibraltar	2
+2000	Faroe Islands	2
+2000	Brunei Darussalam	2
+2000	Tokelau	1
+2000	Niue	1
+2000	Netherlands Antilles	1
+2000	Montserrat	1
+2000	Monaco	1
+2000	Liechtenstein	1
+2000	Greenland	1
+2000	Bermuda	1
+2001	China	863210
+2001	India	563639
+2001	Indonesia	93666
+2001	Bangladesh	71102
+2001	Pakistan	69036
+2001	Ethiopia	55075
+2001	Viet Nam	53315
+2001	Nigeria	40981
+2001	Myanmar	31725
+2001	Democratic Republic of the Congo	31405
+2001	Thailand	30785
+2001	Philippines	30490
+2001	United Republic of Tanzania	27168
+2001	Brazil	26991
+2001	Kenya	24053
+2001	Mexico	23445
+2001	Egypt	23432
+2001	Nepal	23275
+2001	Sudan (former)	20983
+2001	Uganda	19620
+2001	Iran (Islamic Republic of)	17249
+2001	Turkey	16811
+2001	Afghanistan	14978
+2001	Russian Federation	14977
+2001	Mozambique	14648
+2001	Madagascar	11790
+2001	Burkina Faso	11664
+2001	Ghana	11022
+2001	Angola	10284
+2001	Niger	9667
+2001	Morocco	9374
+2001	Mali	9333
+2001	Malawi	8930
+2001	Cambodia	8804
+2001	Sri Lanka	8703
+2001	Yemen	8581
+2001	Cameroon	8341
+2001	Côte d'Ivoire	8051
+2001	Colombia	7857
+2001	Zimbabwe	7829
+2001	Rwanda	7670
+2001	Ukraine	7454
+2001	Algeria	7385
+2001	Peru	7331
+2001	Zambia	7167
+2001	Senegal	7141
+2001	Poland	7084
+2001	Guinea	7072
+2001	Democratic People's Republic of Korea	6776
+2001	Uzbekistan	6758
+2001	Chad	6345
+2001	United States of America	6164
+2001	South Africa	6078
+2001	Burundi	5895
+2001	Guatemala	5720
+2001	Haiti	5591
+2001	Japan	4591
+2001	Papua New Guinea	4286
+2001	Lao People's Democratic Republic	4138
+2001	Malaysia	4119
+2001	Syrian Arab Republic	3893
+2001	Republic of Korea	3799
+2001	Bolivia (Plurinational State of)	3600
+2001	Benin	3562
+2001	Argentina	3459
+2001	Ecuador	3172
+2001	Eritrea	2926
+2001	Romania	2922
+2001	Togo	2909
+2001	Italy	2896
+2001	Spain	2831
+2001	Kazakhstan	2831
+2001	Sierra Leone	2780
+2001	Central African Republic	2701
+2001	Chile	2451
+2001	Venezuela (Bolivarian Republic of)	2246
+2001	Tunisia	2243
+2001	Azerbaijan	2168
+2001	Iraq	2163
+2001	Honduras	2127
+2001	Tajikistan	2072
+2001	Serbia and Montenegro	2044
+2001	Germany	1973
+2001	Liberia	1970
+2001	Saudi Arabia	1957
+2001	France	1891
+2001	Paraguay	1875
+2001	El Salvador	1872
+2001	Cuba	1802
+2001	Turkmenistan	1503
+2001	Albania	1465
+2001	Portugal	1448
+2001	Greece	1441
+2001	Mauritania	1428
+2001	Dominican Republic	1397
+2001	Belarus	1272
+2001	Kyrgyzstan	1266
+2001	Congo	1260
+2001	Hungary	1184
+2001	Nicaragua	1109
+2001	Gambia	1053
+2001	Guinea-Bissau	1041
+2001	United Kingdom	1032
+2001	Namibia	934
+2001	Georgia	907
+2001	Republic of Moldova	879
+2001	Australia	872
+2001	Czech Republic	828
+2001	Lesotho	825
+2001	Oman	800
+2001	Costa Rica	798
+2001	Botswana	779
+2001	Canada	765
+2001	Timor-Leste	691
+2001	Panama	676
+2001	Djibouti	584
+2001	Mongolia	573
+2001	Bulgaria	567
+2001	Bhutan	544
+2001	Jamaica	536
+2001	Netherlands	516
+2001	Lithuania	492
+2001	Slovakia	483
+2001	Gabon	461
+2001	Switzerland	455
+2001	Jordan	431
+2001	Comoros	423
+2001	Austria	396
+2001	Occupied Palestinian Territory 	378
+2001	Armenia	376
+2001	Swaziland	373
+2001	Equatorial Guinea	371
+2001	Uruguay	365
+2001	Croatia	356
+2001	Ireland	354
+2001	New Zealand	339
+2001	Fiji	319
+2001	Sweden	304
+2001	Solomon Islands	300
+2001	Finland	296
+2001	Libya	289
+2001	Latvia	278
+2001	The former Yugoslav Republic of Macedonia	246
+2001	Norway	222
+2001	Denmark	195
+2001	Bosnia and Herzegovina	187
+2001	Belgium	179
+2001	Israel	153
+2001	Estonia	151
+2001	United Arab Emirates	149
+2001	Mauritius	134
+2001	Lebanon	129
+2001	Guyana	126
+2001	Western Sahara	122
+2001	Mayotte	113
+2001	Trinidad and Tobago	108
+2001	Puerto Rico	102
+2001	Cape Verde	99
+2001	Sao Tome and Principe	89
+2001	Suriname	88
+2001	French Polynesia	81
+2001	Cyprus	79
+2001	New Caledonia	77
+2001	Maldives	74
+2001	Vanuatu	69
+2001	Belize	69
+2001	Seychelles	62
+2001	Samoa	60
+2001	Guam	45
+2001	Saint Lucia	36
+2001	Slovenia	34
+2001	Tonga	33
+2001	Micronesia (Federated States of)	28
+2001	French Guiana	28
+2001	Saint Vincent and the Grenadines	25
+2001	Grenada	23
+2001	United States Virgin Islands	22
+2001	Réunion	22
+2001	Kuwait	22
+2001	Kiribati	22
+2001	Iceland	22
+2001	Aruba	21
+2001	American Samoa	20
+2001	Northern Mariana Islands	18
+2001	Antigua and Barbuda	18
+2001	Dominica	16
+2001	Martinique	15
+2001	Marshall Islands	14
+2001	Guadeloupe	13
+2001	Saint Kitts and Nevis	11
+2001	Barbados	11
+2001	Cayman Islands	10
+2001	Bahamas	10
+2001	Luxembourg	9
+2001	Qatar	8
+2001	Bahrain	7
+2001	Singapore	6
+2001	Malta	6
+2001	Cook Islands	6
+2001	Wallis and Futuna Islands	5
+2001	Turks and Caicos Islands	5
+2001	Palau	5
+2001	British Virgin Islands	5
+2001	Andorra	5
+2001	Tuvalu	3
+2001	Saint Helena	3
+2001	Nauru	3
+2001	Anguilla	3
+2001	San Marino	2
+2001	Gibraltar	2
+2001	Faroe Islands	2
+2001	Brunei Darussalam	2
+2001	Tokelau	1
+2001	Niue	1
+2001	Netherlands Antilles	1
+2001	Montserrat	1
+2001	Monaco	1
+2001	Liechtenstein	1
+2001	Greenland	1
+2001	Bermuda	1
+2002	China	861273
+2002	India	567575
+2002	Indonesia	93387
+2002	Bangladesh	71061
+2002	Pakistan	69553
+2002	Ethiopia	56179
+2002	Viet Nam	53567
+2002	Nigeria	40836
+2002	Democratic Republic of the Congo	32066
+2002	Myanmar	31781
+2002	Philippines	30669
+2002	Thailand	30630
+2002	United Republic of Tanzania	27712
+2002	Brazil	26296
+2002	Kenya	24538
+2002	Nepal	23813
+2002	Egypt	23473
+2002	Mexico	23078
+2002	Sudan (former)	21134
+2002	Uganda	20121
+2002	Iran (Islamic Republic of)	17112
+2002	Turkey	16827
+2002	Afghanistan	15491
+2002	Mozambique	14994
+2002	Russian Federation	14495
+2002	Madagascar	12077
+2002	Burkina Faso	12000
+2002	Ghana	11239
+2002	Angola	10608
+2002	Niger	9975
+2002	Mali	9560
+2002	Morocco	9227
+2002	Malawi	9107
+2002	Cambodia	8883
+2002	Sri Lanka	8745
+2002	Yemen	8685
+2002	Cameroon	8333
+2002	Côte d'Ivoire	7998
+2002	Rwanda	7876
+2002	Zimbabwe	7767
+2002	Colombia	7762
+2002	Algeria	7398
+2002	Peru	7308
+2002	Senegal	7302
+2002	Zambia	7273
+2002	Guinea	7150
+2002	Ukraine	7142
+2002	Poland	6904
+2002	Democratic People's Republic of Korea	6664
+2002	Uzbekistan	6653
+2002	Chad	6498
+2002	United States of America	6048
+2002	Burundi	6027
+2002	South Africa	5955
+2002	Guatemala	5705
+2002	Haiti	5636
+2002	Papua New Guinea	4367
+2002	Japan	4329
+2002	Lao People's Democratic Republic	4196
+2002	Syrian Arab Republic	4062
+2002	Malaysia	4054
+2002	Bolivia (Plurinational State of)	3647
+2002	Benin	3609
+2002	Republic of Korea	3579
+2002	Argentina	3416
+2002	Ecuador	3139
+2002	Eritrea	3037
+2002	Togo	2951
+2002	Sierra Leone	2896
+2002	Italy	2772
+2002	Romania	2768
+2002	Kazakhstan	2767
+2002	Spain	2732
+2002	Central African Republic	2712
+2002	Chile	2439
+2002	Tunisia	2233
+2002	Venezuela (Bolivarian Republic of)	2194
+2002	Azerbaijan	2156
+2002	Honduras	2121
+2002	Iraq	2112
+2002	Tajikistan	2048
+2002	Liberia	1992
+2002	Serbia and Montenegro	1947
+2002	Saudi Arabia	1900
+2002	Germany	1884
+2002	Paraguay	1880
+2002	El Salvador	1842
+2002	France	1811
+2002	Cuba	1765
+2002	Turkmenistan	1502
+2002	Mauritania	1459
+2002	Albania	1451
+2002	Portugal	1407
+2002	Greece	1398
+2002	Dominican Republic	1349
+2002	Congo	1262
+2002	Kyrgyzstan	1242
+2002	Belarus	1216
+2002	Hungary	1138
+2002	Nicaragua	1091
+2002	Gambia	1080
+2002	Guinea-Bissau	1056
+2002	United Kingdom	1016
+2002	Namibia	936
+2002	Georgia	872
+2002	Australia	868
+2002	Republic of Moldova	829
+2002	Lesotho	828
+2002	Czech Republic	803
+2002	Costa Rica	796
+2002	Botswana	789
+2002	Oman	788
+2002	Canada	747
+2002	Timor-Leste	719
+2002	Panama	670
+2002	Djibouti	593
+2002	Mongolia	562
+2002	Bhutan	561
+2002	Jamaica	531
+2002	Bulgaria	527
+2002	Netherlands	504
+2002	Slovakia	471
+2002	Lithuania	470
+2002	Gabon	455
+2002	Switzerland	446
+2002	Comoros	432
+2002	Jordan	424
+2002	Austria	382
+2002	Equatorial Guinea	380
+2002	Occupied Palestinian Territory 	375
+2002	Swaziland	369
+2002	Armenia	364
+2002	Uruguay	361
+2002	Ireland	346
+2002	New Zealand	339
+2002	Croatia	332
+2002	Fiji	317
+2002	Solomon Islands	306
+2002	Sweden	295
+2002	Finland	284
+2002	Libya	276
+2002	Latvia	268
+2002	The former Yugoslav Republic of Macedonia	234
+2002	Norway	217
+2002	Denmark	188
+2002	Bosnia and Herzegovina	174
+2002	Belgium	173
+2002	Israel	150
+2002	Estonia	147
+2002	United Arab Emirates	146
+2002	Mauritius	131
+2002	Western Sahara	128
+2002	Guyana	124
+2002	Lebanon	123
+2002	Mayotte	116
+2002	Trinidad and Tobago	105
+2002	Cape Verde	98
+2002	Puerto Rico	95
+2002	Sao Tome and Principe	90
+2002	Suriname	88
+2002	French Polynesia	80
+2002	New Caledonia	77
+2002	Cyprus	77
+2002	Maldives	72
+2002	Vanuatu	69
+2002	Belize	69
+2002	Seychelles	63
+2002	Samoa	59
+2002	Guam	45
+2002	Saint Lucia	36
+2002	Tonga	32
+2002	Slovenia	31
+2002	French Guiana	29
+2002	Micronesia (Federated States of)	28
+2002	Saint Vincent and the Grenadines	25
+2002	Grenada	23
+2002	United States Virgin Islands	22
+2002	Kuwait	22
+2002	Kiribati	22
+2002	Iceland	22
+2002	Réunion	21
+2002	Aruba	21
+2002	American Samoa	20
+2002	Northern Mariana Islands	18
+2002	Antigua and Barbuda	18
+2002	Dominica	16
+2002	Martinique	14
+2002	Marshall Islands	13
+2002	Guadeloupe	12
+2002	Saint Kitts and Nevis	11
+2002	Cayman Islands	10
+2002	Barbados	10
+2002	Bahamas	10
+2002	Luxembourg	9
+2002	Qatar	7
+2002	Malta	6
+2002	Cook Islands	6
+2002	Bahrain	6
+2002	Wallis and Futuna Islands	5
+2002	Turks and Caicos Islands	5
+2002	Singapore	5
+2002	Palau	5
+2002	British Virgin Islands	5
+2002	Andorra	5
+2002	Tuvalu	3
+2002	Saint Helena	3
+2002	Nauru	3
+2002	Anguilla	3
+2002	San Marino	2
+2002	Gibraltar	2
+2002	Faroe Islands	2
+2002	Brunei Darussalam	2
+2002	Niue	1
+2002	Netherlands Antilles	1
+2002	Montserrat	1
+2002	Monaco	1
+2002	Liechtenstein	1
+2002	Greenland	1
+2002	Bermuda	1
+2003	China	858816
+2003	India	571271
+2003	Indonesia	93094
+2003	Bangladesh	70932
+2003	Pakistan	70178
+2003	Ethiopia	57265
+2003	Viet Nam	53814
+2003	Nigeria	40695
+2003	Democratic Republic of the Congo	32789
+2003	Myanmar	31800
+2003	Philippines	30921
+2003	Thailand	30456
+2003	United Republic of Tanzania	28276
+2003	Brazil	25665
+2003	Kenya	25034
+2003	Nepal	24350
+2003	Egypt	23420
+2003	Mexico	22836
+2003	Sudan (former)	21286
+2003	Uganda	20639
+2003	Iran (Islamic Republic of)	16956
+2003	Turkey	16460
+2003	Afghanistan	16046
+2003	Mozambique	15354
+2003	Russian Federation	14048
+2003	Madagascar	12376
+2003	Burkina Faso	12348
+2003	Ghana	11461
+2003	Angola	10940
+2003	Niger	10295
+2003	Mali	9794
+2003	Malawi	9290
+2003	Morocco	9225
+2003	Cambodia	8951
+2003	Yemen	8859
+2003	Sri Lanka	8795
+2003	Cameroon	8316
+2003	Rwanda	8009
+2003	Côte d'Ivoire	7933
+2003	Zimbabwe	7683
+2003	Colombia	7661
+2003	Senegal	7470
+2003	Algeria	7409
+2003	Zambia	7377
+2003	Peru	7263
+2003	Guinea	7231
+2003	Ukraine	6860
+2003	Poland	6728
+2003	Chad	6668
+2003	Democratic People's Republic of Korea	6549
+2003	Uzbekistan	6544
+2003	Burundi	6182
+2003	United States of America	5926
+2003	South Africa	5832
+2003	Guatemala	5682
+2003	Haiti	5679
+2003	Papua New Guinea	4449
+2003	Lao People's Democratic Republic	4252
+2003	Japan	4082
+2003	Malaysia	3985
+2003	Syrian Arab Republic	3932
+2003	Bolivia (Plurinational State of)	3693
+2003	Benin	3658
+2003	Argentina	3373
+2003	Republic of Korea	3369
+2003	Eritrea	3155
+2003	Ecuador	3106
+2003	Sierra Leone	3017
+2003	Togo	2989
+2003	Central African Republic	2719
+2003	Kazakhstan	2718
+2003	Italy	2655
+2003	Spain	2641
+2003	Romania	2623
+2003	Chile	2412
+2003	Tunisia	2222
+2003	Azerbaijan	2146
+2003	Venezuela (Bolivarian Republic of)	2140
+2003	Honduras	2115
+2003	Iraq	2060
+2003	Tajikistan	2023
+2003	Liberia	2003
+2003	Paraguay	1884
+2003	Serbia and Montenegro	1853
+2003	Saudi Arabia	1852
+2003	El Salvador	1812
+2003	Germany	1799
+2003	France	1734
+2003	Cuba	1727
+2003	Turkmenistan	1500
+2003	Mauritania	1496
+2003	Albania	1438
+2003	Portugal	1369
+2003	Greece	1356
+2003	Dominican Republic	1320
+2003	Congo	1262
+2003	Kyrgyzstan	1219
+2003	Belarus	1163
+2003	Gambia	1108
+2003	Hungary	1093
+2003	Guinea-Bissau	1073
+2003	Nicaragua	1068
+2003	United Kingdom	1004
+2003	Namibia	936
+2003	Australia	864
+2003	Georgia	837
+2003	Lesotho	831
+2003	Botswana	794
+2003	Costa Rica	792
+2003	Oman	781
+2003	Republic of Moldova	780
+2003	Czech Republic	778
+2003	Timor-Leste	752
+2003	Canada	730
+2003	Panama	665
+2003	Djibouti	601
+2003	Bhutan	579
+2003	Mongolia	551
+2003	Jamaica	527
+2003	Bulgaria	492
+2003	Netherlands	491
+2003	Slovakia	458
+2003	Lithuania	449
+2003	Gabon	448
+2003	Comoros	441
+2003	Switzerland	438
+2003	Jordan	417
+2003	Equatorial Guinea	389
+2003	Austria	368
+2003	Occupied Palestinian Territory 	365
+2003	Swaziland	363
+2003	Uruguay	357
+2003	Armenia	353
+2003	Ireland	340
+2003	New Zealand	339
+2003	Fiji	314
+2003	Solomon Islands	313
+2003	Croatia	310
+2003	Sweden	286
+2003	Finland	273
+2003	Libya	264
+2003	Latvia	259
+2003	The former Yugoslav Republic of Macedonia	222
+2003	Norway	211
+2003	Denmark	181
+2003	Belgium	167
+2003	Bosnia and Herzegovina	160
+2003	United Arab Emirates	146
+2003	Israel	146
+2003	Estonia	143
+2003	Western Sahara	135
+2003	Mauritius	128
+2003	Guyana	123
+2003	Mayotte	119
+2003	Lebanon	117
+2003	Trinidad and Tobago	103
+2003	Cape Verde	97
+2003	Sao Tome and Principe	90
+2003	Puerto Rico	89
+2003	Suriname	88
+2003	French Polynesia	80
+2003	New Caledonia	77
+2003	Cyprus	75
+2003	Vanuatu	70
+2003	Maldives	70
+2003	Belize	70
+2003	Seychelles	63
+2003	Samoa	58
+2003	Guam	45
+2003	Saint Lucia	36
+2003	Tonga	32
+2003	French Guiana	29
+2003	Micronesia (Federated States of)	28
+2003	Slovenia	27
+2003	Saint Vincent and the Grenadines	24
+2003	Kuwait	23
+2003	Kiribati	23
+2003	Grenada	23
+2003	United States Virgin Islands	22
+2003	Iceland	22
+2003	Aruba	21
+2003	Réunion	20
+2003	American Samoa	19
+2003	Northern Mariana Islands	18
+2003	Antigua and Barbuda	18
+2003	Dominica	15
+2003	Martinique	13
+2003	Marshall Islands	13
+2003	Saint Kitts and Nevis	11
+2003	Guadeloupe	11
+2003	Cayman Islands	11
+2003	Barbados	10
+2003	Bahamas	10
+2003	Luxembourg	8
+2003	Qatar	7
+2003	Turks and Caicos Islands	6
+2003	Malta	6
+2003	Cook Islands	6
+2003	Bahrain	6
+2003	Andorra	6
+2003	Wallis and Futuna Islands	5
+2003	Singapore	5
+2003	Palau	5
+2003	British Virgin Islands	5
+2003	Tuvalu	3
+2003	Nauru	3
+2003	Anguilla	3
+2003	San Marino	2
+2003	Saint Helena	2
+2003	Gibraltar	2
+2003	Brunei Darussalam	2
+2003	Niue	1
+2003	Netherlands Antilles	1
+2003	Montserrat	1
+2003	Monaco	1
+2003	Liechtenstein	1
+2003	Greenland	1
+2003	Faroe Islands	1
+2003	Bermuda	1
+2004	China	856009
+2004	India	574748
+2004	Indonesia	92751
+2004	Pakistan	70781
+2004	Bangladesh	70695
+2004	Ethiopia	58326
+2004	Viet Nam	54054
+2004	Nigeria	40541
+2004	Democratic Republic of the Congo	33549
+2004	Myanmar	31810
+2004	Philippines	31114
+2004	Thailand	30256
+2004	United Republic of Tanzania	28860
+2004	Kenya	25534
+2004	Brazil	25012
+2004	Nepal	24883
+2004	Egypt	23358
+2004	Mexico	22320
+2004	Sudan (former)	21430
+2004	Uganda	21171
+2004	Iran (Islamic Republic of)	16795
+2004	Afghanistan	16581
+2004	Turkey	15907
+2004	Mozambique	15716
+2004	Russian Federation	13623
+2004	Burkina Faso	12709
+2004	Madagascar	12684
+2004	Ghana	11687
+2004	Angola	11282
+2004	Niger	10620
+2004	Mali	10033
+2004	Malawi	9482
+2004	Morocco	9148
+2004	Cambodia	9011
+2004	Yemen	8949
+2004	Sri Lanka	8846
+2004	Cameroon	8293
+2004	Rwanda	8134
+2004	Côte d'Ivoire	7866
+2004	Senegal	7642
+2004	Zimbabwe	7593
+2004	Colombia	7558
+2004	Zambia	7487
+2004	Algeria	7411
+2004	Guinea	7316
+2004	Peru	7212
+2004	Chad	6826
+2004	Ukraine	6587
+2004	Poland	6560
+2004	Uzbekistan	6435
+2004	Democratic People's Republic of Korea	6431
+2004	Burundi	6352
+2004	United States of America	5817
+2004	Haiti	5725
+2004	South Africa	5701
+2004	Guatemala	5652
+2004	Papua New Guinea	4528
+2004	Lao People's Democratic Republic	4307
+2004	Syrian Arab Republic	3974
+2004	Malaysia	3912
+2004	Japan	3848
+2004	Bolivia (Plurinational State of)	3736
+2004	Benin	3705
+2004	Argentina	3330
+2004	Eritrea	3273
+2004	Republic of Korea	3173
+2004	Sierra Leone	3134
+2004	Ecuador	3072
+2004	Togo	3024
+2004	Central African Republic	2727
+2004	Kazakhstan	2679
+2004	Spain	2553
+2004	Italy	2548
+2004	Romania	2485
+2004	Chile	2375
+2004	Tunisia	2212
+2004	Azerbaijan	2136
+2004	Honduras	2108
+2004	Venezuela (Bolivarian Republic of)	2078
+2004	Liberia	2023
+2004	Iraq	2011
+2004	Tajikistan	1998
+2004	Paraguay	1888
+2004	Saudi Arabia	1801
+2004	El Salvador	1797
+2004	Serbia and Montenegro	1764
+2004	Germany	1718
+2004	Cuba	1692
+2004	France	1659
+2004	Mauritania	1532
+2004	Turkmenistan	1498
+2004	Albania	1426
+2004	Portugal	1330
+2004	Greece	1316
+2004	Dominican Republic	1295
+2004	Congo	1265
+2004	Kyrgyzstan	1196
+2004	Gambia	1137
+2004	Belarus	1112
+2004	Guinea-Bissau	1090
+2004	Hungary	1052
+2004	Nicaragua	1041
+2004	United Kingdom	989
+2004	Namibia	936
+2004	Australia	861
+2004	Lesotho	833
+2004	Georgia	805
+2004	Botswana	802
+2004	Costa Rica	792
+2004	Timor-Leste	785
+2004	Oman	777
+2004	Czech Republic	756
+2004	Republic of Moldova	734
+2004	Canada	715
+2004	Panama	662
+2004	Djibouti	609
+2004	Bhutan	596
+2004	Mongolia	541
+2004	Jamaica	521
+2004	Netherlands	478
+2004	Bulgaria	459
+2004	Comoros	450
+2004	Slovakia	447
+2004	Gabon	441
+2004	Switzerland	430
+2004	Lithuania	430
+2004	Jordan	412
+2004	Equatorial Guinea	399
+2004	Swaziland	358
+2004	Austria	355
+2004	Occupied Palestinian Territory 	354
+2004	Uruguay	353
+2004	Armenia	343
+2004	New Zealand	340
+2004	Ireland	336
+2004	Solomon Islands	320
+2004	Fiji	312
+2004	Croatia	290
+2004	Sweden	278
+2004	Finland	262
+2004	Libya	251
+2004	Latvia	250
+2004	The former Yugoslav Republic of Macedonia	211
+2004	Norway	206
+2004	Denmark	175
+2004	Belgium	162
+2004	United Arab Emirates	149
+2004	Bosnia and Herzegovina	148
+2004	Israel	143
+2004	Western Sahara	142
+2004	Estonia	139
+2004	Mauritius	125
+2004	Mayotte	122
+2004	Guyana	121
+2004	Lebanon	110
+2004	Trinidad and Tobago	100
+2004	Cape Verde	95
+2004	Sao Tome and Principe	91
+2004	Suriname	89
+2004	Puerto Rico	84
+2004	French Polynesia	79
+2004	New Caledonia	77
+2004	Cyprus	72
+2004	Vanuatu	70
+2004	Belize	70
+2004	Maldives	69
+2004	Seychelles	64
+2004	Samoa	56
+2004	Guam	45
+2004	Saint Lucia	36
+2004	Tonga	31
+2004	French Guiana	29
+2004	Micronesia (Federated States of)	27
+2004	Slovenia	25
+2004	Saint Vincent and the Grenadines	24
+2004	Kuwait	23
+2004	Kiribati	23
+2004	Grenada	23
+2004	Aruba	22
+2004	United States Virgin Islands	21
+2004	Iceland	21
+2004	Réunion	19
+2004	American Samoa	19
+2004	Antigua and Barbuda	18
+2004	Northern Mariana Islands	17
+2004	Dominica	15
+2004	Marshall Islands	13
+2004	Martinique	12
+2004	Saint Kitts and Nevis	11
+2004	Cayman Islands	11
+2004	Guadeloupe	10
+2004	Barbados	10
+2004	Bahamas	10
+2004	Luxembourg	8
+2004	Qatar	7
+2004	Turks and Caicos Islands	6
+2004	Malta	6
+2004	Cook Islands	6
+2004	Bahrain	6
+2004	Andorra	6
+2004	Singapore	5
+2004	Palau	5
+2004	British Virgin Islands	5
+2004	Wallis and Futuna Islands	4
+2004	Tuvalu	3
+2004	Nauru	3
+2004	Anguilla	3
+2004	San Marino	2
+2004	Saint Helena	2
+2004	Gibraltar	2
+2004	Brunei Darussalam	2
+2004	Niue	1
+2004	Netherlands Antilles	1
+2004	Montserrat	1
+2004	Monaco	1
+2004	Liechtenstein	1
+2004	Greenland	1
+2004	Faroe Islands	1
+2004	Bermuda	1
+2005	China	852968
+2005	India	578393
+2005	Indonesia	92351
+2005	Pakistan	71513
+2005	Bangladesh	70341
+2005	Ethiopia	59358
+2005	Viet Nam	54298
+2005	Nigeria	40364
+2005	Democratic Republic of the Congo	34296
+2005	Myanmar	31834
+2005	Philippines	31118
+2005	Thailand	30019
+2005	United Republic of Tanzania	29467
+2005	Kenya	26034
+2005	Nepal	25406
+2005	Brazil	24374
+2005	Egypt	23280
+2005	Mexico	21984
+2005	Uganda	21714
+2005	Sudan (former)	21602
+2005	Afghanistan	17051
+2005	Iran (Islamic Republic of)	16637
+2005	Mozambique	16074
+2005	Turkey	15581
+2005	Russian Federation	13212
+2005	Burkina Faso	13083
+2005	Madagascar	12992
+2005	Ghana	11917
+2005	Angola	11619
+2005	Niger	10963
+2005	Mali	10276
+2005	Malawi	9683
+2005	Cambodia	9070
+2005	Yemen	9065
+2005	Morocco	8980
+2005	Sri Lanka	8890
+2005	Rwanda	8295
+2005	Cameroon	8263
+2005	Senegal	7817
+2005	Côte d'Ivoire	7798
+2005	Zambia	7602
+2005	Zimbabwe	7496
+2005	Colombia	7450
+2005	Algeria	7408
+2005	Guinea	7405
+2005	Peru	7158
+2005	Chad	6955
+2005	Burundi	6531
+2005	Poland	6400
+2005	Ukraine	6358
+2005	Uzbekistan	6332
+2005	Democratic People's Republic of Korea	6309
+2005	Haiti	5755
+2005	Guatemala	5737
+2005	United States of America	5702
+2005	South Africa	5566
+2005	Papua New Guinea	4607
+2005	Lao People's Democratic Republic	4363
+2005	Syrian Arab Republic	4005
+2005	Malaysia	3836
+2005	Bolivia (Plurinational State of)	3777
+2005	Benin	3750
+2005	Japan	3627
+2005	Eritrea	3385
+2005	Argentina	3287
+2005	Sierra Leone	3235
+2005	Togo	3059
+2005	Ecuador	3036
+2005	Republic of Korea	2988
+2005	Central African Republic	2736
+2005	Kazakhstan	2640
+2005	Spain	2467
+2005	Italy	2441
+2005	Chile	2370
+2005	Romania	2355
+2005	Tunisia	2202
+2005	Azerbaijan	2128
+2005	Honduras	2103
+2005	Liberia	2064
+2005	Venezuela (Bolivarian Republic of)	2023
+2005	Tajikistan	1976
+2005	Iraq	1963
+2005	Paraguay	1893
+2005	El Salvador	1766
+2005	Saudi Arabia	1743
+2005	Serbia and Montenegro	1683
+2005	Cuba	1653
+2005	Germany	1641
+2005	France	1588
+2005	Mauritania	1570
+2005	Turkmenistan	1496
+2005	Albania	1414
+2005	Portugal	1292
+2005	Greece	1275
+2005	Congo	1269
+2005	Dominican Republic	1264
+2005	Kyrgyzstan	1175
+2005	Gambia	1166
+2005	Guinea-Bissau	1108
+2005	Belarus	1063
+2005	Nicaragua	1021
+2005	Hungary	1012
+2005	United Kingdom	976
+2005	Namibia	936
+2005	Australia	860
+2005	Lesotho	834
+2005	Timor-Leste	812
+2005	Botswana	810
+2005	Costa Rica	779
+2005	Oman	776
+2005	Georgia	776
+2005	Czech Republic	736
+2005	Canada	699
+2005	Republic of Moldova	692
+2005	Panama	654
+2005	Djibouti	616
+2005	Bhutan	612
+2005	Mongolia	532
+2005	Jamaica	514
+2005	Netherlands	466
+2005	Comoros	460
+2005	Slovakia	437
+2005	Gabon	433
+2005	Bulgaria	428
+2005	Switzerland	422
+2005	Lithuania	411
+2005	Jordan	409
+2005	Equatorial Guinea	408
+2005	Swaziland	354
+2005	Uruguay	350
+2005	Occupied Palestinian Territory 	346
+2005	Austria	342
+2005	New Zealand	340
+2005	Armenia	333
+2005	Ireland	328
+2005	Solomon Islands	327
+2005	Fiji	310
+2005	Sweden	271
+2005	Croatia	271
+2005	Finland	252
+2005	Latvia	243
+2005	Libya	240
+2005	Norway	202
+2005	The former Yugoslav Republic of Macedonia	200
+2005	Denmark	169
+2005	United Arab Emirates	159
+2005	Belgium	156
+2005	Western Sahara	147
+2005	Israel	140
+2005	Bosnia and Herzegovina	136
+2005	Estonia	134
+2005	Mayotte	125
+2005	Mauritius	121
+2005	Guyana	120
+2005	Lebanon	104
+2005	Trinidad and Tobago	97
+2005	Cape Verde	94
+2005	Sao Tome and Principe	91
+2005	Suriname	89
+2005	Puerto Rico	78
+2005	French Polynesia	78
+2005	New Caledonia	77
+2005	Vanuatu	71
+2005	Belize	71
+2005	Cyprus	70
+2005	Maldives	67
+2005	Seychelles	64
+2005	Samoa	55
+2005	Guam	45
+2005	Saint Lucia	35
+2005	Tonga	31
+2005	French Guiana	30
+2005	Micronesia (Federated States of)	27
+2005	Saint Vincent and the Grenadines	24
+2005	Kuwait	24
+2005	Kiribati	23
+2005	Slovenia	22
+2005	Grenada	22
+2005	Aruba	22
+2005	United States Virgin Islands	21
+2005	Iceland	21
+2005	American Samoa	19
+2005	Réunion	18
+2005	Antigua and Barbuda	18
+2005	Northern Mariana Islands	17
+2005	Dominica	15
+2005	Marshall Islands	13
+2005	Martinique	12
+2005	Saint Kitts and Nevis	11
+2005	Cayman Islands	11
+2005	Guadeloupe	10
+2005	Barbados	9
+2005	Bahamas	9
+2005	Qatar	8
+2005	Luxembourg	8
+2005	Turks and Caicos Islands	7
+2005	Cook Islands	6
+2005	Bahrain	6
+2005	Palau	5
+2005	Malta	5
+2005	British Virgin Islands	5
+2005	Andorra	5
+2005	Wallis and Futuna Islands	4
+2005	Singapore	4
+2005	Tuvalu	3
+2005	Anguilla	3
+2005	San Marino	2
+2005	Saint Helena	2
+2005	Nauru	2
+2005	Gibraltar	2
+2005	Brunei Darussalam	2
+2005	Niue	1
+2005	Netherlands Antilles	1
+2005	Montserrat	1
+2005	Monaco	1
+2005	Liechtenstein	1
+2005	Greenland	1
+2005	Faroe Islands	1
+2005	Bermuda	1
+2006	China	849766
+2006	India	581885
+2006	Indonesia	91858
+2006	Pakistan	72269
+2006	Bangladesh	69865
+2006	Ethiopia	60362
+2006	Viet Nam	54542
+2006	Nigeria	40183
+2006	Democratic Republic of the Congo	35015
+2006	Myanmar	31880
+2006	Philippines	31247
+2006	United Republic of Tanzania	30096
+2006	Thailand	29753
+2006	Kenya	26535
+2006	Nepal	25918
+2006	Brazil	23742
+2006	Egypt	23187
+2006	Uganda	22265
+2006	Sudan (former)	21802
+2006	Mexico	21638
+2006	Afghanistan	17445
+2006	Iran (Islamic Republic of)	16504
+2006	Mozambique	16426
+2006	Turkey	15428
+2006	Burkina Faso	13471
+2006	Madagascar	13298
+2006	Russian Federation	12828
+2006	Ghana	12149
+2006	Angola	11952
+2006	Niger	11320
+2006	Mali	10522
+2006	Malawi	9903
+2006	Yemen	9143
+2006	Cambodia	9124
+2006	Sri Lanka	8927
+2006	Morocco	8890
+2006	Rwanda	8497
+2006	Cameroon	8227
+2006	Senegal	7992
+2006	Côte d'Ivoire	7732
+2006	Zambia	7724
+2006	Guinea	7499
+2006	Algeria	7396
+2006	Zimbabwe	7389
+2006	Colombia	7338
+2006	Peru	7101
+2006	Chad	7059
+2006	Burundi	6720
+2006	Poland	6250
+2006	Uzbekistan	6235
+2006	Democratic People's Republic of Korea	6184
+2006	Ukraine	6114
+2006	Guatemala	5805
+2006	Haiti	5782
+2006	United States of America	5591
+2006	South Africa	5433
+2006	Papua New Guinea	4685
+2006	Lao People's Democratic Republic	4420
+2006	Syrian Arab Republic	4026
+2006	Bolivia (Plurinational State of)	3816
+2006	Benin	3790
+2006	Malaysia	3756
+2006	Eritrea	3490
+2006	Japan	3417
+2006	Sierra Leone	3318
+2006	Argentina	3244
+2006	Togo	3094
+2006	Ecuador	2999
+2006	Republic of Korea	2812
+2006	Central African Republic	2745
+2006	Kazakhstan	2606
+2006	Spain	2379
+2006	Italy	2339
+2006	Chile	2336
+2006	Romania	2233
+2006	Tunisia	2194
+2006	Liberia	2131
+2006	Azerbaijan	2121
+2006	Honduras	2080
+2006	Venezuela (Bolivarian Republic of)	1968
+2006	Tajikistan	1956
+2006	Iraq	1920
+2006	Paraguay	1897
+2006	El Salvador	1733
+2006	Saudi Arabia	1679
+2006	Cuba	1608
+2006	Mauritania	1606
+2006	Germany	1566
+2006	France	1520
+2006	Serbia	1510
+2006	Turkmenistan	1495
+2006	Albania	1400
+2006	Congo	1276
+2006	Portugal	1252
+2006	Greece	1234
+2006	Dominican Republic	1225
+2006	Gambia	1195
+2006	Kyrgyzstan	1158
+2006	Guinea-Bissau	1126
+2006	Belarus	1015
+2006	Nicaragua	994
+2006	Hungary	976
+2006	United Kingdom	964
+2006	Namibia	936
+2006	Australia	861
+2006	Lesotho	837
+2006	Timor-Leste	833
+2006	Botswana	817
+2006	Oman	780
+2006	Costa Rica	767
+2006	Georgia	749
+2006	Czech Republic	717
+2006	Canada	685
+2006	Republic of Moldova	657
+2006	Panama	655
+2006	Bhutan	626
+2006	Djibouti	625
+2006	Mongolia	523
+2006	Jamaica	507
+2006	Comoros	469
+2006	Netherlands	454
+2006	Slovakia	427
+2006	Gabon	425
+2006	Equatorial Guinea	417
+2006	Switzerland	414
+2006	Jordan	407
+2006	Bulgaria	397
+2006	Lithuania	391
+2006	Swaziland	351
+2006	Uruguay	347
+2006	Occupied Palestinian Territory 	341
+2006	New Zealand	339
+2006	Solomon Islands	335
+2006	Austria	330
+2006	Armenia	324
+2006	Ireland	323
+2006	Fiji	309
+2006	Sweden	264
+2006	Croatia	253
+2006	Finland	242
+2006	Latvia	235
+2006	Libya	228
+2006	Norway	198
+2006	The former Yugoslav Republic of Macedonia	190
+2006	United Arab Emirates	175
+2006	Denmark	162
+2006	Belgium	152
+2006	Western Sahara	151
+2006	Israel	137
+2006	Estonia	131
+2006	Mayotte	128
+2006	Bosnia and Herzegovina	125
+2006	Mauritius	117
+2006	Guyana	117
+2006	Lebanon	98
+2006	Montenegro	96
+2006	Trinidad and Tobago	94
+2006	Sao Tome and Principe	92
+2006	Cape Verde	92
+2006	Suriname	88
+2006	New Caledonia	77
+2006	French Polynesia	77
+2006	Puerto Rico	72
+2006	Vanuatu	71
+2006	Belize	71
+2006	Cyprus	68
+2006	Maldives	65
+2006	Seychelles	64
+2006	Samoa	54
+2006	Guam	45
+2006	Saint Lucia	35
+2006	Tonga	30
+2006	French Guiana	30
+2006	Micronesia (Federated States of)	27
+2006	Kuwait	25
+2006	Saint Vincent and the Grenadines	23
+2006	Kiribati	23
+2006	Grenada	22
+2006	Aruba	22
+2006	United States Virgin Islands	21
+2006	Iceland	21
+2006	Slovenia	20
+2006	American Samoa	19
+2006	Antigua and Barbuda	18
+2006	Réunion	17
+2006	Northern Mariana Islands	16
+2006	Dominica	15
+2006	Marshall Islands	13
+2006	Saint Kitts and Nevis	11
+2006	Martinique	11
+2006	Cayman Islands	11
+2006	Qatar	9
+2006	Guadeloupe	9
+2006	Barbados	9
+2006	Bahamas	9
+2006	Luxembourg	8
+2006	Turks and Caicos Islands	7
+2006	Cook Islands	6
+2006	Bahrain	6
+2006	Palau	5
+2006	Malta	5
+2006	British Virgin Islands	5
+2006	Andorra	5
+2006	Wallis and Futuna Islands	4
+2006	Singapore	4
+2006	Tuvalu	3
+2006	Anguilla	3
+2006	San Marino	2
+2006	Saint Helena	2
+2006	Nauru	2
+2006	Gibraltar	2
+2006	Brunei Darussalam	2
+2006	Netherlands Antilles	1
+2006	Montserrat	1
+2006	Monaco	1
+2006	Liechtenstein	1
+2006	Greenland	1
+2006	Faroe Islands	1
+2006	Bermuda	1
+2007	China	846271
+2007	India	584421
+2007	Indonesia	91342
+2007	Pakistan	72614
+2007	Bangladesh	69360
+2007	Ethiopia	61342
+2007	Viet Nam	54785
+2007	Nigeria	40000
+2007	Democratic Republic of the Congo	35667
+2007	Myanmar	31937
+2007	Philippines	31277
+2007	United Republic of Tanzania	30740
+2007	Thailand	29452
+2007	Kenya	27035
+2007	Nepal	26406
+2007	Egypt	23070
+2007	Brazil	23016
+2007	Uganda	22827
+2007	Sudan (former)	21966
+2007	Mexico	21372
+2007	Afghanistan	17742
+2007	Mozambique	16765
+2007	Iran (Islamic Republic of)	16355
+2007	Turkey	15187
+2007	Burkina Faso	13872
+2007	Madagascar	13593
+2007	Russian Federation	12464
+2007	Ghana	12397
+2007	Angola	12263
+2007	Niger	11686
+2007	Mali	10769
+2007	Malawi	10118
+2007	Yemen	9179
+2007	Cambodia	9170
+2007	Sri Lanka	8959
+2007	Rwanda	8723
+2007	Morocco	8671
+2007	Cameroon	8185
+2007	Senegal	8176
+2007	Zambia	7846
+2007	Côte d'Ivoire	7666
+2007	Guinea	7600
+2007	Algeria	7421
+2007	Zimbabwe	7273
+2007	Colombia	7258
+2007	Chad	7148
+2007	Peru	7092
+2007	Burundi	6917
+2007	Uzbekistan	6143
+2007	Poland	6088
+2007	Democratic People's Republic of Korea	6056
+2007	Ukraine	5852
+2007	Guatemala	5834
+2007	Haiti	5803
+2007	United States of America	5476
+2007	South Africa	5307
+2007	Papua New Guinea	4763
+2007	Lao People's Democratic Republic	4477
+2007	Syrian Arab Republic	4063
+2007	Bolivia (Plurinational State of)	3858
+2007	Benin	3828
+2007	Malaysia	3668
+2007	Eritrea	3588
+2007	Sierra Leone	3377
+2007	Japan	3218
+2007	Argentina	3213
+2007	Togo	3126
+2007	Ecuador	2972
+2007	Central African Republic	2754
+2007	Republic of Korea	2645
+2007	Kazakhstan	2576
+2007	Chile	2333
+2007	Spain	2295
+2007	Italy	2243
+2007	Liberia	2216
+2007	Tunisia	2181
+2007	Romania	2116
+2007	Azerbaijan	2114
+2007	Honduras	2066
+2007	Tajikistan	1936
+2007	Venezuela (Bolivarian Republic of)	1930
+2007	Paraguay	1907
+2007	Iraq	1870
+2007	El Salvador	1701
+2007	Mauritania	1638
+2007	Saudi Arabia	1609
+2007	Cuba	1571
+2007	Turkmenistan	1496
+2007	Germany	1494
+2007	France	1454
+2007	Serbia	1444
+2007	Albania	1385
+2007	Congo	1280
+2007	Gambia	1224
+2007	Portugal	1212
+2007	Greece	1196
+2007	Dominican Republic	1192
+2007	Kyrgyzstan	1146
+2007	Guinea-Bissau	1143
+2007	Belarus	973
+2007	Nicaragua	965
+2007	United Kingdom	952
+2007	Hungary	938
+2007	Namibia	936
+2007	Australia	862
+2007	Timor-Leste	850
+2007	Lesotho	837
+2007	Botswana	823
+2007	Oman	786
+2007	Costa Rica	762
+2007	Georgia	724
+2007	Czech Republic	698
+2007	Canada	671
+2007	Panama	645
+2007	Bhutan	640
+2007	Djibouti	633
+2007	Republic of Moldova	621
+2007	Mongolia	515
+2007	Jamaica	502
+2007	Comoros	480
+2007	Netherlands	442
+2007	Equatorial Guinea	423
+2007	Slovakia	416
+2007	Gabon	416
+2007	Switzerland	406
+2007	Jordan	401
+2007	Lithuania	372
+2007	Bulgaria	370
+2007	Swaziland	348
+2007	Uruguay	343
+2007	Solomon Islands	342
+2007	New Zealand	339
+2007	Occupied Palestinian Territory 	335
+2007	Austria	317
+2007	Ireland	315
+2007	Armenia	315
+2007	Fiji	309
+2007	Sweden	257
+2007	Croatia	236
+2007	Finland	233
+2007	Latvia	228
+2007	Libya	221
+2007	Norway	194
+2007	United Arab Emirates	193
+2007	The former Yugoslav Republic of Macedonia	180
+2007	Denmark	157
+2007	Western Sahara	154
+2007	Belgium	147
+2007	Israel	135
+2007	Mayotte	131
+2007	Estonia	128
+2007	Guyana	116
+2007	Bosnia and Herzegovina	115
+2007	Mauritius	114
+2007	Trinidad and Tobago	94
+2007	Sao Tome and Principe	93
+2007	Lebanon	93
+2007	Montenegro	92
+2007	Cape Verde	90
+2007	Suriname	89
+2007	New Caledonia	76
+2007	French Polynesia	76
+2007	Vanuatu	72
+2007	Belize	72
+2007	Puerto Rico	68
+2007	Cyprus	66
+2007	Seychelles	64
+2007	Maldives	63
+2007	Samoa	53
+2007	Guam	45
+2007	Saint Lucia	35
+2007	Tonga	30
+2007	French Guiana	30
+2007	Micronesia (Federated States of)	26
+2007	Kuwait	26
+2007	Saint Vincent and the Grenadines	23
+2007	Kiribati	23
+2007	Grenada	22
+2007	Aruba	22
+2007	United States Virgin Islands	21
+2007	Iceland	20
+2007	American Samoa	19
+2007	Slovenia	18
+2007	Antigua and Barbuda	18
+2007	Réunion	16
+2007	Northern Mariana Islands	15
+2007	Dominica	14
+2007	Marshall Islands	13
+2007	Cayman Islands	12
+2007	Saint Kitts and Nevis	11
+2007	Qatar	10
+2007	Martinique	10
+2007	Bahamas	9
+2007	Guadeloupe	8
+2007	Barbados	8
+2007	Turks and Caicos Islands	7
+2007	Luxembourg	7
+2007	Bahrain	7
+2007	Cook Islands	6
+2007	Palau	5
+2007	Malta	5
+2007	British Virgin Islands	5
+2007	Andorra	5
+2007	Wallis and Futuna Islands	4
+2007	Singapore	4
+2007	Tuvalu	3
+2007	Anguilla	3
+2007	San Marino	2
+2007	Saint Helena	2
+2007	Nauru	2
+2007	Gibraltar	2
+2007	Netherlands Antilles	1
+2007	Montserrat	1
+2007	Monaco	1
+2007	Liechtenstein	1
+2007	Greenland	1
+2007	Faroe Islands	1
+2007	Brunei Darussalam	1
+2007	Bermuda	1
+2008	China	842601
+2008	India	587206
+2008	Indonesia	90775
+2008	Pakistan	73154
+2008	Bangladesh	68728
+2008	Ethiopia	62294
+2008	Viet Nam	55028
+2008	Nigeria	39808
+2008	Democratic Republic of the Congo	36359
+2008	Myanmar	32008
+2008	United Republic of Tanzania	31418
+2008	Philippines	31281
+2008	Thailand	29125
+2008	Kenya	27543
+2008	Nepal	26890
+2008	Uganda	23396
+2008	Egypt	22949
+2008	Brazil	22354
+2008	Sudan (former)	22140
+2008	Mexico	21031
+2008	Afghanistan	18053
+2008	Mozambique	17104
+2008	Iran (Islamic Republic of)	16214
+2008	Turkey	14950
+2008	Burkina Faso	14288
+2008	Madagascar	13904
+2008	Ghana	12640
+2008	Angola	12578
+2008	Russian Federation	12134
+2008	Niger	12066
+2008	Mali	11018
+2008	Malawi	10354
+2008	Yemen	9242
+2008	Cambodia	9217
+2008	Sri Lanka	8985
+2008	Rwanda	8971
+2008	Morocco	8532
+2008	Senegal	8359
+2008	Cameroon	8136
+2008	Zambia	7982
+2008	Guinea	7710
+2008	Côte d'Ivoire	7602
+2008	Algeria	7421
+2008	Chad	7229
+2008	Zimbabwe	7174
+2008	Colombia	7162
+2008	Burundi	7115
+2008	Peru	7049
+2008	Uzbekistan	6055
+2008	Poland	5941
+2008	Democratic People's Republic of Korea	5928
+2008	Guatemala	5901
+2008	Haiti	5828
+2008	Ukraine	5629
+2008	United States of America	5365
+2008	South Africa	5174
+2008	Papua New Guinea	4839
+2008	Lao People's Democratic Republic	4534
+2008	Syrian Arab Republic	4075
+2008	Bolivia (Plurinational State of)	3894
+2008	Benin	3862
+2008	Eritrea	3683
+2008	Malaysia	3581
+2008	Sierra Leone	3430
+2008	Argentina	3178
+2008	Togo	3159
+2008	Japan	3031
+2008	Ecuador	2937
+2008	Central African Republic	2764
+2008	Kazakhstan	2551
+2008	Republic of Korea	2488
+2008	Chile	2315
+2008	Liberia	2311
+2008	Spain	2209
+2008	Tunisia	2173
+2008	Italy	2149
+2008	Azerbaijan	2107
+2008	Honduras	2050
+2008	Romania	2006
+2008	Tajikistan	1919
+2008	Paraguay	1914
+2008	Venezuela (Bolivarian Republic of)	1884
+2008	Iraq	1826
+2008	Mauritania	1673
+2008	El Salvador	1673
+2008	Saudi Arabia	1538
+2008	Cuba	1532
+2008	Turkmenistan	1496
+2008	Germany	1425
+2008	France	1391
+2008	Serbia	1383
+2008	Albania	1370
+2008	Congo	1286
+2008	Gambia	1254
+2008	Portugal	1173
+2008	Dominican Republic	1164
+2008	Guinea-Bissau	1162
+2008	Greece	1158
+2008	Kyrgyzstan	1135
+2008	United Kingdom	940
+2008	Nicaragua	940
+2008	Namibia	936
+2008	Belarus	931
+2008	Hungary	904
+2008	Australia	865
+2008	Timor-Leste	863
+2008	Lesotho	839
+2008	Botswana	831
+2008	Oman	794
+2008	Costa Rica	754
+2008	Georgia	701
+2008	Czech Republic	682
+2008	Canada	657
+2008	Bhutan	652
+2008	Djibouti	642
+2008	Panama	639
+2008	Republic of Moldova	589
+2008	Mongolia	508
+2008	Jamaica	495
+2008	Comoros	490
+2008	Equatorial Guinea	432
+2008	Netherlands	431
+2008	Slovakia	406
+2008	Gabon	406
+2008	Switzerland	399
+2008	Jordan	398
+2008	Lithuania	355
+2008	Solomon Islands	350
+2008	Swaziland	346
+2008	Bulgaria	345
+2008	Uruguay	340
+2008	New Zealand	338
+2008	Occupied Palestinian Territory 	331
+2008	Fiji	309
+2008	Ireland	308
+2008	Armenia	306
+2008	Austria	305
+2008	Sweden	251
+2008	Finland	224
+2008	Latvia	221
+2008	Croatia	220
+2008	United Arab Emirates	212
+2008	Libya	212
+2008	Norway	190
+2008	The former Yugoslav Republic of Macedonia	171
+2008	Western Sahara	157
+2008	Denmark	152
+2008	Belgium	143
+2008	Mayotte	135
+2008	Israel	132
+2008	Estonia	125
+2008	Guyana	114
+2008	Mauritius	110
+2008	Bosnia and Herzegovina	106
+2008	Sao Tome and Principe	93
+2008	Trinidad and Tobago	92
+2008	Suriname	88
+2008	Montenegro	88
+2008	Cape Verde	88
+2008	Lebanon	87
+2008	New Caledonia	76
+2008	French Polynesia	75
+2008	Belize	73
+2008	Vanuatu	72
+2008	Seychelles	64
+2008	Puerto Rico	64
+2008	Cyprus	63
+2008	Maldives	62
+2008	Samoa	52
+2008	Guam	45
+2008	Saint Lucia	35
+2008	French Guiana	30
+2008	Tonga	29
+2008	Micronesia (Federated States of)	26
+2008	Kuwait	26
+2008	Saint Vincent and the Grenadines	23
+2008	Kiribati	23
+2008	Grenada	22
+2008	Aruba	22
+2008	United States Virgin Islands	20
+2008	Iceland	20
+2008	American Samoa	19
+2008	Antigua and Barbuda	18
+2008	Slovenia	16
+2008	Réunion	15
+2008	Northern Mariana Islands	15
+2008	Dominica	14
+2008	Qatar	12
+2008	Marshall Islands	12
+2008	Cayman Islands	12
+2008	Saint Kitts and Nevis	11
+2008	Martinique	10
+2008	Bahamas	9
+2008	Turks and Caicos Islands	8
+2008	Guadeloupe	8
+2008	Barbados	8
+2008	Bahrain	8
+2008	Luxembourg	7
+2008	Cook Islands	6
+2008	Palau	5
+2008	Malta	5
+2008	British Virgin Islands	5
+2008	Andorra	5
+2008	Wallis and Futuna Islands	4
+2008	Singapore	4
+2008	Tuvalu	3
+2008	Anguilla	3
+2008	San Marino	2
+2008	Saint Helena	2
+2008	Nauru	2
+2008	Gibraltar	2
+2008	Netherlands Antilles	1
+2008	Montserrat	1
+2008	Monaco	1
+2008	Liechtenstein	1
+2008	Greenland	1
+2008	Faroe Islands	1
+2008	Brunei Darussalam	1
+2008	Bermuda	1
+2009	China	838683
+2009	India	589823
+2009	Indonesia	90176
+2009	Pakistan	73682
+2009	Bangladesh	68079
+2009	Ethiopia	63231
+2009	Viet Nam	55264
+2009	Nigeria	39609
+2009	Democratic Republic of the Congo	37050
+2009	United Republic of Tanzania	32124
+2009	Myanmar	32088
+2009	Philippines	31274
+2009	Thailand	28779
+2009	Kenya	28065
+2009	Nepal	27370
+2009	Uganda	23972
+2009	Egypt	22813
+2009	Sudan (former)	22301
+2009	Brazil	21705
+2009	Mexico	20689
+2009	Afghanistan	18385
+2009	Mozambique	17442
+2009	Iran (Islamic Republic of)	16073
+2009	Burkina Faso	14717
+2009	Turkey	14712
+2009	Madagascar	14216
+2009	Angola	12894
+2009	Ghana	12884
+2009	Niger	12457
+2009	Russian Federation	11818
+2009	Mali	11267
+2009	Malawi	10600
+2009	Yemen	9297
+2009	Cambodia	9263
+2009	Rwanda	9231
+2009	Sri Lanka	9008
+2009	Senegal	8546
+2009	Morocco	8394
+2009	Zambia	8126
+2009	Cameroon	8080
+2009	Guinea	7831
+2009	Côte d'Ivoire	7542
+2009	Algeria	7416
+2009	Burundi	7305
+2009	Chad	7303
+2009	Zimbabwe	7106
+2009	Colombia	7066
+2009	Peru	7006
+2009	Guatemala	5976
+2009	Uzbekistan	5968
+2009	Haiti	5851
+2009	Democratic People's Republic of Korea	5799
+2009	Poland	5798
+2009	Ukraine	5416
+2009	United States of America	5256
+2009	South Africa	5039
+2009	Papua New Guinea	4914
+2009	Lao People's Democratic Republic	4591
+2009	Syrian Arab Republic	4080
+2009	Bolivia (Plurinational State of)	3930
+2009	Benin	3893
+2009	Eritrea	3778
+2009	Malaysia	3495
+2009	Sierra Leone	3476
+2009	Togo	3190
+2009	Argentina	3143
+2009	Ecuador	2903
+2009	Japan	2853
+2009	Central African Republic	2774
+2009	Kazakhstan	2526
+2009	Liberia	2401
+2009	Republic of Korea	2340
+2009	Chile	2297
+2009	Tunisia	2164
+2009	Spain	2123
+2009	Azerbaijan	2099
+2009	Italy	2058
+2009	Honduras	2033
+2009	Paraguay	1922
+2009	Tajikistan	1903
+2009	Romania	1901
+2009	Venezuela (Bolivarian Republic of)	1839
+2009	Iraq	1784
+2009	Mauritania	1707
+2009	El Salvador	1647
+2009	Turkmenistan	1497
+2009	Cuba	1493
+2009	Saudi Arabia	1468
+2009	Germany	1359
+2009	Albania	1354
+2009	France	1330
+2009	Serbia	1323
+2009	Congo	1290
+2009	Gambia	1284
+2009	Guinea-Bissau	1182
+2009	Dominican Republic	1136
+2009	Portugal	1134
+2009	Kyrgyzstan	1123
+2009	Greece	1121
+2009	Namibia	936
+2009	United Kingdom	929
+2009	Nicaragua	916
+2009	Belarus	891
+2009	Timor-Leste	877
+2009	Hungary	871
+2009	Australia	867
+2009	Lesotho	841
+2009	Botswana	838
+2009	Oman	800
+2009	Costa Rica	746
+2009	Georgia	678
+2009	Czech Republic	666
+2009	Bhutan	663
+2009	Djibouti	650
+2009	Canada	644
+2009	Panama	633
+2009	Republic of Moldova	559
+2009	Mongolia	500
+2009	Comoros	500
+2009	Jamaica	488
+2009	Equatorial Guinea	441
+2009	Netherlands	419
+2009	Gabon	397
+2009	Slovakia	396
+2009	Jordan	395
+2009	Switzerland	391
+2009	Solomon Islands	357
+2009	Swaziland	344
+2009	Lithuania	339
+2009	Uruguay	337
+2009	New Zealand	337
+2009	Occupied Palestinian Territory 	326
+2009	Bulgaria	321
+2009	Fiji	309
+2009	Ireland	301
+2009	Armenia	298
+2009	Austria	293
+2009	Sweden	245
+2009	United Arab Emirates	226
+2009	Finland	216
+2009	Latvia	214
+2009	Croatia	206
+2009	Libya	203
+2009	Norway	187
+2009	The former Yugoslav Republic of Macedonia	162
+2009	Western Sahara	159
+2009	Denmark	146
+2009	Mayotte	138
+2009	Belgium	138
+2009	Israel	130
+2009	Estonia	122
+2009	Guyana	112
+2009	Mauritius	107
+2009	Bosnia and Herzegovina	97
+2009	Sao Tome and Principe	94
+2009	Trinidad and Tobago	90
+2009	Suriname	88
+2009	Cape Verde	86
+2009	Montenegro	85
+2009	Lebanon	82
+2009	New Caledonia	76
+2009	French Polynesia	74
+2009	Vanuatu	73
+2009	Belize	73
+2009	Seychelles	64
+2009	Cyprus	61
+2009	Puerto Rico	60
+2009	Maldives	60
+2009	Samoa	51
+2009	Guam	45
+2009	Saint Lucia	35
+2009	French Guiana	30
+2009	Tonga	29
+2009	Kuwait	27
+2009	Micronesia (Federated States of)	26
+2009	Saint Vincent and the Grenadines	23
+2009	Kiribati	23
+2009	Grenada	22
+2009	Aruba	22
+2009	United States Virgin Islands	20
+2009	Iceland	20
+2009	American Samoa	19
+2009	Antigua and Barbuda	18
+2009	Slovenia	15
+2009	Réunion	14
+2009	Northern Mariana Islands	14
+2009	Dominica	14
+2009	Qatar	13
+2009	Marshall Islands	12
+2009	Saint Kitts and Nevis	11
+2009	Cayman Islands	11
+2009	Martinique	9
+2009	Bahamas	9
+2009	Turks and Caicos Islands	8
+2009	Barbados	8
+2009	Bahrain	8
+2009	Luxembourg	7
+2009	Guadeloupe	7
+2009	Cook Islands	6
+2009	Palau	5
+2009	British Virgin Islands	5
+2009	Andorra	5
+2009	Wallis and Futuna Islands	4
+2009	Singapore	4
+2009	Malta	4
+2009	Tuvalu	3
+2009	Anguilla	3
+2009	San Marino	2
+2009	Saint Helena	2
+2009	Nauru	2
+2009	Gibraltar	2
+2009	Netherlands Antilles	1
+2009	Montserrat	1
+2009	Monaco	1
+2009	Liechtenstein	1
+2009	Greenland	1
+2009	Faroe Islands	1
+2009	Brunei Darussalam	1
+2009	Bermuda	1
+2010	China	834491
+2010	India	592277
+2010	Indonesia	89554
+2010	Pakistan	74189
+2010	Bangladesh	67445
+2010	Ethiopia	64158
+2010	Viet Nam	55489
+2010	Nigeria	39405
+2010	Democratic Republic of the Congo	37742
+2010	United Republic of Tanzania	32856
+2010	Myanmar	32171
+2010	Philippines	31263
+2010	Kenya	28605
+2010	Thailand	28420
+2010	Nepal	27847
+2010	Uganda	24554
+2010	Egypt	22664
+2010	Sudan (former)	22443
+2010	Brazil	21074
+2010	Mexico	20344
+2010	Afghanistan	18768
+2010	Mozambique	17781
+2010	Iran (Islamic Republic of)	15929
+2010	Burkina Faso	15160
+2010	Madagascar	14529
+2010	Turkey	14472
+2010	Angola	13212
+2010	Ghana	13129
+2010	Niger	12859
+2010	Mali	11516
+2010	Russian Federation	11510
+2010	Malawi	10856
+2010	Rwanda	9494
+2010	Yemen	9343
+2010	Cambodia	9311
+2010	Sri Lanka	9027
+2010	Senegal	8734
+2010	Zambia	8278
+2010	Morocco	8260
+2010	Cameroon	8018
+2010	Guinea	7964
+2010	Côte d'Ivoire	7484
+2010	Burundi	7481
+2010	Algeria	7404
+2010	Chad	7372
+2010	Zimbabwe	7079
+2010	Colombia	6969
+2010	Peru	6966
+2010	Guatemala	6059
+2010	Uzbekistan	5880
+2010	Haiti	5873
+2010	Democratic People's Republic of Korea	5671
+2010	Poland	5658
+2010	Ukraine	5212
+2010	United States of America	5148
+2010	Papua New Guinea	4987
+2010	South Africa	4902
+2010	Lao People's Democratic Republic	4646
+2010	Syrian Arab Republic	4080
+2010	Bolivia (Plurinational State of)	3966
+2010	Benin	3920
+2010	Eritrea	3875
+2010	Sierra Leone	3522
+2010	Malaysia	3409
+2010	Togo	3220
+2010	Argentina	3110
+2010	Ecuador	2867
+2010	Central African Republic	2783
+2010	Japan	2685
+2010	Kazakhstan	2502
+2010	Liberia	2477
+2010	Chile	2279
+2010	Republic of Korea	2199
+2010	Tunisia	2154
+2010	Azerbaijan	2091
+2010	Spain	2038
+2010	Honduras	2016
+2010	Italy	1968
+2010	Paraguay	1930
+2010	Tajikistan	1888
+2010	Romania	1802
+2010	Venezuela (Bolivarian Republic of)	1795
+2010	Iraq	1742
+2010	Mauritania	1741
+2010	El Salvador	1621
+2010	Turkmenistan	1497
+2010	Cuba	1456
+2010	Saudi Arabia	1400
+2010	Albania	1339
+2010	Gambia	1314
+2010	Germany	1295
+2010	Congo	1291
+2010	France	1271
+2010	Serbia	1266
+2010	Guinea-Bissau	1202
+2010	Kyrgyzstan	1111
+2010	Dominican Republic	1109
+2010	Portugal	1095
+2010	Greece	1085
+2010	Namibia	935
+2010	United Kingdom	918
+2010	Timor-Leste	895
+2010	Nicaragua	893
+2010	Australia	869
+2010	Belarus	853
+2010	Botswana	845
+2010	Lesotho	844
+2010	Hungary	840
+2010	Oman	804
+2010	Costa Rica	738
+2010	Bhutan	674
+2010	Djibouti	658
+2010	Georgia	656
+2010	Czech Republic	650
+2010	Canada	631
+2010	Panama	627
+2010	Republic of Moldova	532
+2010	Comoros	510
+2010	Mongolia	493
+2010	Jamaica	480
+2010	Equatorial Guinea	450
+2010	Netherlands	408
+2010	Jordan	390
+2010	Slovakia	387
+2010	Gabon	387
+2010	Switzerland	383
+2010	Solomon Islands	364
+2010	Swaziland	342
+2010	New Zealand	336
+2010	Uruguay	335
+2010	Lithuania	323
+2010	Occupied Palestinian Territory 	322
+2010	Fiji	309
+2010	Bulgaria	299
+2010	Ireland	294
+2010	Armenia	290
+2010	Austria	282
+2010	Sweden	239
+2010	United Arab Emirates	234
+2010	Latvia	208
+2010	Finland	208
+2010	Libya	193
+2010	Croatia	192
+2010	Norway	183
+2010	Western Sahara	161
+2010	The former Yugoslav Republic of Macedonia	154
+2010	Mayotte	142
+2010	Denmark	141
+2010	Belgium	134
+2010	Israel	127
+2010	Estonia	119
+2010	Guyana	110
+2010	Mauritius	104
+2010	Sao Tome and Principe	95
+2010	Bosnia and Herzegovina	89
+2010	Trinidad and Tobago	88
+2010	Suriname	88
+2010	Cape Verde	84
+2010	Montenegro	81
+2010	Lebanon	77
+2010	New Caledonia	76
+2010	Belize	74
+2010	Vanuatu	73
+2010	French Polynesia	73
+2010	Seychelles	64
+2010	Cyprus	59
+2010	Maldives	58
+2010	Puerto Rico	56
+2010	Samoa	50
+2010	Guam	45
+2010	Saint Lucia	35
+2010	French Guiana	30
+2010	Tonga	28
+2010	Kuwait	28
+2010	Micronesia (Federated States of)	26
+2010	Kiribati	23
+2010	Saint Vincent and the Grenadines	22
+2010	Aruba	22
+2010	Grenada	21
+2010	United States Virgin Islands	20
+2010	Iceland	20
+2010	Antigua and Barbuda	18
+2010	American Samoa	18
+2010	Northern Mariana Islands	14
+2010	Dominica	14
+2010	Slovenia	13
+2010	Réunion	13
+2010	Qatar	13
+2010	Marshall Islands	12
+2010	Saint Kitts and Nevis	11
+2010	Cayman Islands	11
+2010	Martinique	9
+2010	Turks and Caicos Islands	8
+2010	Bahrain	8
+2010	Bahamas	8
+2010	Luxembourg	7
+2010	Guadeloupe	7
+2010	Barbados	7
+2010	Palau	5
+2010	Cook Islands	5
+2010	British Virgin Islands	5
+2010	Andorra	5
+2010	Wallis and Futuna Islands	4
+2010	Malta	4
+2010	Tuvalu	3
+2010	Singapore	3
+2010	Anguilla	3
+2010	San Marino	2
+2010	Saint Helena	2
+2010	Nauru	2
+2010	Gibraltar	2
+2010	Netherlands Antilles	1
+2010	Montserrat	1
+2010	Monaco	1
+2010	Liechtenstein	1
+2010	Greenland	1
+2010	Faroe Islands	1
+2010	Brunei Darussalam	1
+2010	Bermuda	1
+2011	China	830037
+2011	India	594571
+2011	Indonesia	88911
+2011	Pakistan	74678
+2011	Bangladesh	66836
+2011	Ethiopia	65076
+2011	Viet Nam	55701
+2011	Nigeria	39195
+2011	Democratic Republic of the Congo	38434
+2011	United Republic of Tanzania	33615
+2011	Myanmar	32258
+2011	Philippines	31251
+2011	Kenya	29163
+2011	Nepal	28323
+2011	Thailand	28049
+2011	Uganda	25139
+2011	Sudan (former)	22563
+2011	Egypt	22501
+2011	Brazil	20461
+2011	Mexico	19998
+2011	Afghanistan	19209
+2011	Mozambique	18121
+2011	Iran (Islamic Republic of)	15783
+2011	Burkina Faso	15617
+2011	Madagascar	14841
+2011	Turkey	14229
+2011	Angola	13535
+2011	Ghana	13375
+2011	Niger	13271
+2011	Mali	11764
+2011	Russian Federation	11210
+2011	Malawi	11123
+2011	Rwanda	9761
+2011	Yemen	9381
+2011	Cambodia	9363
+2011	Sri Lanka	9042
+2011	Senegal	8925
+2011	Zambia	8439
+2011	Morocco	8129
+2011	Guinea	8110
+2011	Cameroon	7950
+2011	Burundi	7638
+2011	Chad	7438
+2011	Côte d'Ivoire	7431
+2011	Algeria	7383
+2011	Zimbabwe	7098
+2011	Peru	6929
+2011	Colombia	6871
+2011	Guatemala	6148
+2011	Haiti	5895
+2011	Uzbekistan	5792
+2011	Democratic People's Republic of Korea	5543
+2011	Poland	5520
+2011	Papua New Guinea	5057
+2011	United States of America	5043
+2011	Ukraine	5017
+2011	South Africa	4762
+2011	Lao People's Democratic Republic	4700
+2011	Syrian Arab Republic	4074
+2011	Bolivia (Plurinational State of)	4002
+2011	Eritrea	3976
+2011	Benin	3944
+2011	Sierra Leone	3567
+2011	Malaysia	3325
+2011	Togo	3249
+2011	Argentina	3077
+2011	Ecuador	2832
+2011	Central African Republic	2792
+2011	Liberia	2536
+2011	Japan	2527
+2011	Kazakhstan	2476
+2011	Chile	2261
+2011	Tunisia	2143
+2011	Azerbaijan	2082
+2011	Republic of Korea	2066
+2011	Honduras	1998
+2011	Spain	1954
+2011	Paraguay	1939
+2011	Italy	1880
+2011	Tajikistan	1873
+2011	Mauritania	1774
+2011	Venezuela (Bolivarian Republic of)	1752
+2011	Romania	1707
+2011	Iraq	1702
+2011	El Salvador	1597
+2011	Turkmenistan	1498
+2011	Cuba	1427
+2011	Gambia	1344
+2011	Saudi Arabia	1334
+2011	Albania	1323
+2011	Congo	1290
+2011	Germany	1234
+2011	Guinea-Bissau	1222
+2011	France	1216
+2011	Serbia	1210
+2011	Kyrgyzstan	1098
+2011	Dominican Republic	1082
+2011	Portugal	1079
+2011	Greece	1049
+2011	Namibia	933
+2011	Timor-Leste	916
+2011	United Kingdom	907
+2011	Nicaragua	871
+2011	Australia	869
+2011	Botswana	850
+2011	Lesotho	846
+2011	Belarus	817
+2011	Hungary	809
+2011	Oman	804
+2011	Costa Rica	730
+2011	Bhutan	685
+2011	Djibouti	666
+2011	Georgia	634
+2011	Czech Republic	634
+2011	Panama	621
+2011	Canada	619
+2011	Comoros	519
+2011	Republic of Moldova	505
+2011	Mongolia	485
+2011	Jamaica	473
+2011	Equatorial Guinea	459
+2011	Netherlands	397
+2011	Gabon	387
+2011	Jordan	383
+2011	Switzerland	378
+2011	Slovakia	378
+2011	Solomon Islands	372
+2011	Swaziland	339
+2011	New Zealand	336
+2011	Uruguay	332
+2011	Occupied Palestinian Territory 	318
+2011	Fiji	310
+2011	Lithuania	309
+2011	Ireland	287
+2011	Armenia	283
+2011	Bulgaria	278
+2011	Austria	271
+2011	United Arab Emirates	234
+2011	Sweden	232
+2011	Latvia	202
+2011	Finland	200
+2011	Libya	184
+2011	Norway	179
+2011	Croatia	179
+2011	Western Sahara	164
+2011	The former Yugoslav Republic of Macedonia	146
+2011	Mayotte	145
+2011	Denmark	137
+2011	Belgium	129
+2011	Israel	125
+2011	Estonia	116
+2011	Guyana	108
+2011	Mauritius	100
+2011	Sao Tome and Principe	96
+2011	Suriname	88
+2011	Trinidad and Tobago	86
+2011	Cape Verde	82
+2011	Bosnia and Herzegovina	82
+2011	Montenegro	78
+2011	New Caledonia	75
+2011	Belize	75
+2011	Vanuatu	73
+2011	Lebanon	72
+2011	French Polynesia	72
+2011	Seychelles	64
+2011	Maldives	57
+2011	Cyprus	57
+2011	Puerto Rico	52
+2011	Samoa	49
+2011	Guam	44
+2011	Saint Lucia	35
+2011	French Guiana	30
+2011	Kuwait	29
+2011	Tonga	27
+2011	Micronesia (Federated States of)	25
+2011	Kiribati	23
+2011	Saint Vincent and the Grenadines	22
+2011	Aruba	22
+2011	Grenada	21
+2011	United States Virgin Islands	20
+2011	Iceland	19
+2011	Antigua and Barbuda	18
+2011	American Samoa	18
+2011	Northern Mariana Islands	14
+2011	Dominica	14
+2011	Qatar	13
+2011	Slovenia	12
+2011	Réunion	12
+2011	Marshall Islands	12
+2011	Saint Kitts and Nevis	11
+2011	Cayman Islands	11
+2011	Turks and Caicos Islands	8
+2011	Martinique	8
+2011	Bahrain	8
+2011	Bahamas	8
+2011	Guadeloupe	7
+2011	Barbados	7
+2011	Luxembourg	6
+2011	Palau	5
+2011	Cook Islands	5
+2011	British Virgin Islands	5
+2011	Andorra	5
+2011	Wallis and Futuna Islands	4
+2011	Malta	4
+2011	Tuvalu	3
+2011	Singapore	3
+2011	Anguilla	3
+2011	San Marino	2
+2011	Saint Helena	2
+2011	Nauru	2
+2011	Gibraltar	2
+2011	Montserrat	1
+2011	Monaco	1
+2011	Liechtenstein	1
+2011	Greenland	1
+2011	Faroe Islands	1
+2011	Brunei Darussalam	1
+2011	Bermuda	1

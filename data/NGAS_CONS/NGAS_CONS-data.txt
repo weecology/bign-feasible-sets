@@ -1,0 +1,2890 @@
+1980	United States	19877
+1980	Former U.S.S.R.	13328
+1980	Germany, West	2128
+1980	Canada	1882.9
+1980	United Kingdom	1702
+1980	Netherlands	1493
+1980	Romania	1251
+1980	France	981.12133
+1980	Italy	972.01006
+1980	Japan	903
+1980	Mexico	798.78999
+1980	Venezuela	517
+1980	China	505
+1980	Germany, East	493
+1980	Algeria	460
+1980	Poland	418.02366
+1980	Belgium	370.91345
+1980	Argentina	359
+1980	Hungary	344.4272
+1980	Saudi Arabia	334
+1980	Former Czechoslovakia	325
+1980	Australia	321.79028
+1980	Pakistan	286.05
+1980	Indonesia	248.26445
+1980	Kuwait	244
+1980	Iran	232
+1980	Austria	185.61564
+1980	Qatar	184
+1980	Bulgaria	180
+1980	Libya	180
+1980	Former Yugoslavia	127
+1980	United Arab Emirates	105
+1980	Bahrain	100
+1980	Colombia	99
+1980	Chile	85
+1980	Trinidad and Tobago	81
+1980	Iraq	62
+1980	Brunei	60
+1980	Spain	56
+1980	Malaysia	56
+1980	India	51
+1980	Bangladesh	50
+1980	Taiwan	43
+1980	Brazil	42
+1980	Peru	40
+1980	New Zealand	39.41154
+1980	Nigeria	37.79
+1980	Switzerland	37
+1980	Norway	34.99717
+1980	Finland	32
+1980	Ireland	32
+1980	Egypt	30
+1980	Oman	28
+1980	Luxembourg	20
+1980	Syria	17
+1980	Bolivia	14
+1980	Tunisia	12.71
+1980	Burma (Myanmar)	11
+1980	Albania	10
+1980	Angola	9.18
+1980	Israel	5
+1980	Ecuador	3
+1980	Gabon	2.47
+1980	Morocco	2.47
+1980	Afghanistan	2
+1980	Cuba	0.59
+1980	Congo (Brazzaville)	0.4
+1980	Barbados	0.35
+1981	United States	19404
+1981	Former U.S.S.R.	14440
+1981	Germany, West	2015
+1981	Canada	1842.06572
+1981	United Kingdom	1739.6169
+1981	Netherlands	1421
+1981	Romania	1267
+1981	France	1002.55754
+1981	Italy	942.48672
+1981	Japan	924.61733
+1981	Mexico	865.46471
+1981	Venezuela	572
+1981	Saudi Arabia	564
+1981	Germany, East	498
+1981	China	450
+1981	Poland	412.12605
+1981	Australia	367.77041
+1981	Argentina	362
+1981	Hungary	349.79508
+1981	Algeria	346
+1981	Belgium	341.17822
+1981	Former Czechoslovakia	325
+1981	Pakistan	315.6
+1981	Indonesia	247.9113
+1981	Bulgaria	166
+1981	Austria	159.20002
+1981	Qatar	157.15
+1981	Former Yugoslavia	157
+1981	Iran	155
+1981	United Arab Emirates	134
+1981	Bahrain	120
+1981	Libya	110
+1981	Colombia	106
+1981	Kuwait	100
+1981	Chile	85
+1981	Trinidad and Tobago	81
+1981	Nigeria	76
+1981	Spain	65.93311
+1981	India	64
+1981	Brunei	62
+1981	Malaysia	62
+1981	Bangladesh	59.68
+1981	Taiwan	53.04
+1981	Egypt	50
+1981	Peru	49
+1981	Ireland	49
+1981	New Zealand	46.93364
+1981	Brazil	42
+1981	Switzerland	40
+1981	Thailand	40
+1981	Norway	34.07898
+1981	Oman	33
+1981	Finland	26.45094
+1981	Iraq	22.95
+1981	Bolivia	21
+1981	Luxembourg	15.18545
+1981	Tunisia	13.95
+1981	Burma (Myanmar)	12
+1981	Albania	10.59
+1981	Syria	8.83
+1981	Angola	8.83
+1981	Israel	5
+1981	Morocco	3.18
+1981	Afghanistan	3
+1981	Gabon	2.12
+1981	Ecuador	2
+1981	Congo (Brazzaville)	0.6
+1981	Barbados	0.35
+1981	Vietnam	0.35
+1981	Cuba	0.31
+1982	United States	18001
+1982	Former U.S.S.R.	15522
+1982	Canada	1859.40538
+1982	Germany, West	1844
+1982	United Kingdom	1742.72462
+1982	Netherlands	1511
+1982	Romania	1411
+1982	France	978.96712
+1982	Japan	955.83579
+1982	Italy	944.35842
+1982	Mexico	942.55735
+1982	Venezuela	600
+1982	Algeria	553
+1982	Germany, East	490
+1982	Argentina	456
+1982	Saudi Arabia	430
+1982	Australia	407.42916
+1982	Poland	401.74344
+1982	China	381
+1982	Hungary	367.87636
+1982	Pakistan	354
+1982	Former Czechoslovakia	341
+1982	Belgium	281.53118
+1982	Indonesia	235.55105
+1982	Iran	200
+1982	Qatar	186
+1982	Bulgaria	180
+1982	Former Yugoslavia	155
+1982	Austria	154.07934
+1982	Bahrain	130
+1982	Colombia	106
+1982	Trinidad and Tobago	102
+1982	Kuwait	100
+1982	Egypt	94
+1982	United Arab Emirates	91
+1982	India	89
+1982	Libya	88
+1982	New Zealand	79.84722
+1982	Ireland	72.99611
+1982	Spain	70.3828
+1982	Brunei	70
+1982	Bangladesh	65
+1982	Malaysia	53
+1982	Nigeria	50
+1982	Chile	49
+1982	Thailand	47
+1982	Brazil	46
+1982	Peru	46
+1982	Switzerland	42.51926
+1982	Oman	41
+1982	Norway	38.5993
+1982	Taiwan	32
+1982	Iraq	24
+1982	Finland	23.73168
+1982	Tunisia	18
+1982	Burma (Myanmar)	15.9
+1982	Bolivia	12
+1982	Luxembourg	11
+1982	Albania	10
+1982	Angola	10
+1982	Syria	9
+1982	Afghanistan	5
+1982	Israel	3
+1982	Morocco	3
+1982	Vietnam	2.26
+1982	Greece	2.22485
+1982	Ecuador	2
+1982	Gabon	2
+1982	Turkey	1
+1982	Congo (Brazzaville)	0.6
+1982	Barbados	0.35
+1982	Cuba	0.31
+1983	United States	16835
+1983	Former U.S.S.R.	16822
+1983	Germany, West	1901
+1983	Canada	1863.07814
+1983	United Kingdom	1814.59065
+1983	Netherlands	1450.88146
+1983	Romania	1446
+1983	Japan	1020.3563
+1983	France	998.77883
+1983	Italy	967.20722
+1983	Mexico	945.0294
+1983	Algeria	656
+1983	Venezuela	576
+1983	Germany, East	496
+1983	Argentina	449
+1983	China	431
+1983	Saudi Arabia	418
+1983	Australia	412.72641
+1983	Poland	410.78408
+1983	Hungary	367.0288
+1983	Former Czechoslovakia	346
+1983	Pakistan	342
+1983	Indonesia	316.06925
+1983	Iran	310
+1983	Belgium	296.92852
+1983	Bulgaria	184
+1983	United Arab Emirates	182
+1983	Qatar	174.1
+1983	Austria	157.18706
+1983	Former Yugoslavia	149
+1983	Bahrain	140
+1983	Trinidad and Tobago	127
+1983	Kuwait	124
+1983	Egypt	113.4
+1983	Libya	112
+1983	India	105.6
+1983	Colombia	102
+1983	New Zealand	84.36754
+1983	Nigeria	81.2
+1983	Ireland	77.37517
+1983	Malaysia	77
+1983	Spain	75.29158
+1983	Bangladesh	68.6
+1983	Brazil	57
+1983	Thailand	56.9
+1983	Brunei	52
+1983	Oman	51
+1983	Taiwan	47
+1983	Switzerland	46.82769
+1983	Norway	46.01545
+1983	Chile	46
+1983	Peru	46
+1983	Finland	23.16664
+1983	Tunisia	20
+1983	Burma (Myanmar)	18.7
+1983	Iraq	18
+1983	Bolivia	15
+1983	Angola	12.4
+1983	Albania	10.6
+1983	Luxembourg	10.45324
+1983	Syria	8.8
+1983	Gabon	5.3
+1983	Afghanistan	5
+1983	Morocco	3.2
+1983	Ecuador	3
+1983	Turkey	2.50737
+1983	Vietnam	2.26
+1983	Denmark	2.15422
+1983	Greece	2.1189
+1983	Israel	2
+1983	Congo (Brazzaville)	0.7
+1983	Barbados	0.4
+1983	Cuba	0.27
+1984	Former U.S.S.R.	18512
+1984	United States	17951
+1984	Canada	2017.44001
+1984	Germany, West	1996
+1984	United Kingdom	1850.89447
+1984	Netherlands	1540.40499
+1984	Romania	1395
+1984	Japan	1372.30559
+1984	Italy	1134.84752
+1984	France	1079.12046
+1984	Mexico	945.52381
+1984	Algeria	680
+1984	Saudi Arabia	620
+1984	Venezuela	610
+1984	Germany, East	588
+1984	Argentina	572
+1984	Iran	476
+1984	Australia	440.30742
+1984	China	438
+1984	Poland	432.53812
+1984	Hungary	382.32019
+1984	Indonesia	369.04175
+1984	Former Czechoslovakia	364
+1984	Pakistan	354
+1984	Belgium	306.32231
+1984	United Arab Emirates	241
+1984	Qatar	209
+1984	Former Yugoslavia	200
+1984	Trinidad and Tobago	192
+1984	Bulgaria	181
+1984	Austria	175.19772
+1984	Malaysia	152
+1984	Kuwait	144
+1984	Colombia	143
+1984	Egypt	143
+1984	Bahrain	133
+1984	Libya	122
+1984	India	113
+1984	New Zealand	105.37996
+1984	Nigeria	97
+1984	Bangladesh	95
+1984	Ireland	82.24863
+1984	Brazil	74
+1984	Spain	71.93666
+1984	Thailand	70
+1984	Switzerland	52.2662
+1984	Taiwan	52
+1984	Chile	48
+1984	Oman	47
+1984	Peru	46
+1984	Brunei	44
+1984	Norway	41.00072
+1984	Tunisia	35
+1984	Finland	27.61633
+1984	Burma (Myanmar)	23
+1984	Iraq	20
+1984	Bolivia	14
+1984	Angola	12
+1984	Luxembourg	11
+1984	Albania	10.8
+1984	Syria	9
+1984	Denmark	6.92174
+1984	Gabon	5.3
+1984	Afghanistan	5
+1984	Ecuador	4
+1984	Greece	2.33079
+1984	Vietnam	2.12
+1984	Israel	2
+1984	Morocco	2
+1984	Turkey	1.4126
+1984	Congo (Brazzaville)	0.7
+1984	Barbados	0.4
+1984	Cuba	0.12
+1985	Former U.S.S.R.	20302
+1985	United States	17281
+1985	Canada	2165.19796
+1985	United Kingdom	1990.8
+1985	Germany, West	1966
+1985	Netherlands	1624.41937
+1985	Japan	1467.6
+1985	Romania	1336
+1985	Italy	1150.98648
+1985	France	1110.02108
+1985	Mexico	990.2326
+1985	Saudi Arabia	716
+1985	Venezuela	618
+1985	Iran	600
+1985	Algeria	584
+1985	Germany, East	580
+1985	Argentina	578
+1985	Australia	462.6
+1985	China	457
+1985	Poland	443.34451
+1985	Indonesia	436.4934
+1985	Former Czechoslovakia	407
+1985	Hungary	394.96296
+1985	United Arab Emirates	377
+1985	Pakistan	365
+1985	Belgium	305.72195
+1985	Malaysia	225
+1985	Bulgaria	219
+1985	Trinidad and Tobago	216
+1985	Former Yugoslavia	208
+1985	Qatar	191
+1985	Austria	188
+1985	Egypt	175
+1985	Bahrain	164
+1985	Colombia	144
+1985	Libya	143
+1985	Kuwait	140
+1985	India	135
+1985	New Zealand	133.91448
+1985	Thailand	128
+1985	Nigeria	108
+1985	Bangladesh	100
+1985	Brazil	92
+1985	Ireland	87
+1985	Spain	82
+1985	Oman	55
+1985	Switzerland	54.70294
+1985	Brunei	53
+1985	Taiwan	50
+1985	Norway	47.49868
+1985	Peru	47
+1985	Chile	44
+1985	Tunisia	42
+1985	Finland	35.17374
+1985	Burma (Myanmar)	28
+1985	Denmark	26.8394
+1985	Iraq	23
+1985	Angola	13
+1985	Luxembourg	12
+1985	Bolivia	11
+1985	Albania	10
+1985	Syria	5
+1985	Ecuador	4
+1985	Sweden	3
+1985	Morocco	3
+1985	Greece	2
+1985	Turkey	2
+1985	Israel	2
+1985	Congo (Brazzaville)	2
+1985	Gabon	2
+1985	Vietnam	1.41
+1985	Barbados	0.4
+1985	Cuba	0.24
+1986	Former U.S.S.R.	21522
+1986	United States	16221
+1986	Canada	2130.48332
+1986	United Kingdom	2020
+1986	Germany, West	1993
+1986	Netherlands	1620
+1986	Japan	1494
+1986	Romania	1410
+1986	Italy	1216.67238
+1986	France	1128.73803
+1986	Saudi Arabia	890
+1986	Mexico	879.55539
+1986	Venezuela	674
+1986	Argentina	625
+1986	Germany, East	602
+1986	Algeria	602
+1986	Iran	536
+1986	Australia	516
+1986	China	484
+1986	Indonesia	470.74895
+1986	Poland	463.89784
+1986	United Arab Emirates	431
+1986	Former Czechoslovakia	427
+1986	Hungary	417.31736
+1986	Pakistan	392
+1986	Malaysia	279
+1986	Belgium	272.3846
+1986	Bulgaria	225
+1986	Former Yugoslavia	224
+1986	Egypt	200
+1986	Qatar	193
+1986	Kuwait	191
+1986	Austria	182
+1986	Bahrain	180
+1986	India	180
+1986	Libya	168
+1986	New Zealand	157.15175
+1986	Trinidad and Tobago	152
+1986	Colombia	144
+1986	Nigeria	116
+1986	Bangladesh	113
+1986	Thailand	112
+1986	Brazil	90
+1986	Spain	87
+1986	Norway	86.98085
+1986	Oman	70
+1986	Ireland	59
+1986	Switzerland	55.93896
+1986	Peru	49
+1986	Denmark	45.37978
+1986	Finland	43.11962
+1986	Taiwan	40
+1986	Tunisia	39
+1986	Burma (Myanmar)	38
+1986	Brunei	33
+1986	Iraq	27
+1986	Chile	26
+1986	Turkey	16
+1986	Bolivia	14
+1986	Albania	14
+1986	Angola	14
+1986	Luxembourg	12
+1986	Syria	9
+1986	Sweden	8
+1986	Ecuador	3
+1986	Greece	3
+1986	Morocco	3
+1986	Korea, South	2.50737
+1986	Vietnam	1.41
+1986	Israel	1.4
+1986	Gabon	1
+1986	Barbados	0.4
+1986	Congo (Brazzaville)	0.4
+1986	Cuba	0.2
+1987	Former U.S.S.R.	22462.235
+1987	United States	17210.809
+1987	Germany, West	2178
+1987	Canada	2112
+1987	United Kingdom	2079
+1987	Netherlands	1672
+1987	Japan	1543
+1987	Romania	1405.288
+1987	Italy	1345.92528
+1987	France	1038.0138
+1987	Saudi Arabia	946.3
+1987	Mexico	893.01041
+1987	Venezuela	657
+1987	Algeria	655.741
+1987	Argentina	604.693
+1987	United Arab Emirates	579.516
+1987	Iran	565
+1987	Germany, East	555
+1987	Australia	532
+1987	China	494.3
+1987	Indonesia	486.99385
+1987	Poland	473.96262
+1987	Former Czechoslovakia	443.639
+1987	Pakistan	419.2
+1987	Hungary	416.85826
+1987	Belgium	303.709
+1987	Kuwait	284.17
+1987	Malaysia	264.948
+1987	Former Yugoslavia	262.638
+1987	India	226.7
+1987	Bulgaria	223.353
+1987	Egypt	221.8
+1987	Bahrain	216.5
+1987	Qatar	198.1
+1987	Austria	190.13596
+1987	Libya	160.748
+1987	New Zealand	151.18352
+1987	Trinidad and Tobago	143.31
+1987	Colombia	140
+1987	Thailand	131.5
+1987	Bangladesh	131.302
+1987	Nigeria	130.7
+1987	Brazil	104.81
+1987	Spain	100
+1987	Oman	79.8
+1987	Korea, South	74.76186
+1987	Norway	60.31802
+1987	Switzerland	60.0355
+1987	Ireland	58.83479
+1987	Denmark	58.26975
+1987	Brunei	57.182
+1987	Finland	57.13967
+1987	Peru	47.32
+1987	Tunisia	45.184
+1987	Taiwan	43.2
+1987	Burma (Myanmar)	40.2
+1987	Iraq	35.43
+1987	Turkey	26
+1987	Chile	25.7797
+1987	Syria	21.895
+1987	Afghanistan	21.537
+1987	Albania	15.9
+1987	Angola	15.9
+1987	Luxembourg	14
+1987	Bolivia	13.667
+1987	Sweden	10.98297
+1987	Gabon	4.1
+1987	Greece	3
+1987	Israel	2.1
+1987	Morocco	2.1
+1987	Congo (Brazzaville)	2
+1987	Ecuador	1.94
+1987	Vietnam	1.41
+1987	Cuba	0.78
+1987	Barbados	0.35
+1988	Former U.S.S.R.	24091.54
+1988	United States	18030
+1988	Canada	2331
+1988	Germany, West	2114
+1988	United Kingdom	1972
+1988	Japan	1618
+1988	Netherlands	1513
+1988	Italy	1460.27525
+1988	Romania	1305.6
+1988	Saudi Arabia	1027.6
+1988	France	963.11068
+1988	Mexico	903.78148
+1988	Argentina	713.01
+1988	Algeria	712.3
+1988	Iran	706.3
+1988	Venezuela	656.15
+1988	United Arab Emirates	621.246
+1988	Germany, East	602
+1988	Australia	555
+1988	Indonesia	517.0116
+1988	China	503.29
+1988	Poland	469.40698
+1988	Pakistan	444.61
+1988	Former Czechoslovakia	416.01
+1988	Hungary	410.8194
+1988	Kuwait	351.03
+1988	India	310
+1988	Belgium	298.58833
+1988	Malaysia	289.23
+1988	Former Yugoslavia	257.8
+1988	Egypt	244.37
+1988	Bulgaria	221.07
+1988	Qatar	206.95
+1988	Thailand	192.81
+1988	Bahrain	181.87
+1988	Austria	181.09532
+1988	New Zealand	164.53259
+1988	Libya	156.8
+1988	Trinidad and Tobago	153.97
+1988	Bangladesh	150.09
+1988	Colombia	146.2
+1988	Nigeria	133.14
+1988	Spain	129
+1988	Brazil	97.47
+1988	Korea, South	96.58653
+1988	Iraq	88.29
+1988	Oman	73.1
+1988	Ireland	71.19504
+1988	Norway	70.06496
+1988	Afghanistan	69.92
+1988	Denmark	64.30862
+1988	Finland	61.23621
+1988	Switzerland	60.42397
+1988	Brunei	48.38
+1988	Peru	44.14
+1988	Turkey	43
+1988	Tunisia	39.2
+1988	Burma (Myanmar)	36.727
+1988	Chile	35.32
+1988	Albania	24.72
+1988	Taiwan	24.01
+1988	Bolivia	19.42
+1988	Syria	18.01
+1988	Angola	17.66
+1988	Luxembourg	15
+1988	Sweden	13
+1988	Greece	4
+1988	Gabon	3.53
+1988	Ecuador	2.8252
+1988	Morocco	2.1189
+1988	Israel	1.4126
+1988	Vietnam	1.06
+1988	Barbados	0.9278
+1988	Cuba	0.71
+1989	Former U.S.S.R.	24528.57
+1989	United States	19119
+1989	Canada	2426.88212
+1989	Germany, West	2247
+1989	United Kingdom	1951
+1989	Japan	1731
+1989	Italy	1581.22913
+1989	Netherlands	1550
+1989	Romania	1384.35
+1989	Saudi Arabia	1052.38
+1989	France	983.80527
+1989	Mexico	880.68547
+1989	Argentina	800.94
+1989	Iran	783.99
+1989	Venezuela	768.52
+1989	United Arab Emirates	701.71
+1989	Algeria	660.36
+1989	Germany, East	588
+1989	Indonesia	578.81285
+1989	Australia	570
+1989	China	505
+1989	Pakistan	474.99
+1989	Poland	460.64886
+1989	Former Czechoslovakia	450.61
+1989	Hungary	417.77645
+1989	Kuwait	415.3
+1989	Belgium	332.17289
+1989	India	315.19
+1989	Malaysia	297.36
+1989	Former Yugoslavia	287.11
+1989	Egypt	273.34
+1989	Bulgaria	222.83
+1989	Qatar	215.07
+1989	Austria	195
+1989	Bahrain	186.1
+1989	Thailand	182.11
+1989	Spain	172
+1989	New Zealand	168.06409
+1989	Nigeria	165.98
+1989	Libya	164.76
+1989	Bangladesh	164.21
+1989	Trinidad and Tobago	162.45
+1989	Colombia	145.85
+1989	Brazil	122.54
+1989	Turkey	114
+1989	Oman	98.54
+1989	Korea, South	93.47881
+1989	Iraq	88.29
+1989	Finland	80.65946
+1989	Ireland	80
+1989	Norway	73.10205
+1989	Denmark	68.54642
+1989	Afghanistan	68.28
+1989	Switzerland	65.79184
+1989	Brunei	56.87
+1989	Chile	56.86
+1989	Tunisia	55.45
+1989	Taiwan	50.15
+1989	Peru	40.62
+1989	Burma (Myanmar)	38.49
+1989	Syria	35.32
+1989	Bolivia	26.14
+1989	Albania	24.72
+1989	Sweden	19.03479
+1989	Luxembourg	17
+1989	Angola	15.19
+1989	Greece	4
+1989	Gabon	3.18
+1989	Jordan	2.83
+1989	Ecuador	2.82
+1989	Morocco	2.12
+1989	Israel	1.41
+1989	Cuba	1.1
+1989	Vietnam	1.06
+1989	Barbados	1
+1990	Former U.S.S.R.	24961
+1990	United States	19174
+1990	Canada	2377.62
+1990	Germany, West	2311.9
+1990	United Kingdom	2059
+1990	Japan	2028.10514
+1990	Italy	1674
+1990	Netherlands	1535
+1990	Romania	1261
+1990	Saudi Arabia	1077
+1990	France	997
+1990	Mexico	918
+1990	Iran	837
+1990	Venezuela	760.88
+1990	Argentina	716.54
+1990	Algeria	681
+1990	United Arab Emirates	663
+1990	Indonesia	629.67
+1990	Australia	625
+1990	Former Czechoslovakia	532
+1990	China	494.3705
+1990	Pakistan	482
+1990	Poland	427
+1990	India	399
+1990	Hungary	394
+1990	Germany, East	357
+1990	Belgium	340.61
+1990	Malaysia	315
+1990	Egypt	286
+1990	Qatar	276
+1990	Kuwait	256
+1990	Former Yugoslavia	248
+1990	Bulgaria	241
+1990	Austria	215
+1990	Thailand	208
+1990	Bahrain	205
+1990	Spain	192
+1990	Trinidad and Tobago	177
+1990	Libya	175
+1990	New Zealand	169
+1990	Bangladesh	162
+1990	Colombia	151
+1990	Nigeria	131
+1990	Turkey	122.47242
+1990	Korea, South	107
+1990	Syria	103
+1990	Oman	99
+1990	Brazil	97
+1990	Finland	95
+1990	Ireland	82
+1990	Norway	80
+1990	Taiwan	80
+1990	Iraq	77
+1990	Denmark	73
+1990	Switzerland	70.42
+1990	Afghanistan	67
+1990	Chile	66
+1990	Tunisia	54
+1990	Brunei	46
+1990	Burma (Myanmar)	38
+1990	Bolivia	30
+1990	Sweden	23
+1990	Peru	19
+1990	Angola	19
+1990	Luxembourg	17
+1990	Hong Kong	13.62949
+1990	Albania	9
+1990	Jordan	4.59
+1990	Ecuador	4
+1990	Greece	4
+1990	Gabon	3
+1990	Morocco	2
+1990	Vietnam	1.41
+1990	Cuba	1.14
+1990	Israel	1.059
+1990	Barbados	1
+1991	Former U.S.S.R.	25014
+1991	United States	19562
+1991	Germany	2776
+1991	Canada	2400.48
+1991	United Kingdom	2218
+1991	Japan	2175.22743
+1991	Italy	1775
+1991	Netherlands	1715
+1991	France	1131.24
+1991	Saudi Arabia	1130
+1991	Romania	1040
+1991	Mexico	949
+1991	Iran	811
+1991	Venezuela	793.48
+1991	United Arab Emirates	790
+1991	Argentina	780.81
+1991	Algeria	775
+1991	Indonesia	764.9229
+1991	Australia	584
+1991	Pakistan	534
+1991	China	511.3005
+1991	Former Czechoslovakia	504
+1991	India	449
+1991	Poland	399
+1991	Hungary	393
+1991	Malaysia	383
+1991	Belgium	363.32
+1991	Qatar	328
+1991	Egypt	321
+1991	Former Yugoslavia	247
+1991	Thailand	236
+1991	Bahrain	233
+1991	Austria	228
+1991	Spain	216
+1991	Trinidad and Tobago	201
+1991	Bulgaria	200
+1991	New Zealand	182
+1991	Libya	175.15
+1991	Bangladesh	173
+1991	Nigeria	168
+1991	Colombia	155
+1991	Turkey	149.62966
+1991	Oman	124
+1991	Syria	124
+1991	Korea, South	124
+1991	Brazil	118.86
+1991	Taiwan	105
+1991	Finland	100
+1991	Ireland	84
+1991	Denmark	82
+1991	Switzerland	78.99
+1991	Norway	78
+1991	Chile	52
+1991	Tunisia	41
+1991	Iraq	39
+1991	Burma (Myanmar)	36.40711
+1991	Bolivia	26
+1991	Sweden	24
+1991	Angola	20
+1991	Peru	18.36426
+1991	Luxembourg	18
+1991	Kuwait	18
+1991	Brunei	15
+1991	Hong Kong	14.6995
+1991	Afghanistan	11
+1991	Albania	5
+1991	Jordan	4.59
+1991	Greece	4
+1991	Gabon	3.54859
+1991	Ecuador	3.22617
+1991	Vietnam	2.47
+1991	Morocco	1.37417
+1991	Cuba	1.18
+1991	Israel	1.059
+1991	Barbados	0.79662
+1992	United States	20228
+1992	Russia	16481.51
+1992	Ukraine	3503.25
+1992	Germany	2739.45
+1992	Canada	2595.69
+1992	Japan	2177.0638
+1992	United Kingdom	2170.07143
+1992	Italy	1760.31149
+1992	Netherlands	1668.91627
+1992	Saudi Arabia	1200.71
+1992	France	1146.47
+1992	Uzbekistan	1094.77
+1992	Mexico	958.83757
+1992	Romania	935.85
+1992	United Arab Emirates	902
+1992	Iran	882.875
+1992	Indonesia	796.7064
+1992	Argentina	787.17
+1992	Venezuela	763.43967
+1992	Algeria	730
+1992	Kazakhstan	709.83
+1992	Belarus	645.91
+1992	Australia	603.70993
+1992	Pakistan	550.715
+1992	Azerbaijan	522.66
+1992	China	516.7746
+1992	India	476.7525
+1992	Former Czechoslovakia	411
+1992	Qatar	400.82525
+1992	Malaysia	388
+1992	Belgium	374.44
+1992	Poland	373.06766
+1992	Egypt	349
+1992	Hungary	348.56
+1992	Thailand	249
+1992	Spain	227.78175
+1992	Austria	223.8971
+1992	Bangladesh	206.2396
+1992	New Zealand	195.00943
+1992	Trinidad and Tobago	194.2325
+1992	Bahrain	187.8758
+1992	Bulgaria	186
+1992	Georgia	176.58
+1992	Libya	174
+1992	Nigeria	173.0435
+1992	Turkey	163.64971
+1992	Korea, South	162.55495
+1992	Colombia	150.79505
+1992	Lithuania	141.26
+1992	Turkmenistan	141.26
+1992	Norway	130.59487
+1992	Brazil	130.31235
+1992	Syria	127.134
+1992	Oman	116.89265
+1992	Taiwan	114.66105
+1992	Finland	103.86
+1992	Iraq	101
+1992	Croatia	96.02
+1992	Kuwait	92.525
+1992	Denmark	86.59
+1992	Kyrgyzstan	84.76
+1992	Switzerland	83.09619
+1992	Ireland	82.99
+1992	Moldova	77.69
+1992	Former Serbia and Montenegro	71.546
+1992	Tajikistan	67.1
+1992	Armenia	65.6859
+1992	Latvia	56.5
+1992	Chile	54.44455
+1992	Estonia	52.97
+1992	Singapore	38.85
+1992	Burma (Myanmar)	35.85
+1992	Brunei	35
+1992	Bolivia	32
+1992	Tunisia	31
+1992	Sweden	27.36913
+1992	Slovenia	24.36
+1992	Angola	20.12955
+1992	Luxembourg	18.78758
+1992	Peru	17.87178
+1992	Bosnia and Herzegovina	17.68
+1992	Hong Kong	16.48194
+1992	Afghanistan	10.5945
+1992	Macedonia	9.42147
+1992	Vietnam	7.416
+1992	Jordan	5.3
+1992	Greece	4
+1992	Albania	3.602
+1992	Ecuador	3.5315
+1992	Gabon	3.5315
+1992	Papua New Guinea	2.12
+1992	South Africa	1.41
+1992	Cuba	1.22
+1992	Morocco	0.84732
+1992	Barbados	0.76856
+1992	Israel	0.76
+1993	United States	20789.51
+1993	Russia	16184.86
+1993	Ukraine	3870.52
+1993	Germany	2829.826
+1993	Canada	2690.715
+1993	United Kingdom	2412.36765
+1993	Japan	2217.18165
+1993	Italy	1800.99
+1993	Netherlands	1713.802
+1993	Uzbekistan	1540.81
+1993	Saudi Arabia	1267.8085
+1993	France	1158.403
+1993	Mexico	977.02479
+1993	Iran	938.3205
+1993	Romania	908.302
+1993	Indonesia	849.681
+1993	Argentina	833.085
+1993	Venezuela	815
+1993	United Arab Emirates	797.551
+1993	Algeria	655.093
+1993	Australia	630.16
+1993	Belarus	599.65
+1993	Pakistan	583
+1993	China	540.951
+1993	India	531.8439
+1993	Kazakhstan	522.66
+1993	Qatar	476.7525
+1993	Malaysia	457.6825
+1993	Egypt	398.70635
+1993	Poland	393.4091
+1993	Belgium	391.85
+1993	Azerbaijan	388.47
+1993	Hungary	372.326
+1993	Thailand	310.41885
+1993	Czech Republic	258.824
+1993	Austria	235.48
+1993	Bahrain	233.7853
+1993	Spain	224.42683
+1993	Slovakia	220.3656
+1993	Trinidad and Tobago	218
+1993	Bangladesh	215.77
+1993	Korea, South	203.06125
+1993	Kuwait	191.407
+1993	Turkey	181.87225
+1993	Nigeria	178.3408
+1993	New Zealand	175.1617
+1993	Bulgaria	171.98405
+1993	Libya	168.0994
+1993	Colombia	157
+1993	Brazil	146
+1993	Turkmenistan	144.79
+1993	Oman	139.84695
+1993	Syria	130.6655
+1993	Taiwan	111.24
+1993	Finland	107.5
+1993	Croatia	103.75547
+1993	Denmark	97.893
+1993	Ireland	94.19
+1993	Iraq	90.053
+1993	Norway	90.05
+1993	Switzerland	87.05148
+1993	Georgia	84.76
+1993	Lithuania	84.76
+1993	Kyrgyzstan	79.1
+1993	Moldova	63.57
+1993	South Africa	63.567
+1993	Chile	61.8
+1993	Tunisia	52.97
+1993	Singapore	52.97
+1993	Armenia	49.44
+1993	Tajikistan	49.44
+1993	Burma (Myanmar)	38.846
+1993	Former Serbia and Montenegro	33.97303
+1993	Peru	33.9
+1993	Sweden	30.16
+1993	Bolivia	30.02
+1993	Slovenia	30.01775
+1993	Brunei	28.605
+1993	Latvia	28.25
+1993	Estonia	21.19
+1993	Angola	19.7764
+1993	Luxembourg	19.5292
+1993	Hong Kong	17.37905
+1993	Bosnia and Herzegovina	14.15967
+1993	Afghanistan	10.5945
+1993	Macedonia	10.42
+1993	Vietnam	8.82875
+1993	Jordan	7.063
+1993	Gabon	3.5315
+1993	Ecuador	3.53
+1993	Greece	2.866
+1993	Papua New Guinea	2.8252
+1993	Cuba	1.25
+1993	Barbados	1.0679
+1993	Israel	1.05945
+1993	Albania	1.059
+1993	Morocco	1.059
+1993	Senegal	0.7063
+1994	United States	21247
+1994	Russia	15213.7
+1994	Ukraine	3326.67
+1994	Germany	2965.08272
+1994	Canada	2737.59
+1994	United Kingdom	2542.33
+1994	Japan	2333.6152
+1994	Italy	1748.13
+1994	Netherlands	1654.37
+1994	Saudi Arabia	1331.37
+1994	Uzbekistan	1228.96
+1994	France	1156.95472
+1994	Iran	1123.02
+1994	Mexico	1026.21859
+1994	Indonesia	965.15
+1994	Venezuela	876.16
+1994	Argentina	856.39
+1994	Romania	850.74
+1994	United Arab Emirates	765.28
+1994	Algeria	690.41
+1994	Australia	661.30869
+1994	Pakistan	627.19
+1994	India	593.64
+1994	China	569.9368
+1994	Kazakhstan	529.72
+1994	Belarus	497.59
+1994	Malaysia	481.7
+1994	Qatar	476.74
+1994	Egypt	423.42
+1994	Belgium	400.65
+1994	Poland	393.37379
+1994	Hungary	375.36314
+1994	Thailand	341.84
+1994	Azerbaijan	331.96
+1994	Korea, South	270.30101
+1994	Trinidad and Tobago	249.68
+1994	Austria	242.37
+1994	Spain	239.29444
+1994	Czech Republic	238.38
+1994	Bangladesh	234.84
+1994	Bahrain	229.19
+1994	Kuwait	210.83
+1994	Slovakia	208.3585
+1994	Turkey	192.32549
+1994	New Zealand	174.77394
+1994	Libya	173.39
+1994	Bulgaria	168.1
+1994	Colombia	162.45
+1994	Nigeria	160.68
+1994	Brazil	152.2
+1994	Turkmenistan	148.32
+1994	Oman	146.56
+1994	Taiwan	140.55
+1994	Syria	134.19
+1994	Finland	119.15
+1994	Iraq	111.94
+1994	Denmark	108.02859
+1994	Ireland	95.85
+1994	Norway	92.88
+1994	Croatia	91.12
+1994	Switzerland	85.99203
+1994	Lithuania	81.22
+1994	South Africa	68.86
+1994	Tunisia	68.86
+1994	Chile	68.51
+1994	Kyrgyzstan	63.57
+1994	Former Serbia and Montenegro	57.57
+1994	Armenia	56.5
+1994	Georgia	56.5
+1994	Tajikistan	56.5
+1994	Singapore	52.97
+1994	Burma (Myanmar)	50.5
+1994	Moldova	49.44
+1994	Bolivia	34.96
+1994	Peru	34.61
+1994	Sweden	29.6646
+1994	Slovenia	28.96
+1994	Latvia	24.72
+1994	Brunei	24.72
+1994	Estonia	22.6
+1994	Luxembourg	19.67
+1994	Hong Kong	18.76318
+1994	Angola	18.36
+1994	Bosnia and Herzegovina	14.63
+1994	Afghanistan	10.59
+1994	Jordan	9.89
+1994	Vietnam	8.83
+1994	Ecuador	3.53
+1994	Gabon	3.53
+1994	Papua New Guinea	1.77
+1994	Senegal	1.41
+1994	Greece	1.34
+1994	Cuba	1.22
+1994	Albania	1.06
+1994	Israel	1.06
+1994	Morocco	1.06
+1994	Barbados	0.78
+1995	United States	22207
+1995	Russia	14507.4
+1995	Germany	3171.57
+1995	Ukraine	2969.99
+1995	Canada	2872.48
+1995	United Kingdom	2689.59
+1995	Japan	2409.22462
+1995	Italy	1920.61
+1995	Netherlands	1700.95
+1995	Uzbekistan	1349.03
+1995	Saudi Arabia	1343.38
+1995	Iran	1243.08
+1995	France	1182.73
+1995	Indonesia	1061.22
+1995	Mexico	1042.64006
+1995	Argentina	953.15
+1995	Romania	900.53
+1995	Venezuela	890.22
+1995	United Arab Emirates	875.46
+1995	Algeria	741.97
+1995	Australia	709.69024
+1995	Pakistan	645.91
+1995	India	627.55
+1995	China	581.5198
+1995	Malaysia	484.87
+1995	Qatar	476.75
+1995	Belarus	452.03
+1995	Belgium	443.24
+1995	Egypt	438.96
+1995	Poland	415.86944
+1995	Hungary	406.69
+1995	Kazakhstan	383.42991
+1995	Thailand	367.63
+1995	Korea, South	326.84033
+1995	Azerbaijan	317.84
+1995	Spain	298.59
+1995	Czech Republic	284.99
+1995	Slovakia	272.99
+1995	Trinidad and Tobago	268.04
+1995	Austria	262.04
+1995	Bangladesh	260.27
+1995	Turkey	248.22914
+1995	Bahrain	229.19
+1995	Kuwait	210.83
+1995	Bulgaria	208.36
+1995	Nigeria	183.28
+1995	Libya	171.28
+1995	Turkmenistan	169.51
+1995	New Zealand	166.01582
+1995	Colombia	160.68
+1995	Brazil	159.27
+1995	Taiwan	150.8
+1995	Oman	129.61
+1995	Denmark	127.38
+1995	Finland	123.11
+1995	Iraq	111.95
+1995	Syria	103.83
+1995	Ireland	101.57
+1995	Norway	101.35
+1995	Lithuania	98.88
+1995	Switzerland	94.71483
+1995	Bosnia and Herzegovina	86.52
+1995	Croatia	81.93
+1995	Georgia	74.16
+1995	South Africa	69.22
+1995	Chile	67.1
+1995	Burma (Myanmar)	57.92
+1995	Tunisia	57.56
+1995	Armenia	56.5
+1995	Singapore	52.97
+1995	Moldova	49.44
+1995	Bolivia	43.44
+1995	Former Serbia and Montenegro	39.02
+1995	Latvia	38.85
+1995	Slovenia	34.61
+1995	Brunei	34.26
+1995	Peru	32.84
+1995	Kyrgyzstan	31.07
+1995	Sweden	30.02
+1995	Tajikistan	28.5
+1995	Estonia	26.31
+1995	Vietnam	25.07
+1995	Luxembourg	22.46
+1995	Hong Kong	19.89022
+1995	Angola	19.77
+1995	Jordan	10.24
+1995	Afghanistan	7.06
+1995	Ecuador	4.24
+1995	Gabon	3.53
+1995	Papua New Guinea	3.53
+1995	Senegal	1.77
+1995	Cuba	1.4484
+1995	Cote dIvoire (IvoryCoast)	1.41
+1995	Greece	1.23
+1995	Albania	1.06
+1995	Barbados	0.92607
+1995	Israel	0.71
+1995	Morocco	0.71
+1995	Philippines	0.35
+1996	United States	22609
+1996	Russia	13085.6201
+1996	United Kingdom	3182.23465
+1996	Germany	3162.74077
+1996	Ukraine	2934.68
+1996	Canada	2917.19558
+1996	Japan	2524.3162
+1996	Italy	1984.13796
+1996	Netherlands	1873.8139
+1996	Saudi Arabia	1459.9221
+1996	Uzbekistan	1433.79
+1996	Iran	1416.48465
+1996	France	1314.31836
+1996	Indonesia	1136.78985
+1996	Mexico	1102.67556
+1996	Argentina	1010.36215
+1996	Venezuela	960.568
+1996	United Arab Emirates	958.80225
+1996	Romania	893.82
+1996	Algeria	762.0977
+1996	Australia	719.18998
+1996	India	696.4118
+1996	Pakistan	696.4118
+1996	China	646.0173
+1996	Malaysia	562.56795
+1996	Kazakhstan	509.95
+1996	Belarus	494.41
+1996	Belgium	492.67957
+1996	Qatar	483.8155
+1996	Egypt	473.221
+1996	Poland	462.52056
+1996	Hungary	452.98551
+1996	Korea, South	431.79651
+1996	Thailand	428.37095
+1996	Spain	334.15053
+1996	Azerbaijan	328.43
+1996	Kuwait	328.4295
+1996	Czech Republic	328.11167
+1996	Trinidad and Tobago	302.64955
+1996	Turkey	290.07741
+1996	Austria	281.49586
+1996	Bangladesh	269.45345
+1996	Slovakia	240.77767
+1996	Bahrain	232.01955
+1996	Bulgaria	218.6
+1996	Nigeria	192.8199
+1996	New Zealand	186.32194
+1996	Libya	184.3443
+1996	Brazil	178.34075
+1996	Turkmenistan	169.51
+1996	Colombia	167.3931
+1996	Taiwan	156.7986
+1996	Denmark	148.04048
+1996	Syria	141.9663
+1996	Finland	128.86443
+1996	Oman	127.8403
+1996	Iraq	114.4206
+1996	Ireland	113.96151
+1996	Switzerland	102.48413
+1996	Norway	102.4135
+1996	Former Serbia and Montenegro	98.21102
+1996	Lithuania	91.82
+1996	Croatia	88.29
+1996	Moldova	70.63
+1996	Tunisia	66.74535
+1996	Hong Kong	65.82716
+1996	South Africa	65.00985
+1996	Kyrgyzstan	64.42
+1996	Chile	63.92015
+1996	Armenia	63.57
+1996	Georgia	63.57
+1996	Burma (Myanmar)	56.504
+1996	Singapore	52.9725
+1996	Slovenia	44.85
+1996	Tajikistan	43.37
+1996	Bolivia	37.08075
+1996	Latvia	35.32
+1996	Peru	34.25555
+1996	Sweden	31.0772
+1996	Vietnam	29.31145
+1996	Estonia	28.82
+1996	Brunei	27.5457
+1996	Luxembourg	24.54393
+1996	Angola	19.7764
+1996	Cote dIvoire (IvoryCoast)	19.42325
+1996	Jordan	9.53505
+1996	Afghanistan	8.12245
+1996	Bosnia and Herzegovina	4.9441
+1996	Papua New Guinea	4.59095
+1996	Ecuador	4.2378
+1996	Gabon	3.5315
+1996	Senegal	2.1189
+1996	Cuba	1.51855
+1996	Greece	1.48323
+1996	Albania	1.05945
+1996	Barbados	1.02837
+1996	Morocco	0.71
+1996	Israel	0.7063
+1996	Philippines	0.35315
+1997	United States	22737
+1997	Russia	12298.44875
+1997	United Kingdom	3013.0758
+1997	Germany	3011.87509
+1997	Canada	2887.24846
+1997	Ukraine	2832.263
+1997	Japan	2590.21399
+1997	Italy	2047.5637
+1997	Netherlands	1762.85417
+1997	Iran	1663.3365
+1997	Saudi Arabia	1601.1821
+1997	Uzbekistan	1454.978
+1997	France	1300.0511
+1997	Mexico	1178.21435
+1997	Indonesia	1125.48905
+1997	United Arab Emirates	1024.135
+1997	Argentina	1007.8901
+1997	Venezuela	993.7641
+1997	Romania	829.9025
+1997	Australia	717.98927
+1997	India	716.8945
+1997	Algeria	711.9504
+1997	Pakistan	698.5307
+1997	China	697.32999
+1997	Malaysia	589.40735
+1997	Thailand	537.84745
+1997	Belarus	533.2565
+1997	Korea, South	524.74559
+1997	Qatar	513.4801
+1997	Kazakhstan	494.41
+1997	Egypt	476.7525
+1997	Belgium	469.97202
+1997	Poland	462.94434
+1997	Spain	437.23502
+1997	Hungary	430.843
+1997	Turkey	346.087
+1997	Czech Republic	332.87919
+1997	Trinidad and Tobago	328.4295
+1997	Kuwait	327.37005
+1997	Azerbaijan	323.4854
+1997	Bahrain	281.46055
+1997	Austria	271.28983
+1997	Bangladesh	269.45345
+1997	Slovakia	244.62701
+1997	Colombia	210.83055
+1997	Nigeria	206.59275
+1997	New Zealand	198.78814
+1997	Brazil	194.9388
+1997	Libya	192.46675
+1997	Taiwan	186.81635
+1997	Bulgaria	181.5191
+1997	Denmark	168.0994
+1997	Turkmenistan	162.449
+1997	Syria	161.0364
+1997	Oman	158.56435
+1997	Norway	128.19345
+1997	Finland	126.71022
+1997	Ireland	118.37588
+1997	Iraq	107.71075
+1997	Hong Kong	103.96383
+1997	Lithuania	102.4135
+1997	Switzerland	98.95263
+1997	Chile	98.882
+1997	Croatia	98.882
+1997	Former Serbia and Montenegro	97.18688
+1997	Tunisia	90.75955
+1997	Moldova	84.756
+1997	Kyrgyzstan	67.8048
+1997	Georgia	67.0985
+1997	South Africa	61.80125
+1997	Burma (Myanmar)	53.32565
+1997	Singapore	52.9725
+1997	Bolivia	47.3221
+1997	Armenia	45.9095
+1997	Latvia	45.9095
+1997	Tajikistan	40.2591
+1997	Estonia	37.4339
+1997	Slovenia	31.71287
+1997	Sweden	31.25378
+1997	Brunei	31.0772
+1997	Cuba	26.48625
+1997	Luxembourg	25.00302
+1997	Cote dIvoire (IvoryCoast)	21.189
+1997	Angola	20.12955
+1997	Jordan	10.24135
+1997	Peru	8.4756
+1997	Afghanistan	8.12245
+1997	Vietnam	8.12245
+1997	Greece	6.8158
+1997	Bosnia and Herzegovina	4.9441
+1997	Papua New Guinea	3.88465
+1997	Ecuador	3.5315
+1997	Portugal	3.5315
+1997	Gabon	3.5315
+1997	Morocco	1.76575
+1997	Senegal	1.4126
+1997	Barbados	1.0284
+1997	Albania	0.7063
+1997	Israel	0.7063
+1997	Philippines	0.35315
+1998	United States	22246
+1998	Russia	12603.57035
+1998	Germany	3129.89782
+1998	United Kingdom	3071.6987
+1998	Canada	2797.51304
+1998	Japan	2675.57035
+1998	Ukraine	2606.247
+1998	Italy	2204.53888
+1998	Iran	1827.55125
+1998	Netherlands	1751.87121
+1998	Saudi Arabia	1653.4483
+1998	Uzbekistan	1409.0685
+1998	France	1312.90576
+1998	Mexico	1283.70025
+1998	Venezuela	1110.3036
+1998	Argentina	1077.46065
+1998	United Arab Emirates	1073.22285
+1998	Indonesia	982.81645
+1998	India	760.6851
+1998	Australia	751.64446
+1998	Algeria	736.31775
+1998	China	724.71677
+1998	Pakistan	709.8315
+1998	Romania	649.796
+1998	Malaysia	614.83415
+1998	Thailand	568.5715
+1998	Belarus	544.91045
+1998	Qatar	522.30885
+1998	Belgium	517.57664
+1998	Korea, South	490.8785
+1998	Egypt	485.2281
+1998	Kazakhstan	473.221
+1998	Poland	462.20272
+1998	Spain	448.88897
+1998	Hungary	433.13848
+1998	Turkey	365.54557
+1998	Czech Republic	332.70261
+1998	Trinidad and Tobago	328.4295
+1998	Kuwait	317.835
+1998	Bahrain	292.76135
+1998	Bangladesh	289.583
+1998	Austria	278.52941
+1998	Slovakia	248.72355
+1998	Oman	231.6664
+1998	Colombia	221.0719
+1998	Taiwan	218.953
+1998	Nigeria	208.3585
+1998	Brazil	204.827
+1998	Syria	203.06125
+1998	Azerbaijan	197.41085
+1998	Libya	192.46675
+1998	New Zealand	174.98583
+1998	Denmark	172.3372
+1998	Turkmenistan	155.386
+1998	Finland	144.93276
+1998	Bulgaria	134.9033
+1998	Norway	127.134
+1998	Ireland	117.74021
+1998	Chile	114.06745
+1998	Lithuania	113.008
+1998	Iraq	104.17925
+1998	Former Serbia and Montenegro	103.8261
+1998	Tunisia	103.8261
+1998	Switzerland	101.88378
+1998	Hong Kong	96.8867
+1998	Croatia	94.29105
+1998	Moldova	81.57765
+1998	Kyrgyzstan	67.59291
+1998	Georgia	65.6859
+1998	Burma (Myanmar)	62.1544
+1998	Estonia	56.504
+1998	Singapore	52.9725
+1998	South Africa	51.20675
+1998	Armenia	49.441
+1998	Latvia	45.9095
+1998	Tajikistan	39.5528
+1998	Slovenia	33.51393
+1998	Bolivia	30.72405
+1998	Greece	30.40622
+1998	Sweden	30.40622
+1998	Portugal	28.46389
+1998	Cote dIvoire (IvoryCoast)	28.252
+1998	Brunei	26.8394
+1998	Luxembourg	25.1796
+1998	Vietnam	24.7205
+1998	Angola	20.4827
+1998	Peru	14.47915
+1998	Cuba	14.126
+1998	Jordan	9.8882
+1998	Afghanistan	8.12245
+1998	Bosnia and Herzegovina	7.063
+1998	Papua New Guinea	3.88465
+1998	Ecuador	3.5315
+1998	Gabon	3.5315
+1998	Mozambique	2.1189
+1998	Morocco	1.76575
+1998	Senegal	1.4126
+1998	Albania	1.05945
+1998	Barbados	1.03
+1998	Macedonia	0.7063
+1998	Israel	0.7063
+1998	Equatorial Guinea	0.7063
+1998	Philippines	0.35315
+1999	United States	22405
+1999	Russia	12582.38135
+1999	United Kingdom	3258.8682
+1999	Germany	3150.98088
+1999	Canada	3107.54343
+1999	Japan	2818.38421
+1999	Ukraine	2754.57
+1999	Italy	2396.08744
+1999	Iran	2111.837
+1999	Netherlands	1705.0082
+1999	Saudi Arabia	1631.553
+1999	Uzbekistan	1423.1945
+1999	France	1382.65288
+1999	Mexico	1262.19342
+1999	Argentina	1142.7934
+1999	Indonesia	1124.4296
+1999	United Arab Emirates	1093.70555
+1999	Venezuela	945.7357
+1999	Pakistan	783.993
+1999	China	782.36851
+1999	Australia	759.09593
+1999	Algeria	752.56265
+1999	India	752.2095
+1999	Malaysia	653.3275
+1999	Thailand	628.607
+1999	Romania	621.544
+1999	Belarus	607.77115
+1999	Korea, South	597.74169
+1999	Belgium	551.05526
+1999	Egypt	518.07105
+1999	Spain	513.83325
+1999	Qatar	492.64425
+1999	Kazakhstan	480.284
+1999	Turkey	442.42632
+1999	Poland	437.80006
+1999	Hungary	436.66998
+1999	Trinidad and Tobago	336.9051
+1999	Czech Republic	336.12817
+1999	Bangladesh	319.60075
+1999	Kuwait	305.1216
+1999	Bahrain	296.99915
+1999	Austria	284.56827
+1999	Slovakia	250.94839
+1999	Brazil	230.9601
+1999	Taiwan	220.3656
+1999	Nigeria	219.30615
+1999	Syria	213.3026
+1999	Azerbaijan	211.89
+1999	New Zealand	200.30668
+1999	Turkmenistan	197.764
+1999	Colombia	182.9317
+1999	Oman	181.5191
+1999	Denmark	178.6939
+1999	Chile	162.09585
+1999	Norway	155.03285
+1999	Libya	149.7356
+1999	Finland	144.93276
+1999	Ireland	124.52069
+1999	Bulgaria	119.01155
+1999	Iraq	112.3017
+1999	Hong Kong	106.95501
+1999	Tunisia	105.945
+1999	Switzerland	105.55654
+1999	Croatia	93.9379
+1999	Portugal	79.38812
+1999	Lithuania	75.5741
+1999	Moldova	74.1615
+1999	Kyrgyzstan	67.45165
+1999	Former Serbia and Montenegro	61.05964
+1999	Burma (Myanmar)	57.56345
+1999	Greece	52.9725
+1999	Singapore	52.9725
+1999	South Africa	49.441
+1999	Cote dIvoire (IvoryCoast)	47.3221
+1999	Armenia	45.55635
+1999	Latvia	45.55635
+1999	Tajikistan	41.31855
+1999	Georgia	40.9654
+1999	Brunei	36.7276
+1999	Estonia	35.315
+1999	Vietnam	35.315
+1999	Slovenia	34.96185
+1999	Bolivia	31.7835
+1999	Sweden	30.90063
+1999	Luxembourg	26.02716
+1999	Angola	19.7764
+1999	Cuba	17.6575
+1999	Peru	14.47915
+1999	Jordan	9.8882
+1999	Afghanistan	8.12245
+1999	Bosnia and Herzegovina	7.063
+1999	Papua New Guinea	3.88465
+1999	Ecuador	3.5315
+1999	Gabon	3.5315
+1999	Mozambique	2.1189
+1999	Morocco	1.76575
+1999	Macedonia	1.4126
+1999	Senegal	1.4126
+1999	Barbados	1.03
+1999	Uruguay	0.7063
+1999	Albania	0.7063
+1999	Equatorial Guinea	0.7063
+1999	Israel	0.35315
+1999	Philippines	0.35315
+2000	United States	23333
+2000	Russia	13058.7807
+2000	United Kingdom	3373.2888
+2000	Germany	3098.11432
+2000	Canada	2991.35708
+2000	Japan	2913.91128
+2000	Ukraine	2779.2905
+2000	Italy	2498.35968
+2000	Iran	2220.96035
+2000	Saudi Arabia	1759.04015
+2000	Netherlands	1725.42027
+2000	Uzbekistan	1511.482
+2000	France	1402.81775
+2000	Mexico	1398.19148
+2000	Argentina	1172.81115
+2000	United Arab Emirates	1109.95045
+2000	Venezuela	960.568
+2000	Indonesia	957.7428
+2000	China	902.36888
+2000	Pakistan	855.68245
+2000	Malaysia	819.66115
+2000	Australia	796.95361
+2000	India	794.5875
+2000	Algeria	726.0764
+2000	Thailand	704.53425
+2000	Belarus	692.20932
+2000	Korea, South	668.58358
+2000	Egypt	646.2645
+2000	Romania	600.355
+2000	Spain	588.45385
+2000	Belgium	553.84515
+2000	Qatar	531.8439
+2000	Turkey	523.89802
+2000	Kazakhstan	490.8785
+2000	Poland	472.62065
+2000	Hungary	424.98071
+2000	Trinidad and Tobago	354.20945
+2000	Bangladesh	342.5555
+2000	Kuwait	339.024
+2000	Brazil	333.3736
+2000	Czech Republic	326.16934
+2000	Bahrain	302.64955
+2000	Austria	271.78424
+2000	Turkmenistan	261.331
+2000	Slovakia	252.00784
+2000	Taiwan	242.61405
+2000	Nigeria	237.66995
+2000	Oman	221.42505
+2000	Syria	215.4215
+2000	New Zealand	212.3491
+2000	Colombia	201.2955
+2000	Azerbaijan	199.8829
+2000	Bulgaria	192.8199
+2000	Chile	183.99115
+2000	Libya	183.638
+2000	Denmark	181.87225
+2000	Finland	148.28769
+2000	Ireland	141.7191
+2000	Norway	140.20055
+2000	Iraq	111.24225
+2000	Tunisia	108.7702
+2000	Switzerland	104.95618
+2000	Croatia	97.82255
+2000	Hong Kong	95.27987
+2000	Lithuania	91.819
+2000	Portugal	80.5182
+2000	Moldova	75.22095
+2000	Greece	72.46638
+2000	Kyrgyzstan	67.5576
+2000	Burma (Myanmar)	65.6859
+2000	South Africa	58.26975
+2000	Latvia	56.504
+2000	Singapore	52.9725
+2000	Armenia	49.79415
+2000	Cote dIvoire (IvoryCoast)	47.67525
+2000	Bolivia	44.4969
+2000	Tajikistan	44.14375
+2000	Georgia	42.73115
+2000	Vietnam	40.61225
+2000	Estonia	39.5528
+2000	Brunei	38.8465
+2000	Slovenia	35.66815
+2000	Sweden	28.42858
+2000	Luxembourg	26.66283
+2000	Cuba	21.189
+2000	Angola	20.12955
+2000	Former Serbia and Montenegro	19.17604
+2000	Puerto Rico	12.36025
+2000	Peru	12.0071
+2000	Bosnia and Herzegovina	10.5945
+2000	Jordan	10.24135
+2000	Afghanistan	8.12245
+2000	Ecuador	4.9441
+2000	Papua New Guinea	3.88465
+2000	Gabon	2.8252
+2000	Mozambique	2.1189
+2000	Morocco	1.76575
+2000	Senegal	1.76575
+2000	Uruguay	1.4126
+2000	Albania	1.05945
+2000	Equatorial Guinea	1.05945
+2000	Barbados	1.03
+2000	Israel	0.35315
+2000	Philippines	0.35315
+2001	United States	22239
+2001	Russia	12905.5136
+2001	United Kingdom	3337.9738
+2001	Germany	3239.40964
+2001	Canada	3121.42222
+2001	Japan	2902.39859
+2001	Ukraine	2616.8415
+2001	Italy	2505.21079
+2001	Iran	2478.4067
+2001	Saudi Arabia	1896.06235
+2001	Netherlands	1768.75178
+2001	Uzbekistan	1596.238
+2001	France	1470.86975
+2001	Mexico	1395.33097
+2001	United Arab Emirates	1147.0312
+2001	Venezuela	1119.83865
+2001	Argentina	1102.5343
+2001	China	974.23491
+2001	Malaysia	895.5884
+2001	Egypt	866.98325
+2001	India	851.0915
+2001	Australia	841.09736
+2001	Thailand	837.31865
+2001	Pakistan	774.45795
+2001	Indonesia	725.72325
+2001	Algeria	721.8386
+2001	Korea, South	718.80151
+2001	Romania	695.7055
+2001	Belarus	635.67
+2001	Spain	634.11614
+2001	Turkey	563.06236
+2001	Belgium	546.78215
+2001	Kazakhstan	505.0045
+2001	Poland	481.52003
+2001	Hungary	472.12624
+2001	Trinidad and Tobago	396.9406
+2001	Brazil	396.2343
+2001	Qatar	386.69925
+2001	Bangladesh	363.7445
+2001	Czech Republic	349.44193
+2001	Turkmenistan	339.024
+2001	Bahrain	314.3035
+2001	Kuwait	300.1775
+2001	Austria	287.81725
+2001	Slovakia	269.5594
+2001	Taiwan	241.5546
+2001	Azerbaijan	237.3168
+2001	New Zealand	227.85238
+2001	Chile	223.8971
+2001	Oman	223.8971
+2001	Nigeria	219.30615
+2001	Colombia	215.06835
+2001	Bulgaria	204.96826
+2001	Syria	197.41085
+2001	Libya	190.34785
+2001	Denmark	180.63623
+2001	Norway	162.80215
+2001	Finland	160.71857
+2001	Ireland	148.323
+2001	Tunisia	135.25645
+2001	Switzerland	109.2293
+2001	Croatia	100.2946
+2001	Lithuania	97.4694
+2001	Iraq	97.4694
+2001	Hong Kong	96.15921
+2001	Portugal	89.80605
+2001	South Africa	74.1615
+2001	Moldova	72.39575
+2001	Greece	71.37162
+2001	Kyrgyzstan	71.19504
+2001	Burma (Myanmar)	69.2174
+2001	Latvia	60.0355
+2001	Armenia	49.441
+2001	Cote dIvoire (IvoryCoast)	47.67525
+2001	Brunei	47.67525
+2001	Tajikistan	45.9095
+2001	Vietnam	45.9095
+2001	Estonia	44.85005
+2001	Singapore	41.6717
+2001	Georgia	40.9654
+2001	Slovenia	36.7276
+2001	Sweden	31.0772
+2001	Bolivia	28.9583
+2001	Luxembourg	27.68696
+2001	Puerto Rico	22.24845
+2001	Former Serbia and Montenegro	21.25963
+2001	Angola	18.71695
+2001	Peru	13.06655
+2001	Cuba	10.5945
+2001	Bosnia and Herzegovina	10.5945
+2001	Jordan	10.24135
+2001	Philippines	7.063
+2001	Ecuador	5.6504
+2001	Papua New Guinea	3.88465
+2001	Gabon	2.8252
+2001	Mozambique	2.1189
+2001	Morocco	1.76575
+2001	Senegal	1.76575
+2001	Afghanistan	1.76575
+2001	Uruguay	1.4126
+2001	Albania	1.05945
+2001	Equatorial Guinea	1.05945
+2001	Barbados	1.03
+2001	Israel	0.35315
+2002	United States	23007
+2002	Russia	13564.13835
+2002	United Kingdom	3379.29235
+2002	Germany	3204.44779
+2002	Canada	3173.4059
+2002	Japan	3099.80944
+2002	Iran	2798.00745
+2002	Ukraine	2779.2905
+2002	Italy	2488.22427
+2002	Saudi Arabia	2002.3605
+2002	Netherlands	1767.19792
+2002	Uzbekistan	1642.1475
+2002	France	1528.08005
+2002	Mexico	1513.00055
+2002	United Arab Emirates	1286.8786
+2002	Argentina	1068.98505
+2002	China	1061.28638
+2002	Venezuela	1003.29915
+2002	Malaysia	983.1696
+2002	India	925.253
+2002	Thailand	924.5467
+2002	Australia	887.67784
+2002	Egypt	882.875
+2002	Korea, South	823.65175
+2002	Pakistan	808.7135
+2002	Indonesia	797.05955
+2002	Spain	725.01695
+2002	Algeria	720.77915
+2002	Romania	646.2645
+2002	Turkey	621.12022
+2002	Belarus	598.2361
+2002	Belgium	563.52145
+2002	Kazakhstan	526.1935
+2002	Poland	473.99793
+2002	Hungary	472.9738
+2002	Brazil	472.86785
+2002	Trinidad and Tobago	423.0737
+2002	Turkmenistan	406.1225
+2002	Qatar	392.34965
+2002	Bangladesh	391.9965
+2002	Czech Republic	337.32888
+2002	Bahrain	334.0799
+2002	Azerbaijan	319.9539
+2002	Austria	291.06623
+2002	Taiwan	287.11095
+2002	Kuwait	282.52
+2002	Slovakia	256.03375
+2002	Syria	240.142
+2002	Oman	230.9601
+2002	Chile	227.4286
+2002	Nigeria	224.6034
+2002	Colombia	217.5404
+2002	New Zealand	212.31378
+2002	Libya	197.0577
+2002	Norway	189.9947
+2002	Denmark	180.24776
+2002	Bulgaria	173.11413
+2002	Finland	159.94164
+2002	Ireland	151.43072
+2002	Tunisia	135.6096
+2002	Portugal	109.9356
+2002	Switzerland	107.21634
+2002	Lithuania	102.06035
+2002	Croatia	92.87845
+2002	Hong Kong	91.39522
+2002	Iraq	83.3434
+2002	South Africa	81.2245
+2002	Former Serbia and Montenegro	80.87135
+2002	Vietnam	79.8119
+2002	Moldova	77.693
+2002	Burma (Myanmar)	77.693
+2002	Greece	76.63355
+2002	Philippines	70.63
+2002	Latvia	60.0355
+2002	Brunei	58.97605
+2002	Georgia	51.91305
+2002	Estonia	47.3221
+2002	Cote dIvoire (IvoryCoast)	47.3221
+2002	Equatorial Guinea	44.85005
+2002	Kyrgyzstan	42.378
+2002	Luxembourg	42.06017
+2002	Tajikistan	42.02485
+2002	Singapore	41.31855
+2002	Armenia	38.49335
+2002	Bolivia	36.0213
+2002	Slovenia	34.25555
+2002	Sweden	31.35972
+2002	Puerto Rico	22.24845
+2002	Angola	21.8953
+2002	Peru	15.5386
+2002	Cuba	12.36025
+2002	Jordan	10.94765
+2002	Bosnia and Herzegovina	5.6504
+2002	Papua New Guinea	3.88465
+2002	Ecuador	3.5315
+2002	Gabon	3.17835
+2002	Mozambique	2.1189
+2002	Morocco	1.76575
+2002	Senegal	1.76575
+2002	Afghanistan	1.76575
+2002	Albania	1.05945
+2002	Barbados	1.03
+2002	Uruguay	0.7063
+2002	Israel	0.35315
+2003	United States	22277
+2003	Russia	14204.3993
+2003	Germany	3565.82618
+2003	Canada	3372.93565
+2003	United Kingdom	3358.4565
+2003	Japan	3099.80944
+2003	Ukraine	3022.964
+2003	Iran	2909.956
+2003	Italy	2743.30452
+2003	Saudi Arabia	2121.0189
+2003	Netherlands	1774.9319
+2003	Uzbekistan	1669.72852
+2003	Mexico	1639.71077
+2003	France	1510.7757
+2003	United Arab Emirates	1337.7322
+2003	Argentina	1221.1927
+2003	China	1143.42907
+2003	Egypt	1046.0303
+2003	Thailand	1018.83775
+2003	Malaysia	967.98415
+2003	India	964.0995
+2003	Australia	916.84803
+2003	Pakistan	889.938
+2003	Venezuela	861.686
+2003	Korea, South	858.22513
+2003	Spain	821.74474
+2003	Indonesia	805.182
+2003	Turkey	748.00702
+2003	Algeria	724.6638
+2003	Romania	635.67
+2003	Belarus	634.2574
+2003	Belgium	600.355
+2003	Turkmenistan	554.4455
+2003	Poland	516.94097
+2003	Hungary	514.75144
+2003	Brazil	499.3541
+2003	Trinidad and Tobago	453.09145
+2003	Qatar	431.19615
+2003	Bangladesh	429.07725
+2003	Czech Republic	341.07227
+2003	Bahrain	339.7303
+2003	Azerbaijan	324.898
+2003	Kuwait	321.3665
+2003	Kazakhstan	321.22524
+2003	Austria	314.72728
+2003	Nigeria	300.53065
+2003	Taiwan	293.46765
+2003	Chile	279.34165
+2003	Slovakia	246.81654
+2003	Syria	241.90775
+2003	Oman	225.66285
+2003	Norway	222.13135
+2003	Colombia	215.06835
+2003	Bulgaria	190.77163
+2003	Singapore	187.8758
+2003	Denmark	182.89639
+2003	Finland	176.96347
+2003	Libya	167.74625
+2003	New Zealand	164.67385
+2003	Ireland	152.13702
+2003	Tunisia	130.31235
+2003	Switzerland	113.32584
+2003	Croatia	107.71075
+2003	Lithuania	107.00445
+2003	Portugal	106.54536
+2003	Philippines	102.4135
+2003	Vietnam	95.3505
+2003	Burma (Myanmar)	88.64065
+2003	Greece	86.1686
+2003	Moldova	84.0497
+2003	South Africa	80.5182
+2003	Bolivia	79.1056
+2003	Former Serbia and Montenegro	77.693
+2003	Hong Kong	67.87543
+2003	Latvia	63.567
+2003	Brunei	61.09495
+2003	Estonia	49.79415
+2003	Tajikistan	47.67525
+2003	Cote dIvoire (IvoryCoast)	47.3221
+2003	Armenia	46.6158
+2003	Equatorial Guinea	45.9095
+2003	Luxembourg	42.55458
+2003	Iraq	38.8465
+2003	Georgia	36.37445
+2003	Slovenia	35.80941
+2003	Sweden	32.70169
+2003	Puerto Rico	26.1331
+2003	Kyrgyzstan	26.02716
+2003	Jordan	23.3079
+2003	Angola	22.95475
+2003	Peru	18.3638
+2003	Cuba	13.06655
+2003	Dominican Republic	10.5945
+2003	Bosnia and Herzegovina	5.6504
+2003	Ecuador	5.29725
+2003	Papua New Guinea	4.9441
+2003	Gabon	3.17835
+2003	Mozambique	2.8252
+2003	Uruguay	2.1189
+2003	Morocco	1.76575
+2003	Senegal	1.76575
+2003	Albania	1.05945
+2003	Barbados	1.03
+2003	Israel	0.7063
+2003	Afghanistan	0.7063
+2004	United States	22389
+2004	Russia	14567.08435
+2004	Germany	3532.55945
+2004	United Kingdom	3513.8425
+2004	Canada	3340.97558
+2004	Japan	3124.31805
+2004	Ukraine	3051.216
+2004	Iran	3020.8451
+2004	Italy	2846.70684
+2004	Saudi Arabia	2319.4892
+2004	Netherlands	1811.20041
+2004	Uzbekistan	1772.813
+2004	Mexico	1653.30704
+2004	France	1603.65415
+2004	United Arab Emirates	1420.01615
+2004	China	1350.30434
+2004	Argentina	1338.79165
+2004	Egypt	1111.0099
+2004	India	1087.702
+2004	Thailand	1055.56535
+2004	Korea, South	1011.77475
+2004	Australia	984.97067
+2004	Pakistan	967.631
+2004	Venezuela	960.568
+2004	Spain	953.92878
+2004	Malaysia	879.3435
+2004	Turkey	792.57455
+2004	Algeria	680.8732
+2004	Indonesia	675.2228
+2004	Romania	635.67
+2004	Belgium	611.79706
+2004	Brazil	608.1243
+2004	Turkmenistan	585.16955
+2004	Belarus	579.166
+2004	Poland	547.24124
+2004	Qatar	530.78445
+2004	Hungary	510.37238
+2004	Trinidad and Tobago	499.70725
+2004	Kazakhstan	482.72074
+2004	Bangladesh	462.6265
+2004	Taiwan	352.4437
+2004	Azerbaijan	351.0311
+2004	Bahrain	344.32125
+2004	Kuwait	342.5555
+2004	Czech Republic	339.05932
+2004	Nigeria	329.1358
+2004	Austria	310.98389
+2004	Chile	292.76135
+2004	Norway	282.16685
+2004	Syria	250.7365
+2004	Slovakia	237.3168
+2004	Oman	236.25735
+2004	Singapore	233.43215
+2004	Colombia	218.2467
+2004	Libya	209.41795
+2004	Bulgaria	187.20482
+2004	Denmark	182.86107
+2004	Finland	170.9246
+2004	Ireland	156.51608
+2004	New Zealand	147.33418
+2004	Portugal	132.7844
+2004	Tunisia	130.6655
+2004	Switzerland	116.92797
+2004	Vietnam	105.945
+2004	Lithuania	103.1198
+2004	Philippines	102.4135
+2004	Croatia	97.11625
+2004	Greece	94.78546
+2004	Burma (Myanmar)	94.29105
+2004	Hong Kong	89.13506
+2004	Former Serbia and Montenegro	82.6371
+2004	South Africa	78.75245
+2004	Moldova	76.63355
+2004	Bolivia	75.5741
+2004	Brunei	70.63
+2004	Latvia	67.45165
+2004	Iraq	61.80125
+2004	Estonia	50.8536
+2004	Jordan	49.79415
+2004	Tajikistan	49.05254
+2004	Luxembourg	48.06372
+2004	Armenia	46.96895
+2004	Cote dIvoire (IvoryCoast)	45.9095
+2004	Georgia	43.43745
+2004	Slovenia	38.24615
+2004	Kyrgyzstan	32.45449
+2004	Sweden	31.46567
+2004	Peru	30.3709
+2004	Israel	27.5457
+2004	Angola	26.48625
+2004	Puerto Rico	24.0142
+2004	Cuba	13.06655
+2004	Bosnia and Herzegovina	10.5945
+2004	Ecuador	6.00355
+2004	Papua New Guinea	4.9441
+2004	Dominican Republic	4.59095
+2004	Uruguay	4.2378
+2004	Tanzania	4.2
+2004	Macedonia	3.5315
+2004	Equatorial Guinea	3.5315
+2004	Gabon	3.5315
+2004	Mozambique	2.8252
+2004	Morocco	1.76575
+2004	Senegal	1.76575
+2004	Albania	1.05945
+2004	Barbados	1.03
+2004	Afghanistan	0.7063
+2005	United States	22011
+2005	Russia	14330.47385
+2005	Iran	3707.3687
+2005	Germany	3464.36619
+2005	Canada	3403.83628
+2005	United Kingdom	3375.76085
+2005	Japan	3110.08611
+2005	Ukraine	3079.468
+2005	Italy	3046.44848
+2005	Saudi Arabia	2515.8406
+2005	Netherlands	1741.17076
+2005	France	1740.3232
+2005	Uzbekistan	1702.183
+2005	Mexico	1656.34413
+2005	China	1654.50775
+2005	United Arab Emirates	1456.74375
+2005	Argentina	1428.1386
+2005	India	1269.2211
+2005	Egypt	1208.12615
+2005	Thailand	1149.8564
+2005	Spain	1125.94815
+2005	Pakistan	1087.702
+2005	Korea, South	1076.29526
+2005	Australia	1008.56109
+2005	Turkey	966.74813
+2005	Malaysia	913.9522
+2005	Algeria	846.32398
+2005	Venezuela	827.92486
+2005	Indonesia	719.0134
+2005	Belarus	716.8945
+2005	Qatar	660.3905
+2005	Brazil	657.21215
+2005	Romania	642.733
+2005	Turkmenistan	628.607
+2005	Belgium	601.41445
+2005	Trinidad and Tobago	574.57505
+2005	Poland	573.19777
+2005	Hungary	529.12465
+2005	Bangladesh	494.41
+2005	Kazakhstan	476.68187
+2005	Kuwait	434.3745
+2005	Bahrain	378.22365
+2005	Taiwan	367.62915
+2005	Azerbaijan	366.5697
+2005	Nigeria	365.8634
+2005	Austria	335.88097
+2005	Czech Republic	335.2453
+2005	Oman	323.83855
+2005	Chile	301.5901
+2005	Slovakia	255.22151
+2005	Colombia	235.55105
+2005	Singapore	233.43215
+2005	Syria	215.4215
+2005	Libya	205.88645
+2005	Bulgaria	190.701
+2005	Norway	187.1695
+2005	Denmark	176.11591
+2005	Finland	156.62203
+2005	Portugal	151.88982
+2005	Tunisia	151.8545
+2005	Ireland	147.65202
+2005	Burma (Myanmar)	146.2041
+2005	Vietnam	141.26
+2005	New Zealand	139.98866
+2005	Switzerland	120.03569
+2005	Hong Kong	108.41705
+2005	Lithuania	107.3576
+2005	Philippines	102.4135
+2005	Greece	100.36523
+2005	Croatia	94.99735
+2005	Moldova	86.52175
+2005	Former Serbia and Montenegro	84.756
+2005	Brunei	82.99025
+2005	South Africa	77.693
+2005	Bolivia	74.51465
+2005	Latvia	68.5111
+2005	Armenia	60.0355
+2005	Peru	55.7977
+2005	Jordan	55.0914
+2005	Estonia	53.6788
+2005	Georgia	52.08963
+2005	Iraq	51.20675
+2005	Tajikistan	50.50045
+2005	Luxembourg	47.28679
+2005	Cote dIvoire (IvoryCoast)	45.9095
+2005	Equatorial Guinea	45.9095
+2005	Slovenia	39.69406
+2005	Sweden	29.27614
+2005	Kyrgyzstan	26.1331
+2005	Israel	26.1331
+2005	Puerto Rico	23.66105
+2005	Angola	22.95475
+2005	Tanzania	14.4
+2005	Cuba	14.126
+2005	Bosnia and Herzegovina	14.126
+2005	Ecuador	9.1819
+2005	Dominican Republic	8.82875
+2005	Mozambique	7.063
+2005	Congo (Brazzaville)	4.2378
+2005	Macedonia	3.5315
+2005	Gabon	3.5315
+2005	Papua New Guinea	3.5315
+2005	Uruguay	3.17835
+2005	Morocco	1.76575
+2005	Senegal	1.76575
+2005	Albania	1.05945
+2005	Barbados	1.03
+2005	Afghanistan	0.7063
+2006	United States	21685
+2006	Russia	15223.94335
+2006	Iran	3839.09365
+2006	Germany	3523.55413
+2006	Japan	3436.64391
+2006	Canada	3306.79066
+2006	United Kingdom	3212.9587
+2006	Italy	2983.51715
+2006	Saudi Arabia	2594.2399
+2006	Ukraine	2482.6445
+2006	Mexico	2199.84198
+2006	China	1993.46112
+2006	Uzbekistan	1768.92835
+2006	France	1762.57165
+2006	Netherlands	1690.21122
+2006	United Arab Emirates	1521.72335
+2006	Argentina	1474.7544
+2006	India	1369.86885
+2006	Pakistan	1275.5778
+2006	Spain	1208.09084
+2006	Thailand	1175.9895
+2006	Korea, South	1137.28426
+2006	Turkey	1101.22765
+2006	Australia	1031.05674
+2006	Egypt	999.4145
+2006	Indonesia	992.3515
+2006	Malaysia	940.0853
+2006	Venezuela	918.19
+2006	Algeria	904.064
+2006	Belarus	740.55555
+2006	Trinidad and Tobago	713.00985
+2006	Qatar	692.52715
+2006	Brazil	682.9921
+2006	Romania	657.5653
+2006	Turkmenistan	639.2015
+2006	Belgium	619.03664
+2006	Poland	574.46911
+2006	Bangladesh	541.0258
+2006	Kazakhstan	521.42598
+2006	Hungary	501.54363
+2006	Kuwait	438.25915
+2006	Bahrain	400.11895
+2006	Azerbaijan	399.0595
+2006	Nigeria	385.6398
+2006	Oman	380.34255
+2006	Taiwan	375.39845
+2006	Czech Republic	328.14698
+2006	Austria	306.32231
+2006	Chile	265.5688
+2006	Colombia	254.9743
+2006	Singapore	233.43215
+2006	Slovakia	232.19613
+2006	Syria	220.71875
+2006	Vietnam	201.2955
+2006	Bulgaria	197.764
+2006	Denmark	180.1065
+2006	Finland	168.20535
+2006	Ireland	167.00464
+2006	Libya	165.80393
+2006	New Zealand	148.67615
+2006	South Africa	148.323
+2006	Portugal	147.40481
+2006	Brunei	140.90685
+2006	Tunisia	134.197
+2006	Burma (Myanmar)	127.8403
+2006	Norway	119.3647
+2006	Greece	116.96328
+2006	Switzerland	116.71608
+2006	Hong Kong	105.89556
+2006	Lithuania	102.76665
+2006	Croatia	96.40995
+2006	Moldova	93.58475
+2006	Bolivia	84.756
+2006	Serbia	81.2245
+2006	Jordan	79.45875
+2006	Philippines	77.693
+2006	Latvia	67.0985
+2006	Iraq	63.567
+2006	Peru	62.8607
+2006	Armenia	60.0355
+2006	Estonia	51.94837
+2006	Georgia	49.79415
+2006	Luxembourg	49.54695
+2006	Cote dIvoire (IvoryCoast)	45.9095
+2006	Equatorial Guinea	45.9095
+2006	Tajikistan	45.06194
+2006	Slovenia	39.02308
+2006	Israel	34.25555
+2006	Sweden	29.31145
+2006	Kyrgyzstan	27.40444
+2006	Puerto Rico	25.4268
+2006	Angola	24.0142
+2006	Tanzania	17.8
+2006	Cuba	14.126
+2006	Bosnia and Herzegovina	14.126
+2006	Mozambique	14.126
+2006	Ecuador	9.8882
+2006	Dominican Republic	8.82875
+2006	Congo (Brazzaville)	6.3567
+2006	Papua New Guinea	4.9441
+2006	Uruguay	4.2378
+2006	Macedonia	3.5315
+2006	Gabon	3.5315
+2006	Morocco	2.1189
+2006	Senegal	1.76575
+2006	Albania	1.05945
+2006	Barbados	1.03014
+2006	Cameroon	0.7063
+2006	Afghanistan	0.7063
+2007	United States	23097
+2007	Russia	15226.76855
+2007	Iran	3992.0076
+2007	Japan	3748.05158
+2007	Canada	3423.54205
+2007	Germany	3413.90105
+2007	United Kingdom	3244.0359
+2007	Italy	2998.13756
+2007	Ukraine	2885.2355
+2007	Saudi Arabia	2628.1423
+2007	China	2490.06065
+2007	Mexico	2024.89147
+2007	Uzbekistan	1783.01904
+2007	United Arab Emirates	1736.43855
+2007	France	1656.2735
+2007	Netherlands	1643.45416
+2007	Argentina	1551.0348
+2007	India	1460.6284
+2007	Pakistan	1299.592
+2007	Turkey	1292.49368
+2007	Thailand	1250.151
+2007	Spain	1231.46936
+2007	Korea, South	1230.79838
+2007	Indonesia	1223.66475
+2007	Egypt	1081.7373
+2007	Australia	1063.36997
+2007	Algeria	934.32896
+2007	Malaysia	856.38875
+2007	Belarus	768.4544
+2007	Venezuela	735.57614
+2007	Trinidad and Tobago	715.12875
+2007	Brazil	701.3559
+2007	Qatar	695.7055
+2007	Turkmenistan	687.9362
+2007	Belgium	623.6629
+2007	Romania	605.2991
+2007	Bangladesh	574.57505
+2007	Poland	570.65509
+2007	Hungary	468.48879
+2007	Kazakhstan	441.11967
+2007	Kuwait	425.8989
+2007	Bahrain	416.0107
+2007	Taiwan	403.54451
+2007	Oman	384.30842
+2007	Nigeria	374.339
+2007	Azerbaijan	327.51131
+2007	Czech Republic	305.51007
+2007	Austria	286.68717
+2007	Singapore	271.2192
+2007	Colombia	266.2751
+2007	Slovakia	219.51804
+2007	Syria	211.89
+2007	South Africa	208.3585
+2007	Vietnam	208.3585
+2007	Libya	187.8758
+2007	Ireland	180.38902
+2007	Finland	161.53081
+2007	Denmark	161.00108
+2007	New Zealand	159.72975
+2007	Norway	155.73915
+2007	Portugal	154.43249
+2007	Chile	146.2041
+2007	Burma (Myanmar)	145.4978
+2007	Brunei	144.82682
+2007	Greece	142.31945
+2007	Tunisia	121.83675
+2007	Lithuania	121.4836
+2007	Bulgaria	118.30525
+2007	Switzerland	113.64367
+2007	Philippines	102.4135
+2007	Croatia	98.42291
+2007	Hong Kong	94.99735
+2007	Peru	94.29105
+2007	Jordan	91.819
+2007	Bolivia	88.64065
+2007	Moldova	86.1686
+2007	Serbia	77.693
+2007	Armenia	72.53701
+2007	Latvia	72.0426
+2007	Georgia	59.68235
+2007	Cote dIvoire (IvoryCoast)	52.9725
+2007	Equatorial Guinea	52.65113
+2007	Estonia	52.2662
+2007	Iraq	51.5599
+2007	Luxembourg	48.27561
+2007	Israel	40.2591
+2007	Slovenia	38.8465
+2007	Sweden	32.52512
+2007	Tajikistan	29.6646
+2007	Angola	29.31145
+2007	Kyrgyzstan	27.13605
+2007	Puerto Rico	26
+2007	Cuba	21.189
+2007	Tanzania	19.2
+2007	Dominican Republic	16.9512
+2007	Bosnia and Herzegovina	11.3008
+2007	Ecuador	9.71163
+2007	Congo (Brazzaville)	6.3567
+2007	Papua New Guinea	4.80284
+2007	Mozambique	3.5315
+2007	Uruguay	3.17835
+2007	Macedonia	2.8252
+2007	Gabon	2.8252
+2007	Senegal	1.76575
+2007	Afghanistan	1.4126
+2007	Morocco	1.27134
+2007	Barbados	1.03
+2007	Cameroon	0.7063
+2007	Albania	0.35315
+2008	United States	23277
+2008	Russia	15545.663
+2008	Iran	4212.72635
+2008	Japan	3653.51333
+2008	Germany	3460.58748
+2008	Canada	3407.15589
+2008	United Kingdom	3352.45295
+2008	Italy	2997.64315
+2008	Ukraine	2853.452
+2008	Saudi Arabia	2840.7386
+2008	China	2725.57639
+2008	Mexico	2129.28261
+2008	United Arab Emirates	2099.1236
+2008	Uzbekistan	1857.569
+2008	France	1736.43855
+2008	Netherlands	1713.73101
+2008	Argentina	1568.33915
+2008	India	1518.19185
+2008	Egypt	1484.99575
+2008	Spain	1350.58686
+2008	Pakistan	1341.97
+2008	Thailand	1317.60265
+2008	Turkey	1294.11818
+2008	Korea, South	1265.37177
+2008	Indonesia	1200.0037
+2008	Malaysia	1122.66385
+2008	Australia	1121.46314
+2008	Algeria	977.34263
+2008	Brazil	835.19975
+2008	Venezuela	785.75875
+2008	Trinidad and Tobago	774.8111
+2008	Belarus	750.51438
+2008	Turkmenistan	741.615
+2008	Qatar	713.39832
+2008	Bangladesh	632.1385
+2008	Belgium	619.4251
+2008	Poland	576.41143
+2008	Romania	560.8022
+2008	Oman	477.4588
+2008	Hungary	462.73245
+2008	Kuwait	448.5005
+2008	Bahrain	438.25915
+2008	Nigeria	433.49163
+2008	Azerbaijan	423.95658
+2008	Taiwan	412.12605
+2008	Singapore	323.83855
+2008	Kazakhstan	313.20874
+2008	Austria	306.92267
+2008	Czech Republic	306.78141
+2008	Colombia	264.8625
+2008	Vietnam	246.4987
+2008	Slovakia	222.76702
+2008	Syria	213.3026
+2008	Libya	194.2325
+2008	Ireland	182.86107
+2008	South Africa	176.575
+2008	Finland	167.28716
+2008	Portugal	166.6868
+2008	Denmark	162.51963
+2008	Tunisia	154.32655
+2008	New Zealand	148.71147
+2008	Greece	148.60552
+2008	Brunei	148.323
+2008	Burma (Myanmar)	135.96275
+2008	Peru	128.89975
+2008	Lithuania	124.66195
+2008	Norway	122.8962
+2008	Switzerland	121.09514
+2008	Hong Kong	118.6584
+2008	Bulgaria	113.36115
+2008	Croatia	104.70898
+2008	Philippines	103.8261
+2008	Jordan	103.47295
+2008	Bolivia	101.38937
+2008	Chile	92.66656
+2008	Moldova	88.9938
+2008	Serbia	79.45875
+2008	Armenia	68.15795
+2008	Iraq	66.3922
+2008	Georgia	61.09495
+2008	Cote dIvoire (IvoryCoast)	56.504
+2008	Estonia	53.32565
+2008	Equatorial Guinea	52.9725
+2008	Israel	50.8536
+2008	Latvia	44.85005
+2008	Luxembourg	44.32033
+2008	Cuba	40.9654
+2008	Slovenia	35.315
+2008	Sweden	30.47685
+2008	Puerto Rico	28.486
+2008	Kyrgyzstan	26.48625
+2008	Angola	24.0142
+2008	Tanzania	19.8
+2008	Morocco	19.7764
+2008	Dominican Republic	16.59805
+2008	Tajikistan	15.18545
+2008	Congo (Brazzaville)	13.06655
+2008	Bosnia and Herzegovina	10.94765
+2008	Ecuador	9.1819
+2008	Papua New Guinea	4.59095
+2008	Mozambique	3.5315
+2008	Gabon	2.8252
+2008	Uruguay	2.47205
+2008	Macedonia	2.47205
+2008	Senegal	1.76575
+2008	Afghanistan	1.76575
+2008	Albania	1.05945
+2008	Barbados	1.03
+2008	Cameroon	0.7063
+2009	United States	22910
+2009	Russia	13504.80915
+2009	Iran	4993.541
+2009	Japan	3650.01714
+2009	Germany	3302.23502
+2009	China	3125.27156
+2009	Canada	3111.9578
+2009	United Kingdom	3109.48575
+2009	Saudi Arabia	2770.46175
+2009	Italy	2755.41756
+2009	Mexico	2134.50923
+2009	United Arab Emirates	2068.71739
+2009	India	1882.64265
+2009	Netherlands	1729.0224
+2009	France	1665.4554
+2009	Uzbekistan	1631.83552
+2009	Egypt	1566.92655
+2009	Ukraine	1559.5104
+2009	Argentina	1523.4891
+2009	Thailand	1383.28855
+2009	Pakistan	1367.04365
+2009	Indonesia	1344.44205
+2009	Spain	1272.47008
+2009	Turkey	1240.08623
+2009	Korea, South	1215.2951
+2009	Australia	1107.12525
+2009	Malaysia	1099.7091
+2009	Algeria	1015.51814
+2009	Qatar	745.1465
+2009	Trinidad and Tobago	740.2024
+2009	Venezuela	714.42245
+2009	Turkmenistan	708.06575
+2009	Bangladesh	692.174
+2009	Brazil	661.0968
+2009	Belarus	626.84125
+2009	Belgium	625.49928
+2009	Poland	559.56618
+2009	Oman	520.18995
+2009	Romania	454.50405
+2009	Bahrain	440.7312
+2009	Kuwait	437.16439
+2009	Taiwan	427.3115
+2009	Hungary	400.18958
+2009	Azerbaijan	367.17006
+2009	Colombia	306.88735
+2009	Kazakhstan	304.4153
+2009	Austria	293.29107
+2009	Czech Republic	289.01796
+2009	Singapore	284.6389
+2009	Syria	262.0373
+2009	Vietnam	250.38335
+2009	Norway	230.9601
+2009	Libya	212.24315
+2009	Slovakia	190.59506
+2009	Ireland	181.80162
+2009	Portugal	167.56967
+2009	Denmark	156.0923
+2009	Finland	150.75974
+2009	Nigeria	146.55725
+2009	New Zealand	144.22646
+2009	South Africa	126.78085
+2009	Greece	124.59132
+2009	Peru	122.54305
+2009	Switzerland	116.36293
+2009	Burma (Myanmar)	114.77375
+2009	Hong Kong	113.25521
+2009	Philippines	111.24225
+2009	Jordan	108.41705
+2009	Tunisia	108.0639
+2009	Israel	101.7072
+2009	Bolivia	99.94145
+2009	Lithuania	96.40995
+2009	Croatia	94.67952
+2009	Chile	93.09034
+2009	Brunei	87.93435
+2009	Moldova	82.28395
+2009	Bulgaria	73.10205
+2009	Serbia	61.4481
+2009	Georgia	60.38865
+2009	Cote dIvoire (IvoryCoast)	56.504
+2009	Latvia	55.0914
+2009	Armenia	54.73825
+2009	Equatorial Guinea	54.73825
+2009	Luxembourg	44.81474
+2009	Sweden	43.7906
+2009	Cuba	40.9654
+2009	Iraq	40.57694
+2009	Slovenia	36.09193
+2009	Puerto Rico	26.723
+2009	Angola	24.36735
+2009	Tanzania	23.23727
+2009	Kyrgyzstan	23.14545
+2009	Estonia	23.0607
+2009	Dominican Republic	19.7764
+2009	Morocco	19.7764
+2009	Congo (Brazzaville)	18.71695
+2009	Yemen	12.7134
+2009	Ecuador	10.45324
+2009	Tajikistan	8.01651
+2009	Bosnia and Herzegovina	7.41615
+2009	Mozambique	5.29725
+2009	Papua New Guinea	3.5315
+2009	Macedonia	2.8252
+2009	Gabon	2.8252
+2009	Senegal	1.76575
+2009	Uruguay	1.4126
+2009	Albania	1.05945
+2009	Afghanistan	1.05945
+2009	Barbados	1.03
+2009	Cameroon	0.7063
+2010	United States	23775
+2010	Russia	14960.8466
+2010	Iran	5105.8427
+2010	China	3768.46365
+2010	Japan	3718.10446
+2010	Germany	3437.17364
+2010	United Kingdom	3329.4982
+2010	Saudi Arabia	3095.7129
+2010	Canada	2935.73595
+2010	Italy	2930.47402
+2010	India	2277.46435
+2010	United Arab Emirates	2137.9701
+2010	Mexico	2134.50923
+2010	Netherlands	1937.52216
+2010	Ukraine	1877.3454
+2010	France	1699.00465
+2010	Egypt	1630.1404
+2010	Uzbekistan	1614.28397
+2010	Thailand	1592.0002
+2010	Argentina	1528.78635
+2010	Korea, South	1514.62504
+2010	Indonesia	1460.27525
+2010	Pakistan	1399.53345
+2010	Turkey	1346.17249
+2010	Spain	1265.15988
+2010	Malaysia	1144.9123
+2010	Australia	1141.45143
+2010	Algeria	1017.7783
+2010	Brazil	889.938
+2010	Trinidad and Tobago	779.7552
+2010	Belarus	770.5733
+2010	Qatar	769.867
+2010	Venezuela	747.75981
+2010	Turkmenistan	720.426
+2010	Belgium	716.29415
+2010	Bangladesh	710.89095
+2010	Oman	618.7188
+2010	Poland	607.31206
+2010	Taiwan	535.3754
+2010	Romania	454.50405
+2010	Kuwait	445.78125
+2010	Bahrain	432.60875
+2010	Hungary	425.61638
+2010	Azerbaijan	350.36012
+2010	Syria	340.08345
+2010	Austria	334.99809
+2010	Czech Republic	327.7232
+2010	Colombia	320.6602
+2010	Kazakhstan	303.24991
+2010	Singapore	296.646
+2010	Vietnam	289.93615
+2010	Libya	241.69586
+2010	Slovakia	221.10722
+2010	Norway	203.4144
+2010	Ireland	201.40145
+2010	Peru	191.05415
+2010	Chile	187.80517
+2010	Portugal	182.04883
+2010	Nigeria	175.51555
+2010	Denmark	174.70331
+2010	Finland	166.2277
+2010	New Zealand	147.22824
+2010	Hong Kong	141.9663
+2010	South Africa	141.61315
+2010	Greece	134.51484
+2010	Switzerland	130.02983
+2010	Israel	128.89975
+2010	Burma (Myanmar)	116.18635
+2010	Tunisia	115.8332
+2010	Lithuania	109.4765
+2010	Brunei	104.88555
+2010	Philippines	101.0009
+2010	Croatia	100.25929
+2010	Jordan	96.7631
+2010	Bolivia	96.0568
+2010	Serbia	79.8119
+2010	Bulgaria	76.63355
+2010	Moldova	76.63355
+2010	Armenia	61.09495
+2010	Sweden	59.082
+2010	Georgia	58.26975
+2010	Cote dIvoire (IvoryCoast)	56.504
+2010	Equatorial Guinea	55.7977
+2010	Latvia	53.6788
+2010	Luxembourg	48.16966
+2010	Iraq	45.9095
+2010	Cuba	40.61225
+2010	Slovenia	37.4339
+2010	Congo (Brazzaville)	32.84295
+2010	Dominican Republic	28.9583
+2010	Tanzania	27.5457
+2010	Puerto Rico	27.153
+2010	Yemen	26.8394
+2010	Angola	25.8859
+2010	Estonia	24.75582
+2010	Morocco	20.12955
+2010	Kyrgyzstan	16.33319
+2010	Ecuador	11.65395
+2010	Tajikistan	7.98119
+2010	Bosnia and Herzegovina	7.41615
+2010	Ghana	4.2378
+2010	Papua New Guinea	3.88465
+2010	Uruguay	2.8252
+2010	Macedonia	2.8252
+2010	Gabon	2.8252
+2010	Mozambique	2.8252
+2010	Senegal	1.76575
+2010	Albania	1.05945
+2010	Afghanistan	1.05945
+2010	Barbados	1.03
+2010	Cameroon	0.7063
+2011	United States	24365
+2011	Russia	17894.1105
+2011	China	4623.54575
+2011	Japan	3976.04522
+2011	Canada	3648.42797
+2011	Saudi Arabia	3504.30745
+2011	United Kingdom	2903.42273
+2011	Germany	2789.60248
+2011	Italy	2748.63708
+2011	India	2157.7465
+2011	Mexico	2088.95288
+2011	Netherlands	1732.27138
+2011	Korea, South	1620.9585
+2011	Turkey	1579.0396
+2011	France	1466.24349
+2011	Spain	1184.99483
+2011	Venezuela	1168.9265
+2011	Australia	973.45798
+2011	Brazil	942.9105
+2011	Poland	606.39387
+2011	Belgium	475.37522
+2011	Hungary	397.11718
+2011	Austria	318.36473
+2011	Czech Republic	315.85736
+2011	Slovakia	228.41742
+2011	Portugal	184.06178
+2011	Ireland	175.90402
+2011	Norway	169.82984
+2011	Greece	167.28716
+2011	New Zealand	151.07757
+2011	Denmark	147.58139
+2011	Finland	144.82682
+2011	Hong Kong	112.83143
+2011	Switzerland	111.77198
+2011	Sweden	45.76824
+2011	Luxembourg	41.77765

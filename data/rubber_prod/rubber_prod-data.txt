@@ -1,0 +1,1387 @@
+1961	Malaysia	789679
+1961	Indonesia	693200
+1961	Thailand	186100
+1961	Sri Lanka	97588
+1961	Viet Nam	78100
+1961	Nigeria	58000
+1961	Liberia	41205
+1961	Cambodia	39980
+1961	Democratic Republic of the Congo	38400
+1961	India	26992
+1961	Brazil	22736
+1961	Myanmar	13209
+1961	Cameroon	8900
+1961	Papua New Guinea	4339
+1961	China	3900
+1961	Philippines	3700
+1961	Guatemala	3500
+1961	Peru	2682
+1961	Brunei Darussalam	2020
+1961	Bolivia (Plurinational State of)	2000
+1961	Singapore	1602
+1961	Central African Republic	531
+1961	Colombia	500
+1961	Ghana	415
+1961	Timor-Leste	300
+1961	Costa Rica	200
+1961	Congo	110
+1961	Guinea-Bissau	100
+1961	Côte d'Ivoire	82
+1962	Malaysia	793561
+1962	Indonesia	690300
+1962	Thailand	195400
+1962	Sri Lanka	104046
+1962	Viet Nam	82870
+1962	Nigeria	62000
+1962	Liberia	45392
+1962	Cambodia	41559
+1962	Democratic Republic of the Congo	38200
+1962	India	31357
+1962	Brazil	21631
+1962	Myanmar	15081
+1962	Cameroon	8800
+1962	China	5100
+1962	Papua New Guinea	4576
+1962	Philippines	4500
+1962	Guatemala	3500
+1962	Peru	3387
+1962	Bolivia (Plurinational State of)	2000
+1962	Brunei Darussalam	1730
+1962	Singapore	1617
+1962	Central African Republic	691
+1962	Colombia	500
+1962	Ghana	360
+1962	Timor-Leste	300
+1962	Costa Rica	210
+1962	Côte d'Ivoire	205
+1962	Congo	155
+1962	Guinea-Bissau	100
+1963	Malaysia	830956
+1963	Indonesia	698900
+1963	Thailand	198300
+1963	Sri Lanka	104751
+1963	Viet Nam	81180
+1963	Nigeria	66000
+1963	Liberia	41342
+1963	Democratic Republic of the Congo	41100
+1963	Cambodia	40755
+1963	India	37200
+1963	Brazil	20558
+1963	Cameroon	16200
+1963	Myanmar	14225
+1963	China	6700
+1963	Philippines	5200
+1963	Papua New Guinea	4836
+1963	Guatemala	3600
+1963	Peru	3222
+1963	Singapore	1775
+1963	Bolivia (Plurinational State of)	1600
+1963	Brunei Darussalam	1390
+1963	Central African Republic	976
+1963	Ghana	558
+1963	Côte d'Ivoire	551
+1963	Colombia	500
+1963	Timor-Leste	223
+1963	Congo	155
+1963	Costa Rica	149
+1963	Guinea-Bissau	100
+1964	Malaysia	870761
+1964	Indonesia	696800
+1964	Thailand	210600
+1964	Sri Lanka	111562
+1964	Viet Nam	79200
+1964	Nigeria	75000
+1964	Cambodia	45759
+1964	India	44248
+1964	Liberia	43315
+1964	Democratic Republic of the Congo	34500
+1964	Brazil	28323
+1964	Myanmar	13390
+1964	Cameroon	9830
+1964	Philippines	6002
+1964	Papua New Guinea	5020
+1964	Guatemala	3700
+1964	Peru	2698
+1964	Bolivia (Plurinational State of)	2100
+1964	Côte d'Ivoire	2045
+1964	Brunei Darussalam	1570
+1964	Singapore	1524
+1964	Ghana	1199
+1964	China	1100
+1964	Central African Republic	988
+1964	Colombia	500
+1964	Timor-Leste	238
+1964	Guinea-Bissau	200
+1964	Costa Rica	158
+1964	Congo	155
+1965	Malaysia	916906
+1965	Indonesia	723000
+1965	Thailand	217400
+1965	Sri Lanka	118311
+1965	Nigeria	71000
+1965	Viet Nam	64800
+1965	Liberia	52654
+1965	India	49387
+1965	Cambodia	48781
+1965	Brazil	29290
+1965	Democratic Republic of the Congo	23700
+1965	China	16600
+1965	Myanmar	13189
+1965	Cameroon	9300
+1965	Philippines	5942
+1965	Papua New Guinea	5266
+1965	Guatemala	3800
+1965	Côte d'Ivoire	3552
+1965	Bolivia (Plurinational State of)	2562
+1965	Peru	2428
+1965	Singapore	1524
+1965	Central African Republic	1120
+1965	Brunei Darussalam	951
+1965	Ghana	914
+1965	Colombia	500
+1965	Guinea-Bissau	394
+1965	Timor-Leste	243
+1965	Congo	200
+1965	Costa Rica	103
+1966	Malaysia	972838
+1966	Indonesia	736675
+1966	Thailand	218100
+1966	Sri Lanka	131015
+1966	Nigeria	73500
+1966	Liberia	55278
+1966	India	53195
+1966	Cambodia	51065
+1966	Viet Nam	49500
+1966	Democratic Republic of the Congo	28200
+1966	Brazil	24347
+1966	China	23000
+1966	Myanmar	11847
+1966	Cameroon	11670
+1966	Philippines	6370
+1966	Papua New Guinea	6200
+1966	Côte d'Ivoire	4959
+1966	Guatemala	3900
+1966	Peru	2035
+1966	Bolivia (Plurinational State of)	2019
+1966	Singapore	1522
+1966	Ghana	1016
+1966	Central African Republic	995
+1966	Brunei Darussalam	757
+1966	Colombia	500
+1966	Timor-Leste	204
+1966	Congo	200
+1966	Costa Rica	100
+1966	Guinea-Bissau	82
+1967	Malaysia	990449
+1967	Indonesia	709251
+1967	Thailand	219300
+1967	Sri Lanka	143204
+1967	Liberia	62590
+1967	India	62502
+1967	Cambodia	52982
+1967	Nigeria	52000
+1967	Viet Nam	47310
+1967	Democratic Republic of the Congo	30900
+1967	China	25100
+1967	Brazil	21494
+1967	Cameroon	12840
+1967	Myanmar	11248
+1967	Philippines	6512
+1967	Côte d'Ivoire	5857
+1967	Papua New Guinea	5525
+1967	Guatemala	3988
+1967	Bolivia (Plurinational State of)	2505
+1967	Peru	2000
+1967	Singapore	1686
+1967	Ghana	1016
+1967	Timor-Leste	1014
+1967	Central African Republic	791
+1967	Brunei Darussalam	514
+1967	Colombia	500
+1967	Congo	250
+1967	Guinea-Bissau	100
+1967	Costa Rica	70
+1968	Malaysia	1100290
+1968	Indonesia	755640
+1968	Thailand	257800
+1968	Sri Lanka	148719
+1968	India	68844
+1968	Liberia	64693
+1968	Nigeria	55750
+1968	Cambodia	49060
+1968	Democratic Republic of the Congo	40900
+1968	Viet Nam	34295
+1968	Brazil	22958
+1968	China	21500
+1968	Myanmar	12113
+1968	Cameroon	10311
+1968	Côte d'Ivoire	6870
+1968	Papua New Guinea	5816
+1968	Philippines	4700
+1968	Guatemala	4420
+1968	Bolivia (Plurinational State of)	1768
+1968	Singapore	1761
+1968	Ghana	1524
+1968	Central African Republic	810
+1968	Colombia	600
+1968	Congo	250
+1968	Brunei Darussalam	217
+1968	Guinea-Bissau	80
+1968	Timor-Leste	44
+1968	Costa Rica	30
+1969	Malaysia	1268020
+1969	Indonesia	773433
+1969	Thailand	281800
+1969	Sri Lanka	150834
+1969	India	79951
+1969	Liberia	65633
+1969	Nigeria	60750
+1969	Cambodia	45983
+1969	Democratic Republic of the Congo	45000
+1969	China	32400
+1969	Viet Nam	31850
+1969	Brazil	23950
+1969	Myanmar	12215
+1969	Cameroon	11541
+1969	Côte d'Ivoire	8656
+1969	Philippines	6100
+1969	Papua New Guinea	5969
+1969	Guatemala	4900
+1969	Bolivia (Plurinational State of)	3000
+1969	Singapore	2540
+1969	Ghana	2000
+1969	Central African Republic	1210
+1969	Colombia	800
+1969	Brunei Darussalam	404
+1969	Congo	300
+1969	Guinea-Bissau	80
+1969	Timor-Leste	16
+1970	Malaysia	1269350
+1970	Indonesia	802146
+1970	Thailand	287200
+1970	Sri Lanka	159158
+1970	India	89905
+1970	Liberia	83415
+1970	Nigeria	65250
+1970	China	46200
+1970	Democratic Republic of the Congo	42400
+1970	Viet Nam	33000
+1970	Brazil	24976
+1970	Myanmar	12904
+1970	Cambodia	12763
+1970	Cameroon	12229
+1970	Côte d'Ivoire	10927
+1970	Ghana	9000
+1970	Philippines	6300
+1970	Papua New Guinea	5302
+1970	Guatemala	4867
+1970	Bolivia (Plurinational State of)	3450
+1970	Singapore	2012
+1970	Timor-Leste	1114
+1970	Central African Republic	805
+1970	Colombia	800
+1970	Congo	400
+1970	Brunei Darussalam	344
+1970	Guinea-Bissau	80
+1971	Malaysia	1318610
+1971	Indonesia	780946
+1971	Thailand	316300
+1971	Sri Lanka	140501
+1971	India	92200
+1971	Liberia	84575
+1971	Nigeria	61750
+1971	China	52400
+1971	Democratic Republic of the Congo	40500
+1971	Viet Nam	37500
+1971	Brazil	24231
+1971	Cameroon	14356
+1971	Côte d'Ivoire	13493
+1971	Myanmar	13417
+1971	Cambodia	11000
+1971	Ghana	9000
+1971	Philippines	7000
+1971	Papua New Guinea	5907
+1971	Guatemala	5000
+1971	Bolivia (Plurinational State of)	2900
+1971	Singapore	1680
+1971	Timor-Leste	1003
+1971	Colombia	800
+1971	Central African Republic	586
+1971	Congo	500
+1971	Brunei Darussalam	166
+1971	Guinea-Bissau	80
+1972	Malaysia	1304360
+1972	Indonesia	800090
+1972	Thailand	336900
+1972	Sri Lanka	143232
+1972	India	101200
+1972	Liberia	83289
+1972	Nigeria	57199
+1972	China	49900
+1972	Democratic Republic of the Congo	38800
+1972	Brazil	25818
+1972	Viet Nam	22994
+1972	Cameroon	17252
+1972	Cambodia	15312
+1972	Côte d'Ivoire	14208
+1972	Myanmar	14114
+1972	Ghana	9400
+1972	Philippines	7200
+1972	Papua New Guinea	5589
+1972	Guatemala	5142
+1972	Bolivia (Plurinational State of)	3000
+1972	Singapore	1530
+1972	Colombia	800
+1972	Central African Republic	682
+1972	Congo	500
+1972	Timor-Leste	121
+1972	Guinea-Bissau	80
+1972	Brunei Darussalam	70
+1973	Malaysia	1542520
+1973	Indonesia	844255
+1973	Thailand	367700
+1973	Sri Lanka	154675
+1973	India	112400
+1973	Liberia	86000
+1973	Nigeria	66250
+1973	China	54300
+1973	Democratic Republic of the Congo	33000
+1973	Brazil	23402
+1973	Viet Nam	20600
+1973	Cameroon	17982
+1973	Cambodia	16500
+1973	Myanmar	15205
+1973	Côte d'Ivoire	14958
+1973	Ghana	10300
+1973	Philippines	7600
+1973	Papua New Guinea	5845
+1973	Guatemala	5216
+1973	Bolivia (Plurinational State of)	2000
+1973	Singapore	1205
+1973	Timor-Leste	1035
+1973	Central African Republic	513
+1973	Congo	500
+1973	Brunei Darussalam	363
+1973	Guinea-Bissau	80
+1974	Malaysia	1524800
+1974	Indonesia	816482
+1974	Thailand	382100
+1974	Sri Lanka	132007
+1974	India	125200
+1974	Liberia	88500
+1974	Nigeria	78000
+1974	China	46800
+1974	Democratic Republic of the Congo	31500
+1974	Viet Nam	21979
+1974	Brazil	18606
+1974	Cambodia	17750
+1974	Côte d'Ivoire	16084
+1974	Myanmar	15421
+1974	Cameroon	10500
+1974	Ghana	9900
+1974	Philippines	9400
+1974	Papua New Guinea	6299
+1974	Guatemala	5046
+1974	Bolivia (Plurinational State of)	2400
+1974	Singapore	975
+1974	Congo	700
+1974	Central African Republic	614
+1974	Brunei Darussalam	356
+1974	Timor-Leste	150
+1974	Guinea-Bissau	80
+1975	Malaysia	1459330
+1975	Indonesia	789847
+1975	Thailand	348700
+1975	Sri Lanka	148751
+1975	India	130100
+1975	Liberia	82300
+1975	China	68600
+1975	Nigeria	67750
+1975	Democratic Republic of the Congo	28800
+1975	Viet Nam	24200
+1975	Brazil	19348
+1975	Cameroon	16280
+1975	Côte d'Ivoire	16043
+1975	Myanmar	15154
+1975	Philippines	15000
+1975	Ghana	10300
+1975	Cambodia	10000
+1975	Guatemala	7852
+1975	Papua New Guinea	5555
+1975	Bolivia (Plurinational State of)	2650
+1975	Singapore	864
+1975	Congo	800
+1975	Central African Republic	550
+1975	Brunei Darussalam	400
+1975	Guinea-Bissau	80
+1976	Malaysia	1612480
+1976	Indonesia	856548
+1976	Thailand	392500
+1976	Sri Lanka	152134
+1976	India	137800
+1976	Liberia	84500
+1976	China	78800
+1976	Nigeria	52500
+1976	Viet Nam	40226
+1976	Democratic Republic of the Congo	31100
+1976	Cambodia	21000
+1976	Brazil	20298
+1976	Philippines	19000
+1976	Cameroon	18385
+1976	Côte d'Ivoire	16435
+1976	Myanmar	14515
+1976	Ghana	10100
+1976	Guatemala	8349
+1976	Papua New Guinea	4059
+1976	Bolivia (Plurinational State of)	3185
+1976	Congo	1000
+1976	Central African Republic	600
+1976	Singapore	423
+1976	Brunei Darussalam	308
+1976	Guinea-Bissau	80
+1977	Malaysia	1588050
+1977	Indonesia	853978
+1977	Thailand	430900
+1977	India	149600
+1977	Sri Lanka	146243
+1977	China	91700
+1977	Liberia	77800
+1977	Nigeria	59250
+1977	Viet Nam	43348
+1977	Democratic Republic of the Congo	29300
+1977	Brazil	22560
+1977	Philippines	19200
+1977	Cameroon	17932
+1977	Côte d'Ivoire	17374
+1977	Cambodia	15000
+1977	Myanmar	14940
+1977	Ghana	9200
+1977	Guatemala	8473
+1977	Bolivia (Plurinational State of)	4500
+1977	Papua New Guinea	3903
+1977	Congo	1400
+1977	Central African Republic	600
+1977	Ecuador	476
+1977	Brunei Darussalam	160
+1977	Guinea-Bissau	80
+1977	Singapore	45
+1978	Malaysia	1582450
+1978	Indonesia	884982
+1978	Thailand	467000
+1978	Sri Lanka	155662
+1978	India	147000
+1978	China	101600
+1978	Liberia	78000
+1978	Nigeria	57500
+1978	Viet Nam	41389
+1978	Brazil	23708
+1978	Democratic Republic of the Congo	20649
+1978	Côte d'Ivoire	18704
+1978	Philippines	18000
+1978	Cambodia	18000
+1978	Cameroon	15520
+1978	Myanmar	15021
+1978	Ghana	9200
+1978	Guatemala	8970
+1978	Bolivia (Plurinational State of)	4800
+1978	Papua New Guinea	3000
+1978	Congo	1500
+1978	Ecuador	710
+1978	Central African Republic	500
+1978	Brunei Darussalam	145
+1978	Guinea-Bissau	80
+1978	Singapore	40
+1979	Malaysia	1570130
+1979	Indonesia	963939
+1979	Thailand	534300
+1979	Sri Lanka	152704
+1979	India	135400
+1979	China	108300
+1979	Liberia	78900
+1979	Nigeria	56000
+1979	Viet Nam	42505
+1979	Brazil	24959
+1979	Democratic Republic of the Congo	20653
+1979	Philippines	19400
+1979	Côte d'Ivoire	19284
+1979	Cameroon	16594
+1979	Myanmar	15443
+1979	Guatemala	10350
+1979	Cambodia	10000
+1979	Ghana	9200
+1979	Bolivia (Plurinational State of)	4700
+1979	Papua New Guinea	4260
+1979	Congo	1600
+1979	Central African Republic	600
+1979	Ecuador	522
+1979	Brunei Darussalam	140
+1979	Guinea-Bissau	80
+1979	Singapore	40
+1980	Malaysia	1530000
+1980	Indonesia	1020000
+1980	Thailand	465200
+1980	India	148400
+1980	Sri Lanka	133151
+1980	China	113000
+1980	Liberia	81400
+1980	Nigeria	45000
+1980	Viet Nam	41000
+1980	Brazil	27813
+1980	Philippines	22400
+1980	Côte d'Ivoire	21626
+1980	Democratic Republic of the Congo	20468
+1980	Cameroon	17365
+1980	Myanmar	15686
+1980	Ghana	11200
+1980	Guatemala	10340
+1980	Cambodia	6000
+1980	Mexico	5527
+1980	Bolivia (Plurinational State of)	4800
+1980	Papua New Guinea	4563
+1980	Congo	1744
+1980	Central African Republic	600
+1980	Ecuador	520
+1980	Brunei Darussalam	195
+1980	Guinea-Bissau	80
+1980	Singapore	30
+1981	Malaysia	1510220
+1981	Indonesia	963238
+1981	Thailand	507700
+1981	India	153100
+1981	China	127700
+1981	Sri Lanka	123946
+1981	Liberia	82300
+1981	Nigeria	60000
+1981	Viet Nam	43578
+1981	Brazil	30257
+1981	Philippines	23800
+1981	Côte d'Ivoire	23464
+1981	Democratic Republic of the Congo	21495
+1981	Cameroon	17566
+1981	Myanmar	15835
+1981	Guatemala	11900
+1981	Mexico	10531
+1981	Ghana	10100
+1981	Cambodia	5000
+1981	Bolivia (Plurinational State of)	4800
+1981	Papua New Guinea	4543
+1981	Congo	1800
+1981	Central African Republic	800
+1981	Ecuador	781
+1981	Brunei Darussalam	185
+1981	Guinea-Bissau	80
+1981	Singapore	20
+1982	Malaysia	1494180
+1982	Indonesia	899214
+1982	Thailand	576000
+1982	India	152900
+1982	China	152600
+1982	Sri Lanka	125230
+1982	Liberia	75000
+1982	Nigeria	50000
+1982	Viet Nam	46018
+1982	Brazil	32795
+1982	Côte d'Ivoire	26728
+1982	Philippines	26000
+1982	Democratic Republic of the Congo	22585
+1982	Myanmar	16027
+1982	Cameroon	15995
+1982	Guatemala	12328
+1982	Mexico	10175
+1982	Ghana	9000
+1982	Cambodia	7550
+1982	Bolivia (Plurinational State of)	5000
+1982	Papua New Guinea	4301
+1982	Congo	1850
+1982	Central African Republic	1000
+1982	Ecuador	923
+1982	Brunei Darussalam	175
+1982	Guinea-Bissau	80
+1982	Singapore	17
+1983	Malaysia	1563720
+1983	Indonesia	1006980
+1983	Thailand	593900
+1983	China	172400
+1983	India	165900
+1983	Sri Lanka	139997
+1983	Liberia	81000
+1983	Viet Nam	47215
+1983	Nigeria	45000
+1983	Philippines	40500
+1983	Brazil	35220
+1983	Côte d'Ivoire	28899
+1983	Democratic Republic of the Congo	23705
+1983	Myanmar	17108
+1983	Cameroon	16413
+1983	Guatemala	12364
+1983	Cambodia	12000
+1983	Mexico	10612
+1983	Ghana	8900
+1983	Bolivia (Plurinational State of)	5000
+1983	Papua New Guinea	4400
+1983	Congo	1900
+1983	Central African Republic	1200
+1983	Ecuador	1061
+1983	Brunei Darussalam	170
+1983	Singapore	8
+1984	Malaysia	1530580
+1984	Indonesia	1032600
+1984	Thailand	617200
+1984	China	188779
+1984	India	175300
+1984	Sri Lanka	141924
+1984	Liberia	93517
+1984	Nigeria	58000
+1984	Viet Nam	47225
+1984	Philippines	43300
+1984	Brazil	36006
+1984	Côte d'Ivoire	34056
+1984	Cameroon	17679
+1984	Democratic Republic of the Congo	16000
+1984	Myanmar	15760
+1984	Cambodia	13000
+1984	Guatemala	12374
+1984	Mexico	11748
+1984	Bolivia (Plurinational State of)	5200
+1984	Papua New Guinea	4693
+1984	Congo	1900
+1984	Ecuador	1795
+1984	Ghana	1000
+1984	Central African Republic	1000
+1984	Brunei Darussalam	170
+1985	Malaysia	1469450
+1985	Indonesia	1054970
+1985	Thailand	773000
+1985	China	187900
+1985	India	186500
+1985	Sri Lanka	137493
+1985	Liberia	97067
+1985	Nigeria	60000
+1985	Viet Nam	47867
+1985	Philippines	44000
+1985	Brazil	40371
+1985	Côte d'Ivoire	38789
+1985	Cambodia	22000
+1985	Cameroon	18469
+1985	Myanmar	15550
+1985	Democratic Republic of the Congo	15000
+1985	Guatemala	11320
+1985	Mexico	11251
+1985	Papua New Guinea	5019
+1985	Bolivia (Plurinational State of)	5000
+1985	Congo	2000
+1985	Ecuador	1806
+1985	Ghana	1000
+1985	Central African Republic	1000
+1985	Brunei Darussalam	180
+1986	Malaysia	1538640
+1986	Indonesia	1113130
+1986	Thailand	956000
+1986	China	209709
+1986	India	200500
+1986	Sri Lanka	137810
+1986	Liberia	100692
+1986	Nigeria	60000
+1986	Viet Nam	50000
+1986	Philippines	48200
+1986	Côte d'Ivoire	46814
+1986	Brazil	37603
+1986	Cambodia	24000
+1986	Cameroon	19900
+1986	Democratic Republic of the Congo	17560
+1986	Myanmar	15069
+1986	Mexico	13388
+1986	Guatemala	11612
+1986	Papua New Guinea	5105
+1986	Bolivia (Plurinational State of)	4500
+1986	Ecuador	2415
+1986	Congo	2000
+1986	Ghana	1000
+1986	Central African Republic	1000
+1986	Brunei Darussalam	180
+1987	Malaysia	1578700
+1987	Indonesia	1130350
+1987	Thailand	1067000
+1987	China	238000
+1987	India	219500
+1987	Sri Lanka	121806
+1987	Liberia	106800
+1987	Nigeria	55300
+1987	Côte d'Ivoire	54577
+1987	Viet Nam	51700
+1987	Philippines	48600
+1987	Brazil	26588
+1987	Cameroon	26300
+1987	Cambodia	25000
+1987	Democratic Republic of the Congo	17000
+1987	Myanmar	15031
+1987	Mexico	14950
+1987	Guatemala	13680
+1987	Papua New Guinea	4252
+1987	Bolivia (Plurinational State of)	3600
+1987	Congo	2000
+1987	Ghana	1300
+1987	Ecuador	1232
+1987	Central African Republic	1000
+1987	Brunei Darussalam	185
+1988	Malaysia	1661600
+1988	Indonesia	1173300
+1988	Thailand	1159000
+1988	China	240000
+1988	India	235200
+1988	Sri Lanka	122393
+1988	Liberia	108400
+1988	Nigeria	80500
+1988	Côte d'Ivoire	60957
+1988	Philippines	51600
+1988	Viet Nam	49700
+1988	Cameroon	33200
+1988	Brazil	32916
+1988	Cambodia	26500
+1988	Mexico	20438
+1988	Democratic Republic of the Congo	14960
+1988	Myanmar	14885
+1988	Guatemala	14660
+1988	Bolivia (Plurinational State of)	7000
+1988	Papua New Guinea	4921
+1988	Congo	2000
+1988	Ghana	1500
+1988	Gabon	1500
+1988	Ecuador	1058
+1988	Central African Republic	1000
+1988	Brunei Darussalam	188
+1989	Malaysia	1415300
+1989	Thailand	1311000
+1989	Indonesia	1209040
+1989	India	259200
+1989	China	242766
+1989	Nigeria	132000
+1989	Sri Lanka	110968
+1989	Liberia	106000
+1989	Côte d'Ivoire	66960
+1989	Philippines	56700
+1989	Viet Nam	50600
+1989	Cameroon	35900
+1989	Brazil	30657
+1989	Cambodia	28000
+1989	Mexico	21943
+1989	Guatemala	15500
+1989	Democratic Republic of the Congo	14790
+1989	Myanmar	14377
+1989	Bolivia (Plurinational State of)	7900
+1989	Papua New Guinea	5052
+1989	Ghana	2900
+1989	Congo	2000
+1989	Gabon	1900
+1989	Ecuador	1267
+1989	Central African Republic	1000
+1989	Brunei Darussalam	185
+1990	Thailand	1418000
+1990	Malaysia	1291500
+1990	Indonesia	1275300
+1990	India	297300
+1990	China	264248
+1990	Nigeria	147000
+1990	Sri Lanka	113096
+1990	Côte d'Ivoire	74034
+1990	Philippines	61179
+1990	Viet Nam	57939
+1990	Liberia	40000
+1990	Cameroon	37222
+1990	Cambodia	32000
+1990	Brazil	24284
+1990	Mexico	22574
+1990	Guatemala	18080
+1990	Myanmar	14805
+1990	Democratic Republic of the Congo	12790
+1990	Bolivia (Plurinational State of)	7500
+1990	Ghana	3600
+1990	Papua New Guinea	3223
+1990	Gabon	2000
+1990	Congo	1973
+1990	Ecuador	1715
+1990	Guinea	1500
+1990	Bangladesh	1300
+1990	Central African Republic	987
+1990	Brunei Darussalam	180
+1990	Dominican Republic	40
+1991	Thailand	1505000
+1991	Indonesia	1328170
+1991	Malaysia	1257200
+1991	India	329600
+1991	China	296353
+1991	Nigeria	155000
+1991	Sri Lanka	103854
+1991	Côte d'Ivoire	71482
+1991	Viet Nam	64563
+1991	Philippines	59633
+1991	Brazil	48374
+1991	Cameroon	41000
+1991	Cambodia	33000
+1991	Mexico	21362
+1991	Liberia	19000
+1991	Guatemala	18488
+1991	Myanmar	14534
+1991	Democratic Republic of the Congo	11157
+1991	Bolivia (Plurinational State of)	8400
+1991	Ghana	5800
+1991	Papua New Guinea	2772
+1991	Gabon	2086
+1991	Congo	1800
+1991	Guinea	1424
+1991	Ecuador	1250
+1991	Bangladesh	1100
+1991	Central African Republic	1029
+1991	Brunei Darussalam	185
+1991	Dominican Republic	41
+1992	Thailand	1712000
+1992	Indonesia	1398450
+1992	Malaysia	1173200
+1992	India	366700
+1992	China	309348
+1992	Nigeria	129000
+1992	Sri Lanka	106149
+1992	Côte d'Ivoire	72053
+1992	Viet Nam	67000
+1992	Philippines	56931
+1992	Cameroon	43000
+1992	Cambodia	36000
+1992	Brazil	32897
+1992	Liberia	32000
+1992	Mexico	22706
+1992	Guatemala	21536
+1992	Myanmar	15134
+1992	Democratic Republic of the Congo	9738
+1992	Bolivia (Plurinational State of)	8900
+1992	Ghana	7200
+1992	Papua New Guinea	3867
+1992	Gabon	2088
+1992	Congo	1700
+1992	Ecuador	1574
+1992	Bangladesh	1500
+1992	Guinea	1352
+1992	Central African Republic	1040
+1992	Brunei Darussalam	175
+1992	Dominican Republic	36
+1993	Thailand	1811000
+1993	Indonesia	1475440
+1993	Malaysia	1074300
+1993	India	367000
+1993	China	326062
+1993	Nigeria	130000
+1993	Sri Lanka	104200
+1993	Viet Nam	96880
+1993	Côte d'Ivoire	71678
+1993	Philippines	57638
+1993	Cameroon	49700
+1993	Liberia	45000
+1993	Brazil	40663
+1993	Cambodia	36000
+1993	Mexico	28334
+1993	Guatemala	24100
+1993	Myanmar	15531
+1993	Bolivia (Plurinational State of)	9200
+1993	Democratic Republic of the Congo	8497
+1993	Ghana	7000
+1993	Papua New Guinea	4848
+1993	Gabon	2913
+1993	Ecuador	1702
+1993	Congo	1500
+1993	Guinea	1431
+1993	Bangladesh	1300
+1993	Central African Republic	1159
+1993	Brunei Darussalam	170
+1993	Dominican Republic	42
+1994	Thailand	1988000
+1994	Indonesia	1464500
+1994	Malaysia	1100600
+1994	India	394000
+1994	China	374002
+1994	Viet Nam	128771
+1994	Sri Lanka	105301
+1994	Nigeria	105000
+1994	Côte d'Ivoire	71601
+1994	Philippines	59014
+1994	Cameroon	48887
+1994	Brazil	45197
+1994	Cambodia	37000
+1994	Mexico	31527
+1994	Guatemala	25820
+1994	Myanmar	16215
+1994	Liberia	10000
+1994	Bolivia (Plurinational State of)	9500
+1994	Ghana	9000
+1994	Democratic Republic of the Congo	7414
+1994	Papua New Guinea	5023
+1994	Gabon	4044
+1994	Bangladesh	2200
+1994	Ecuador	1845
+1994	Guinea	1550
+1994	Congo	1481
+1994	Central African Republic	1144
+1994	Brunei Darussalam	178
+1994	Dominican Republic	46
+1995	Thailand	2061000
+1995	Indonesia	1532140
+1995	Malaysia	1088900
+1995	India	472000
+1995	China	424025
+1995	Nigeria	125000
+1995	Viet Nam	124700
+1995	Sri Lanka	106717
+1995	Côte d'Ivoire	64251
+1995	Philippines	59934
+1995	Cameroon	54726
+1995	Brazil	44355
+1995	Cambodia	35429
+1995	Guatemala	27789
+1995	Myanmar	27487
+1995	Mexico	18214
+1995	Liberia	13000
+1995	Bolivia (Plurinational State of)	10000
+1995	Ghana	9500
+1995	Papua New Guinea	6510
+1995	Democratic Republic of the Congo	6450
+1995	Gabon	4879
+1995	Bangladesh	3000
+1995	Ecuador	2000
+1995	Guinea	1850
+1995	Congo	1621
+1995	Central African Republic	1252
+1995	Brunei Darussalam	150
+1995	Dominican Republic	41
+1996	Thailand	2120940
+1996	Indonesia	1574030
+1996	Malaysia	1082400
+1996	India	507000
+1996	China	402450
+1996	Viet Nam	142500
+1996	Nigeria	130000
+1996	Sri Lanka	112490
+1996	Côte d'Ivoire	89655
+1996	Philippines	63590
+1996	Cameroon	55968
+1996	Brazil	53437
+1996	Cambodia	40000
+1996	Guatemala	33930
+1996	Liberia	30000
+1996	Myanmar	25800
+1996	Mexico	19716
+1996	Bolivia (Plurinational State of)	10500
+1996	Ghana	8700
+1996	Gabon	7202
+1996	Papua New Guinea	7139
+1996	Democratic Republic of the Congo	5611
+1996	Ecuador	4556
+1996	Bangladesh	3000
+1996	Guinea	2560
+1996	Central African Republic	1304
+1996	Congo	1300
+1996	Brunei Darussalam	154
+1996	Dominican Republic	43
+1997	Thailand	2168720
+1997	Indonesia	1548610
+1997	Malaysia	971100
+1997	India	550000
+1997	China	451970
+1997	Viet Nam	186500
+1997	Nigeria	120000
+1997	Côte d'Ivoire	107985
+1997	Sri Lanka	105783
+1997	Philippines	73032
+1997	Liberia	67200
+1997	Brazil	58400
+1997	Cameroon	57633
+1997	Cambodia	37750
+1997	Guatemala	34578
+1997	Myanmar	25961
+1997	Mexico	22406
+1997	Ghana	10700
+1997	Bolivia (Plurinational State of)	10700
+1997	Gabon	10098
+1997	Democratic Republic of the Congo	5274
+1997	Papua New Guinea	4586
+1997	Guinea	4300
+1997	Ecuador	4000
+1997	Bangladesh	3000
+1997	Central African Republic	1384
+1997	Congo	1380
+1997	Brunei Darussalam	180
+1997	Dominican Republic	46
+1998	Thailand	2162410
+1998	Indonesia	1564320
+1998	Malaysia	885700
+1998	India	605000
+1998	China	462344
+1998	Viet Nam	193500
+1998	Nigeria	123614
+1998	Côte d'Ivoire	105363
+1998	Sri Lanka	95710
+1998	Liberia	75000
+1998	Philippines	73508
+1998	Brazil	66000
+1998	Cameroon	53083
+1998	Cambodia	40820
+1998	Guatemala	35866
+1998	Myanmar	27054
+1998	Mexico	22000
+1998	Gabon	10800
+1998	Bolivia (Plurinational State of)	10691
+1998	Ghana	10600
+1998	Papua New Guinea	7000
+1998	Democratic Republic of the Congo	4957
+1998	Guinea	4950
+1998	Bangladesh	3000
+1998	Ecuador	2279
+1998	Central African Republic	1277
+1998	Congo	1273
+1998	Brunei Darussalam	178
+1998	Dominican Republic	44
+1999	Thailand	2198540
+1999	Indonesia	1604360
+1999	Malaysia	768900
+1999	India	622000
+1999	China	489991
+1999	Viet Nam	248700
+1999	Côte d'Ivoire	118860
+1999	Nigeria	107000
+1999	Liberia	100000
+1999	Sri Lanka	96590
+1999	Philippines	70810
+1999	Brazil	70000
+1999	Cameroon	58387
+1999	Cambodia	45204
+1999	Guatemala	36954
+1999	Mexico	23045
+1999	Myanmar	22939
+1999	Gabon	11795
+1999	Bolivia (Plurinational State of)	11059
+1999	Ghana	10100
+1999	Guinea	6000
+1999	Democratic Republic of the Congo	5000
+1999	Papua New Guinea	4400
+1999	Bangladesh	3000
+1999	Ecuador	2278
+1999	Central African Republic	1395
+1999	Congo	1200
+1999	Brunei Darussalam	195
+1999	Dominican Republic	46
+2000	Thailand	2278650
+2000	Indonesia	1501430
+2000	Malaysia	928000
+2000	India	630000
+2000	China	481571
+2000	Viet Nam	290800
+2000	Côte d'Ivoire	123398
+2000	Nigeria	107000
+2000	Liberia	105000
+2000	Brazil	87800
+2000	Sri Lanka	87640
+2000	Philippines	71382
+2000	Cameroon	58027
+2000	Guatemala	43137
+2000	Cambodia	42370
+2000	Mexico	28085
+2000	Myanmar	26598
+2000	Bolivia (Plurinational State of)	11444
+2000	Gabon	11000
+2000	Ghana	8700
+2000	Guinea	7000
+2000	Democratic Republic of the Congo	4699
+2000	Papua New Guinea	4400
+2000	Ecuador	4218
+2000	Bangladesh	2300
+2000	Central African Republic	1380
+2000	Congo	1187
+2000	Brunei Darussalam	200
+2000	Dominican Republic	56
+2001	Thailand	2522510
+2001	Indonesia	1607460
+2001	Malaysia	882000
+2001	India	631000
+2001	China	477437
+2001	Viet Nam	312600
+2001	Côte d'Ivoire	127923
+2001	Nigeria	108000
+2001	Liberia	107000
+2001	Brazil	88100
+2001	Philippines	87134
+2001	Sri Lanka	86230
+2001	Cameroon	52867
+2001	Guatemala	47450
+2001	Cambodia	38653
+2001	Myanmar	35662
+2001	Mexico	22500
+2001	Bolivia (Plurinational State of)	11500
+2001	Gabon	10010
+2001	Ghana	8500
+2001	Guinea	8000
+2001	Bangladesh	5700
+2001	Democratic Republic of the Congo	4216
+2001	Papua New Guinea	4100
+2001	Ecuador	4012
+2001	Central African Republic	1256
+2001	Congo	1080
+2001	Brunei Darussalam	210
+2001	Dominican Republic	45
+2002	Thailand	2633120
+2002	Indonesia	1630360
+2002	Malaysia	890000
+2002	India	649435
+2002	China	527413
+2002	Viet Nam	298200
+2002	Côte d'Ivoire	135540
+2002	Nigeria	112000
+2002	Liberia	109000
+2002	Brazil	95900
+2002	Sri Lanka	90520
+2002	Philippines	88345
+2002	Cameroon	52000
+2002	Guatemala	49823
+2002	Myanmar	36823
+2002	Cambodia	32704
+2002	Mexico	24189
+2002	Bolivia (Plurinational State of)	12363
+2002	Gabon	8982
+2002	Ghana	8800
+2002	Guinea	8500
+2002	Ecuador	8500
+2002	Bangladesh	5200
+2002	Papua New Guinea	4200
+2002	Democratic Republic of the Congo	3783
+2002	Congo	1350
+2002	Central African Republic	1127
+2002	Brunei Darussalam	213
+2002	Dominican Republic	48
+2003	Thailand	2860090
+2003	Indonesia	1792350
+2003	Malaysia	985600
+2003	India	711650
+2003	China	565045
+2003	Viet Nam	363500
+2003	Nigeria	142000
+2003	Côte d'Ivoire	124502
+2003	Liberia	107000
+2003	Brazil	93790
+2003	Sri Lanka	92010
+2003	Philippines	90413
+2003	Guatemala	49823
+2003	Cameroon	45892
+2003	Myanmar	39100
+2003	Cambodia	32489
+2003	Mexico	26986
+2003	Bolivia (Plurinational State of)	12000
+2003	Guinea	10000
+2003	Ghana	9200
+2003	Ecuador	8938
+2003	Gabon	8407
+2003	Bangladesh	5200
+2003	Papua New Guinea	4100
+2003	Democratic Republic of the Congo	3541
+2003	Congo	1264
+2003	Central African Republic	1055
+2003	Brunei Darussalam	234
+2003	Dominican Republic	46
+2004	Thailand	3006720
+2004	Indonesia	2065820
+2004	Malaysia	1168700
+2004	India	749665
+2004	China	574739
+2004	Viet Nam	419000
+2004	Nigeria	142000
+2004	Côte d'Ivoire	136776
+2004	Liberia	114500
+2004	Philippines	102727
+2004	Brazil	98813
+2004	Sri Lanka	94700
+2004	Cameroon	54523
+2004	Guatemala	50000
+2004	Myanmar	39200
+2004	Mexico	27254
+2004	Cambodia	26056
+2004	Ecuador	12500
+2004	Bolivia (Plurinational State of)	11670
+2004	Gabon	9988
+2004	Ghana	9300
+2004	Guinea	9000
+2004	Bangladesh	5300
+2004	Democratic Republic of the Congo	4967
+2004	Papua New Guinea	4600
+2004	Congo	1502
+2004	Central African Republic	1253
+2004	Brunei Darussalam	250
+2004	Dominican Republic	62
+2005	Thailand	2979720
+2005	Indonesia	2270890
+2005	Malaysia	1126000
+2005	India	802625
+2005	China	513618
+2005	Viet Nam	481600
+2005	Côte d'Ivoire	170089
+2005	Nigeria	158600
+2005	Liberia	111000
+2005	Sri Lanka	104350
+2005	Philippines	104160
+2005	Brazil	103708
+2005	Cameroon	58689
+2005	Guatemala	57000
+2005	Myanmar	51500
+2005	Mexico	24756
+2005	Cambodia	20329
+2005	Ecuador	13500
+2005	Bolivia (Plurinational State of)	11500
+2005	Gabon	10751
+2005	Guinea	10000
+2005	Ghana	10000
+2005	Democratic Republic of the Congo	9762
+2005	Papua New Guinea	5400
+2005	Bangladesh	5200
+2005	Congo	1617
+2005	Central African Republic	1349
+2005	Brunei Darussalam	257
+2005	Dominican Republic	12
+2006	Thailand	3070520
+2006	Indonesia	2637230
+2006	Malaysia	1283600
+2006	India	852895
+2006	Viet Nam	555400
+2006	China	537982
+2006	Côte d'Ivoire	178257
+2006	Nigeria	142500
+2006	Philippines	116013
+2006	Sri Lanka	109140
+2006	Brazil	105434
+2006	Liberia	93500
+2006	Myanmar	63200
+2006	Cameroon	61736
+2006	Guatemala	55000
+2006	Mexico	24145
+2006	Cambodia	21389
+2006	Ecuador	13600
+2006	Bolivia (Plurinational State of)	11800
+2006	Gabon	11309
+2006	Guinea	10500
+2006	Ghana	10500
+2006	Democratic Republic of the Congo	5721
+2006	Papua New Guinea	5500
+2006	Bangladesh	5300
+2006	Congo	1701
+2006	Central African Republic	1419
+2006	Brunei Darussalam	220
+2006	Dominican Republic	12.8
+2007	Thailand	3024210
+2007	Indonesia	2755170
+2007	Malaysia	1199600
+2007	India	825345
+2007	Viet Nam	605800
+2007	China	588380
+2007	Côte d'Ivoire	188532
+2007	Nigeria	143000
+2007	Philippines	133344
+2007	Liberia	120800
+2007	Sri Lanka	117550
+2007	Brazil	113297
+2007	Myanmar	72000
+2007	Guatemala	70000
+2007	Cameroon	46807
+2007	Mexico	27709
+2007	Cambodia	17923
+2007	Ecuador	14000
+2007	Guinea	13500
+2007	Gabon	12000
+2007	Bolivia (Plurinational State of)	12000
+2007	Democratic Republic of the Congo	11787
+2007	Ghana	11000
+2007	Papua New Guinea	7200
+2007	Bangladesh	5195
+2007	Congo	1800
+2007	Central African Republic	1076
+2007	Brunei Darussalam	222
+2007	Dominican Republic	14
+2008	Thailand	3166910
+2008	Indonesia	2751290
+2008	Malaysia	1072400
+2008	India	864000
+2008	Viet Nam	660000
+2008	China	547861
+2008	Côte d'Ivoire	203000
+2008	Philippines	135645
+2008	Sri Lanka	129240
+2008	Brazil	120905
+2008	Nigeria	110424
+2008	Myanmar	87200
+2008	Liberia	84800
+2008	Guatemala	73000
+2008	Cameroon	53477
+2008	Cambodia	31676
+2008	Mexico	28000
+2008	Ghana	16550
+2008	Ecuador	15000
+2008	Guinea	13900
+2008	Gabon	13710
+2008	Bolivia (Plurinational State of)	12806
+2008	Democratic Republic of the Congo	11326
+2008	Papua New Guinea	7900
+2008	Bangladesh	5500
+2008	Congo	1850
+2008	Central African Republic	1229
+2008	Brunei Darussalam	229
+2008	Dominican Republic	15
+2009	Thailand	3090280
+2009	Indonesia	2440350
+2009	Malaysia	857019
+2009	India	830600
+2009	Viet Nam	711300
+2009	China	618866
+2009	Côte d'Ivoire	209524
+2009	Nigeria	145000
+2009	Sri Lanka	136000
+2009	Philippines	129017
+2009	Brazil	126973
+2009	Myanmar	91800
+2009	Guatemala	81000
+2009	Liberia	59500
+2009	Cameroon	52321
+2009	Cambodia	37380
+2009	Mexico	29405
+2009	Ghana	19134
+2009	Ecuador	15400
+2009	Guinea	13600
+2009	Bolivia (Plurinational State of)	13449
+2009	Gabon	13414
+2009	Democratic Republic of the Congo	11326
+2009	Papua New Guinea	7500
+2009	Bangladesh	5700
+2009	Congo	1900
+2009	Central African Republic	1202
+2009	Dominican Republic	221.22
+2009	Brunei Darussalam	219
+2010	Thailand	3051780
+2010	Indonesia	2591940
+2010	Malaysia	858900
+2010	India	851000
+2010	Viet Nam	754482
+2010	China	690812
+2010	Côte d'Ivoire	231451
+2010	Nigeria	143500
+2010	Sri Lanka	139300
+2010	Brazil	133097
+2010	Philippines	130430
+2010	Guatemala	97900
+2010	Liberia	62100
+2010	Cameroon	54864
+2010	Myanmar	44300
+2010	Cambodia	37500
+2010	Mexico	30800
+2010	Ecuador	15400
+2010	Ghana	15000
+2010	Guinea	14000
+2010	Gabon	13700
+2010	Bolivia (Plurinational State of)	13449
+2010	Democratic Republic of the Congo	11500
+2010	Papua New Guinea	7500
+2010	Bangladesh	5800
+2010	Congo	1950
+2010	Central African Republic	1300
+2010	Brunei Darussalam	230
+2010	Dominican Republic	221.22

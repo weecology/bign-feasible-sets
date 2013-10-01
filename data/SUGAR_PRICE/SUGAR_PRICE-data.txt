@@ -1,0 +1,781 @@
+1991	Iran (Islamic Republic of)	675.3
+1991	Japan	152.1
+1991	Cameroon	125.8
+1991	Sudan (former)	125.1
+1991	Congo	124.1
+1991	Ethiopia PDR	106.3
+1991	Mauritius	52.8
+1991	Spain	51.4
+1991	Barbados	45
+1991	Colombia	35.5
+1991	Jamaica	33.5
+1991	Belize	33.5
+1991	Philippines	32.6
+1991	Niger	32
+1991	Rwanda	29.1
+1991	United States of America	29
+1991	Trinidad and Tobago	28.2
+1991	Sri Lanka	27.6
+1991	Bangladesh	27.5
+1991	China	26.7
+1991	Dominican Republic	26.2
+1991	Peru	25.9
+1991	Australia	24.9
+1991	Malaysia	24.7
+1991	Mexico	23.5
+1991	Morocco	22.4
+1991	Côte d'Ivoire	21.3
+1991	Costa Rica	21.2
+1991	South Africa	20.6
+1991	Puerto Rico	20
+1991	Lebanon	20
+1991	Kenya	19
+1991	Egypt	18.5
+1991	Venezuela (Bolivarian Republic of)	18.3
+1991	Nepal	18.3
+1991	India	16.4
+1991	Paraguay	16.2
+1991	Pakistan	16.2
+1991	Panama	16
+1991	El Salvador	15.8
+1991	Thailand	15.7
+1991	Mozambique	15.3
+1991	Bolivia (Plurinational State of)	14.5
+1991	Lao People's Democratic Republic	13.8
+1991	Madagascar	12.8
+1991	Argentina	10.5
+1991	Honduras	9.4
+1991	Brazil	9.4
+1991	Ecuador	0.4
+1992	Iran (Islamic Republic of)	729.3
+1992	Cameroon	181.3
+1992	Japan	161.2
+1992	Congo	132.2
+1992	Ethiopia PDR	85.6
+1992	Niger	78.9
+1992	Mauritius	55.8
+1992	Spain	54.7
+1992	Barbados	49.5
+1992	Jamaica	42.1
+1992	South Africa	33.3
+1992	Belize	32.5
+1992	Peru	32.1
+1992	Rwanda	30.9
+1992	Philippines	30
+1992	Colombia	29.4
+1992	Trinidad and Tobago	28.9
+1992	United States of America	28
+1992	Mexico	26.8
+1992	Malaysia	26.7
+1992	Sri Lanka	26.5
+1992	Argentina	26.2
+1992	Dominican Republic	26.1
+1992	Bangladesh	25.8
+1992	Costa Rica	24.6
+1992	China	23.2
+1992	Morocco	22.8
+1992	Côte d'Ivoire	22.7
+1992	India	20.6
+1992	Australia	20.6
+1992	Venezuela (Bolivarian Republic of)	20.5
+1992	Puerto Rico	20
+1992	Egypt	19.9
+1992	Kenya	19.6
+1992	Sudan (former)	17.7
+1992	Pakistan	16.8
+1992	Nepal	16.6
+1992	Panama	16
+1992	El Salvador	16
+1992	Paraguay	14.7
+1992	Lao People's Democratic Republic	14.1
+1992	Bolivia (Plurinational State of)	13.8
+1992	Madagascar	13.4
+1992	Thailand	13.2
+1992	Mozambique	12.6
+1992	Lebanon	11.9
+1992	Honduras	11.8
+1992	Brazil	9.7
+1992	Ecuador	0.6
+1993	Japan	183.5
+1993	Niger	166
+1993	Congo	123.6
+1993	Ethiopia	59
+1993	Mauritius	49.1
+1993	Iran (Islamic Republic of)	45.6
+1993	Barbados	44.5
+1993	Jamaica	41.8
+1993	Spain	40.7
+1993	Argentina	37
+1993	Rwanda	35
+1993	Belize	32.5
+1993	Colombia	30.8
+1993	South Africa	30.6
+1993	Peru	30.2
+1993	Philippines	29.6
+1993	United States of America	29
+1993	Mexico	27.9
+1993	Malaysia	26.8
+1993	Dominican Republic	26.3
+1993	Bangladesh	25.4
+1993	Costa Rica	25.1
+1993	Trinidad and Tobago	22.6
+1993	Egypt	21.8
+1993	India	21.3
+1993	China	21.3
+1993	Côte d'Ivoire	21.2
+1993	Morocco	21
+1993	Puerto Rico	20
+1993	Australia	19
+1993	Nepal	17.1
+1993	Panama	16
+1993	El Salvador	15.9
+1993	Pakistan	15.7
+1993	Madagascar	15.7
+1993	Sri Lanka	15.3
+1993	Lao People's Democratic Republic	14.7
+1993	Thailand	14.2
+1993	Kenya	14.2
+1993	Venezuela (Bolivarian Republic of)	13.7
+1993	Paraguay	13.4
+1993	Bolivia (Plurinational State of)	13.1
+1993	Mozambique	12.4
+1993	Lebanon	11.7
+1993	Brazil	10.3
+1993	Honduras	10
+1993	Sudan (former)	9.9
+1993	Ecuador	0.7
+1994	Japan	199.7
+1994	Niger	84.7
+1994	Ethiopia	64
+1994	Congo	63
+1994	Mauritius	60.2
+1994	Barbados	46.5
+1994	Rwanda	42.3
+1994	Spain	41.1
+1994	Jamaica	41
+1994	Colombia	40.6
+1994	Argentina	40
+1994	Iran (Islamic Republic of)	39.4
+1994	Philippines	34.6
+1994	Peru	31.9
+1994	Mexico	31.7
+1994	Belize	29.5
+1994	South Africa	29.3
+1994	United States of America	29
+1994	Kenya	27.7
+1994	Costa Rica	26.8
+1994	Malaysia	26.7
+1994	Dominican Republic	25.5
+1994	Bangladesh	25
+1994	Egypt	23.9
+1994	Morocco	22.1
+1994	Australia	21.9
+1994	India	21.6
+1994	Trinidad and Tobago	21.3
+1994	Puerto Rico	20
+1994	Thailand	18.6
+1994	China	17.9
+1994	Sudan (former)	17.6
+1994	Nepal	17
+1994	Paraguay	16.8
+1994	Panama	16
+1994	Lao People's Democratic Republic	15.3
+1994	Côte d'Ivoire	15.3
+1994	Pakistan	14.8
+1994	Madagascar	14.7
+1994	Sri Lanka	14.6
+1994	Venezuela (Bolivarian Republic of)	12.9
+1994	Bolivia (Plurinational State of)	12.8
+1994	Brazil	12.5
+1994	Lebanon	12.1
+1994	Mozambique	11.2
+1994	Honduras	10.1
+1994	Ecuador	1.1
+1995	Puerto Rico	386
+1995	Lebanon	268.3
+1995	Japan	217.4
+1995	Ethiopia	76.3
+1995	Congo	70.1
+1995	Mauritius	69
+1995	Barbados	49
+1995	Philippines	47.9
+1995	Colombia	47.6
+1995	Spain	47.3
+1995	Jamaica	47.2
+1995	Rwanda	39.4
+1995	Iran (Islamic Republic of)	39.4
+1995	Argentina	35
+1995	Belize	32.5
+1995	Peru	31.1
+1995	Kenya	30.2
+1995	United States of America	30
+1995	South Africa	28.9
+1995	Malaysia	28.4
+1995	Australia	26.7
+1995	Egypt	26.5
+1995	Dominican Republic	26.3
+1995	China	26.3
+1995	Bangladesh	25
+1995	Costa Rica	23.9
+1995	Morocco	23.8
+1995	India	23.1
+1995	Trinidad and Tobago	23
+1995	Venezuela (Bolivarian Republic of)	21.4
+1995	Mexico	19.3
+1995	Paraguay	18.8
+1995	Madagascar	17.6
+1995	Thailand	17.5
+1995	Côte d'Ivoire	17
+1995	Nepal	16.5
+1995	Pakistan	16.3
+1995	Panama	16
+1995	Lao People's Democratic Republic	15
+1995	Brazil	14.2
+1995	Sri Lanka	13.5
+1995	Bolivia (Plurinational State of)	13.3
+1995	Sudan (former)	12.8
+1995	Honduras	11.6
+1995	Niger	10
+1995	Mozambique	7.8
+1995	Ecuador	1.4
+1996	Puerto Rico	380
+1996	Lebanon	286.4
+1996	Japan	191.2
+1996	Niger	95.8
+1996	Mauritius	76.7
+1996	Iran (Islamic Republic of)	75.3
+1996	Malaysia	68.9
+1996	Congo	68.4
+1996	Ethiopia	61.4
+1996	Jamaica	50.7
+1996	Barbados	48
+1996	Spain	47.4
+1996	Philippines	47.1
+1996	Colombia	44
+1996	Peru	32.6
+1996	China	31.3
+1996	United States of America	31
+1996	Argentina	31
+1996	Belize	30
+1996	Dominican Republic	29.1
+1996	Egypt	28
+1996	Kenya	27.2
+1996	Costa Rica	27
+1996	Trinidad and Tobago	25.6
+1996	South Africa	25.4
+1996	Morocco	25.2
+1996	Australia	25
+1996	Bangladesh	24
+1996	Madagascar	23.4
+1996	Mexico	23.3
+1996	Nepal	17.8
+1996	India	17.8
+1996	Paraguay	17
+1996	Côte d'Ivoire	16.6
+1996	Lao People's Democratic Republic	16.1
+1996	Panama	16
+1996	Thailand	15.5
+1996	Venezuela (Bolivarian Republic of)	15.1
+1996	Pakistan	15
+1996	Brazil	14.9
+1996	Bolivia (Plurinational State of)	13.4
+1996	Sudan (former)	13.3
+1996	Sri Lanka	13.2
+1996	Honduras	12.5
+1996	Mozambique	11.8
+1996	Ecuador	2
+1997	Jamaica	485
+1997	Puerto Rico	313
+1997	Lebanon	305.3
+1997	Venezuela (Bolivarian Republic of)	298.4
+1997	Lao People's Democratic Republic	277.8
+1997	Japan	166.8
+1997	Madagascar	137.5
+1997	Iran (Islamic Republic of)	111
+1997	Niger	82.2
+1997	Malaysia	61.6
+1997	Ethiopia	61.1
+1997	Mauritius	60.6
+1997	Congo	60
+1997	Barbados	45
+1997	Spain	41.7
+1997	Philippines	41.4
+1997	Colombia	37.9
+1997	Argentina	35
+1997	United States of America	31
+1997	China	30.6
+1997	Peru	30
+1997	Dominican Republic	28.5
+1997	Egypt	28
+1997	Belize	28
+1997	Sudan (former)	27
+1997	Mexico	26.9
+1997	Kenya	26.4
+1997	South Africa	25.8
+1997	Costa Rica	25.3
+1997	Trinidad and Tobago	24.6
+1997	Australia	23.8
+1997	Morocco	23.1
+1997	Bangladesh	22.9
+1997	Côte d'Ivoire	22.3
+1997	India	18.5
+1997	Nepal	17.2
+1997	Paraguay	16.1
+1997	Panama	16
+1997	Brazil	15.8
+1997	Pakistan	14.7
+1997	Sri Lanka	14.2
+1997	Bolivia (Plurinational State of)	13.5
+1997	Honduras	13.2
+1997	Thailand	13
+1997	Mozambique	12.5
+1997	Ecuador	2.4
+1998	Jamaica	456.1
+1998	Venezuela (Bolivarian Republic of)	451.1
+1998	Puerto Rico	313
+1998	Congo	169.5
+1998	Japan	156.2
+1998	Lao People's Democratic Republic	151.6
+1998	Madagascar	137.8
+1998	Iran (Islamic Republic of)	107.3
+1998	Niger	84.8
+1998	Ethiopia	61.8
+1998	Mauritius	60
+1998	Malaysia	46
+1998	Fiji	41.2
+1998	Barbados	41
+1998	Spain	40.8
+1998	Philippines	38.8
+1998	Peru	30.7
+1998	Colombia	30.6
+1998	United States of America	30
+1998	Kenya	28.7
+1998	Egypt	28
+1998	Dominican Republic	28
+1998	Argentina	28
+1998	China	27.5
+1998	Belize	25.5
+1998	Trinidad and Tobago	24.5
+1998	Mexico	24.3
+1998	Costa Rica	23.1
+1998	Morocco	22.9
+1998	South Africa	22.8
+1998	Côte d'Ivoire	22
+1998	Bangladesh	21.4
+1998	Australia	20.1
+1998	Panama	17
+1998	Sudan (former)	15.7
+1998	Nepal	15.1
+1998	Brazil	14.6
+1998	Honduras	14.2
+1998	Sri Lanka	13.5
+1998	Paraguay	13.5
+1998	India	12.8
+1998	Bolivia (Plurinational State of)	12.5
+1998	Thailand	12.2
+1998	Mozambique	12.1
+1998	Ecuador	3.6
+1999	Jamaica	489.1
+1999	Puerto Rico	456
+1999	Venezuela (Bolivarian Republic of)	250.8
+1999	Japan	179.9
+1999	Congo	150.2
+1999	Madagascar	127.3
+1999	Iran (Islamic Republic of)	105.7
+1999	Niger	79.6
+1999	Ethiopia	47.8
+1999	Malaysia	47.6
+1999	Mauritius	47.4
+1999	Philippines	44.8
+1999	Spain	40
+1999	Barbados	37.5
+1999	United States of America	28
+1999	Egypt	28
+1999	Dominican Republic	26.9
+1999	Peru	26.6
+1999	Mexico	25.8
+1999	Fiji	25.8
+1999	Kenya	24.6
+1999	Trinidad and Tobago	24.4
+1999	Costa Rica	24.1
+1999	Colombia	24
+1999	Belize	22.5
+1999	Morocco	22.4
+1999	China	22.1
+1999	Côte d'Ivoire	21.1
+1999	Argentina	21
+1999	Bangladesh	20.5
+1999	South Africa	19.8
+1999	Australia	17.4
+1999	Panama	17
+1999	Nepal	16.1
+1999	Honduras	14.5
+1999	India	13
+1999	Bolivia (Plurinational State of)	12.7
+1999	Sri Lanka	12.5
+1999	Thailand	12.4
+1999	Paraguay	12.2
+1999	Sudan (former)	11.8
+1999	Mozambique	11.3
+1999	Brazil	8.3
+1999	Ecuador	4.6
+2000	Jamaica	447.5
+2000	Puerto Rico	380
+2000	Venezuela (Bolivarian Republic of)	223
+2000	Japan	191.4
+2000	Iran (Islamic Republic of)	131.8
+2000	Congo	129.2
+2000	Niger	71.6
+2000	Madagascar	62.8
+2000	Malaysia	50.1
+2000	Ethiopia	49.9
+2000	Mauritius	49.1
+2000	Spain	34.6
+2000	Philippines	34.1
+2000	Barbados	34
+2000	United States of America	29
+2000	Egypt	27.4
+2000	Trinidad and Tobago	27
+2000	Mexico	27
+2000	Kenya	26.5
+2000	Peru	25.8
+2000	Costa Rica	24.5
+2000	Argentina	23
+2000	Sudan (former)	22.9
+2000	Dominican Republic	22.5
+2000	Belize	21
+2000	Morocco	20.7
+2000	Fiji	20.7
+2000	China	19.6
+2000	Bangladesh	19.3
+2000	Côte d'Ivoire	19
+2000	South Africa	18.9
+2000	Ecuador	18
+2000	Panama	17
+2000	Nepal	16.9
+2000	Colombia	15.7
+2000	Honduras	15.4
+2000	Sri Lanka	13.9
+2000	Australia	13.3
+2000	India	13.2
+2000	Bolivia (Plurinational State of)	12.6
+2000	Paraguay	11.9
+2000	Thailand	11.1
+2000	Brazil	10.4
+2000	Mozambique	9.5
+2001	Puerto Rico	421
+2001	Jamaica	406.5
+2001	Venezuela (Bolivarian Republic of)	227.3
+2001	Japan	167.6
+2001	Iran (Islamic Republic of)	163.1
+2001	Congo	125.5
+2001	Niger	72.3
+2001	Madagascar	66.3
+2001	Mauritius	49.1
+2001	Malaysia	48.2
+2001	Ethiopia	42.6
+2001	Dominican Republic	39
+2001	Spain	36.6
+2001	Barbados	34
+2001	United States of America	32
+2001	Philippines	31.3
+2001	Mexico	31
+2001	Trinidad and Tobago	27.3
+2001	Argentina	27
+2001	Fiji	26.7
+2001	Sudan (former)	26.6
+2001	Costa Rica	25.9
+2001	Kenya	25.6
+2001	Egypt	23.9
+2001	China	23
+2001	Belize	20.5
+2001	Morocco	19.5
+2001	Peru	19.1
+2001	South Africa	18.6
+2001	Côte d'Ivoire	18.4
+2001	Bangladesh	18
+2001	Panama	17
+2001	Honduras	16.3
+2001	Colombia	15.6
+2001	Nepal	15.5
+2001	Ecuador	15
+2001	Sri Lanka	14.7
+2001	India	13.1
+2001	Bolivia (Plurinational State of)	12.3
+2001	Australia	11.9
+2001	Thailand	11.6
+2001	Paraguay	10.9
+2001	Brazil	10.6
+2001	Mozambique	7.1
+2002	Puerto Rico	404
+2002	Jamaica	398.6
+2002	Venezuela (Bolivarian Republic of)	171.6
+2002	Japan	163
+2002	Niger	77.5
+2002	Dominican Republic	57.9
+2002	Madagascar	53.7
+2002	Mauritius	50.1
+2002	Malaysia	50.1
+2002	Iran (Islamic Republic of)	45.5
+2002	Ethiopia	45.5
+2002	Barbados	34
+2002	Spain	33.9
+2002	China	32.3
+2002	Philippines	31.5
+2002	United States of America	31
+2002	Mexico	31
+2002	Trinidad and Tobago	27.2
+2002	Costa Rica	25.9
+2002	Kenya	25.6
+2002	Fiji	24.6
+2002	Egypt	23.3
+2002	Morocco	20
+2002	Ecuador	20
+2002	Côte d'Ivoire	19.4
+2002	Nepal	19.1
+2002	Belize	19
+2002	Bangladesh	17.4
+2002	Panama	17
+2002	Argentina	17
+2002	Australia	16.8
+2002	South Africa	16.3
+2002	Sri Lanka	15.2
+2002	Colombia	15
+2002	Sudan (former)	14.9
+2002	India	14.3
+2002	Honduras	13.7
+2002	Paraguay	11
+2002	Thailand	10.1
+2002	Bolivia (Plurinational State of)	10
+2002	Brazil	8.9
+2002	Mozambique	6.2
+2003	Jamaica	467.6
+2003	Japan	175.1
+2003	Venezuela (Bolivarian Republic of)	174.5
+2003	China	102.7
+2003	Niger	89.5
+2003	Mauritius	56.3
+2003	Malaysia	52
+2003	Spain	45.1
+2003	Ethiopia	44.2
+2003	Madagascar	39.4
+2003	Barbados	37
+2003	United States of America	33
+2003	Fiji	31.7
+2003	Mexico	29.1
+2003	Philippines	28.2
+2003	Trinidad and Tobago	27
+2003	Bangladesh	25.8
+2003	Kenya	23.7
+2003	Morocco	23
+2003	South Africa	22.3
+2003	Belize	21
+2003	Sudan (former)	19.2
+2003	Nepal	18.4
+2003	Australia	18.2
+2003	Egypt	17.9
+2003	Dominican Republic	17
+2003	Sri Lanka	16.6
+2003	India	15.7
+2003	Panama	15
+2003	Ecuador	14
+2003	Colombia	13.8
+2003	Honduras	13.1
+2003	Thailand	11.3
+2003	Argentina	11.2
+2003	Paraguay	10.1
+2003	Brazil	9.8
+2003	Bolivia (Plurinational State of)	9.4
+2004	Jamaica	512.9
+2004	Venezuela (Bolivarian Republic of)	204
+2004	Japan	189.6
+2004	China	108.7
+2004	Mauritius	63.8
+2004	Malaysia	53.9
+2004	Ethiopia	52.7
+2004	Spain	44.8
+2004	Fiji	32
+2004	United States of America	31
+2004	Bangladesh	30.2
+2004	Mexico	29.1
+2004	Morocco	24.8
+2004	South Africa	24.7
+2004	Philippines	24.7
+2004	Kenya	22.7
+2004	Egypt	21
+2004	Sudan (former)	20.9
+2004	Nepal	17.3
+2004	Australia	16.9
+2004	India	16.4
+2004	Colombia	15.9
+2004	Dominican Republic	15.4
+2004	Panama	15
+2004	Honduras	13.8
+2004	Madagascar	12.9
+2004	Ecuador	12
+2004	Argentina	11.4
+2004	Sri Lanka	10.8
+2004	Paraguay	10.8
+2004	Bolivia (Plurinational State of)	10.1
+2004	Brazil	9.8
+2004	Thailand	9.2
+2005	Jamaica	529.1
+2005	Venezuela (Bolivarian Republic of)	321.3
+2005	Japan	176.9
+2005	China	126.9
+2005	Mauritius	62.3
+2005	Malaysia	54.1
+2005	Ethiopia	52.2
+2005	Spain	44.8
+2005	Dominican Republic	35.2
+2005	Fiji	34.4
+2005	Mexico	33.3
+2005	United States of America	31
+2005	Bangladesh	29.5
+2005	Philippines	28.5
+2005	Egypt	27.7
+2005	South Africa	27.3
+2005	Kenya	25.3
+2005	Morocco	24.8
+2005	Sudan (former)	22.6
+2005	Nepal	21.8
+2005	Australia	19.9
+2005	Colombia	18.4
+2005	India	17.2
+2005	Panama	15
+2005	Honduras	14.1
+2005	Paraguay	13.3
+2005	Brazil	13.1
+2005	Thailand	12.9
+2005	Ecuador	12
+2005	Sri Lanka	11.8
+2005	Argentina	11.5
+2005	Bolivia (Plurinational State of)	11
+2006	Jamaica	546
+2006	Venezuela (Bolivarian Republic of)	343.9
+2006	Japan	173.9
+2006	China	149.3
+2006	Mauritius	59
+2006	Ethiopia	54
+2006	Spain	45.7
+2006	Philippines	39.6
+2006	Mexico	34.1
+2006	United States of America	34
+2006	Kenya	28.1
+2006	Egypt	27.9
+2006	Morocco	27.3
+2006	Malaysia	27.3
+2006	South Africa	26.8
+2006	Fiji	24.7
+2006	Nepal	23.1
+2006	Australia	21.1
+2006	Colombia	19
+2006	Thailand	18.2
+2006	Dominican Republic	18.2
+2006	Brazil	18
+2006	India	17.7
+2006	Paraguay	16.9
+2006	Honduras	16
+2006	Panama	15
+2006	Ecuador	14.4
+2006	Bolivia (Plurinational State of)	14.3
+2006	Sri Lanka	13.5
+2006	Argentina	11.9
+2006	Sudan (former)	0.4
+2007	Jamaica	550.6
+2007	Venezuela (Bolivarian Republic of)	355.9
+2007	Japan	173.1
+2007	China	172.2
+2007	Ethiopia	89.4
+2007	Mauritius	61.4
+2007	Spain	49.8
+2007	Sudan (former)	39.7
+2007	Mexico	34.9
+2007	Fiji	34.9
+2007	Dominican Republic	34.3
+2007	Kenya	33.4
+2007	Egypt	32.2
+2007	United States of America	32
+2007	Nepal	28.9
+2007	South Africa	27.8
+2007	Australia	27.7
+2007	Colombia	22.5
+2007	Thailand	19.8
+2007	India	19.6
+2007	Brazil	19.1
+2007	Malaysia	17.5
+2007	Honduras	16.5
+2007	Ecuador	15.8
+2007	Sri Lanka	15.3
+2007	Panama	15
+2007	Bolivia (Plurinational State of)	14.2
+2007	Argentina	12.1
+2008	Jamaica	595.7
+2008	Venezuela (Bolivarian Republic of)	370.7
+2008	Japan	206.5
+2008	China	204.4
+2008	Ethiopia	108.3
+2008	Mauritius	61.4
+2008	Spain	53.2
+2008	Sudan (former)	38.3
+2008	Egypt	36.8
+2008	Mexico	35.9
+2008	Kenya	34.7
+2008	Fiji	33.9
+2008	United States of America	33
+2008	Colombia	26.8
+2008	South Africa	25.5
+2008	Dominican Republic	23.6
+2008	Australia	21.8
+2008	Sri Lanka	19.1
+2008	India	18.6
+2008	Malaysia	18
+2008	Honduras	17.5
+2008	Thailand	17.3
+2008	Brazil	17.3
+2008	Ecuador	16.5
+2008	Bolivia (Plurinational State of)	16.1
+2008	Panama	15
+2008	Argentina	13.5
+2009	Jamaica	528.4
+2009	Japan	223.5
+2009	China	215.2
+2009	Ethiopia	94.6
+2009	Mauritius	48.8
+2009	Panama	48
+2009	Egypt	42.4
+2009	United States of America	38
+2009	Kenya	35.4
+2009	Sudan (former)	34.8
+2009	South Africa	34
+2009	Mexico	28.7
+2009	Colombia	27.7
+2009	Dominican Republic	27.4
+2009	Australia	25.4
+2009	Thailand	20.4
+2009	Sri Lanka	19.1
+2009	Malaysia	18.5
+2009	Brazil	18.5
+2009	Bolivia (Plurinational State of)	16.4
+2009	Argentina	14
+2009	Ecuador	13.4
+2010	Jamaica	466.3
+2010	China	279.2
+2010	Japan	246.2
+2010	Ethiopia	82.7
+2010	Egypt	49.8
+2010	Mexico	49.1
+2010	Panama	48
+2010	United States of America	46
+2010	South Africa	45
+2010	Mauritius	44.4
+2010	Kenya	39.1
+2010	Colombia	36.6
+2010	Sudan (former)	34.8
+2010	Thailand	27.2
+2010	Sri Lanka	26.1
+2010	Malaysia	24.8
+2010	Brazil	24
+2010	Bolivia (Plurinational State of)	23.6
+2010	Ecuador	21.2
+2010	Argentina	15.8

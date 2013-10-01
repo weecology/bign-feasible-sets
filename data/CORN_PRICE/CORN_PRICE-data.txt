@@ -1,0 +1,1971 @@
+1991	Iran (Islamic Republic of)	1798.4
+1991	Sudan (former)	1538.6
+1991	Israel	1123.7
+1991	Yemen	685.9
+1991	Qatar	612.1
+1991	Trinidad and Tobago	548.2
+1991	Switzerland	523
+1991	Jamaica	438.3
+1991	Republic of Korea	356.8
+1991	Madagascar	337.8
+1991	Nigeria	334.8
+1991	Belgium-Luxembourg	329.9
+1991	Cape Verde	313.9
+1991	Mauritius	303.5
+1991	Italy	302.9
+1991	Ethiopia PDR	294.7
+1991	Cameroon	283.6
+1991	Panama	278
+1991	Burundi	270
+1991	Spain	263.9
+1991	Rwanda	259
+1991	Austria	250.9
+1991	Portugal	243.4
+1991	Morocco	242.3
+1991	Peru	234.3
+1991	Mexico	234.2
+1991	Dominican Republic	219.7
+1991	Greece	215.2
+1991	Germany	214.2
+1991	France	213
+1991	Congo	212.7
+1991	Burkina Faso	212.7
+1991	Gambia	211.3
+1991	Togo	205.6
+1991	Netherlands	200.6
+1991	El Salvador	193.6
+1991	Pakistan	192.8
+1991	Guinea	191
+1991	Ghana	188.9
+1991	Costa Rica	183.9
+1991	Colombia	181
+1991	Algeria	173.2
+1991	Bangladesh	166.7
+1991	Namibia	166.6
+1991	Turkey	164.4
+1991	Venezuela (Bolivarian Republic of)	164.1
+1991	Romania	163.5
+1991	Niger	163
+1991	Côte d'Ivoire	159.5
+1991	Belize	146.5
+1991	Chile	145.7
+1991	New Zealand	144.2
+1991	Egypt	140.5
+1991	Bhutan	139.9
+1991	Jordan	139.5
+1991	India	139.5
+1991	Honduras	139
+1991	Indonesia	137.4
+1991	Uruguay	137.2
+1991	Sri Lanka	135.4
+1991	Mali	134.7
+1991	Philippines	133.9
+1991	Mozambique	132.7
+1991	Paraguay	131.3
+1991	South Africa	129.3
+1991	Australia	129.3
+1991	Malaysia	126.2
+1991	Bolivia (Plurinational State of)	124.3
+1991	Lebanon	118.9
+1991	Cambodia	117.5
+1991	Brazil	116.1
+1991	Nepal	115.4
+1991	Lao People's Democratic Republic	106.8
+1991	Thailand	105.4
+1991	Poland	105
+1991	Nicaragua	104.4
+1991	Kenya	104.3
+1991	Malawi	96.3
+1991	Canada	94.3
+1991	Argentina	94.3
+1991	United States of America	93
+1991	Hungary	89.9
+1991	China	80.8
+1991	Bulgaria	39.3
+1991	Albania	17.3
+1991	Ecuador	13.2
+1992	Iran (Islamic Republic of)	2027.4
+1992	Israel	1168.7
+1992	Yemen	869.1
+1992	Georgia	546.9
+1992	Qatar	544
+1992	Switzerland	533.3
+1992	Algeria	522.1
+1992	Trinidad and Tobago	489.4
+1992	Croatia	419.6
+1992	Jamaica	391.1
+1992	Congo	377.8
+1992	Cape Verde	335.5
+1992	Republic of Korea	334.8
+1992	Mauritius	321.3
+1992	Nigeria	318.8
+1992	Belgium-Luxembourg	296.4
+1992	Morocco	295.2
+1992	Madagascar	287
+1992	Cameroon	283.3
+1992	Togo	275.8
+1992	Panama	271
+1992	Italy	269.1
+1992	Austria	262.4
+1992	Ethiopia PDR	253.3
+1992	Spain	250.4
+1992	Portugal	249.8
+1992	Mexico	245.9
+1992	Burundi	240
+1992	Burkina Faso	234.3
+1992	Greece	234.2
+1992	Côte d'Ivoire	234.2
+1992	Peru	232.8
+1992	The former Yugoslav Republic of Macedonia	229.4
+1992	Dominican Republic	221.7
+1992	Germany	216.7
+1992	Rwanda	216.4
+1992	Netherlands	215
+1992	Sudan (former)	208.7
+1992	France	202.1
+1992	Turkey	200.7
+1992	Philippines	195.6
+1992	Ghana	191.1
+1992	Costa Rica	185.1
+1992	Gambia	184.4
+1992	Pakistan	181.7
+1992	Bangladesh	181.7
+1992	El Salvador	178.1
+1992	Namibia	172.9
+1992	Sri Lanka	167.7
+1992	Venezuela (Bolivarian Republic of)	165.6
+1992	Niger	164.3
+1992	Slovenia	163
+1992	Guinea	163
+1992	Colombia	160
+1992	South Africa	158.5
+1992	Honduras	154.4
+1992	Chile	146.6
+1992	Belize	144
+1992	Mali	143.6
+1992	Uruguay	141.8
+1992	Jordan	139.7
+1992	Belarus	139.2
+1992	Malaysia	137
+1992	New Zealand	134.3
+1992	Bolivia (Plurinational State of)	133.1
+1992	Bhutan	132.6
+1992	Egypt	131
+1992	Poland	126.2
+1992	Nicaragua	125.8
+1992	Australia	125.6
+1992	India	123.3
+1992	Indonesia	122
+1992	Paraguay	120
+1992	Romania	116.1
+1992	Thailand	111.4
+1992	Mozambique	109.7
+1992	Lao People's Democratic Republic	108.9
+1992	Brazil	106.3
+1992	Ukraine	103.4
+1992	Nepal	102.4
+1992	Kyrgyzstan	98.5
+1992	Hungary	89.9
+1992	China	84.5
+1992	Malawi	82.4
+1992	Canada	81.1
+1992	United States of America	81
+1992	Bulgaria	75.8
+1992	Kenya	74.4
+1992	Cambodia	71.1
+1992	Kazakhstan	65.3
+1992	Lebanon	64.5
+1992	Argentina	61.6
+1992	Russian Federation	57.5
+1992	Albania	52
+1992	Republic of Moldova	31.7
+1992	Ecuador	16.2
+1992	Azerbaijan	3.8
+1993	Belarus	4864.6
+1993	Israel	1067.1
+1993	Yemen	877.8
+1993	Tajikistan	759.8
+1993	Georgia	713
+1993	Algeria	488.3
+1993	Switzerland	487.3
+1993	Trinidad and Tobago	411.1
+1993	Jamaica	383.2
+1993	Congo	353.2
+1993	Nigeria	338.1
+1993	Cape Verde	332.6
+1993	Republic of Korea	321.5
+1993	Qatar	302.2
+1993	Madagascar	288.4
+1993	Mauritius	283.3
+1993	Eritrea	279.6
+1993	Morocco	269.9
+1993	Belgium-Luxembourg	267.9
+1993	Panama	258
+1993	Austria	249.5
+1993	Burundi	247.1
+1993	Mexico	246.5
+1993	Cameroon	241.3
+1993	Kyrgyzstan	240.9
+1993	Dominican Republic	239.3
+1993	Spain	223.8
+1993	Côte d'Ivoire	219
+1993	Italy	215
+1993	Portugal	200.7
+1993	Greece	199.9
+1993	Peru	198.7
+1993	Ethiopia	196
+1993	Namibia	194.9
+1993	Sudan (former)	191.4
+1993	Turkey	191.2
+1993	Gambia	184.9
+1993	Romania	184.3
+1993	Burkina Faso	183.3
+1993	Iran (Islamic Republic of)	177.2
+1993	Venezuela (Bolivarian Republic of)	177
+1993	Rwanda	176.5
+1993	Costa Rica	176.1
+1993	Philippines	170.7
+1993	Albania	169.5
+1993	Ukraine	164.2
+1993	El Salvador	164.1
+1993	Netherlands	163.7
+1993	Pakistan	162.3
+1993	Germany	161.9
+1993	Cambodia	159.9
+1993	Colombia	156.3
+1993	Nicaragua	154.1
+1993	Fiji	152.4
+1993	Togo	151.9
+1993	Guinea	151.8
+1993	Slovenia	151
+1993	Sri Lanka	147.6
+1993	Uruguay	145.4
+1993	France	145.1
+1993	Ghana	144.4
+1993	Honduras	144.3
+1993	Chile	143.3
+1993	New Zealand	143.2
+1993	Belize	143
+1993	Niger	141.3
+1993	Croatia	140.9
+1993	Kenya	139.7
+1993	Bangladesh	138.7
+1993	Australia	138.7
+1993	Malaysia	137.5
+1993	Jordan	137.1
+1993	Egypt	136.6
+1993	Indonesia	131
+1993	Paraguay	130.1
+1993	Bolivia (Plurinational State of)	128.3
+1993	South Africa	126.1
+1993	Brazil	124
+1993	Bhutan	121.2
+1993	Poland	120.3
+1993	Nepal	117.1
+1993	Mali	116.5
+1993	Slovakia	114.4
+1993	Czech Republic	114.2
+1993	Bulgaria	113.9
+1993	Lao People's Democratic Republic	113.1
+1993	Republic of Moldova	111.5
+1993	Hungary	110.6
+1993	Thailand	109
+1993	India	108.1
+1993	Argentina	108.1
+1993	Mozambique	107.6
+1993	The former Yugoslav Republic of Macedonia	107.3
+1993	Canada	102.3
+1993	United States of America	98
+1993	Malawi	97.7
+1993	China	97
+1993	Kazakhstan	92.1
+1993	Azerbaijan	87
+1993	Guinea-Bissau	73.4
+1993	Lebanon	63.4
+1993	Russian Federation	58.3
+1993	Ecuador	37.2
+1994	Yemen	1196.5
+1994	Israel	1103.9
+1994	Tajikistan	599.4
+1994	Sudan (former)	526.5
+1994	Switzerland	489.9
+1994	Jamaica	444.3
+1994	Qatar	412.1
+1994	Trinidad and Tobago	371.3
+1994	Republic of Korea	368.4
+1994	Cape Verde	361.3
+1994	Algeria	325.2
+1994	Dominican Republic	311.4
+1994	Georgia	309.8
+1994	Eritrea	285
+1994	Mauritius	278.4
+1994	Panama	257
+1994	Nigeria	253.7
+1994	El Salvador	249.9
+1994	Ukraine	248
+1994	Morocco	245.6
+1994	Belgium-Luxembourg	243
+1994	Ethiopia	228.7
+1994	Madagascar	216.8
+1994	Nicaragua	215.5
+1994	Albania	209.3
+1994	Venezuela (Bolivarian Republic of)	205.6
+1994	Costa Rica	200
+1994	Italy	199
+1994	Spain	198.5
+1994	Burundi	197.9
+1994	Namibia	197.4
+1994	Greece	196.6
+1994	Guinea	195.6
+1994	Mexico	194.4
+1994	Colombia	191.3
+1994	Philippines	188.5
+1994	Peru	186.8
+1994	Pakistan	185.8
+1994	Honduras	183.5
+1994	Congo	180.1
+1994	Portugal	178.5
+1994	Republic of Moldova	177.2
+1994	The former Yugoslav Republic of Macedonia	175.8
+1994	Gambia	173.1
+1994	Germany	169.8
+1994	Kenya	169.5
+1994	Bangladesh	164.4
+1994	Netherlands	164.3
+1994	Fiji	163.9
+1994	New Zealand	163.1
+1994	France	162.6
+1994	Kyrgyzstan	162
+1994	Chile	161
+1994	Rwanda	160.3
+1994	Austria	159.1
+1994	Jordan	157.4
+1994	Turkey	157.1
+1994	Indonesia	157.1
+1994	Cambodia	153.2
+1994	Bolivia (Plurinational State of)	151.3
+1994	Uruguay	151.1
+1994	Sri Lanka	147.3
+1994	Paraguay	146
+1994	Ghana	145.7
+1994	Australia	145.5
+1994	Poland	144.8
+1994	Slovenia	144
+1994	Egypt	141.5
+1994	Iran (Islamic Republic of)	138
+1994	Malaysia	137.2
+1994	Burkina Faso	133.5
+1994	Belize	129.5
+1994	Côte d'Ivoire	128.4
+1994	Brazil	125.1
+1994	Bhutan	125
+1994	Romania	121.3
+1994	Croatia	121.1
+1994	India	120.2
+1994	Czech Republic	117.6
+1994	Lao People's Democratic Republic	117.5
+1994	Thailand	117.3
+1994	Niger	115.3
+1994	Nepal	115
+1994	Russian Federation	114.4
+1994	Slovakia	112.7
+1994	Togo	111.7
+1994	Cameroon	111
+1994	Kazakhstan	109.7
+1994	Argentina	107.1
+1994	South Africa	102.8
+1994	Mali	99.1
+1994	China	98.2
+1994	Hungary	94.6
+1994	Mozambique	89.3
+1994	United States of America	89
+1994	Serbia and Montenegro	88.4
+1994	Canada	84.9
+1994	Guinea-Bissau	83
+1994	Bulgaria	79.8
+1994	Lebanon	65.7
+1994	Azerbaijan	61.1
+1994	Malawi	53.8
+1994	Belarus	33.4
+1994	Ecuador	26.7
+1995	Israel	1240
+1995	Jamaica	756.9
+1995	Nigeria	661.3
+1995	Qatar	604.4
+1995	Republic of Korea	573.8
+1995	Switzerland	510
+1995	Cape Verde	432
+1995	Gambia	419
+1995	Yemen	416.3
+1995	Trinidad and Tobago	366.5
+1995	Suriname	339.2
+1995	Algeria	335.7
+1995	Sudan (former)	328.1
+1995	Tajikistan	301.2
+1995	Eritrea	295.1
+1995	Morocco	292.7
+1995	Mauritius	287.6
+1995	Belgium-Luxembourg	285.4
+1995	Georgia	284
+1995	Nicaragua	266.8
+1995	Panama	261
+1995	Philippines	246.4
+1995	Guinea	245.1
+1995	Italy	235.2
+1995	Venezuela (Bolivarian Republic of)	231.4
+1995	Dominican Republic	229.9
+1995	Spain	222.2
+1995	Greece	215.2
+1995	Ghana	215.1
+1995	Lebanon	212.2
+1995	Pakistan	209.4
+1995	Burundi	208.2
+1995	Peru	204.1
+1995	Germany	204.1
+1995	Congo	200.3
+1995	Portugal	196.1
+1995	Rwanda	194.5
+1995	Kyrgyzstan	194
+1995	Namibia	193.3
+1995	Cambodia	191.8
+1995	France	191.3
+1995	Togo	190.3
+1995	Bangladesh	190
+1995	Austria	187.9
+1995	Netherlands	186.8
+1995	Albania	183.4
+1995	Turkey	183.2
+1995	Sri Lanka	181.7
+1995	Australia	181.6
+1995	Colombia	181.1
+1995	New Zealand	180.5
+1995	Madagascar	178.6
+1995	Costa Rica	175.6
+1995	Indonesia	175.3
+1995	Fiji	174.2
+1995	The former Yugoslav Republic of Macedonia	174.1
+1995	Chile	171.6
+1995	Iran (Islamic Republic of)	170.7
+1995	Mexico	170.1
+1995	Mali	166.3
+1995	Honduras	166.2
+1995	Poland	164.5
+1995	El Salvador	164
+1995	Côte d'Ivoire	162.9
+1995	Uruguay	161.6
+1995	Bolivia (Plurinational State of)	160.2
+1995	South Africa	159.1
+1995	Kenya	155.6
+1995	Ethiopia	154.3
+1995	Cameroon	152.3
+1995	Egypt	151.5
+1995	Slovenia	150.5
+1995	Burkina Faso	148.5
+1995	Malaysia	144.9
+1995	Belize	143
+1995	China	142.7
+1995	Thailand	142.3
+1995	Jordan	141.4
+1995	Niger	138.2
+1995	Nepal	136.4
+1995	Czech Republic	132.8
+1995	Azerbaijan	130.5
+1995	Bhutan	130.3
+1995	United States of America	128
+1995	Lao People's Democratic Republic	126.8
+1995	Canada	126.1
+1995	Slovakia	124.9
+1995	Paraguay	124.3
+1995	Brazil	123.1
+1995	India	120.4
+1995	Russian Federation	118.1
+1995	Croatia	117.6
+1995	Argentina	115
+1995	Kazakhstan	107
+1995	Romania	104.9
+1995	Hungary	102.7
+1995	Bulgaria	95.5
+1995	Mozambique	92.4
+1995	Ukraine	91.3
+1995	Belarus	82.6
+1995	Serbia and Montenegro	81.1
+1995	Guinea-Bissau	76.2
+1995	Republic of Moldova	61.6
+1995	Ecuador	53
+1995	Malawi	47.1
+1996	Israel	1372
+1996	Nigeria	802.4
+1996	Jamaica	734.9
+1996	Trinidad and Tobago	657.8
+1996	Suriname	598.1
+1996	Occupied Palestinian Territory 	589.8
+1996	Republic of Korea	583
+1996	Sudan (former)	457.8
+1996	Switzerland	436.1
+1996	Tajikistan	385.8
+1996	Georgia	371.4
+1996	Qatar	329.7
+1996	Cape Verde	316
+1996	Gambia	310.6
+1996	Belarus	286.2
+1996	Mauritius	278.6
+1996	Panama	272
+1996	Belgium-Luxembourg	271
+1996	Eritrea	270.4
+1996	Venezuela (Bolivarian Republic of)	267.2
+1996	Peru	267
+1996	Yemen	265.6
+1996	Burundi	264.2
+1996	El Salvador	258.6
+1996	China	258.6
+1996	Nicaragua	255.9
+1996	Dominican Republic	254.7
+1996	Guinea	254
+1996	Morocco	250.1
+1996	Albania	248.8
+1996	Philippines	246.8
+1996	Iran (Islamic Republic of)	244.8
+1996	Congo	244.4
+1996	The former Yugoslav Republic of Macedonia	230.9
+1996	Italy	228.8
+1996	Lebanon	222.7
+1996	Costa Rica	220.4
+1996	Togo	218.9
+1996	Honduras	213
+1996	Chile	211.8
+1996	Turkey	210.5
+1996	Madagascar	208.3
+1996	Greece	204.3
+1996	Spain	203.9
+1996	Indonesia	203.9
+1996	Lao People's Democratic Republic	203.5
+1996	Ghana	200.4
+1996	Pakistan	198.1
+1996	Portugal	196.5
+1996	Slovenia	194
+1996	Germany	191.8
+1996	New Zealand	191.1
+1996	Sri Lanka	190.3
+1996	Poland	188.8
+1996	Mexico	188.8
+1996	Kyrgyzstan	187.9
+1996	Burkina Faso	187.1
+1996	Cameroon	185.7
+1996	Uruguay	184.1
+1996	Bangladesh	181.1
+1996	Netherlands	180.9
+1996	Russian Federation	179.5
+1996	Namibia	176.8
+1996	Czech Republic	175.5
+1996	Fiji	174.6
+1996	Australia	174.5
+1996	Malawi	171.1
+1996	Bolivia (Plurinational State of)	166.9
+1996	Colombia	166.2
+1996	Belize	165
+1996	Austria	163.3
+1996	Thailand	160.2
+1996	France	159.7
+1996	Egypt	158
+1996	Kenya	157.6
+1996	Nepal	157.3
+1996	Paraguay	156.1
+1996	Canada	154
+1996	Romania	152.4
+1996	Cambodia	152.4
+1996	Argentina	152.1
+1996	Rwanda	147
+1996	Malaysia	145.9
+1996	Brazil	144.3
+1996	Slovakia	143.5
+1996	Croatia	143.5
+1996	Côte d'Ivoire	142.7
+1996	Serbia and Montenegro	141.3
+1996	United States of America	140
+1996	Niger	138.8
+1996	Bosnia and Herzegovina	138.7
+1996	South Africa	137.7
+1996	Ukraine	135.6
+1996	Mali	134.9
+1996	Hungary	130.2
+1996	Bhutan	128
+1996	Bulgaria	122.6
+1996	Ethiopia	111.8
+1996	India	109.9
+1996	Mozambique	107.1
+1996	Azerbaijan	106.9
+1996	Kazakhstan	101.6
+1996	Jordan	91.7
+1996	Republic of Moldova	89.5
+1996	Guinea-Bissau	68.6
+1996	Ecuador	52.7
+1997	Guinea-Bissau	4046.4
+1997	Israel	1385.5
+1997	Jamaica	1223.6
+1997	Nigeria	1062.3
+1997	Suriname	635.9
+1997	Occupied Palestinian Territory 	623.5
+1997	Republic of Korea	507.8
+1997	Sudan (former)	483.8
+1997	Burundi	425.7
+1997	Qatar	412.1
+1997	Trinidad and Tobago	409.5
+1997	Georgia	370.7
+1997	Switzerland	364.5
+1997	Ghana	313.8
+1997	Rwanda	305.3
+1997	Cape Verde	303.3
+1997	Lebanon	300.1
+1997	Belarus	298.9
+1997	Venezuela (Bolivarian Republic of)	284.2
+1997	El Salvador	276
+1997	Costa Rica	272
+1997	Panama	270
+1997	Dominican Republic	256.9
+1997	Tajikistan	254.3
+1997	Gambia	248.2
+1997	Eritrea	245.7
+1997	Iran (Islamic Republic of)	244.2
+1997	Peru	238.3
+1997	Mauritius	237.4
+1997	Guinea	235.7
+1997	Albania	235
+1997	Kenya	233.8
+1997	Sri Lanka	232.9
+1997	Togo	226.2
+1997	Nicaragua	216.7
+1997	Congo	214.2
+1997	China	212.3
+1997	Honduras	211.3
+1997	Pakistan	208.2
+1997	Belgium-Luxembourg	207.9
+1997	Philippines	206
+1997	The former Yugoslav Republic of Macedonia	205.4
+1997	Lao People's Democratic Republic	198.4
+1997	Malawi	196.4
+1997	Yemen	193.3
+1997	Turkey	192.9
+1997	Morocco	185.8
+1997	Colombia	184.6
+1997	Mali	183.3
+1997	Greece	180.8
+1997	Côte d'Ivoire	179.9
+1997	Bolivia (Plurinational State of)	174.1
+1997	Portugal	172.9
+1997	Indonesia	171.5
+1997	Italy	171.4
+1997	Cameroon	171.3
+1997	Mexico	171
+1997	Bangladesh	170.6
+1997	Fiji	167.6
+1997	New Zealand	165.3
+1997	Egypt	162.9
+1997	Chile	161.1
+1997	Spain	159.6
+1997	Burkina Faso	154.2
+1997	Namibia	151.9
+1997	Australia	148.4
+1997	Kyrgyzstan	144.7
+1997	Belize	143
+1997	Niger	140.5
+1997	Serbia and Montenegro	140.4
+1997	Thailand	140.3
+1997	Mozambique	138.5
+1997	Germany	137.6
+1997	Netherlands	136.3
+1997	Uruguay	135.8
+1997	Cambodia	135.8
+1997	Madagascar	135.3
+1997	Romania	133.1
+1997	Poland	132
+1997	Malaysia	130.8
+1997	France	129.3
+1997	South Africa	128
+1997	Bhutan	126.5
+1997	Russian Federation	126.3
+1997	Canada	125.7
+1997	Czech Republic	121.3
+1997	Slovenia	119
+1997	Nepal	118.3
+1997	Slovakia	116.6
+1997	Brazil	116
+1997	Austria	113.9
+1997	Ethiopia	113.3
+1997	India	113.2
+1997	Croatia	110.3
+1997	Kazakhstan	109.8
+1997	Bulgaria	109.2
+1997	Argentina	109.1
+1997	Bosnia and Herzegovina	103.8
+1997	Paraguay	98
+1997	United States of America	96
+1997	Azerbaijan	95.3
+1997	Republic of Moldova	89.1
+1997	Jordan	87.4
+1997	Ukraine	85.4
+1997	Hungary	83.1
+1997	Ecuador	70.6
+1998	Jamaica	1368
+1998	Israel	1330.2
+1998	Nigeria	1201.2
+1998	Guinea-Bissau	1017
+1998	Suriname	947.6
+1998	Sudan (former)	627.9
+1998	Occupied Palestinian Territory 	552.6
+1998	Qatar	384.6
+1998	Switzerland	358.7
+1998	Burundi	357.3
+1998	Republic of Korea	350.8
+1998	Trinidad and Tobago	349.3
+1998	Rwanda	347.4
+1998	Eritrea	339.6
+1998	Georgia	328.1
+1998	Iran (Islamic Republic of)	312.8
+1998	Cape Verde	299.4
+1998	Lebanon	296.8
+1998	Panama	278
+1998	Fiji	276.8
+1998	Congo	271.2
+1998	Ghana	256.3
+1998	Tajikistan	252.4
+1998	Albania	245.6
+1998	Peru	244
+1998	Gambia	241.5
+1998	Mali	239.5
+1998	Malawi	226.2
+1998	Guinea	226.2
+1998	Dominican Republic	225.5
+1998	Venezuela (Bolivarian Republic of)	223.4
+1998	El Salvador	219.9
+1998	Costa Rica	219.4
+1998	Sri Lanka	218.6
+1998	Kenya	212.8
+1998	Mauritius	208.4
+1998	Morocco	205.1
+1998	Belgium-Luxembourg	199.1
+1998	Honduras	196
+1998	Pakistan	193.6
+1998	Nicaragua	189.1
+1998	China	187.2
+1998	Turkey	184.8
+1998	Yemen	184
+1998	Bolivia (Plurinational State of)	180.6
+1998	Belize	176
+1998	Bangladesh	175.1
+1998	Togo	172.9
+1998	Greece	172.7
+1998	Cameroon	171.2
+1998	Egypt	170.9
+1998	Belarus	170.2
+1998	Burkina Faso	169.5
+1998	Italy	161.3
+1998	Mexico	158.3
+1998	The former Yugoslav Republic of Macedonia	157.9
+1998	Cambodia	157.6
+1998	Colombia	156.4
+1998	Côte d'Ivoire	155.9
+1998	Namibia	153.8
+1998	Spain	153.6
+1998	Chile	148.2
+1998	Portugal	147.2
+1998	Niger	140.7
+1998	Mozambique	138.1
+1998	Philippines	137.2
+1998	Paraguay	136.8
+1998	Netherlands	133.6
+1998	Germany	131.6
+1998	New Zealand	131.1
+1998	Ethiopia	127.9
+1998	Australia	127.5
+1998	Uruguay	125
+1998	Brazil	123.2
+1998	France	122.6
+1998	Bhutan	118.4
+1998	Austria	117.5
+1998	India	112.2
+1998	Poland	111.4
+1998	Kyrgyzstan	111.3
+1998	Slovenia	110.3
+1998	Czech Republic	106.6
+1998	Nepal	106.3
+1998	South Africa	103.8
+1998	Canada	103.8
+1998	Jordan	101.6
+1998	Romania	100.9
+1998	Madagascar	99.2
+1998	Malaysia	97.6
+1998	Ecuador	97.4
+1998	Argentina	97
+1998	Lao People's Democratic Republic	95.5
+1998	Bulgaria	94.7
+1998	Slovakia	92.9
+1998	Thailand	89.5
+1998	Indonesia	86.8
+1998	Kazakhstan	84.8
+1998	Bosnia and Herzegovina	84.7
+1998	Croatia	80
+1998	Russian Federation	77
+1998	United States of America	76
+1998	Serbia and Montenegro	75.8
+1998	Azerbaijan	73.7
+1998	Hungary	68.6
+1998	Republic of Moldova	61.1
+1998	Ukraine	57.2
+1999	Jamaica	1456.6
+1999	Guinea-Bissau	974.5
+1999	Israel	653.7
+1999	Sudan (former)	578.4
+1999	Iran (Islamic Republic of)	515.3
+1999	Suriname	465.4
+1999	Occupied Palestinian Territory 	459
+1999	Republic of Korea	436.1
+1999	Qatar	384.6
+1999	Eritrea	359.4
+1999	Switzerland	330.2
+1999	Congo	291.8
+1999	Cape Verde	286.6
+1999	Trinidad and Tobago	281
+1999	Panama	281
+1999	Fiji	279.2
+1999	Georgia	256.9
+1999	Venezuela (Bolivarian Republic of)	245
+1999	Guinea	242.9
+1999	Burundi	241.1
+1999	Albania	232.4
+1999	Rwanda	227.9
+1999	Lebanon	225.5
+1999	Peru	220.2
+1999	Yemen	218.4
+1999	Costa Rica	217
+1999	Ecuador	215.9
+1999	Nigeria	207.8
+1999	Dominican Republic	206.6
+1999	Sri Lanka	201
+1999	Mauritius	198.5
+1999	Kenya	197.1
+1999	Cameroon	194.9
+1999	Morocco	192.8
+1999	Honduras	192
+1999	Mali	187.3
+1999	Belize	187
+1999	Cambodia	186.3
+1999	Malawi	186
+1999	Bhutan	185.6
+1999	Belarus	179.8
+1999	Egypt	178.2
+1999	Bolivia (Plurinational State of)	178.2
+1999	Bangladesh	176.7
+1999	Tajikistan	176.1
+1999	Turkey	170.5
+1999	Ghana	169.2
+1999	Colombia	168.7
+1999	Italy	166.2
+1999	El Salvador	165.4
+1999	Pakistan	164
+1999	Greece	160.7
+1999	Nicaragua	158.9
+1999	Mexico	152.1
+1999	The former Yugoslav Republic of Macedonia	150.1
+1999	Spain	150
+1999	Philippines	149.8
+1999	Gambia	149.2
+1999	Namibia	146.3
+1999	China	146.2
+1999	Burkina Faso	146.2
+1999	Portugal	144.8
+1999	Serbia and Montenegro	139.8
+1999	Chile	139.8
+1999	Côte d'Ivoire	139.6
+1999	Indonesia	136.7
+1999	Netherlands	135.4
+1999	Togo	134.8
+1999	Niger	129.9
+1999	New Zealand	129.7
+1999	Mozambique	129.7
+1999	Germany	126.2
+1999	Ethiopia	122.1
+1999	France	119.5
+1999	Uruguay	118.4
+1999	India	118.4
+1999	Bosnia and Herzegovina	118.2
+1999	Australia	115.5
+1999	Nepal	114.6
+1999	Thailand	114
+1999	Paraguay	113.5
+1999	Slovenia	112.4
+1999	Austria	112.4
+1999	South Africa	110.3
+1999	Poland	107.4
+1999	Jordan	103
+1999	Malaysia	100.8
+1999	Romania	98.8
+1999	Madagascar	98.7
+1999	Canada	94.2
+1999	Brazil	93.7
+1999	Czech Republic	90.5
+1999	Argentina	89
+1999	Croatia	88.6
+1999	Bulgaria	87.7
+1999	Russian Federation	86.3
+1999	Azerbaijan	80.1
+1999	Slovakia	78.3
+1999	Kyrgyzstan	76.4
+1999	Lao People's Democratic Republic	73.2
+1999	United States of America	72
+1999	Hungary	66.3
+1999	Ukraine	60.8
+1999	Kazakhstan	58.5
+1999	Republic of Moldova	57.3
+2000	Jamaica	1383.8
+2000	Guinea-Bissau	842.7
+2000	Sudan (former)	621.9
+2000	Qatar	522
+2000	Iran (Islamic Republic of)	500
+2000	Republic of Korea	486
+2000	Occupied Palestinian Territory 	446.1
+2000	China	410.7
+2000	Suriname	381.9
+2000	Ecuador	380.2
+2000	Israel	367.9
+2000	Eritrea	354.3
+2000	Switzerland	283.6
+2000	Fiji	281.9
+2000	Trinidad and Tobago	281
+2000	Panama	281
+2000	Venezuela (Bolivarian Republic of)	266.3
+2000	Congo	262.6
+2000	Georgia	256.6
+2000	Burundi	253
+2000	Cape Verde	247.9
+2000	Lebanon	242.8
+2000	Dominican Republic	236.2
+2000	Costa Rica	228.5
+2000	Morocco	223
+2000	Yemen	216.4
+2000	Peru	212
+2000	Rwanda	211
+2000	Nicaragua	210.1
+2000	El Salvador	207.9
+2000	Honduras	204
+2000	Colombia	202.3
+2000	Albania	201.8
+2000	Nigeria	198.4
+2000	Sri Lanka	191.8
+2000	Kenya	190.3
+2000	Bhutan	178
+2000	Bolivia (Plurinational State of)	175.6
+2000	Egypt	174.8
+2000	Ghana	171.7
+2000	Mauritius	171.4
+2000	Guinea	166.7
+2000	Belize	165
+2000	Turkey	164.7
+2000	Cambodia	162.7
+2000	Mexico	159.5
+2000	Bangladesh	157.7
+2000	Philippines	150.1
+2000	Pakistan	149.4
+2000	Romania	147.4
+2000	Namibia	145.1
+2000	Madagascar	143.8
+2000	Greece	141.1
+2000	Belarus	138.3
+2000	Paraguay	137.7
+2000	Gambia	134.5
+2000	Spain	132
+2000	Italy	130.7
+2000	Jordan	129.8
+2000	Portugal	129.6
+2000	Nepal	128
+2000	Bosnia and Herzegovina	127.7
+2000	Chile	127.6
+2000	Togo	120.8
+2000	Côte d'Ivoire	119.4
+2000	Ethiopia	119.3
+2000	Niger	118
+2000	Netherlands	115
+2000	Tajikistan	114.1
+2000	Slovenia	113.1
+2000	Malawi	111.9
+2000	Uruguay	111.3
+2000	India	110.8
+2000	Indonesia	110.5
+2000	Brazil	110.4
+2000	New Zealand	109.9
+2000	Luxembourg	109.6
+2000	Germany	109.6
+2000	Mali	107.7
+2000	Malaysia	105.8
+2000	Austria	101.7
+2000	Poland	99.2
+2000	France	95.9
+2000	Thailand	95.2
+2000	Azerbaijan	95
+2000	Russian Federation	93
+2000	The former Yugoslav Republic of Macedonia	92.7
+2000	Burkina Faso	91.3
+2000	Czech Republic	91.1
+2000	Canada	90.2
+2000	Bulgaria	90
+2000	Hungary	89.9
+2000	Croatia	89
+2000	Australia	88.7
+2000	Slovakia	84.6
+2000	Republic of Moldova	82.4
+2000	Argentina	82
+2000	South Africa	78.5
+2000	Kyrgyzstan	76.2
+2000	United States of America	73
+2000	Serbia and Montenegro	72.4
+2000	Ukraine	71
+2000	Lao People's Democratic Republic	66.6
+2000	Kazakhstan	65
+2000	Mozambique	51.8
+2001	Jamaica	1436
+2001	Guinea-Bissau	818.5
+2001	Sudan (former)	566.3
+2001	Iran (Islamic Republic of)	510.3
+2001	Occupied Palestinian Territory 	475.6
+2001	Ecuador	473
+2001	Qatar	467
+2001	Republic of Korea	439
+2001	Nigeria	341.4
+2001	Suriname	311.2
+2001	Trinidad and Tobago	298.4
+2001	Panama	267
+2001	Switzerland	263.7
+2001	Fiji	263.5
+2001	Venezuela (Bolivarian Republic of)	262.6
+2001	Israel	261.6
+2001	Eritrea	257.3
+2001	Lebanon	254.7
+2001	El Salvador	248.5
+2001	Cape Verde	240.8
+2001	Yemen	237.2
+2001	Congo	232.7
+2001	Georgia	232
+2001	Honduras	230
+2001	Peru	226.7
+2001	Dominican Republic	226.3
+2001	Burundi	219.8
+2001	Costa Rica	218.6
+2001	Ghana	209.4
+2001	Colombia	205.7
+2001	Morocco	198.2
+2001	Bhutan	190.7
+2001	Belize	189
+2001	Guinea	187.8
+2001	Rwanda	178.4
+2001	Albania	177
+2001	Kenya	169.4
+2001	Sri Lanka	163.9
+2001	Bolivia (Plurinational State of)	160.4
+2001	Romania	158.5
+2001	The former Yugoslav Republic of Macedonia	158.1
+2001	Gambia	156.8
+2001	Malawi	156.4
+2001	China	155.9
+2001	Mexico	155.3
+2001	Mauritius	154.5
+2001	Egypt	154.3
+2001	Nicaragua	153.3
+2001	Bangladesh	149.7
+2001	Jordan	143.9
+2001	Greece	141.1
+2001	Madagascar	139
+2001	Turkey	138
+2001	Côte d'Ivoire	135.1
+2001	Pakistan	133.4
+2001	Serbia and Montenegro	132.4
+2001	Philippines	130.8
+2001	Togo	129.6
+2001	Tajikistan	127.3
+2001	Bosnia and Herzegovina	125.4
+2001	Italy	124.5
+2001	Chile	122.9
+2001	Portugal	122.8
+2001	Cambodia	122.6
+2001	Spain	122.1
+2001	Nepal	121.3
+2001	Indonesia	119.9
+2001	Niger	117.3
+2001	Netherlands	114.5
+2001	Kyrgyzstan	112.2
+2001	Russian Federation	112.1
+2001	Mali	111.9
+2001	Burkina Faso	111.9
+2001	Belarus	107.5
+2001	New Zealand	105.5
+2001	Bulgaria	105.3
+2001	Germany	103.7
+2001	Lithuania	103.3
+2001	South Africa	103
+2001	Malaysia	102.6
+2001	Uruguay	102.5
+2001	Czech Republic	102.2
+2001	Slovenia	100.4
+2001	India	99.9
+2001	Namibia	98.3
+2001	Luxembourg	97.6
+2001	Canada	97.5
+2001	Australia	97.2
+2001	Poland	94.8
+2001	France	94.7
+2001	Austria	92.8
+2001	Mozambique	91.8
+2001	Thailand	88.9
+2001	Croatia	88.5
+2001	Slovakia	88.3
+2001	Republic of Moldova	87.4
+2001	Azerbaijan	84.8
+2001	Ukraine	84.5
+2001	Argentina	84
+2001	Lao People's Democratic Republic	83.2
+2001	Ethiopia	79.2
+2001	United States of America	78
+2001	Kazakhstan	72
+2001	Brazil	69.1
+2001	Hungary	68.5
+2001	Paraguay	34.8
+2002	Jamaica	1339.4
+2002	Guinea-Bissau	860.8
+2002	Occupied Palestinian Territory 	568.6
+2002	Qatar	467
+2002	Republic of Korea	463.6
+2002	Ecuador	450
+2002	Sudan (former)	425.4
+2002	Nigeria	383
+2002	Suriname	343
+2002	Trinidad and Tobago	312.1
+2002	Switzerland	285.5
+2002	Congo	282.1
+2002	Malawi	279.7
+2002	Fiji	274.4
+2002	Eritrea	268.7
+2002	Panama	257
+2002	Cape Verde	253.2
+2002	Gambia	247
+2002	Yemen	241.5
+2002	Peru	224.7
+2002	Georgia	222.3
+2002	Israel	221.6
+2002	Belize	220.5
+2002	Honduras	219.7
+2002	Dominican Republic	215.5
+2002	Venezuela (Bolivarian Republic of)	208.7
+2002	Costa Rica	198.4
+2002	Colombia	193.7
+2002	Albania	193.4
+2002	Sri Lanka	189.3
+2002	Morocco	187.8
+2002	Burundi	187.5
+2002	El Salvador	181
+2002	Guinea	179.6
+2002	Bhutan	176.9
+2002	Mali	170.7
+2002	Ghana	169.1
+2002	Turkey	167.7
+2002	Nicaragua	163.3
+2002	Lebanon	156.6
+2002	Mexico	155.4
+2002	Iran (Islamic Republic of)	153
+2002	Mauritius	150.2
+2002	Bolivia (Plurinational State of)	149.5
+2002	Bangladesh	148.4
+2002	The former Yugoslav Republic of Macedonia	146.9
+2002	China	146.2
+2002	Burkina Faso	144.9
+2002	Togo	142
+2002	Côte d'Ivoire	142
+2002	Kenya	141.5
+2002	Pakistan	140.6
+2002	Egypt	139.8
+2002	New Zealand	135.5
+2002	Madagascar	135.4
+2002	Greece	134
+2002	Philippines	130.3
+2002	Indonesia	130.2
+2002	South Africa	129.5
+2002	Chile	129.3
+2002	Niger	129.1
+2002	Spain	128.9
+2002	Mozambique	126.7
+2002	Portugal	125.1
+2002	Nepal	124.3
+2002	Rwanda	123.9
+2002	Italy	120.8
+2002	Belarus	119
+2002	Jordan	118.5
+2002	Uruguay	117.6
+2002	Canada	116
+2002	Romania	115.1
+2002	Lithuania	112.3
+2002	Australia	107.6
+2002	Malaysia	106.6
+2002	Namibia	106.1
+2002	India	105.3
+2002	Bosnia and Herzegovina	102.5
+2002	Germany	101.6
+2002	Czech Republic	99.1
+2002	Thailand	96.4
+2002	Russian Federation	95.3
+2002	Slovenia	95.1
+2002	Austria	94.1
+2002	Bulgaria	93.9
+2002	France	93.5
+2002	Tajikistan	93.3
+2002	Luxembourg	93
+2002	Serbia and Montenegro	92.3
+2002	United States of America	91
+2002	Republic of Moldova	90.6
+2002	Poland	89.5
+2002	Brazil	89.3
+2002	Slovakia	88.2
+2002	Netherlands	87.5
+2002	Kyrgyzstan	85.5
+2002	Lao People's Democratic Republic	84.5
+2002	Azerbaijan	84.3
+2002	Hungary	82.7
+2002	Croatia	82.7
+2002	Argentina	78.3
+2002	Paraguay	77.8
+2002	Cambodia	74.1
+2002	Ukraine	70.8
+2002	Kazakhstan	70.8
+2002	Ethiopia	66.5
+2003	Jamaica	1240.9
+2003	Guinea-Bissau	1028.9
+2003	Occupied Palestinian Territory 	588.5
+2003	Republic of Korea	486.7
+2003	Israel	439.2
+2003	Qatar	398.4
+2003	Suriname	367.1
+2003	Ecuador	345
+2003	Switzerland	344.6
+2003	Fiji	316.5
+2003	Paraguay	311.5
+2003	Congo	304.5
+2003	Cape Verde	303.7
+2003	Nigeria	294.2
+2003	Trinidad and Tobago	281.2
+2003	Panama	267
+2003	Yemen	257.4
+2003	Georgia	248.4
+2003	Venezuela (Bolivarian Republic of)	238.1
+2003	Albania	233
+2003	Namibia	228.6
+2003	Gambia	226.4
+2003	Belize	220.5
+2003	Côte d'Ivoire	219.2
+2003	Turkey	215
+2003	China	213.8
+2003	Peru	211.3
+2003	Honduras	208.7
+2003	The former Yugoslav Republic of Macedonia	204.6
+2003	Sri Lanka	202.4
+2003	Morocco	200.5
+2003	Bhutan	199.6
+2003	Sudan (former)	196.2
+2003	Romania	196
+2003	Costa Rica	188.9
+2003	Colombia	188.5
+2003	Rwanda	183
+2003	Burundi	181.5
+2003	El Salvador	179.7
+2003	New Zealand	179.4
+2003	Guinea	178.6
+2003	Portugal	178.2
+2003	Dominican Republic	177.6
+2003	Ghana	172.5
+2003	Lebanon	169.8
+2003	Spain	167
+2003	Greece	164.9
+2003	Kenya	157.5
+2003	Bosnia and Herzegovina	154.1
+2003	Italy	152.9
+2003	Pakistan	152.8
+2003	Australia	151.1
+2003	Bangladesh	150.9
+2003	Mexico	150
+2003	Niger	149.7
+2003	Burkina Faso	149.7
+2003	France	149
+2003	Austria	147.9
+2003	Iran (Islamic Republic of)	146.7
+2003	Indonesia	146.3
+2003	Germany	141.1
+2003	Bolivia (Plurinational State of)	138.4
+2003	Nicaragua	137.3
+2003	Slovenia	135.8
+2003	Luxembourg	135.4
+2003	Lithuania	134.9
+2003	Hungary	133.8
+2003	Mali	132.5
+2003	Chile	131.9
+2003	Nepal	129.6
+2003	Malawi	128.7
+2003	Togo	127.3
+2003	Ethiopia	126.5
+2003	Philippines	125.1
+2003	South Africa	123.5
+2003	Serbia and Montenegro	122.7
+2003	Uruguay	120.5
+2003	Poland	120.1
+2003	Bulgaria	120
+2003	Netherlands	118.5
+2003	Egypt	118.4
+2003	Azerbaijan	117.1
+2003	Croatia	116.1
+2003	Malaysia	110.3
+2003	Madagascar	109.7
+2003	Jordan	108.3
+2003	India	108.1
+2003	Slovakia	106.9
+2003	Thailand	106.8
+2003	Republic of Moldova	105.1
+2003	Mozambique	105.1
+2003	Brazil	102.9
+2003	Czech Republic	102.4
+2003	Canada	102.1
+2003	Tajikistan	98
+2003	Cambodia	96.6
+2003	United States of America	95
+2003	Ukraine	91.1
+2003	Kyrgyzstan	91
+2003	Russian Federation	90.6
+2003	Argentina	79.6
+2003	Kazakhstan	68.2
+2003	Belarus	63.7
+2004	Jamaica	1447.7
+2004	Guinea-Bissau	1135.3
+2004	Republic of Korea	507
+2004	Suriname	457.3
+2004	Qatar	439.6
+2004	Bhutan	399.8
+2004	Namibia	377.6
+2004	Fiji	346.5
+2004	Nigeria	335.5
+2004	Cape Verde	335.5
+2004	Israel	334.7
+2004	Switzerland	310
+2004	Ecuador	308
+2004	Georgia	293.1
+2004	Yemen	281.4
+2004	Albania	276.3
+2004	Panama	267
+2004	Occupied Palestinian Territory 	262.2
+2004	Gambia	250.4
+2004	Turkey	246.7
+2004	El Salvador	240
+2004	Côte d'Ivoire	239.3
+2004	Burundi	236.9
+2004	Ghana	235.3
+2004	Venezuela (Bolivarian Republic of)	231.9
+2004	Dominican Republic	224.2
+2004	Morocco	222.3
+2004	Sri Lanka	210.4
+2004	Costa Rica	204.1
+2004	Peru	202.3
+2004	Romania	201.3
+2004	Honduras	200.1
+2004	Guinea	199.2
+2004	Colombia	199.2
+2004	Lebanon	198.9
+2004	Kenya	193.9
+2004	China	189.7
+2004	Sudan (former)	184.7
+2004	Spain	182.8
+2004	Bosnia and Herzegovina	182.4
+2004	Italy	179.5
+2004	Lithuania	178.6
+2004	Tajikistan	177.8
+2004	Nicaragua	175.2
+2004	Pakistan	173.3
+2004	New Zealand	172.6
+2004	Greece	171.8
+2004	Portugal	171.3
+2004	Germany	170.3
+2004	Burkina Faso	169
+2004	The former Yugoslav Republic of Macedonia	168.2
+2004	Egypt	167.2
+2004	Togo	164.9
+2004	Australia	164.3
+2004	Philippines	157.2
+2004	Serbia and Montenegro	154
+2004	Indonesia	153.1
+2004	Chile	151
+2004	Bangladesh	149
+2004	Mexico	148.8
+2004	Iran (Islamic Republic of)	148.1
+2004	Bulgaria	148.1
+2004	Nepal	147.2
+2004	Czech Republic	147
+2004	Slovenia	145.2
+2004	Malawi	144.5
+2004	Bolivia (Plurinational State of)	142.4
+2004	Uruguay	132.2
+2004	India	131.7
+2004	Netherlands	130.5
+2004	South Africa	129.8
+2004	Slovakia	127.2
+2004	Paraguay	126.9
+2004	Russian Federation	126.1
+2004	Croatia	124.8
+2004	Cambodia	124.5
+2004	Kyrgyzstan	123.8
+2004	Mozambique	122.4
+2004	Poland	121.5
+2004	Belarus	121.5
+2004	Azerbaijan	121.4
+2004	Jordan	121.2
+2004	Madagascar	118.2
+2004	Ethiopia	117.6
+2004	France	116.2
+2004	Hungary	116.1
+2004	Malaysia	114.5
+2004	Thailand	114.2
+2004	Austria	110.7
+2004	Canada	109.3
+2004	Luxembourg	105.7
+2004	Brazil	103.6
+2004	Rwanda	101.9
+2004	Mali	100.5
+2004	Kazakhstan	91.1
+2004	Republic of Moldova	86
+2004	Ukraine	82.3
+2004	Argentina	81.1
+2004	United States of America	81
+2005	Jamaica	1389.4
+2005	Guinea-Bissau	1168
+2005	Suriname	578.4
+2005	Republic of Korea	566.4
+2005	Nigeria	477.5
+2005	Bhutan	453
+2005	Fiji	384.5
+2005	Yemen	379.9
+2005	Qatar	379.7
+2005	Ghana	366.5
+2005	Israel	356.8
+2005	Ecuador	345
+2005	Cape Verde	334.6
+2005	Georgia	324.4
+2005	Burundi	314.3
+2005	Gambia	311.2
+2005	Lebanon	298.4
+2005	Togo	296.3
+2005	Venezuela (Bolivarian Republic of)	288
+2005	Dominican Republic	280.8
+2005	Switzerland	279.2
+2005	Namibia	276.6
+2005	Turkey	260.5
+2005	Albania	255.3
+2005	Panama	254
+2005	El Salvador	236
+2005	Côte d'Ivoire	233
+2005	Peru	232.2
+2005	Morocco	225.8
+2005	Occupied Palestinian Territory 	223
+2005	Colombia	217.4
+2005	Sri Lanka	204.8
+2005	Nicaragua	203.9
+2005	Costa Rica	203.1
+2005	Kenya	201.7
+2005	Tajikistan	199.5
+2005	Honduras	193.9
+2005	Burkina Faso	192.4
+2005	China	189.2
+2005	Malawi	185.8
+2005	Sudan (former)	184.6
+2005	New Zealand	183.1
+2005	Egypt	179.3
+2005	Portugal	177.1
+2005	Pakistan	170
+2005	Greece	168.9
+2005	Spain	168.2
+2005	Mali	163.3
+2005	Bosnia and Herzegovina	163.1
+2005	Iran (Islamic Republic of)	160.1
+2005	Lithuania	159.2
+2005	Italy	156.6
+2005	Mozambique	154.5
+2005	Madagascar	152.8
+2005	Guinea	152
+2005	Australia	147.4
+2005	Azerbaijan	146.8
+2005	The former Yugoslav Republic of Macedonia	146.5
+2005	Belarus	145.1
+2005	Mexico	144.9
+2005	Philippines	144.8
+2005	Ethiopia	144.7
+2005	Nepal	139.5
+2005	Bangladesh	139.3
+2005	Indonesia	138.1
+2005	Chile	136.2
+2005	Bolivia (Plurinational State of)	135.6
+2005	Cambodia	135.4
+2005	Netherlands	130.8
+2005	France	128.6
+2005	India	127.9
+2005	Romania	127
+2005	Jordan	121.4
+2005	Uruguay	120.3
+2005	Germany	119.6
+2005	Brazil	119
+2005	Thailand	118.9
+2005	Kyrgyzstan	118.3
+2005	Malaysia	118.2
+2005	Slovakia	116
+2005	Czech Republic	115.2
+2005	Slovenia	114.3
+2005	Croatia	111.6
+2005	Austria	110.9
+2005	Hungary	108.8
+2005	Poland	108.6
+2005	Paraguay	107.3
+2005	Luxembourg	105.9
+2005	Rwanda	104.2
+2005	Kazakhstan	103.5
+2005	South Africa	99.3
+2005	Bulgaria	92.9
+2005	Republic of Moldova	92.4
+2005	Canada	90
+2005	Serbia and Montenegro	89.2
+2005	Russian Federation	84.4
+2005	United States of America	79
+2005	Argentina	70.3
+2005	Ukraine	67
+2006	Guinea-Bissau	7999.2
+2006	Jamaica	1787.1
+2006	Suriname	1093.4
+2006	Republic of Korea	675.9
+2006	Bhutan	491.6
+2006	Nigeria	442
+2006	Yemen	412.1
+2006	Fiji	375.5
+2006	Ecuador	355.8
+2006	Lebanon	338.2
+2006	Cape Verde	337.7
+2006	Israel	337.1
+2006	Dominican Republic	318.8
+2006	Venezuela (Bolivarian Republic of)	305.3
+2006	Switzerland	300.9
+2006	Burundi	292
+2006	Rwanda	279
+2006	Ghana	254.4
+2006	Panama	254
+2006	Turkey	252.8
+2006	China	252.1
+2006	Peru	250.5
+2006	Georgia	250.1
+2006	Albania	240.7
+2006	Côte d'Ivoire	237.4
+2006	Costa Rica	237.2
+2006	Colombia	231.7
+2006	Honduras	225.9
+2006	Occupied Palestinian Territory 	224.7
+2006	Sudan (former)	221.8
+2006	Gambia	219.8
+2006	Azerbaijan	216.7
+2006	Kenya	213
+2006	Togo	212.5
+2006	Morocco	211.6
+2006	El Salvador	211
+2006	Portugal	203.2
+2006	Burkina Faso	199.7
+2006	Greece	199.1
+2006	Malawi	198.9
+2006	Belarus	195.6
+2006	Sri Lanka	194
+2006	Spain	190.7
+2006	Egypt	188.2
+2006	Netherlands	187.7
+2006	Mexico	184.5
+2006	Pakistan	182.5
+2006	Iran (Islamic Republic of)	179.4
+2006	Nicaragua	178.8
+2006	Philippines	176.8
+2006	New Zealand	175.4
+2006	Lithuania	175.3
+2006	Italy	172.5
+2006	Germany	172
+2006	India	169.3
+2006	Madagascar	169.1
+2006	Bosnia and Herzegovina	168.7
+2006	The former Yugoslav Republic of Macedonia	164.9
+2006	France	164.9
+2006	Tajikistan	164.4
+2006	Indonesia	164
+2006	Uruguay	157.4
+2006	Chile	157.3
+2006	Austria	155.7
+2006	Cambodia	148.7
+2006	Australia	146.9
+2006	Jordan	146.7
+2006	South Africa	145.9
+2006	Poland	144.5
+2006	Thailand	144
+2006	Kyrgyzstan	141
+2006	Mozambique	139.9
+2006	Nepal	139
+2006	Ethiopia	138
+2006	Bolivia (Plurinational State of)	138
+2006	Mali	137.8
+2006	Slovenia	137.6
+2006	Bangladesh	137.3
+2006	Romania	135.5
+2006	Czech Republic	128.3
+2006	Croatia	127.4
+2006	Slovakia	126.4
+2006	Russian Federation	125.6
+2006	Hungary	124.7
+2006	Brazil	120.7
+2006	United States of America	120
+2006	Luxembourg	118
+2006	Serbia	111
+2006	Kazakhstan	107.6
+2006	Bulgaria	107.2
+2006	Canada	106.8
+2006	Ukraine	102.6
+2006	Malaysia	100.9
+2006	Paraguay	100.8
+2006	Republic of Moldova	97.7
+2006	Argentina	92.8
+2007	Guinea-Bissau	2901.7
+2007	Jamaica	1980.7
+2007	Suriname	954.5
+2007	Republic of Korea	624.2
+2007	Israel	484.8
+2007	Yemen	463
+2007	Nigeria	419.9
+2007	Fiji	404.8
+2007	Ecuador	398.4
+2007	Lebanon	371.5
+2007	Cape Verde	368.2
+2007	Costa Rica	360.1
+2007	Albania	354.1
+2007	Georgia	349.1
+2007	Venezuela (Bolivarian Republic of)	348
+2007	Greece	347.6
+2007	Azerbaijan	344.7
+2007	El Salvador	330.7
+2007	Honduras	317.9
+2007	Romania	316.3
+2007	Burundi	313.8
+2007	Turkey	308.2
+2007	Colombia	306.8
+2007	Côte d'Ivoire	303
+2007	Morocco	301.8
+2007	Switzerland	299.4
+2007	Portugal	299.3
+2007	Peru	299.1
+2007	Panama	295
+2007	Rwanda	292.6
+2007	Ghana	290.7
+2007	Luxembourg	287.8
+2007	Austria	287.8
+2007	Bosnia and Herzegovina	286.8
+2007	Egypt	280.9
+2007	Spain	280.3
+2007	Burkina Faso	275.5
+2007	Croatia	273.9
+2007	Slovenia	272.9
+2007	Ethiopia	269.3
+2007	Dominican Republic	268.5
+2007	Occupied Palestinian Territory 	268
+2007	Netherlands	267.3
+2007	The former Yugoslav Republic of Macedonia	266.8
+2007	Germany	261.8
+2007	Nicaragua	258.1
+2007	France	256.7
+2007	Madagascar	254.3
+2007	Hungary	249.5
+2007	Italy	249
+2007	Lithuania	248
+2007	Iran (Islamic Republic of)	243.2
+2007	Kyrgyzstan	240.1
+2007	Cambodia	239.2
+2007	Poland	238.9
+2007	Kenya	232.9
+2007	Bhutan	230.2
+2007	Slovakia	230.1
+2007	Mexico	223.5
+2007	Sri Lanka	223.4
+2007	Republic of Moldova	219
+2007	New Zealand	217.2
+2007	Chile	214.5
+2007	Philippines	214.1
+2007	Serbia	209.3
+2007	Australia	208
+2007	Czech Republic	206.8
+2007	Belarus	206.1
+2007	South Africa	206
+2007	Russian Federation	202
+2007	Togo	200.6
+2007	Thailand	199.7
+2007	Bulgaria	196.2
+2007	India	194.6
+2007	China	193.4
+2007	Pakistan	189.3
+2007	Indonesia	186.9
+2007	Uruguay	180.9
+2007	Jordan	178.4
+2007	Nepal	173.9
+2007	Sudan (former)	173.6
+2007	Brazil	171.6
+2007	Ukraine	165.1
+2007	United States of America	165
+2007	Bangladesh	163.9
+2007	Mali	154.6
+2007	Canada	148.5
+2007	Bolivia (Plurinational State of)	148.3
+2007	Mozambique	145.4
+2007	Malawi	135.9
+2007	Tajikistan	131.4
+2007	Kazakhstan	123.1
+2007	Argentina	118
+2007	Malaysia	113.5
+2008	Jamaica	2742
+2008	Guinea-Bissau	2141.6
+2008	Suriname	1526.4
+2008	Ecuador	853.3
+2008	Nigeria	695.5
+2008	Yemen	619.6
+2008	Occupied Palestinian Territory 	571.9
+2008	Venezuela (Bolivarian Republic of)	555.3
+2008	Republic of Korea	528.9
+2008	Cape Verde	461
+2008	Dominican Republic	452.1
+2008	Ghana	445.6
+2008	Fiji	439.1
+2008	Israel	412.8
+2008	Togo	406.4
+2008	Panama	400
+2008	Morocco	398.7
+2008	Albania	393.4
+2008	Peru	386.4
+2008	Romania	385.1
+2008	Lebanon	378.1
+2008	Costa Rica	371.8
+2008	Lithuania	364.6
+2008	Rwanda	364.3
+2008	Kenya	353.5
+2008	Colombia	351.9
+2008	The former Yugoslav Republic of Macedonia	350.9
+2008	Ethiopia	350
+2008	Côte d'Ivoire	348.4
+2008	Sri Lanka	339
+2008	Turkey	333.5
+2008	El Salvador	331.5
+2008	Malawi	327.3
+2008	Georgia	324.7
+2008	Kyrgyzstan	315
+2008	Switzerland	314.8
+2008	Bosnia and Herzegovina	309.4
+2008	Honduras	307
+2008	Mozambique	279.4
+2008	Sudan (former)	275.1
+2008	Italy	273.8
+2008	Czech Republic	271.4
+2008	Australia	270.4
+2008	Spain	266.6
+2008	Belarus	266.2
+2008	Greece	265
+2008	Chile	261.6
+2008	Egypt	260.3
+2008	Indonesia	257.7
+2008	New Zealand	256.5
+2008	Nicaragua	253.4
+2008	Azerbaijan	253.2
+2008	Mexico	253.1
+2008	Philippines	252.4
+2008	Iran (Islamic Republic of)	249.2
+2008	Jordan	243.9
+2008	Bhutan	236.8
+2008	Bulgaria	235.6
+2008	Uruguay	234.9
+2008	Luxembourg	232.9
+2008	Russian Federation	231.7
+2008	Tajikistan	228.2
+2008	Madagascar	226.5
+2008	Portugal	225.3
+2008	Poland	219.2
+2008	Slovakia	218.5
+2008	China	218.3
+2008	Brazil	215.8
+2008	Netherlands	212.5
+2008	Thailand	210.4
+2008	South Africa	201.7
+2008	Germany	193.4
+2008	India	193.1
+2008	Canada	186.8
+2008	France	180.6
+2008	Bangladesh	180.6
+2008	Kazakhstan	176.8
+2008	Serbia	176.5
+2008	Hungary	174
+2008	Mali	169.7
+2008	Pakistan	167.6
+2008	Slovenia	167.4
+2008	Bolivia (Plurinational State of)	163.6
+2008	United States of America	160
+2008	Republic of Moldova	149.6
+2008	Croatia	141.2
+2008	Argentina	137.8
+2008	Ukraine	137.3
+2008	Malaysia	134.9
+2008	Austria	131.8
+2009	Jamaica	2329.5
+2009	Guinea-Bissau	1737.1
+2009	Suriname	1727.3
+2009	Ecuador	855
+2009	Yemen	758.1
+2009	Israel	509.7
+2009	Republic of Korea	479.5
+2009	Panama	440
+2009	Rwanda	434.1
+2009	Peru	425.2
+2009	Georgia	394
+2009	Ghana	384.8
+2009	Lebanon	378.1
+2009	Dominican Republic	372.1
+2009	Occupied Palestinian Territory 	366.4
+2009	Nicaragua	366.1
+2009	Costa Rica	362.9
+2009	Togo	350.3
+2009	Côte d'Ivoire	321
+2009	Colombia	320.8
+2009	Kenya	309.3
+2009	Sri Lanka	308.5
+2009	El Salvador	295.2
+2009	New Zealand	291.1
+2009	Switzerland	288
+2009	Turkey	285.2
+2009	Albania	284.6
+2009	Azerbaijan	276.5
+2009	Morocco	272.4
+2009	Indonesia	264.5
+2009	Belarus	257.9
+2009	Egypt	251.4
+2009	Ethiopia	247.2
+2009	Iran (Islamic Republic of)	243.8
+2009	China	243
+2009	Tajikistan	242.7
+2009	Philippines	232
+2009	Bhutan	230.9
+2009	Australia	224.6
+2009	Romania	220.4
+2009	Madagascar	220.4
+2009	Jordan	220.4
+2009	Pakistan	218.2
+2009	Kyrgyzstan	217.2
+2009	Greece	209.6
+2009	Mexico	207.7
+2009	Chile	205.6
+2009	Spain	200.3
+2009	Portugal	192.9
+2009	Bangladesh	185.3
+2009	The former Yugoslav Republic of Macedonia	184.6
+2009	Luxembourg	183.3
+2009	Italy	182.4
+2009	Uruguay	181.5
+2009	Bosnia and Herzegovina	180
+2009	Bolivia (Plurinational State of)	176.8
+2009	Mali	176.2
+2009	France	175.4
+2009	Lithuania	162.4
+2009	Canada	159.4
+2009	Thailand	158.4
+2009	Kazakhstan	158.4
+2009	Brazil	158.4
+2009	South Africa	156.3
+2009	Germany	154.2
+2009	Bulgaria	149.3
+2009	Czech Republic	147.8
+2009	Hungary	145.4
+2009	Poland	142.9
+2009	Malaysia	142
+2009	United States of America	140
+2009	Netherlands	139.7
+2009	Russian Federation	137.9
+2009	Slovenia	137.2
+2009	Slovakia	135.7
+2009	Republic of Moldova	133.2
+2009	Serbia	132.1
+2009	Austria	130.6
+2009	Croatia	127.9
+2009	Argentina	113.7
+2009	Ukraine	109
+2010	Guinea-Bissau	3728.8
+2010	Jamaica	2853.8
+2010	Suriname	1763.6
+2010	Yemen	836.9
+2010	Ecuador	710
+2010	Republic of Korea	557.7
+2010	Occupied Palestinian Territory 	489.3
+2010	Tajikistan	456.6
+2010	Israel	426.5
+2010	Panama	423
+2010	Costa Rica	401.2
+2010	Dominican Republic	381
+2010	Colombia	348.8
+2010	Ghana	341
+2010	Georgia	337.5
+2010	Egypt	335.6
+2010	Indonesia	322.8
+2010	Bhutan	319.7
+2010	Azerbaijan	316.3
+2010	Turkey	310.2
+2010	Republic of Moldova	308.8
+2010	Sri Lanka	306.4
+2010	Rwanda	303.3
+2010	Switzerland	301.9
+2010	Albania	289
+2010	Nicaragua	288.2
+2010	Iran (Islamic Republic of)	276.9
+2010	Togo	275.1
+2010	China	273.3
+2010	Greece	273.2
+2010	Portugal	269.9
+2010	El Salvador	265.1
+2010	Thailand	257
+2010	Chile	256.5
+2010	France	251.7
+2010	Philippines	246.9
+2010	Spain	240.5
+2010	Lithuania	239.8
+2010	Jordan	238.2
+2010	Austria	235.5
+2010	New Zealand	230.2
+2010	Pakistan	228.9
+2010	Germany	227.6
+2010	The former Yugoslav Republic of Macedonia	225.6
+2010	Romania	224
+2010	Bangladesh	223.7
+2010	Mexico	223
+2010	Italy	220.9
+2010	Kenya	217.4
+2010	Madagascar	215.6
+2010	Luxembourg	213.4
+2010	United States of America	213
+2010	Bosnia and Herzegovina	207.5
+2010	Mali	206.3
+2010	Slovenia	204.1
+2010	Poland	196.7
+2010	Slovakia	195.9
+2010	Croatia	189.8
+2010	Bulgaria	188.4
+2010	Hungary	181.4
+2010	Serbia	173.3
+2010	Czech Republic	172.3
+2010	Ethiopia	171
+2010	Brazil	169.9
+2010	Canada	165.8
+2010	Kyrgyzstan	165.5
+2010	Belarus	160.9
+2010	Bolivia (Plurinational State of)	157.4
+2010	Ukraine	156.9
+2010	Malaysia	155.3
+2010	Russian Federation	154.2
+2010	Kazakhstan	153
+2010	South Africa	137.5
+2010	Argentina	135.1

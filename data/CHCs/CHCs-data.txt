@@ -1,0 +1,513 @@
+1990	India	24712
+1990	Canada	1638
+1990	Malaysia	741
+1990	Turkey	614
+1990	Yugoslav SFR	202
+1990	Egypt	191
+1990	Cameroon	184
+1990	Pakistan	146
+1990	Germany	121
+1990	Honduras	46
+1990	Hungary	38
+1990	Bangladesh	30
+1990	Angola	30
+1990	Madagascar	28
+1990	Netherlands	24
+1990	Sri Lanka	21
+1990	Iran (Islamic Republic of)	12
+1990	Myanmar	10
+1990	Finland	5
+1990	Norway	2
+1990	Switzerland	1
+1990	Namibia	1
+1990	Cyprus	1
+1990	Bhutan	1
+1991	India	21213
+1991	Malaysia	1071
+1991	Turkey	775
+1991	Yugoslav SFR	473
+1991	Pakistan	436
+1991	Honduras	250
+1991	Egypt	184
+1991	Germany	128
+1991	Cameroon	84
+1991	Angola	40
+1991	Sri Lanka	26
+1991	Portugal	26
+1991	Netherlands	26
+1991	Bangladesh	24
+1991	Hungary	23
+1991	Iran (Islamic Republic of)	20
+1991	Madagascar	13
+1991	Myanmar	9
+1991	Finland	4
+1991	Oman	3
+1991	Switzerland	1
+1991	Norway	1
+1991	Namibia	1
+1992	India	18485
+1992	Turkey	1635
+1992	Malaysia	1038
+1992	Pakistan	299
+1992	United Kingdom	150
+1992	Sudan (former)	94
+1992	Honduras	74
+1992	Germany	74
+1992	Oman	71
+1992	Guatemala	62
+1992	Republic of Moldova	55
+1992	Egypt	52
+1992	Cameroon	40
+1992	Bangladesh	32
+1992	Netherlands	30
+1992	Portugal	18
+1992	Hungary	17
+1992	Myanmar	12
+1992	Zimbabwe	5
+1992	Nicaragua	5
+1992	Senegal	4
+1992	Finland	4
+1992	Kyrgyzstan	3
+1992	Togo	2
+1992	Papua New Guinea	2
+1992	Switzerland	1
+1992	Sri Lanka	1
+1992	Namibia	1
+1992	Madagascar	1
+1992	Burundi	1
+1992	Angola	1
+1993	India	16356
+1993	Turkey	665
+1993	Pakistan	315
+1993	United Kingdom	158
+1993	Belgium-Luxembourg	86
+1993	Sudan (former)	85
+1993	Thailand	80
+1993	Republic of Moldova	62
+1993	Portugal	53
+1993	Germany	47
+1993	Zimbabwe	45
+1993	Argentina	44
+1993	Hungary	43
+1993	Costa Rica	43
+1993	Egypt	34
+1993	Netherlands	29
+1993	Bangladesh	28
+1993	Myanmar	27
+1993	Tajikistan	20
+1993	Angola	20
+1993	Nicaragua	13
+1993	Albania	10
+1993	Madagascar	7
+1993	Chad	5
+1993	Finland	4
+1993	Switzerland	3
+1993	Senegal	3
+1993	Seychelles	2
+1993	Namibia	2
+1993	Sri Lanka	1
+1993	Papua New Guinea	1
+1994	India	13452
+1994	Canada	1800
+1994	South Africa	1481
+1994	Pakistan	703
+1994	Turkey	601
+1994	Sudan (former)	182
+1994	United Kingdom	107
+1994	Dominican Republic	92
+1994	Thailand	82
+1994	Côte d'Ivoire	76
+1994	Portugal	69
+1994	Hungary	69
+1994	Belgium-Luxembourg	69
+1994	Oman	49
+1994	Zimbabwe	42
+1994	Kazakhstan	39
+1994	Greece	37
+1994	Germany	37
+1994	Myanmar	33
+1994	Ireland	25
+1994	Argentina	25
+1994	United Republic of Tanzania	21
+1994	Albania	17
+1994	Uruguay	12
+1994	Tajikistan	8
+1994	Senegal	4
+1994	Finland	4
+1994	Nicaragua	3
+1994	Seychelles	2
+1994	Cyprus	2
+1994	Switzerland	1
+1994	Sri Lanka	1
+1994	Papua New Guinea	1
+1994	Mozambique	1
+1994	Central African Republic	1
+1994	Angola	1
+1994	Burundi	0.14
+1995	India	12272
+1995	France	1427
+1995	South Africa	1093
+1995	Pakistan	989
+1995	Turkey	732
+1995	Thailand	359
+1995	United Republic of Tanzania	239
+1995	Sudan (former)	223
+1995	United Kingdom	106
+1995	Portugal	72
+1995	Côte d'Ivoire	72
+1995	Belgium-Luxembourg	72
+1995	Hungary	63
+1995	Greece	50
+1995	Zimbabwe	38
+1995	Bangladesh	35
+1995	Myanmar	26
+1995	Germany	26
+1995	Kazakhstan	25
+1995	Ethiopia	25
+1995	Argentina	24
+1995	Albania	22
+1995	Dominican Republic	21
+1995	Ireland	16
+1995	Nicaragua	12
+1995	Ghana	11
+1995	Uruguay	6
+1995	Central African Republic	5
+1995	Senegal	3
+1995	Nepal	3
+1995	Seychelles	2
+1995	Norway	2
+1995	Switzerland	1
+1995	Suriname	1
+1995	Sri Lanka	1
+1995	Peru	1
+1995	Finland	1
+1995	Cyprus	1
+1995	Mozambique	0.39
+1995	Gambia	0.04
+1995	Burundi	0.02
+1996	India	7991
+1996	Pakistan	1800
+1996	Costa Rica	1626
+1996	France	1566
+1996	Turkey	830
+1996	Ghana	825
+1996	Thailand	528
+1996	Sudan (former)	526
+1996	South Africa	460
+1996	United Kingdom	413
+1996	Belgium-Luxembourg	100
+1996	Portugal	83
+1996	Hungary	65
+1996	Côte d'Ivoire	59
+1996	Saudi Arabia	42
+1996	Tajikistan	39
+1996	Zimbabwe	37
+1996	Germany	37
+1996	Dominican Republic	34
+1996	Greece	25
+1996	Argentina	25
+1996	Oman	17
+1996	Myanmar	16
+1996	Bangladesh	15
+1996	Iran (Islamic Republic of)	14
+1996	Ethiopia	13
+1996	Uruguay	8
+1996	Cyprus	8
+1996	Peru	7
+1996	Croatia	6
+1996	Kazakhstan	3
+1996	Seychelles	2
+1996	Senegal	2
+1996	Ireland	2
+1996	Switzerland	1
+1996	Suriname	1
+1996	Norway	1
+1996	Madagascar	1
+1996	Finland	1
+1996	Eritrea	1
+1996	Mozambique	0.4
+1997	India	4504
+1997	Pakistan	1441
+1997	Turkey	794
+1997	Thailand	773
+1997	South Africa	457
+1997	United Kingdom	423
+1997	Colombia	334
+1997	Greece	311
+1997	Sudan (former)	211
+1997	Ghana	143
+1997	Costa Rica	108
+1997	Belgium-Luxembourg	96
+1997	Zimbabwe	60
+1997	Oman	59
+1997	Ecuador	49
+1997	Sri Lanka	46
+1997	Peru	42
+1997	Cameroon	31
+1997	Dominican Republic	30
+1997	Germany	29
+1997	Myanmar	19
+1997	Russian Federation	18
+1997	Argentina	17
+1997	Saudi Arabia	15
+1997	Hungary	15
+1997	Cyprus	13
+1997	Kazakhstan	12
+1997	Tunisia	11
+1997	United Republic of Tanzania	8
+1997	Uruguay	6
+1997	Bangladesh	6
+1997	Syrian Arab Republic	5
+1997	Slovenia	4
+1997	Malawi	2
+1997	Ireland	2
+1997	Finland	2
+1997	Switzerland	1
+1997	Suriname	1
+1997	Seychelles	1
+1997	Rwanda	1
+1997	Mozambique	1
+1997	Senegal	0.22
+1997	Burundi	0.11
+1998	India	3984
+1998	South Africa	1765
+1998	Argentina	1192
+1998	Turkey	1136
+1998	Thailand	896
+1998	Pakistan	799
+1998	Belgium-Luxembourg	444
+1998	Colombia	407
+1998	Italy	191
+1998	Oman	142
+1998	Portugal	111
+1998	Nicaragua	91
+1998	Dominican Republic	64
+1998	Ethiopia	61
+1998	Zimbabwe	60
+1998	Ecuador	44
+1998	United Kingdom	43
+1998	Costa Rica	25
+1998	Ghana	23
+1998	Hungary	19
+1998	Syrian Arab Republic	15
+1998	Ireland	13
+1998	Bangladesh	8
+1998	Uruguay	6
+1998	Malawi	3
+1998	Iraq	3
+1998	Slovenia	2
+1998	Panama	2
+1998	Lithuania	2
+1998	Senegal	1
+1998	Madagascar	1
+1998	Finland	1
+1998	Eritrea	1
+1998	Switzerland	0.4
+1998	Burundi	0.23
+1999	India	3777
+1999	South Africa	2719
+1999	Thailand	979
+1999	Turkey	922
+1999	Pakistan	772
+1999	Costa Rica	415
+1999	Belgium-Luxembourg	414
+1999	Colombia	408
+1999	Chile	268
+1999	Italy	195
+1999	Portugal	114
+1999	United Kingdom	43
+1999	Cameroon	35
+1999	Hungary	33
+1999	Syrian Arab Republic	30
+1999	Nicaragua	27
+1999	Ghana	25
+1999	Ecuador	25
+1999	Uruguay	10
+1999	Bangladesh	8
+1999	Malawi	7
+1999	Iraq	5
+1999	Ireland	2
+1999	Madagascar	1
+1999	Lithuania	1
+1999	Switzerland	0.2
+1999	Burundi	0.14
+2000	South Africa	1815
+2000	Turkey	1125
+2000	Costa Rica	805
+2000	Pakistan	780
+2000	Thailand	562
+2000	Belgium	375
+2000	Colombia	336
+2000	United Kingdom	207.92
+2000	France	194
+2000	Italy	132
+2000	Portugal	121
+2000	Ecuador	57
+2000	Nicaragua	48.03
+2000	Dominican Republic	47
+2000	Hungary	35
+2000	Ghana	29
+2000	Syrian Arab Republic	20
+2000	Qatar	17
+2000	Cameroon	14
+2000	Bangladesh	11
+2000	Oman	9.45
+2000	Ethiopia	7
+2000	Iraq	6
+2000	Uruguay	5
+2000	Madagascar	5
+2000	Lithuania	3
+2000	Suriname	2
+2000	Slovenia	2
+2000	Kenya	2
+2000	Senegal	1
+2000	Malawi	1
+2000	Ireland	1
+2000	Cyprus	1
+2000	Finland	0.28
+2000	Switzerland	0.2
+2000	Czech Republic	0.18
+2000	Burundi	0.04
+2001	Turkey	1298
+2001	Belgium	394
+2001	Pakistan	288
+2001	United Kingdom	204.21
+2001	France	135
+2001	Italy	118
+2001	Portugal	90
+2001	Dominican Republic	62
+2001	Hungary	45
+2001	Ecuador	42
+2001	Costa Rica	37
+2001	Ethiopia	33
+2001	Ghana	29
+2001	Nicaragua	24.03
+2001	Guinea-Bissau	24
+2001	Myanmar	11.9
+2001	Cameroon	11
+2001	Uruguay	9
+2001	Eritrea	4
+2001	Cyprus	3
+2001	Slovenia	2
+2001	Lithuania	2
+2001	Kenya	2
+2001	Senegal	1
+2001	Madagascar	1
+2001	Switzerland	0.2
+2001	Burundi	0.15
+2001	Finland	0.07
+2001	Czech Republic	0.01
+2002	United Kingdom	199.94
+2002	France	121
+2002	Italy	112
+2002	Ecuador	72.89
+2002	Nicaragua	36.59
+2002	Suriname	7.75
+2002	Cyprus	3
+2002	French Polynesia	1.28
+2002	Switzerland	0.5
+2002	Burundi	0.01
+2003	India	2655
+2003	Thailand	1678
+2003	United Kingdom	199.86
+2003	Italy	138
+2003	Togo	120.7
+2003	France	114
+2003	Ecuador	103.19
+2003	Nicaragua	49.03
+2003	Ukraine	10.8
+2003	Dominican Republic	10.02
+2003	Suriname	7.51
+2003	Cyprus	4
+2003	Switzerland	0.8
+2003	Madagascar	0.69
+2004	India	2907
+2004	Ecuador	1432.19
+2004	United Kingdom	246.31
+2004	France	164
+2004	Togo	132.3
+2004	Italy	116
+2004	Nicaragua	64.74
+2004	Dominican Republic	62.19
+2004	Ukraine	44
+2004	Myanmar	10.5
+2004	Suriname	7.18
+2004	Cyprus	5
+2004	Nepal	2.47
+2004	Madagascar	1
+2004	Switzerland	0.6
+2004	French Polynesia	0.57
+2004	Burundi	0.01
+2005	India	2242
+2005	United Kingdom	242.74
+2005	France	158
+2005	Ecuador	149.06
+2005	Nicaragua	134.93
+2005	Italy	117
+2005	Ukraine	39.8
+2005	Dominican Republic	28.63
+2005	Togo	26.1
+2005	Cyprus	8
+2005	Madagascar	7.13
+2005	Myanmar	7
+2005	Suriname	4.9
+2005	Nepal	3.1
+2005	Poland	1
+2005	French Polynesia	0.68
+2005	Switzerland	0.3
+2005	Burundi	0.23
+2006	India	4209
+2006	United Kingdom	256.39
+2006	Ecuador	208.37
+2006	Nicaragua	118.26
+2006	Italy	71
+2006	France	51
+2006	Dominican Republic	42.3
+2006	Ukraine	21.7
+2006	Cyprus	14
+2006	Nepal	8.21
+2006	Myanmar	5.88
+2006	Suriname	3
+2006	French Polynesia	0.64
+2006	Switzerland	0.3
+2007	India	3639.02
+2007	United Kingdom	256.38
+2007	Ecuador	247.83
+2007	Nicaragua	93.39
+2007	Saudi Arabia	53.01
+2007	Italy	38
+2007	Ukraine	24.4
+2007	Poland	15
+2007	Dominican Republic	12.69
+2007	Portugal	12.04
+2007	Switzerland	1.6
+2007	French Polynesia	0.36
+2008	India	2841.33
+2008	Nicaragua	188.88
+2008	Dominican Republic	80.55
+2008	Myanmar	33
+2008	Ecuador	17.18
+2008	Italy	14
+2008	Ukraine	8.2
+2008	Madagascar	1.4
+2008	Switzerland	1
+2008	French Polynesia	0.58
+2008	Portugal	0.42
+2008	United Kingdom	0.22
+2009	India	3228.4
+2009	Dominican Republic	62.31
+2009	Nicaragua	24.92
+2009	El Salvador	13.19
+2009	Italy	9
+2009	Ukraine	1.7
+2009	Switzerland	1.1
+2009	French Polynesia	0.33
+2009	Madagascar	0.18
+2010	India	4485.21
+2010	Ecuador	1230.26
+2010	Dominican Republic	80.77
+2010	Nicaragua	43.05
+2010	Ukraine	2.2
+2010	Switzerland	1.1
+2010	Madagascar	0.35
+2010	French Polynesia	0.1

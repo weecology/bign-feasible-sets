@@ -1,0 +1,52 @@
+US	Texas	254
+US	Georgia	159
+US	Virginia 	134
+US	Kentucky	120
+US	Missouri 	115
+US	Kansas	105
+US	Illinois	102
+US	North Carolina	100
+US	Iowa	99
+US	Tennessee	95
+US	Nebraska	93
+US	Indiana	92
+US	Ohio	88
+US	Minnesota	87
+US	Michigan	83
+US	Mississippi	82
+US	Oklahoma	77
+US	Arkansas	75
+US	Wisconsin	72
+US	Pennsylvania	67
+US	Florida	67
+US	Alabama	67
+US	South Dakota	66
+US	Louisiana 	64
+US	Colorado	64
+US	New York	62
+US	California	58
+US	Montana	56
+US	West Virginia	55
+US	North Dakota	53
+US	South Carolina	46
+US	Idaho	44
+US	Washington	39
+US	Oregon	36
+US	New Mexico	33
+US	Utah	29
+US	Maryland 	24
+US	Wyoming	23
+US	New Jersey	21
+US	Alaska 	18
+US	Nevada 	17
+US	Maine	16
+US	Arizona	15
+US	Vermont	14
+US	Massachusetts	14
+US	New Hampshire	10
+US	Connecticut	8
+US	Rhode Island	5
+US	Hawaii	5
+US	Delaware	3
+US	DC	1
+XX00

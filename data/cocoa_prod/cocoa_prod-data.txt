@@ -1,0 +1,2929 @@
+1961	Ghana	415200
+1961	Nigeria	197000
+1961	Brazil	155901
+1961	Côte d'Ivoire	85000
+1961	Cameroon	75100
+1961	Ecuador	44100
+1961	Dominican Republic	34850
+1961	Mexico	26938
+1961	Equatorial Guinea	26000
+1961	Venezuela (Bolivarian Republic of)	16901
+1961	Colombia	14300
+1961	Togo	11550
+1961	Costa Rica	10600
+1961	Papua New Guinea	9271
+1961	Sao Tome and Principe	9100
+1961	Trinidad and Tobago	7030
+1961	Democratic Republic of the Congo	5800
+1961	Samoa	4300
+1961	Sri Lanka	3378
+1961	Philippines	3200
+1961	Gabon	3190
+1961	Jamaica	2870
+1961	Sierra Leone	2840
+1961	Peru	2688
+1961	Haiti	2500
+1961	Grenada	2500
+1961	Cuba	2500
+1961	Guinea	1500
+1961	Panama	1300
+1961	Bolivia (Plurinational State of)	1100
+1961	Indonesia	1031
+1961	Congo	900
+1961	Liberia	670
+1961	Vanuatu	663
+1961	Malaysia	600
+1961	Madagascar	600
+1961	Nicaragua	500
+1961	Guatemala	500
+1961	United Republic of Tanzania	450
+1961	Angola	400
+1961	Saint Lucia	300
+1961	El Salvador	300
+1961	Dominica	200
+1961	Honduras	163
+1961	Suriname	162
+1961	Martinique	100
+1961	Guadeloupe	100
+1961	Comoros	41
+1961	Saint Vincent and the Grenadines	40
+1961	Guyana	26
+1961	Uganda	20
+1961	Timor-Leste	20
+1961	Belize	17
+1961	Pacific Islands Trust Territory	15
+1961	Fiji	15
+1961	Solomon Islands	12
+1961	Central African Republic	7
+1961	American Samoa	5
+1962	Ghana	428100
+1962	Nigeria	182000
+1962	Brazil	140363
+1962	Côte d'Ivoire	110000
+1962	Cameroon	76000
+1962	Ecuador	44300
+1962	Dominican Republic	33230
+1962	Equatorial Guinea	30900
+1962	Mexico	29473
+1962	Venezuela (Bolivarian Republic of)	18910
+1962	Colombia	15000
+1962	Papua New Guinea	14000
+1962	Costa Rica	12600
+1962	Togo	11400
+1962	Sao Tome and Principe	9600
+1962	Trinidad and Tobago	6715
+1962	Democratic Republic of the Congo	6500
+1962	Samoa	5065
+1962	Sierra Leone	4780
+1962	Philippines	3400
+1962	Gabon	3360
+1962	Sri Lanka	3200
+1962	Grenada	2800
+1962	Jamaica	2789
+1962	Haiti	2500
+1962	Peru	2464
+1962	Cuba	2387
+1962	Guinea	1800
+1962	Panama	1200
+1962	Bolivia (Plurinational State of)	1100
+1962	Indonesia	897
+1962	Liberia	830
+1962	Vanuatu	810
+1962	Congo	630
+1962	Malaysia	600
+1962	Nicaragua	500
+1962	Madagascar	500
+1962	Guatemala	500
+1962	Angola	400
+1962	Suriname	352
+1962	United Republic of Tanzania	300
+1962	El Salvador	300
+1962	Saint Lucia	200
+1962	Guadeloupe	200
+1962	Honduras	149
+1962	Martinique	100
+1962	Dominica	100
+1962	Saint Vincent and the Grenadines	54
+1962	Comoros	34
+1962	Guyana	28
+1962	Uganda	25
+1962	Solomon Islands	24
+1962	Timor-Leste	20
+1962	Pacific Islands Trust Territory	15
+1962	Fiji	15
+1962	Central African Republic	11
+1962	American Samoa	7
+1962	Belize	2
+1963	Ghana	427800
+1963	Nigeria	223000
+1963	Brazil	143495
+1963	Côte d'Ivoire	115000
+1963	Cameroon	85000
+1963	Ecuador	44300
+1963	Dominican Republic	38036
+1963	Equatorial Guinea	33000
+1963	Mexico	30067
+1963	Venezuela (Bolivarian Republic of)	20771
+1963	Colombia	15700
+1963	Papua New Guinea	15500
+1963	Togo	13900
+1963	Costa Rica	10700
+1963	Sao Tome and Principe	7800
+1963	Trinidad and Tobago	7322
+1963	Democratic Republic of the Congo	5600
+1963	Samoa	5100
+1963	Gabon	3600
+1963	Philippines	3500
+1963	Sierra Leone	3310
+1963	Sri Lanka	3300
+1963	Haiti	2800
+1963	Peru	2670
+1963	Grenada	2600
+1963	Cuba	2516
+1963	Jamaica	2396
+1963	Guinea	1800
+1963	Bolivia (Plurinational State of)	1100
+1963	Liberia	1030
+1963	Panama	1000
+1963	Vanuatu	940
+1963	Indonesia	824
+1963	Congo	800
+1963	Nicaragua	500
+1963	Guatemala	500
+1963	Malaysia	400
+1963	Madagascar	400
+1963	Suriname	301
+1963	El Salvador	300
+1963	Angola	300
+1963	United Republic of Tanzania	200
+1963	Saint Lucia	200
+1963	Martinique	200
+1963	Guadeloupe	200
+1963	Dominica	200
+1963	Honduras	197
+1963	Saint Vincent and the Grenadines	68
+1963	Belize	58
+1963	Comoros	46
+1963	Solomon Islands	40
+1963	Guyana	29
+1963	Uganda	25
+1963	Timor-Leste	20
+1963	Fiji	20
+1963	Pacific Islands Trust Territory	15
+1963	Central African Republic	10
+1963	American Samoa	10
+1964	Ghana	580500
+1964	Nigeria	298300
+1964	Brazil	153685
+1964	Côte d'Ivoire	139069
+1964	Cameroon	91200
+1964	Dominican Republic	41223
+1964	Ecuador	37800
+1964	Equatorial Guinea	35100
+1964	Venezuela (Bolivarian Republic of)	20469
+1964	Mexico	20100
+1964	Papua New Guinea	18706
+1964	Togo	17500
+1964	Colombia	16400
+1964	Sao Tome and Principe	10700
+1964	Costa Rica	10200
+1964	Samoa	5100
+1964	Democratic Republic of the Congo	4800
+1964	Trinidad and Tobago	4716
+1964	Philippines	4180
+1964	Gabon	4000
+1964	Sierra Leone	3180
+1964	Haiti	2800
+1964	Grenada	2800
+1964	Jamaica	2733
+1964	Sri Lanka	2700
+1964	Peru	2674
+1964	Guinea	2000
+1964	Liberia	1538
+1964	Cuba	1204
+1964	Congo	1100
+1964	Bolivia (Plurinational State of)	1100
+1964	Indonesia	945
+1964	Panama	900
+1964	Malaysia	850
+1964	Guatemala	600
+1964	Madagascar	530
+1964	Vanuatu	515
+1964	Nicaragua	500
+1964	El Salvador	300
+1964	Angola	300
+1964	Suriname	228
+1964	Honduras	203
+1964	Saint Lucia	200
+1964	Dominica	200
+1964	United Republic of Tanzania	150
+1964	Guadeloupe	133
+1964	Saint Vincent and the Grenadines	82
+1964	Martinique	80
+1964	Solomon Islands	64
+1964	Comoros	52
+1964	Belize	50
+1964	Fiji	40
+1964	Uganda	30
+1964	Guyana	29
+1964	Timor-Leste	20
+1964	Pacific Islands Trust Territory	20
+1964	Central African Republic	12
+1964	American Samoa	2
+1965	Ghana	415800
+1965	Nigeria	184600
+1965	Brazil	160823
+1965	Côte d'Ivoire	121772
+1965	Cameroon	78800
+1965	Ecuador	49900
+1965	Equatorial Guinea	35400
+1965	Dominican Republic	25000
+1965	Mexico	21140
+1965	Papua New Guinea	20438
+1965	Venezuela (Bolivarian Republic of)	20173
+1965	Colombia	17100
+1965	Togo	14300
+1965	Sao Tome and Principe	8900
+1965	Costa Rica	7600
+1965	Trinidad and Tobago	5062
+1965	Democratic Republic of the Congo	4300
+1965	Philippines	4011
+1965	Haiti	3000
+1965	Sierra Leone	2980
+1965	Jamaica	2447
+1965	Samoa	2300
+1965	Grenada	2300
+1965	Sri Lanka	2200
+1965	Gabon	2170
+1965	Cuba	2154
+1965	Guinea	2000
+1965	Peru	1836
+1965	Malaysia	1200
+1965	Indonesia	1110
+1965	Bolivia (Plurinational State of)	1100
+1965	Congo	800
+1965	Liberia	720
+1965	Panama	700
+1965	Vanuatu	696
+1965	Madagascar	640
+1965	Guatemala	600
+1965	Nicaragua	500
+1965	Angola	400
+1965	El Salvador	300
+1965	Suriname	243
+1965	Honduras	211
+1965	Guadeloupe	150
+1965	United Republic of Tanzania	100
+1965	Saint Vincent and the Grenadines	100
+1965	Saint Lucia	100
+1965	Martinique	100
+1965	Dominica	100
+1965	Solomon Islands	80
+1965	Belize	55
+1965	Fiji	35
+1965	Comoros	33
+1965	Uganda	30
+1965	Guyana	30
+1965	Pacific Islands Trust Territory	25
+1965	Timor-Leste	20
+1965	Central African Republic	20
+1965	American Samoa	5
+1966	Ghana	381100
+1966	Nigeria	267200
+1966	Brazil	172900
+1966	Côte d'Ivoire	149662
+1966	Cameroon	86500
+1966	Ecuador	50764
+1966	Equatorial Guinea	38200
+1966	Dominican Republic	27990
+1966	Mexico	23429
+1966	Venezuela (Bolivarian Republic of)	19881
+1966	Papua New Guinea	19200
+1966	Colombia	17800
+1966	Togo	16300
+1966	Sao Tome and Principe	10900
+1966	Costa Rica	9300
+1966	Trinidad and Tobago	5416
+1966	Democratic Republic of the Congo	5300
+1966	Sierra Leone	4534
+1966	Gabon	4296
+1966	Philippines	4000
+1966	Samoa	2900
+1966	Sri Lanka	2500
+1966	Haiti	2500
+1966	Grenada	2200
+1966	Jamaica	2174
+1966	Peru	2149
+1966	Cuba	2019
+1966	Guinea	2000
+1966	Malaysia	1700
+1966	Liberia	1524
+1966	Indonesia	1172
+1966	Bolivia (Plurinational State of)	1000
+1966	Congo	877
+1966	Madagascar	735
+1966	Vanuatu	700
+1966	Guatemala	600
+1966	Panama	500
+1966	Nicaragua	500
+1966	El Salvador	300
+1966	Angola	300
+1966	Honduras	223
+1966	Suriname	185
+1966	Guadeloupe	114
+1966	United Republic of Tanzania	100
+1966	Saint Vincent and the Grenadines	100
+1966	Saint Lucia	100
+1966	Martinique	100
+1966	Dominica	100
+1966	Solomon Islands	97
+1966	Comoros	69
+1966	Fiji	45
+1966	Uganda	32
+1966	Guyana	30
+1966	Pacific Islands Trust Territory	25
+1966	Timor-Leste	20
+1966	Belize	20
+1966	Central African Republic	19
+1966	American Samoa	10
+1967	Ghana	423500
+1967	Nigeria	238000
+1967	Brazil	194692
+1967	Côte d'Ivoire	146640
+1967	Cameroon	93000
+1967	Ecuador	61236
+1967	Equatorial Guinea	33600
+1967	Dominican Republic	25908
+1967	Mexico	25160
+1967	Papua New Guinea	21400
+1967	Venezuela (Bolivarian Republic of)	20659
+1967	Togo	18338
+1967	Colombia	17000
+1967	Sao Tome and Principe	10900
+1967	Costa Rica	7200
+1967	Trinidad and Tobago	5283
+1967	Democratic Republic of the Congo	4900
+1967	Gabon	4061
+1967	Sierra Leone	3869
+1967	Philippines	3500
+1967	Samoa	3300
+1967	Grenada	2760
+1967	Sri Lanka	2700
+1967	Haiti	2700
+1967	Peru	2301
+1967	Malaysia	2250
+1967	Guinea	2000
+1967	Jamaica	1642
+1967	Cuba	1459
+1967	Liberia	1430
+1967	Indonesia	1233
+1967	Bolivia (Plurinational State of)	1200
+1967	Congo	1144
+1967	Guatemala	800
+1967	Madagascar	795
+1967	Vanuatu	700
+1967	Nicaragua	600
+1967	Panama	500
+1967	Angola	400
+1967	El Salvador	300
+1967	Honduras	276
+1967	United Republic of Tanzania	200
+1967	Suriname	154
+1967	Martinique	120
+1967	Saint Vincent and the Grenadines	100
+1967	Saint Lucia	100
+1967	Guadeloupe	100
+1967	Dominica	100
+1967	Solomon Islands	62
+1967	Comoros	56
+1967	Uganda	46
+1967	Fiji	36
+1967	Guyana	29
+1967	Central African Republic	27
+1967	Pacific Islands Trust Territory	25
+1967	Belize	25
+1967	Timor-Leste	20
+1967	American Samoa	20
+1968	Ghana	327000
+1968	Nigeria	191800
+1968	Brazil	149338
+1968	Côte d'Ivoire	144476
+1968	Cameroon	102000
+1968	Ecuador	81724
+1968	Equatorial Guinea	38000
+1968	Dominican Republic	27266
+1968	Mexico	26580
+1968	Papua New Guinea	23900
+1968	Togo	20000
+1968	Venezuela (Bolivarian Republic of)	19332
+1968	Colombia	18000
+1968	Sao Tome and Principe	10600
+1968	Costa Rica	9100
+1968	Trinidad and Tobago	6873
+1968	Sierra Leone	5039
+1968	Gabon	4751
+1968	Democratic Republic of the Congo	4500
+1968	Philippines	4100
+1968	Grenada	2826
+1968	Samoa	2750
+1968	Haiti	2500
+1968	Malaysia	2350
+1968	Liberia	2291
+1968	Sri Lanka	2200
+1968	Guinea	2000
+1968	Cuba	1939
+1968	Jamaica	1864
+1968	Peru	1795
+1968	Bolivia (Plurinational State of)	1300
+1968	Congo	1288
+1968	Indonesia	1204
+1968	Vanuatu	900
+1968	Madagascar	825
+1968	Nicaragua	600
+1968	Guatemala	600
+1968	Panama	500
+1968	Angola	500
+1968	United Republic of Tanzania	400
+1968	El Salvador	300
+1968	Honduras	274
+1968	Solomon Islands	107
+1968	Saint Vincent and the Grenadines	100
+1968	Saint Lucia	100
+1968	Martinique	100
+1968	Guadeloupe	100
+1968	Dominica	100
+1968	Uganda	86
+1968	Fiji	80
+1968	Suriname	78
+1968	Comoros	42
+1968	Belize	35
+1968	Guyana	29
+1968	Pacific Islands Trust Territory	27
+1968	Timor-Leste	20
+1968	American Samoa	20
+1968	Central African Republic	19
+1969	Ghana	414300
+1969	Nigeria	220800
+1969	Brazil	211162
+1969	Côte d'Ivoire	180706
+1969	Cameroon	108186
+1969	Ecuador	47993
+1969	Equatorial Guinea	28000
+1969	Mexico	27368
+1969	Papua New Guinea	26600
+1969	Dominican Republic	25823
+1969	Togo	23600
+1969	Colombia	18500
+1969	Venezuela (Bolivarian Republic of)	18278
+1969	Sao Tome and Principe	9100
+1969	Democratic Republic of the Congo	4900
+1969	Costa Rica	4800
+1969	Philippines	4400
+1969	Gabon	4366
+1969	Sierra Leone	3782
+1969	Trinidad and Tobago	3464
+1969	Samoa	3200
+1969	Grenada	3056
+1969	Malaysia	2750
+1969	Haiti	2700
+1969	Peru	2412
+1969	Guinea	2000
+1969	Liberia	1920
+1969	Jamaica	1857
+1969	Sri Lanka	1800
+1969	Indonesia	1763
+1969	Bolivia (Plurinational State of)	1300
+1969	Cuba	1234
+1969	Congo	1195
+1969	Madagascar	885
+1969	Vanuatu	600
+1969	Panama	600
+1969	Nicaragua	600
+1969	Guatemala	500
+1969	United Republic of Tanzania	400
+1969	El Salvador	300
+1969	Angola	300
+1969	Honduras	294
+1969	Uganda	147
+1969	Suriname	127
+1969	Saint Vincent and the Grenadines	100
+1969	Saint Lucia	100
+1969	Martinique	100
+1969	Guadeloupe	100
+1969	Dominica	100
+1969	Solomon Islands	97
+1969	Fiji	60
+1969	Comoros	51
+1969	Pacific Islands Trust Territory	30
+1969	Guyana	30
+1969	Central African Republic	25
+1969	American Samoa	24
+1969	Timor-Leste	20
+1969	Belize	12
+1970	Ghana	406000
+1970	Nigeria	304800
+1970	Brazil	197061
+1970	Côte d'Ivoire	179156
+1970	Cameroon	133770
+1970	Ecuador	53584
+1970	Dominican Republic	37924
+1970	Equatorial Guinea	35000
+1970	Mexico	28823
+1970	Togo	27900
+1970	Papua New Guinea	26100
+1970	Colombia	19000
+1970	Venezuela (Bolivarian Republic of)	18884
+1970	Sao Tome and Principe	9700
+1970	Trinidad and Tobago	6213
+1970	Democratic Republic of the Congo	6200
+1970	Gabon	6095
+1970	Sierra Leone	5080
+1970	Philippines	4300
+1970	Costa Rica	4200
+1970	Malaysia	3200
+1970	Grenada	2926
+1970	Haiti	2900
+1970	Samoa	2600
+1970	Sri Lanka	2300
+1970	Jamaica	2163
+1970	Peru	2107
+1970	Guinea	2000
+1970	Indonesia	1738
+1970	Liberia	1621
+1970	Congo	1344
+1970	Cuba	1330
+1970	Bolivia (Plurinational State of)	1300
+1970	Madagascar	1000
+1970	Vanuatu	700
+1970	Panama	648
+1970	Nicaragua	600
+1970	Guatemala	600
+1970	Angola	445
+1970	United Republic of Tanzania	400
+1970	Honduras	300
+1970	El Salvador	300
+1970	Uganda	241
+1970	Solomon Islands	131
+1970	Suriname	106
+1970	Saint Vincent and the Grenadines	100
+1970	Saint Lucia	100
+1970	Guadeloupe	100
+1970	Dominica	100
+1970	Fiji	59
+1970	Comoros	48
+1970	Central African Republic	35
+1970	Guyana	30
+1970	Pacific Islands Trust Territory	25
+1970	American Samoa	24
+1970	Timor-Leste	20
+1970	Belize	17
+1971	Ghana	470000
+1971	Nigeria	256600
+1971	Côte d'Ivoire	225814
+1971	Brazil	218701
+1971	Cameroon	138775
+1971	Ecuador	70806
+1971	Dominican Republic	32470
+1971	Papua New Guinea	29100
+1971	Togo	29000
+1971	Mexico	26145
+1971	Equatorial Guinea	22000
+1971	Colombia	21000
+1971	Venezuela (Bolivarian Republic of)	19413
+1971	Sao Tome and Principe	11034
+1971	Costa Rica	7300
+1971	Democratic Republic of the Congo	6300
+1971	Gabon	5031
+1971	Sierra Leone	4770
+1971	Malaysia	4500
+1971	Trinidad and Tobago	3767
+1971	Philippines	3600
+1971	Samoa	3100
+1971	Haiti	3100
+1971	Grenada	2866
+1971	Liberia	2642
+1971	Sri Lanka	2200
+1971	Peru	2173
+1971	Congo	2026
+1971	Indonesia	2009
+1971	Guinea	2000
+1971	Jamaica	1872
+1971	Bolivia (Plurinational State of)	1750
+1971	Cuba	1353
+1971	Madagascar	1040
+1971	Guatemala	700
+1971	Nicaragua	600
+1971	Panama	530
+1971	Angola	516
+1971	United Republic of Tanzania	500
+1971	Vanuatu	300
+1971	Honduras	300
+1971	El Salvador	206
+1971	Uganda	145
+1971	Solomon Islands	119
+1971	Saint Vincent and the Grenadines	100
+1971	Saint Lucia	100
+1971	Guadeloupe	100
+1971	Dominica	100
+1971	Suriname	83
+1971	Fiji	80
+1971	Guyana	31
+1971	Central African Republic	30
+1971	Pacific Islands Trust Territory	25
+1971	American Samoa	22
+1971	Timor-Leste	20
+1971	Belize	20
+1971	Comoros	16
+1972	Ghana	415700
+1972	Nigeria	241100
+1972	Brazil	221469
+1972	Côte d'Ivoire	185445
+1972	Cameroon	126780
+1972	Ecuador	67784
+1972	Mexico	38032
+1972	Dominican Republic	36093
+1972	Papua New Guinea	29300
+1972	Colombia	22000
+1972	Togo	18600
+1972	Venezuela (Bolivarian Republic of)	16718
+1972	Sao Tome and Principe	10395
+1972	Equatorial Guinea	10000
+1972	Sierra Leone	7028
+1972	Democratic Republic of the Congo	6500
+1972	Gabon	5030
+1972	Malaysia	5000
+1972	Costa Rica	5000
+1972	Trinidad and Tobago	4821
+1972	Philippines	3500
+1972	Haiti	3300
+1972	Liberia	3184
+1972	Grenada	2511
+1972	Bolivia (Plurinational State of)	2485
+1972	Jamaica	2378
+1972	Peru	2231
+1972	Congo	2146
+1972	Sri Lanka	2000
+1972	Guinea	2000
+1972	Cuba	1900
+1972	Indonesia	1801
+1972	Samoa	1700
+1972	Madagascar	1240
+1972	Vanuatu	800
+1972	Guatemala	800
+1972	United Republic of Tanzania	600
+1972	Nicaragua	600
+1972	Angola	600
+1972	Panama	504
+1972	Honduras	300
+1972	El Salvador	300
+1972	Uganda	190
+1972	Dominica	180
+1972	Saint Vincent and the Grenadines	100
+1972	Saint Lucia	100
+1972	Guadeloupe	100
+1972	Fiji	89
+1972	Solomon Islands	64
+1972	Suriname	58
+1972	Comoros	50
+1972	Central African Republic	45
+1972	Guyana	27
+1972	Pacific Islands Trust Territory	25
+1972	Belize	25
+1972	American Samoa	22
+1972	Timor-Leste	20
+1973	Ghana	343000
+1973	Nigeria	215000
+1973	Côte d'Ivoire	208522
+1973	Brazil	195916
+1973	Cameroon	132245
+1973	Ecuador	63374
+1973	Dominican Republic	35900
+1973	Mexico	32814
+1973	Papua New Guinea	23300
+1973	Colombia	23000
+1973	Venezuela (Bolivarian Republic of)	19081
+1973	Togo	16500
+1973	Equatorial Guinea	12000
+1973	Sao Tome and Principe	11300
+1973	Sierra Leone	7931
+1973	Malaysia	6733
+1973	Costa Rica	6600
+1973	Democratic Republic of the Congo	5700
+1973	Gabon	5151
+1973	Philippines	3600
+1973	Haiti	3500
+1973	Trinidad and Tobago	3162
+1973	Liberia	2425
+1973	Grenada	2424
+1973	Peru	2406
+1973	Congo	2114
+1973	Guinea	2000
+1973	Jamaica	1952
+1973	Indonesia	1813
+1973	Cuba	1743
+1973	Samoa	1400
+1973	Bolivia (Plurinational State of)	1370
+1973	Sri Lanka	1300
+1973	Madagascar	1200
+1973	Guatemala	800
+1973	Vanuatu	700
+1973	Angola	700
+1973	United Republic of Tanzania	600
+1973	Nicaragua	600
+1973	Panama	500
+1973	Honduras	300
+1973	El Salvador	300
+1973	Uganda	200
+1973	Dominica	200
+1973	Saint Lucia	185
+1973	Saint Vincent and the Grenadines	113
+1973	Solomon Islands	85
+1973	Guadeloupe	80
+1973	Suriname	50
+1973	Central African Republic	40
+1973	Belize	37
+1973	Guyana	36
+1973	Pacific Islands Trust Territory	25
+1973	Fiji	22
+1973	Timor-Leste	20
+1973	American Samoa	20
+1973	Comoros	19
+1974	Ghana	385100
+1974	Brazil	242400
+1974	Côte d'Ivoire	241511
+1974	Nigeria	214000
+1974	Cameroon	120014
+1974	Ecuador	91039
+1974	Dominican Republic	38300
+1974	Mexico	34811
+1974	Papua New Guinea	33300
+1974	Colombia	24500
+1974	Venezuela (Bolivarian Republic of)	17928
+1974	Togo	14500
+1974	Equatorial Guinea	13000
+1974	Malaysia	10480
+1974	Sao Tome and Principe	10400
+1974	Sierra Leone	5933
+1974	Costa Rica	5919
+1974	Democratic Republic of the Congo	5000
+1974	Gabon	4869
+1974	Trinidad and Tobago	4161
+1974	Philippines	4100
+1974	Haiti	3500
+1974	Liberia	3291
+1974	Indonesia	3191
+1974	Peru	2545
+1974	Congo	2422
+1974	Grenada	2386
+1974	Bolivia (Plurinational State of)	2354
+1974	Sri Lanka	2000
+1974	Guinea	2000
+1974	Jamaica	1618
+1974	Samoa	1600
+1974	Madagascar	1560
+1974	Cuba	1356
+1974	Guatemala	800
+1974	Vanuatu	700
+1974	United Republic of Tanzania	700
+1974	Panama	500
+1974	Nicaragua	500
+1974	Angola	500
+1974	Honduras	300
+1974	El Salvador	298
+1974	Dominica	250
+1974	Saint Vincent and the Grenadines	113
+1974	Solomon Islands	109
+1974	Uganda	100
+1974	Saint Lucia	100
+1974	Guadeloupe	80
+1974	Central African Republic	60
+1974	Suriname	54
+1974	Fiji	49
+1974	Guyana	40
+1974	Belize	40
+1974	Comoros	38
+1974	Pacific Islands Trust Territory	25
+1974	Timor-Leste	20
+1974	American Samoa	20
+1975	Ghana	397300
+1975	Brazil	281887
+1975	Côte d'Ivoire	231136
+1975	Nigeria	216000
+1975	Cameroon	96000
+1975	Ecuador	75272
+1975	Papua New Guinea	36000
+1975	Mexico	33588
+1975	Dominican Republic	30909
+1975	Colombia	26000
+1975	Venezuela (Bolivarian Republic of)	19953
+1975	Togo	17750
+1975	Malaysia	12880
+1975	Equatorial Guinea	10000
+1975	Sao Tome and Principe	7900
+1975	Costa Rica	6609
+1975	Sierra Leone	6340
+1975	Democratic Republic of the Congo	5300
+1975	Trinidad and Tobago	5240
+1975	Gabon	4549
+1975	Indonesia	3921
+1975	Philippines	3313
+1975	Liberia	3163
+1975	Haiti	3000
+1975	Guinea	3000
+1975	Congo	2912
+1975	Bolivia (Plurinational State of)	2735
+1975	Peru	2658
+1975	Grenada	2411
+1975	Sri Lanka	2000
+1975	Jamaica	1780
+1975	Samoa	1600
+1975	Madagascar	1380
+1975	Cuba	1251
+1975	United Republic of Tanzania	900
+1975	Panama	810
+1975	Vanuatu	700
+1975	Nicaragua	617
+1975	Guatemala	603
+1975	Angola	500
+1975	Honduras	300
+1975	Dominica	290
+1975	El Salvador	250
+1975	Solomon Islands	197
+1975	Saint Vincent and the Grenadines	113
+1975	Uganda	100
+1975	Saint Lucia	100
+1975	Central African Republic	80
+1975	Guadeloupe	78
+1975	Fiji	72
+1975	Suriname	55
+1975	Belize	42
+1975	Guyana	40
+1975	Pacific Islands Trust Territory	26
+1975	Comoros	21
+1975	Timor-Leste	20
+1975	American Samoa	18
+1976	Ghana	326700
+1976	Côte d'Ivoire	232330
+1976	Brazil	231796
+1976	Nigeria	181000
+1976	Cameroon	82500
+1976	Ecuador	65192
+1976	Dominican Republic	33100
+1976	Papua New Guinea	31900
+1976	Mexico	31011
+1976	Colombia	29200
+1976	Malaysia	15170
+1976	Venezuela (Bolivarian Republic of)	15091
+1976	Togo	14100
+1976	Sao Tome and Principe	7000
+1976	Equatorial Guinea	6000
+1976	Costa Rica	5855
+1976	Sierra Leone	5790
+1976	Democratic Republic of the Congo	5400
+1976	Guinea	4000
+1976	Indonesia	3909
+1976	Gabon	3573
+1976	Trinidad and Tobago	3250
+1976	Philippines	3200
+1976	Haiti	3000
+1976	Bolivia (Plurinational State of)	2995
+1976	Grenada	2713
+1976	Peru	2607
+1976	Liberia	2513
+1976	Congo	2332
+1976	Jamaica	1646
+1976	Madagascar	1557
+1976	Samoa	1500
+1976	Sri Lanka	1400
+1976	Cuba	1353
+1976	Panama	925
+1976	United Republic of Tanzania	800
+1976	Guatemala	704
+1976	Vanuatu	700
+1976	Nicaragua	621
+1976	Dominica	320
+1976	Honduras	300
+1976	Angola	300
+1976	El Salvador	250
+1976	Uganda	200
+1976	Solomon Islands	114
+1976	Saint Vincent and the Grenadines	113
+1976	Saint Lucia	100
+1976	Fiji	88
+1976	Guadeloupe	78
+1976	Suriname	58
+1976	Belize	42
+1976	Guyana	40
+1976	Central African Republic	40
+1976	Pacific Islands Trust Territory	27
+1976	Timor-Leste	20
+1976	American Samoa	18
+1976	Comoros	15
+1977	Côte d'Ivoire	303621
+1977	Ghana	277400
+1977	Brazil	249755
+1977	Nigeria	193000
+1977	Cameroon	107000
+1977	Ecuador	72120
+1977	Dominican Republic	34474
+1977	Papua New Guinea	28500
+1977	Colombia	27000
+1977	Mexico	25442
+1977	Malaysia	17513
+1977	Togo	16700
+1977	Venezuela (Bolivarian Republic of)	16389
+1977	Costa Rica	7694
+1977	Equatorial Guinea	6000
+1977	Sao Tome and Principe	5500
+1977	Sierra Leone	5454
+1977	Democratic Republic of the Congo	5200
+1977	Indonesia	4816
+1977	Guinea	4000
+1977	Peru	3998
+1977	Guatemala	3795
+1977	Gabon	3573
+1977	Trinidad and Tobago	3345
+1977	Bolivia (Plurinational State of)	3110
+1977	Congo	3021
+1977	Haiti	3000
+1977	Philippines	2944
+1977	Samoa	2200
+1977	Grenada	2134
+1977	Liberia	2029
+1977	Sri Lanka	1700
+1977	Jamaica	1692
+1977	Madagascar	1410
+1977	Cuba	1182
+1977	Panama	768
+1977	United Republic of Tanzania	753
+1977	Vanuatu	700
+1977	Dominica	670
+1977	Nicaragua	626
+1977	Honduras	500
+1977	India	300
+1977	Angola	300
+1977	El Salvador	298
+1977	Solomon Islands	166
+1977	Saint Vincent and the Grenadines	120
+1977	Uganda	100
+1977	Saint Lucia	100
+1977	Fiji	97
+1977	Suriname	61
+1977	Central African Republic	60
+1977	Guadeloupe	50
+1977	Belize	45
+1977	Guyana	40
+1977	Pacific Islands Trust Territory	28
+1977	Timor-Leste	20
+1977	Comoros	20
+1977	American Samoa	16
+1978	Côte d'Ivoire	318381
+1978	Brazil	284490
+1978	Ghana	268200
+1978	Nigeria	157000
+1978	Cameroon	110865
+1978	Ecuador	72085
+1978	Mexico	42159
+1978	Dominican Republic	36960
+1978	Colombia	31000
+1978	Papua New Guinea	29500
+1978	Malaysia	21879
+1978	Venezuela (Bolivarian Republic of)	16610
+1978	Togo	12600
+1978	Costa Rica	10381
+1978	Sierra Leone	7100
+1978	Sao Tome and Principe	7000
+1978	Equatorial Guinea	6000
+1978	Indonesia	5496
+1978	Guatemala	4522
+1978	Democratic Republic of the Congo	4300
+1978	Liberia	4043
+1978	Peru	4039
+1978	Haiti	4000
+1978	Guinea	4000
+1978	Gabon	3710
+1978	Trinidad and Tobago	3398
+1978	Philippines	3082
+1978	Grenada	2436
+1978	Congo	2275
+1978	Bolivia (Plurinational State of)	2165
+1978	Sri Lanka	2000
+1978	Jamaica	1797
+1978	Cuba	1582
+1978	United Republic of Tanzania	1570
+1978	Madagascar	1530
+1978	Samoa	1241
+1978	Panama	1192
+1978	Vanuatu	1000
+1978	Dominica	705
+1978	Nicaragua	500
+1978	India	500
+1978	Honduras	500
+1978	El Salvador	306
+1978	Solomon Islands	235
+1978	Uganda	200
+1978	Angola	200
+1978	Fiji	123
+1978	Saint Vincent and the Grenadines	120
+1978	Saint Lucia	100
+1978	Central African Republic	80
+1978	Guadeloupe	50
+1978	Suriname	47
+1978	Belize	45
+1978	Guyana	40
+1978	Pacific Islands Trust Territory	29
+1978	Timor-Leste	20
+1978	Comoros	15
+1978	American Samoa	15
+1979	Côte d'Ivoire	397759
+1979	Brazil	336326
+1979	Ghana	280800
+1979	Nigeria	151000
+1979	Cameroon	123179
+1979	Ecuador	77407
+1979	Mexico	37754
+1979	Dominican Republic	35916
+1979	Colombia	32300
+1979	Malaysia	28515
+1979	Papua New Guinea	27000
+1979	Venezuela (Bolivarian Republic of)	17590
+1979	Togo	15300
+1979	Costa Rica	10365
+1979	Sierra Leone	9111
+1979	Indonesia	8632
+1979	Sao Tome and Principe	7500
+1979	Equatorial Guinea	6000
+1979	Democratic Republic of the Congo	5700
+1979	Gabon	4754
+1979	Peru	4262
+1979	Haiti	4000
+1979	Guinea	4000
+1979	Philippines	3827
+1979	Liberia	3446
+1979	Congo	2772
+1979	Trinidad and Tobago	2628
+1979	Grenada	2625
+1979	Bolivia (Plurinational State of)	2020
+1979	Sri Lanka	2000
+1979	Madagascar	1690
+1979	Guatemala	1679
+1979	Samoa	1632
+1979	Cuba	1614
+1979	Panama	1450
+1979	Jamaica	1366
+1979	United Republic of Tanzania	1100
+1979	Vanuatu	1000
+1979	India	800
+1979	Nicaragua	500
+1979	Honduras	500
+1979	Dominica	428
+1979	El Salvador	310
+1979	Solomon Islands	309
+1979	Uganda	200
+1979	Angola	200
+1979	Fiji	144
+1979	Saint Vincent and the Grenadines	120
+1979	Saint Lucia	108
+1979	Suriname	83
+1979	Belize	45
+1979	Guyana	40
+1979	Pacific Islands Trust Territory	30
+1979	Timor-Leste	20
+1979	Comoros	18
+1979	Central African Republic	15
+1979	American Samoa	15
+1979	Guadeloupe	10
+1980	Côte d'Ivoire	417222
+1980	Brazil	319141
+1980	Ghana	277200
+1980	Nigeria	153000
+1980	Cameroon	117053
+1980	Ecuador	91215
+1980	Mexico	36360
+1980	Colombia	35700
+1980	Malaysia	35372
+1980	Papua New Guinea	31200
+1980	Dominican Republic	28481
+1980	Togo	16300
+1980	Venezuela (Bolivarian Republic of)	14953
+1980	Indonesia	10284
+1980	Sierra Leone	8497
+1980	Equatorial Guinea	8000
+1980	India	6000
+1980	Democratic Republic of the Congo	5900
+1980	Sao Tome and Principe	5700
+1980	Costa Rica	5266
+1980	Peru	4420
+1980	Philippines	4141
+1980	Guinea	4000
+1980	Gabon	3814
+1980	Liberia	3709
+1980	Haiti	2500
+1980	Sri Lanka	2400
+1980	Trinidad and Tobago	2381
+1980	Congo	2334
+1980	Bolivia (Plurinational State of)	2260
+1980	Grenada	2131
+1980	Jamaica	1752
+1980	Madagascar	1690
+1980	Panama	1640
+1980	Cuba	1242
+1980	Samoa	1216
+1980	Guatemala	1132
+1980	United Republic of Tanzania	1051
+1980	Vanuatu	723
+1980	Nicaragua	500
+1980	Honduras	500
+1980	Dominica	428
+1980	Solomon Islands	346
+1980	El Salvador	320
+1980	Thailand	300
+1980	Angola	200
+1980	Fiji	137
+1980	Saint Vincent and the Grenadines	130
+1980	Uganda	100
+1980	Saint Lucia	72
+1980	Suriname	65
+1980	Belize	44
+1980	Guyana	40
+1980	Pacific Islands Trust Territory	32
+1980	Timor-Leste	20
+1980	Guadeloupe	20
+1980	Central African Republic	20
+1980	Comoros	15
+1980	American Samoa	15
+1981	Côte d'Ivoire	464751
+1981	Brazil	335625
+1981	Ghana	246500
+1981	Nigeria	174000
+1981	Cameroon	118344
+1981	Ecuador	80460
+1981	Malaysia	49068
+1981	Colombia	38300
+1981	Dominican Republic	31920
+1981	Papua New Guinea	31700
+1981	Mexico	30407
+1981	Venezuela (Bolivarian Republic of)	14840
+1981	Indonesia	13137
+1981	Togo	11000
+1981	Equatorial Guinea	9900
+1981	Sierra Leone	9026
+1981	Liberia	6728
+1981	Sao Tome and Principe	6500
+1981	India	6000
+1981	Peru	5312
+1981	Costa Rica	5049
+1981	Democratic Republic of the Congo	4513
+1981	Philippines	4125
+1981	Guinea	4000
+1981	Trinidad and Tobago	3145
+1981	Haiti	3000
+1981	Gabon	2850
+1981	Sri Lanka	2700
+1981	Grenada	2517
+1981	Bolivia (Plurinational State of)	2235
+1981	Congo	2214
+1981	Samoa	2100
+1981	Madagascar	1855
+1981	Jamaica	1752
+1981	Panama	1751
+1981	Cuba	1536
+1981	Guatemala	1100
+1981	United Republic of Tanzania	974
+1981	Vanuatu	868
+1981	Solomon Islands	592
+1981	Honduras	500
+1981	Dominica	428
+1981	Nicaragua	400
+1981	El Salvador	330
+1981	Thailand	300
+1981	Angola	200
+1981	Fiji	185
+1981	Saint Vincent and the Grenadines	135
+1981	Uganda	100
+1981	Suriname	75
+1981	Saint Lucia	48
+1981	Belize	44
+1981	Guyana	40
+1981	Pacific Islands Trust Territory	33
+1981	Central African Republic	30
+1981	Timor-Leste	20
+1981	Comoros	20
+1981	Guadeloupe	5
+1981	American Samoa	5
+1982	Côte d'Ivoire	360445
+1982	Brazil	351149
+1982	Ghana	202500
+1982	Nigeria	156000
+1982	Cameroon	105153
+1982	Ecuador	96941
+1982	Malaysia	61000
+1982	Mexico	41013
+1982	Colombia	39400
+1982	Dominican Republic	34921
+1982	Papua New Guinea	25909
+1982	Indonesia	17260
+1982	Sierra Leone	15100
+1982	Togo	13800
+1982	Venezuela (Bolivarian Republic of)	13257
+1982	Equatorial Guinea	7000
+1982	Peru	6045
+1982	India	6000
+1982	Philippines	5348
+1982	Sao Tome and Principe	5100
+1982	Liberia	4600
+1982	Haiti	4490
+1982	Democratic Republic of the Congo	4300
+1982	Guinea	4000
+1982	Costa Rica	3545
+1982	Sri Lanka	3000
+1982	Gabon	2900
+1982	Congo	2492
+1982	Jamaica	2408
+1982	Bolivia (Plurinational State of)	2342
+1982	Grenada	2279
+1982	Trinidad and Tobago	2247
+1982	Madagascar	1895
+1982	Cuba	1706
+1982	Panama	1515
+1982	Samoa	1300
+1982	Guatemala	1200
+1982	United Republic of Tanzania	1159
+1982	Honduras	1000
+1982	Solomon Islands	668
+1982	Vanuatu	528
+1982	Dominica	492
+1982	Nicaragua	400
+1982	El Salvador	400
+1982	Thailand	300
+1982	Angola	200
+1982	Saint Vincent and the Grenadines	135
+1982	Fiji	130
+1982	Uganda	100
+1982	Saint Lucia	50
+1982	Belize	42
+1982	Guyana	40
+1982	Central African Republic	40
+1982	Pacific Islands Trust Territory	34
+1982	Suriname	30
+1982	Timor-Leste	20
+1982	Comoros	20
+1982	Guadeloupe	5
+1982	American Samoa	5
+1983	Côte d'Ivoire	411081
+1983	Brazil	380256
+1983	Ghana	168100
+1983	Nigeria	140000
+1983	Cameroon	108900
+1983	Malaysia	68000
+1983	Ecuador	45000
+1983	Dominican Republic	42826
+1983	Colombia	37000
+1983	Mexico	33496
+1983	Papua New Guinea	27572
+1983	Indonesia	19640
+1983	Togo	16600
+1983	Venezuela (Bolivarian Republic of)	13960
+1983	Sierra Leone	12500
+1983	Equatorial Guinea	6600
+1983	Peru	6145
+1983	India	6000
+1983	Liberia	5710
+1983	Philippines	5473
+1983	Sao Tome and Principe	4700
+1983	Haiti	4600
+1983	Democratic Republic of the Congo	4300
+1983	Guinea	4000
+1983	Sri Lanka	2500
+1983	Gabon	2500
+1983	Grenada	2367
+1983	Jamaica	2302
+1983	Bolivia (Plurinational State of)	2250
+1983	Costa Rica	2161
+1983	Cuba	1840
+1983	Madagascar	1800
+1983	Trinidad and Tobago	1732
+1983	Congo	1588
+1983	United Republic of Tanzania	1405
+1983	Panama	1332
+1983	Vanuatu	1297
+1983	Guatemala	1290
+1983	Samoa	1200
+1983	Solomon Islands	1169
+1983	Honduras	1100
+1983	El Salvador	400
+1983	Thailand	300
+1983	Nicaragua	300
+1983	Dominica	275
+1983	Fiji	224
+1983	Uganda	200
+1983	Angola	200
+1983	Saint Vincent and the Grenadines	140
+1983	Saint Lucia	59
+1983	Belize	41
+1983	Guyana	40
+1983	Central African Republic	40
+1983	Suriname	35
+1983	Pacific Islands Trust Territory	30
+1983	Benin	30
+1983	Tonga	20
+1983	Timor-Leste	20
+1983	Comoros	20
+1983	Guadeloupe	5
+1983	American Samoa	2
+1984	Côte d'Ivoire	565042
+1984	Brazil	329903
+1984	Ghana	166700
+1984	Nigeria	160800
+1984	Cameroon	120894
+1984	Malaysia	90000
+1984	Ecuador	77000
+1984	Dominican Republic	42596
+1984	Colombia	40700
+1984	Mexico	36141
+1984	Papua New Guinea	32701
+1984	Indonesia	26502
+1984	Sierra Leone	16600
+1984	Venezuela (Bolivarian Republic of)	10584
+1984	Togo	9795
+1984	Equatorial Guinea	7000
+1984	Peru	6501
+1984	Liberia	6150
+1984	India	6000
+1984	Philippines	4834
+1984	Haiti	4710
+1984	Democratic Republic of the Congo	4388
+1984	Costa Rica	4139
+1984	Guinea	4000
+1984	Sao Tome and Principe	3378
+1984	Madagascar	3000
+1984	Jamaica	2812
+1984	Bolivia (Plurinational State of)	2747
+1984	Sri Lanka	2500
+1984	Grenada	2500
+1984	Panama	1987
+1984	Cuba	1923
+1984	Congo	1864
+1984	Solomon Islands	1709
+1984	Guatemala	1679
+1984	Honduras	1600
+1984	Gabon	1595
+1984	Trinidad and Tobago	1560
+1984	Samoa	1500
+1984	United Republic of Tanzania	1445
+1984	Vanuatu	782
+1984	El Salvador	400
+1984	Thailand	300
+1984	Nicaragua	300
+1984	Uganda	271
+1984	Dominica	240
+1984	Fiji	235
+1984	Saint Vincent and the Grenadines	145
+1984	Angola	100
+1984	Saint Lucia	65
+1984	Belize	55
+1984	Central African Republic	42
+1984	Suriname	40
+1984	Guyana	40
+1984	Pacific Islands Trust Territory	31
+1984	Tonga	20
+1984	Timor-Leste	20
+1984	Comoros	20
+1984	Benin	20
+1984	Guadeloupe	5
+1984	American Samoa	1
+1985	Côte d'Ivoire	555115
+1985	Brazil	430789
+1985	Ghana	194400
+1985	Nigeria	160000
+1985	Ecuador	130772
+1985	Cameroon	118320
+1985	Malaysia	99000
+1985	Mexico	50985
+1985	Colombia	42500
+1985	Papua New Guinea	35239
+1985	Dominican Republic	34506
+1985	Indonesia	33798
+1985	Sierra Leone	18600
+1985	Togo	14272
+1985	Venezuela (Bolivarian Republic of)	10938
+1985	Peru	8033
+1985	Philippines	6066
+1985	India	6000
+1985	Equatorial Guinea	6000
+1985	Haiti	5055
+1985	Liberia	5000
+1985	Democratic Republic of the Congo	4530
+1985	Costa Rica	4451
+1985	Guinea	4000
+1985	Sao Tome and Principe	3848
+1985	Bolivia (Plurinational State of)	3020
+1985	Sri Lanka	2500
+1985	Jamaica	2380
+1985	Madagascar	2300
+1985	Guatemala	2300
+1985	Grenada	2166
+1985	Cuba	1896
+1985	Congo	1845
+1985	Solomon Islands	1723
+1985	Honduras	1700
+1985	Gabon	1500
+1985	Panama	1406
+1985	Trinidad and Tobago	1307
+1985	United Republic of Tanzania	1235
+1985	Samoa	1200
+1985	Vanuatu	982
+1985	El Salvador	400
+1985	Thailand	300
+1985	Nicaragua	300
+1985	Fiji	225
+1985	Dominica	220
+1985	Uganda	186
+1985	Saint Vincent and the Grenadines	145
+1985	Saint Lucia	100
+1985	Angola	100
+1985	Benin	80
+1985	Belize	64
+1985	Central African Republic	42
+1985	Guyana	40
+1985	Suriname	36
+1985	Pacific Islands Trust Territory	32
+1985	Timor-Leste	22
+1985	Tonga	20
+1985	Comoros	20
+1985	Guadeloupe	5
+1985	American Samoa	1
+1986	Côte d'Ivoire	610680
+1986	Brazil	459477
+1986	Ghana	226400
+1986	Nigeria	148000
+1986	Malaysia	130000
+1986	Cameroon	123090
+1986	Ecuador	89913
+1986	Colombia	46700
+1986	Mexico	45339
+1986	Dominican Republic	36231
+1986	Indonesia	34327
+1986	Papua New Guinea	32661
+1986	Sierra Leone	20900
+1986	Togo	12585
+1986	Venezuela (Bolivarian Republic of)	11955
+1986	Peru	11082
+1986	Philippines	6642
+1986	Democratic Republic of the Congo	6300
+1986	Equatorial Guinea	6200
+1986	India	6000
+1986	Haiti	5886
+1986	Sao Tome and Principe	4032
+1986	Liberia	4000
+1986	Costa Rica	3857
+1986	Bolivia (Plurinational State of)	3520
+1986	Guinea	3000
+1986	Sri Lanka	2500
+1986	Jamaica	2406
+1986	Madagascar	2400
+1986	Guatemala	2200
+1986	Cuba	2102
+1986	Honduras	2000
+1986	Solomon Islands	1889
+1986	Congo	1842
+1986	Grenada	1729
+1986	Panama	1696
+1986	Gabon	1628
+1986	United Republic of Tanzania	1591
+1986	Trinidad and Tobago	1426
+1986	Vanuatu	1281
+1986	Samoa	671
+1986	El Salvador	400
+1986	Thailand	300
+1986	Nicaragua	300
+1986	Fiji	286
+1986	Dominica	180
+1986	Saint Vincent and the Grenadines	150
+1986	Suriname	100
+1986	Saint Lucia	100
+1986	Angola	100
+1986	Belize	80
+1986	Uganda	69
+1986	Central African Republic	44
+1986	Guyana	42
+1986	Pacific Islands Trust Territory	32
+1986	Timor-Leste	22
+1986	Comoros	21
+1986	Tonga	20
+1986	Benin	20
+1986	Guadeloupe	5
+1986	American Samoa	1
+1987	Côte d'Ivoire	664031
+1987	Brazil	328740
+1987	Ghana	188170
+1987	Malaysia	167000
+1987	Nigeria	150000
+1987	Cameroon	132800
+1987	Ecuador	57529
+1987	Colombia	53680
+1987	Indonesia	50199
+1987	Dominican Republic	43102
+1987	Mexico	42487
+1987	Papua New Guinea	32000
+1987	Sierra Leone	23500
+1987	Peru	14080
+1987	Venezuela (Bolivarian Republic of)	12614
+1987	Togo	11057
+1987	Philippines	8848
+1987	Equatorial Guinea	8300
+1987	India	7000
+1987	Democratic Republic of the Congo	5500
+1987	Haiti	5189
+1987	Sao Tome and Principe	3957
+1987	Bolivia (Plurinational State of)	3640
+1987	Costa Rica	3592
+1987	Jamaica	3186
+1987	Madagascar	3100
+1987	Liberia	3100
+1987	Guinea	3000
+1987	Solomon Islands	2681
+1987	Sri Lanka	2500
+1987	Guatemala	2443
+1987	Honduras	2300
+1987	Cuba	2203
+1987	United Republic of Tanzania	1982
+1987	Grenada	1753
+1987	Congo	1751
+1987	Gabon	1574
+1987	Panama	1551
+1987	Trinidad and Tobago	1501
+1987	Vanuatu	1168
+1987	Samoa	700
+1987	Fiji	468
+1987	Thailand	400
+1987	El Salvador	400
+1987	Nicaragua	200
+1987	Dominica	155
+1987	Saint Vincent and the Grenadines	150
+1987	Uganda	100
+1987	Saint Lucia	100
+1987	Angola	100
+1987	Benin	70
+1987	Belize	66
+1987	Central African Republic	44
+1987	Guyana	42
+1987	Pacific Islands Trust Territory	33
+1987	Suriname	27
+1987	Timor-Leste	25
+1987	Comoros	21
+1987	Tonga	20
+1987	Guadeloupe	5
+1987	American Samoa	1
+1988	Côte d'Ivoire	832177
+1988	Brazil	374491
+1988	Nigeria	253000
+1988	Ghana	246700
+1988	Malaysia	230000
+1988	Cameroon	129400
+1988	Ecuador	85110
+1988	Indonesia	79335
+1988	Mexico	59128
+1988	Colombia	54080
+1988	Dominican Republic	41481
+1988	Papua New Guinea	36000
+1988	Sierra Leone	23700
+1988	Peru	16658
+1988	Venezuela (Bolivarian Republic of)	13636
+1988	Philippines	9092
+1988	Togo	8265
+1988	Equatorial Guinea	8190
+1988	Democratic Republic of the Congo	6200
+1988	India	6000
+1988	Sao Tome and Principe	5050
+1988	Costa Rica	3976
+1988	Sri Lanka	3600
+1988	Madagascar	3600
+1988	Bolivia (Plurinational State of)	3490
+1988	Liberia	3000
+1988	Haiti	2964
+1988	Solomon Islands	2651
+1988	Guinea	2500
+1988	Cuba	2259
+1988	Guatemala	1990
+1988	United Republic of Tanzania	1983
+1988	Honduras	1900
+1988	Gabon	1802
+1988	Trinidad and Tobago	1712
+1988	Congo	1611
+1988	Jamaica	1549
+1988	Grenada	1422
+1988	Vanuatu	756
+1988	Samoa	500
+1988	Thailand	400
+1988	El Salvador	400
+1988	Fiji	238
+1988	Uganda	224
+1988	Nicaragua	200
+1988	Panama	171
+1988	Saint Vincent and the Grenadines	160
+1988	Dominica	120
+1988	Saint Lucia	100
+1988	Angola	100
+1988	Belize	57
+1988	Central African Republic	45
+1988	Guyana	42
+1988	Pacific Islands Trust Territory	33
+1988	Timor-Leste	25
+1988	Comoros	22
+1988	Tonga	20
+1988	Suriname	18
+1988	Guadeloupe	5
+1988	American Samoa	1
+1989	Côte d'Ivoire	780521
+1989	Brazil	392184
+1989	Ghana	295052
+1989	Nigeria	256000
+1989	Malaysia	243000
+1989	Cameroon	125700
+1989	Indonesia	110509
+1989	Ecuador	82880
+1989	Colombia	55430
+1989	Mexico	50087
+1989	Dominican Republic	48668
+1989	Papua New Guinea	47000
+1989	Sierra Leone	24200
+1989	Peru	17813
+1989	Venezuela (Bolivarian Republic of)	13978
+1989	Philippines	9364
+1989	Togo	7646
+1989	Democratic Republic of the Congo	7100
+1989	Equatorial Guinea	6570
+1989	Liberia	6000
+1989	India	6000
+1989	Haiti	5000
+1989	Costa Rica	4270
+1989	Sri Lanka	3900
+1989	Sao Tome and Principe	3707
+1989	Madagascar	3700
+1989	Bolivia (Plurinational State of)	3580
+1989	Guinea	3400
+1989	Solomon Islands	3299
+1989	Guatemala	3009
+1989	Honduras	2700
+1989	Cuba	2566
+1989	United Republic of Tanzania	2232
+1989	Congo	1994
+1989	Gabon	1800
+1989	Vanuatu	1538
+1989	Trinidad and Tobago	1492
+1989	Grenada	1472
+1989	Jamaica	1386
+1989	Panama	649
+1989	Nicaragua	600
+1989	Samoa	595
+1989	Uganda	461
+1989	Thailand	400
+1989	El Salvador	400
+1989	Fiji	375
+1989	Saint Vincent and the Grenadines	160
+1989	Dominica	124
+1989	Saint Lucia	100
+1989	Angola	100
+1989	Belize	83
+1989	Central African Republic	46
+1989	Guyana	45
+1989	Pacific Islands Trust Territory	33
+1989	Timor-Leste	25
+1989	Comoros	22
+1989	Tonga	20
+1989	Suriname	20
+1989	Guadeloupe	5
+1989	American Samoa	5
+1990	Côte d'Ivoire	807501
+1990	Ghana	293355
+1990	Brazil	256246
+1990	Malaysia	247000
+1990	Nigeria	244000
+1990	Indonesia	142347
+1990	Cameroon	115000
+1990	Ecuador	96722
+1990	Colombia	56153
+1990	Mexico	44045
+1990	Dominican Republic	43157
+1990	Papua New Guinea	38343
+1990	Sierra Leone	24000
+1990	Venezuela (Bolivarian Republic of)	15527
+1990	Peru	14796
+1990	Philippines	9848
+1990	Democratic Republic of the Congo	7180
+1990	Togo	6814
+1990	Equatorial Guinea	6793
+1990	India	6000
+1990	Haiti	5100
+1990	Sri Lanka	4178
+1990	Solomon Islands	3895
+1990	Madagascar	3600
+1990	Bolivia (Plurinational State of)	3591
+1990	Costa Rica	3500
+1990	Guatemala	3000
+1990	Sao Tome and Principe	2799
+1990	Honduras	2700
+1990	Cuba	2428
+1990	Vanuatu	2173
+1990	United Republic of Tanzania	2124
+1990	Congo	2115
+1990	Trinidad and Tobago	2110
+1990	Jamaica	2104
+1990	Liberia	2000
+1990	Grenada	1950
+1990	Guinea	1800
+1990	Gabon	1502
+1990	Uganda	1000
+1990	Panama	629
+1990	El Salvador	483
+1990	Fiji	406
+1990	Thailand	400
+1990	Nicaragua	400
+1990	Samoa	300
+1990	Guyana	260
+1990	Belize	167
+1990	Saint Vincent and the Grenadines	165
+1990	Dominica	139
+1990	Angola	92
+1990	Saint Lucia	48
+1990	Central African Republic	48
+1990	Timor-Leste	31
+1990	Pacific Islands Trust Territory	28
+1990	Comoros	22
+1990	Suriname	17
+1990	Benin	15
+1990	Guadeloupe	4
+1990	American Samoa	1
+1991	Côte d'Ivoire	764708
+1991	Brazil	320967
+1991	Nigeria	268000
+1991	Ghana	241796
+1991	Malaysia	230000
+1991	Indonesia	174899
+1991	Cameroon	105000
+1991	Ecuador	100454
+1991	Colombia	58141
+1991	Dominican Republic	48860
+1991	Mexico	44106
+1991	Papua New Guinea	31946
+1991	Sierra Leone	24000
+1991	Venezuela (Bolivarian Republic of)	16661
+1991	Peru	15473
+1991	Philippines	9584
+1991	Democratic Republic of the Congo	7270
+1991	India	6000
+1991	Equatorial Guinea	5673
+1991	Sri Lanka	4639
+1991	Solomon Islands	4615
+1991	Togo	4100
+1991	Bolivia (Plurinational State of)	3616
+1991	Costa Rica	3400
+1991	Honduras	3300
+1991	Madagascar	3126
+1991	Haiti	3000
+1991	Guatemala	2934
+1991	Sao Tome and Principe	2862
+1991	United Republic of Tanzania	2463
+1991	Congo	2188
+1991	Vanuatu	2174
+1991	Guinea	2116
+1991	Trinidad and Tobago	2000
+1991	Cuba	1912
+1991	Gabon	1802
+1991	Jamaica	1750
+1991	Grenada	1671
+1991	Uganda	1200
+1991	Panama	636
+1991	Liberia	500
+1991	El Salvador	490
+1991	Thailand	400
+1991	Nicaragua	400
+1991	Fiji	363
+1991	Guyana	298
+1991	Samoa	220
+1991	Saint Vincent and the Grenadines	170
+1991	Belize	91
+1991	Angola	85
+1991	Dominica	75
+1991	Saint Lucia	54
+1991	Central African Republic	49
+1991	Suriname	26
+1991	Timor-Leste	23
+1991	Comoros	21
+1991	Benin	10
+1991	Guadeloupe	5
+1991	American Samoa	1
+1992	Côte d'Ivoire	813009
+1992	Brazil	328518
+1992	Ghana	312122
+1992	Nigeria	292000
+1992	Malaysia	220000
+1992	Indonesia	207147
+1992	Cameroon	97835
+1992	Ecuador	93999
+1992	Colombia	54857
+1992	Dominican Republic	50376
+1992	Mexico	43673
+1992	Papua New Guinea	37294
+1992	Venezuela (Bolivarian Republic of)	17100
+1992	Peru	15000
+1992	Philippines	7537
+1992	Democratic Republic of the Congo	7361
+1992	Togo	6000
+1992	India	6000
+1992	Sri Lanka	5733
+1992	Sierra Leone	5400
+1992	Equatorial Guinea	4298
+1992	Sao Tome and Principe	4188
+1992	Solomon Islands	4159
+1992	Madagascar	4000
+1992	Bolivia (Plurinational State of)	3545
+1992	Haiti	3000
+1992	Cuba	3000
+1992	Costa Rica	3000
+1992	Gabon	2925
+1992	Guatemala	2800
+1992	Honduras	2700
+1992	Jamaica	2478
+1992	United Republic of Tanzania	2302
+1992	Congo	2263
+1992	Guinea	1980
+1992	Vanuatu	1357
+1992	Grenada	1355
+1992	Uganda	1200
+1992	Trinidad and Tobago	1139
+1992	Samoa	1000
+1992	Panama	592
+1992	El Salvador	576
+1992	Liberia	460
+1992	Thailand	400
+1992	Nicaragua	400
+1992	Fiji	325
+1992	Guyana	296
+1992	Angola	200
+1992	Saint Vincent and the Grenadines	175
+1992	Belize	143
+1992	Dominica	139
+1992	Saint Lucia	60
+1992	Central African Republic	50
+1992	Timor-Leste	29
+1992	Comoros	25
+1992	Suriname	21
+1992	Guadeloupe	3
+1992	American Samoa	1
+1993	Côte d'Ivoire	803799
+1993	Brazil	340885
+1993	Nigeria	306000
+1993	Indonesia	258059
+1993	Ghana	254652
+1993	Malaysia	200000
+1993	Cameroon	99000
+1993	Ecuador	82729
+1993	Colombia	57472
+1993	Mexico	53986
+1993	Dominican Republic	53980
+1993	Papua New Guinea	35735
+1993	Venezuela (Bolivarian Republic of)	16080
+1993	Peru	14970
+1993	Philippines	7707
+1993	Democratic Republic of the Congo	7453
+1993	Togo	7200
+1993	India	6000
+1993	Sierra Leone	5400
+1993	Haiti	5000
+1993	Madagascar	4500
+1993	Sao Tome and Principe	4492
+1993	Guinea	3968
+1993	Bolivia (Plurinational State of)	3710
+1993	Honduras	3656
+1993	Sri Lanka	3400
+1993	Solomon Islands	3297
+1993	Equatorial Guinea	2957
+1993	Costa Rica	2800
+1993	Guatemala	2544
+1993	Jamaica	2522
+1993	Congo	2341
+1993	Vanuatu	2118
+1993	United Republic of Tanzania	2000
+1993	Gabon	1966
+1993	Cuba	1800
+1993	Trinidad and Tobago	1778
+1993	Grenada	1598
+1993	Uganda	1500
+1993	Samoa	958
+1993	Panama	872
+1993	El Salvador	590
+1993	Thailand	400
+1993	Liberia	310
+1993	Guyana	303
+1993	Nicaragua	200
+1993	Angola	200
+1993	Saint Vincent and the Grenadines	180
+1993	Fiji	152
+1993	Dominica	105
+1993	Belize	72
+1993	Saint Lucia	69
+1993	Central African Republic	48
+1993	Timor-Leste	32
+1993	Suriname	30
+1993	Comoros	26
+1993	American Samoa	1
+1994	Côte d'Ivoire	808662
+1994	Brazil	330577
+1994	Nigeria	323000
+1994	Ghana	288075
+1994	Indonesia	241701
+1994	Malaysia	177172
+1994	Cameroon	107000
+1994	Ecuador	81163
+1994	Dominican Republic	63241
+1994	Colombia	50624
+1994	Mexico	43279
+1994	Papua New Guinea	31275
+1994	Venezuela (Bolivarian Republic of)	16661
+1994	Peru	13446
+1994	Sierra Leone	11737
+1994	Philippines	7945
+1994	Democratic Republic of the Congo	7547
+1994	India	6742
+1994	Haiti	6000
+1994	Togo	5500
+1994	Sao Tome and Principe	4500
+1994	Guinea	4500
+1994	Bolivia (Plurinational State of)	3765
+1994	Sri Lanka	3612
+1994	Solomon Islands	3337
+1994	Equatorial Guinea	3214
+1994	Madagascar	3000
+1994	Honduras	3000
+1994	Jamaica	2576
+1994	Guatemala	2576
+1994	Congo	2423
+1994	Costa Rica	2000
+1994	Uganda	1700
+1994	Grenada	1462
+1994	Trinidad and Tobago	1443
+1994	Cuba	1300
+1994	Vanuatu	1205
+1994	Panama	913
+1994	United Republic of Tanzania	800
+1994	Gabon	718
+1994	El Salvador	558
+1994	Thailand	400
+1994	Samoa	400
+1994	Liberia	365
+1994	Guyana	286
+1994	Nicaragua	200
+1994	Angola	200
+1994	Dominica	177
+1994	Saint Vincent and the Grenadines	175
+1994	Fiji	163
+1994	Central African Republic	53
+1994	Saint Lucia	51
+1994	Timor-Leste	50
+1994	Suriname	43
+1994	Comoros	27
+1994	Belize	24
+1994	American Samoa	1
+1995	Côte d'Ivoire	1120000
+1995	Ghana	403900
+1995	Brazil	296705
+1995	Indonesia	278400
+1995	Nigeria	203000
+1995	Cameroon	134000
+1995	Malaysia	131475
+1995	Ecuador	85505
+1995	Dominican Republic	64673
+1995	Colombia	56652
+1995	Mexico	49425
+1995	Papua New Guinea	29000
+1995	Peru	22704
+1995	Venezuela (Bolivarian Republic of)	16978
+1995	Sierra Leone	10000
+1995	Philippines	7927
+1995	Democratic Republic of the Congo	7551
+1995	Haiti	6500
+1995	Togo	6000
+1995	India	5772
+1995	Guinea	4500
+1995	Equatorial Guinea	4248
+1995	Madagascar	4000
+1995	Bolivia (Plurinational State of)	3850
+1995	Sao Tome and Principe	3671
+1995	Sri Lanka	3590
+1995	United Republic of Tanzania	2700
+1995	Jamaica	2538
+1995	Congo	2507
+1995	Solomon Islands	2482
+1995	Honduras	2400
+1995	Guatemala	2392
+1995	Cuba	2100
+1995	Uganda	2000
+1995	Costa Rica	2000
+1995	Vanuatu	1778
+1995	Trinidad and Tobago	1762
+1995	Grenada	1591
+1995	Panama	850
+1995	Gabon	774
+1995	Liberia	700
+1995	El Salvador	458
+1995	Thailand	400
+1995	Samoa	371
+1995	Guyana	282
+1995	Nicaragua	250
+1995	Angola	200
+1995	Saint Vincent and the Grenadines	180
+1995	Dominica	155
+1995	Fiji	100
+1995	Timor-Leste	92
+1995	Central African Republic	65
+1995	Belize	34
+1995	Micronesia (Federated States of)	33
+1995	Comoros	29
+1995	Saint Lucia	28
+1995	Suriname	25
+1995	American Samoa	1
+1996	Côte d'Ivoire	1235300
+1996	Ghana	403000
+1996	Indonesia	350800
+1996	Nigeria	323000
+1996	Brazil	256777
+1996	Cameroon	125726
+1996	Malaysia	120071
+1996	Ecuador	93821
+1996	Dominican Republic	67196
+1996	Colombia	49635
+1996	Mexico	39347
+1996	Papua New Guinea	36000
+1996	Peru	22867
+1996	Venezuela (Bolivarian Republic of)	17124
+1996	Togo	14200
+1996	Sierra Leone	11000
+1996	Philippines	7895
+1996	Democratic Republic of the Congo	7576
+1996	India	6282
+1996	Guinea	4500
+1996	Equatorial Guinea	4318
+1996	Madagascar	4300
+1996	Haiti	4200
+1996	Bolivia (Plurinational State of)	3860
+1996	Sao Tome and Principe	3753
+1996	Sri Lanka	3649
+1996	Honduras	2700
+1996	United Republic of Tanzania	2500
+1996	Uganda	2500
+1996	Solomon Islands	2464
+1996	Guatemala	2461
+1996	Trinidad and Tobago	2292
+1996	Costa Rica	2000
+1996	Cuba	1900
+1996	Congo	1858
+1996	Grenada	1712
+1996	Jamaica	1407
+1996	Gabon	1022
+1996	Vanuatu	939
+1996	Panama	791
+1996	Liberia	700
+1996	El Salvador	489
+1996	Samoa	440
+1996	Thailand	400
+1996	Guyana	257
+1996	Nicaragua	200
+1996	Angola	200
+1996	Saint Vincent and the Grenadines	185
+1996	Fiji	125
+1996	Dominica	100
+1996	Timor-Leste	83
+1996	Central African Republic	69
+1996	Belize	55
+1996	Micronesia (Federated States of)	39
+1996	Comoros	33
+1996	Saint Lucia	32
+1996	Suriname	22
+1996	American Samoa	1
+1997	Côte d'Ivoire	1119110
+1997	Indonesia	329700
+1997	Ghana	322490
+1997	Nigeria	318000
+1997	Brazil	277966
+1997	Cameroon	126807
+1997	Malaysia	106027
+1997	Ecuador	83385
+1997	Dominican Republic	58281
+1997	Colombia	50317
+1997	Mexico	45917
+1997	Papua New Guinea	40000
+1997	Peru	19504
+1997	Venezuela (Bolivarian Republic of)	18529
+1997	Sierra Leone	13000
+1997	Philippines	7844
+1997	Democratic Republic of the Congo	7207
+1997	Guinea	6300
+1997	Togo	5800
+1997	India	5697
+1997	Equatorial Guinea	5018
+1997	Madagascar	4300
+1997	Bolivia (Plurinational State of)	4000
+1997	Solomon Islands	3907
+1997	Sri Lanka	3700
+1997	Haiti	3654
+1997	United Republic of Tanzania	3200
+1997	Sao Tome and Principe	3138
+1997	Uganda	2700
+1997	Guatemala	2364
+1997	Congo	1875
+1997	Vanuatu	1757
+1997	Trinidad and Tobago	1740
+1997	Honduras	1700
+1997	Jamaica	1653
+1997	Grenada	1609
+1997	Cuba	1400
+1997	Costa Rica	800
+1997	Panama	736
+1997	Gabon	686
+1997	Liberia	600
+1997	Samoa	509
+1997	El Salvador	408
+1997	Thailand	400
+1997	Angola	272
+1997	Guyana	264
+1997	Dominica	230
+1997	Nicaragua	200
+1997	Saint Vincent and the Grenadines	190
+1997	Belize	84
+1997	Fiji	72
+1997	Central African Republic	62
+1997	Timor-Leste	57
+1997	Micronesia (Federated States of)	45
+1997	Saint Lucia	30
+1997	Comoros	24
+1997	Suriname	14
+1997	American Samoa	1
+1998	Côte d'Ivoire	1201120
+1998	Indonesia	456499
+1998	Ghana	409360
+1998	Nigeria	370000
+1998	Brazil	280801
+1998	Cameroon	125000
+1998	Malaysia	90183
+1998	Dominican Republic	67684
+1998	Colombia	50685
+1998	Mexico	43968
+1998	Ecuador	35006
+1998	Papua New Guinea	29800
+1998	Peru	22134
+1998	Venezuela (Bolivarian Republic of)	17965
+1998	Sierra Leone	14500
+1998	Togo	12200
+1998	Guinea	9000
+1998	Philippines	7387
+1998	Democratic Republic of the Congo	6909
+1998	India	5281
+1998	Haiti	4500
+1998	Equatorial Guinea	4356
+1998	Madagascar	4300
+1998	Bolivia (Plurinational State of)	4000
+1998	Sao Tome and Principe	3928
+1998	Sri Lanka	3761
+1998	Solomon Islands	3454
+1998	United Republic of Tanzania	3200
+1998	Uganda	2800
+1998	Honduras	2700
+1998	Guatemala	2392
+1998	Liberia	2000
+1998	Cuba	1900
+1998	Congo	1900
+1998	Jamaica	1687
+1998	Vanuatu	1500
+1998	Grenada	1419
+1998	Trinidad and Tobago	1270
+1998	Costa Rica	849
+1998	Panama	685
+1998	Gabon	500
+1998	Thailand	400
+1998	Samoa	388
+1998	El Salvador	385
+1998	Angola	361
+1998	Guyana	241
+1998	Saint Vincent and the Grenadines	200
+1998	Nicaragua	200
+1998	Benin	200
+1998	Dominica	165
+1998	Fiji	143
+1998	Belize	90
+1998	Timor-Leste	60
+1998	Central African Republic	60
+1998	Micronesia (Federated States of)	34
+1998	Comoros	27
+1998	Saint Lucia	23
+1998	Suriname	12
+1998	American Samoa	1
+1999	Côte d'Ivoire	1163030
+1999	Ghana	434200
+1999	Indonesia	367475
+1999	Nigeria	225000
+1999	Brazil	205003
+1999	Cameroon	116000
+1999	Ecuador	94687
+1999	Malaysia	83700
+1999	Colombia	51485
+1999	Mexico	41055
+1999	Papua New Guinea	35600
+1999	Dominican Republic	25855
+1999	Peru	20964
+1999	Venezuela (Bolivarian Republic of)	13918
+1999	Sierra Leone	10920
+1999	Philippines	7667
+1999	Togo	7000
+1999	Democratic Republic of the Congo	6565
+1999	Equatorial Guinea	5500
+1999	India	5198
+1999	Guinea	5100
+1999	Madagascar	4300
+1999	Bolivia (Plurinational State of)	4200
+1999	Sao Tome and Principe	4197
+1999	Sri Lanka	3720
+1999	United Republic of Tanzania	3692
+1999	Uganda	3500
+1999	Haiti	2740
+1999	Solomon Islands	2395
+1999	Guatemala	2381
+1999	Honduras	2300
+1999	Liberia	2000
+1999	Cuba	1900
+1999	Congo	1331
+1999	Trinidad and Tobago	1160
+1999	Jamaica	1036
+1999	Grenada	974
+1999	Vanuatu	891
+1999	Costa Rica	888
+1999	Panama	736
+1999	Gabon	700
+1999	El Salvador	528
+1999	Samoa	500
+1999	Thailand	400
+1999	Nicaragua	400
+1999	Guyana	229
+1999	Dominica	200
+1999	Saint Vincent and the Grenadines	175
+1999	Timor-Leste	100
+1999	Benin	100
+1999	Angola	100
+1999	Central African Republic	57
+1999	Micronesia (Federated States of)	38
+1999	Saint Lucia	26
+1999	Comoros	25
+1999	Belize	23
+1999	Fiji	16
+1999	Suriname	9
+1999	American Samoa	1
+2000	Côte d'Ivoire	1401100
+2000	Ghana	436600
+2000	Indonesia	421142
+2000	Nigeria	338000
+2000	Brazil	196788
+2000	Cameroon	122600
+2000	Ecuador	99875
+2000	Malaysia	70200
+2000	Papua New Guinea	46800
+2000	Dominican Republic	37104
+2000	Colombia	36731
+2000	Mexico	28046
+2000	Peru	25049
+2000	Venezuela (Bolivarian Republic of)	16126
+2000	Sierra Leone	12000
+2000	Philippines	6628
+2000	Togo	6600
+2000	Democratic Republic of the Congo	6582
+2000	India	6361
+2000	Equatorial Guinea	4900
+2000	Haiti	4500
+2000	Madagascar	4395
+2000	Bolivia (Plurinational State of)	4300
+2000	Uganda	3950
+2000	Sri Lanka	3700
+2000	Sao Tome and Principe	3418
+2000	Guinea	3300
+2000	Liberia	3100
+2000	Cuba	2900
+2000	Guatemala	2336
+2000	Solomon Islands	2316
+2000	United Republic of Tanzania	2100
+2000	Honduras	2000
+2000	Trinidad and Tobago	1593
+2000	Vanuatu	1558
+2000	Congo	1304
+2000	Grenada	1196
+2000	Jamaica	1100
+2000	Thailand	1034
+2000	Costa Rica	708
+2000	Samoa	651
+2000	Panama	593
+2000	Gabon	500
+2000	El Salvador	450
+2000	Guyana	261
+2000	Nicaragua	250
+2000	Dominica	200
+2000	Angola	200
+2000	Saint Vincent and the Grenadines	170
+2000	Timor-Leste	109
+2000	Benin	100
+2000	Central African Republic	59
+2000	Micronesia (Federated States of)	50
+2000	Belize	30
+2000	Comoros	26
+2000	Saint Lucia	23
+2000	Suriname	7
+2000	Fiji	7
+2000	American Samoa	1
+2001	Côte d'Ivoire	1212430
+2001	Indonesia	536804
+2001	Ghana	389591
+2001	Nigeria	340000
+2001	Brazil	185662
+2001	Cameroon	122100
+2001	Ecuador	76030
+2001	Malaysia	57708
+2001	Mexico	46738
+2001	Dominican Republic	44906
+2001	Papua New Guinea	38800
+2001	Colombia	36070
+2001	Peru	23652
+2001	Venezuela (Bolivarian Republic of)	15834
+2001	Sierra Leone	11000
+2001	Togo	10200
+2001	India	6540
+2001	Philippines	6531
+2001	Democratic Republic of the Congo	6235
+2001	Madagascar	4410
+2001	Bolivia (Plurinational State of)	4320
+2001	Haiti	4300
+2001	Equatorial Guinea	4000
+2001	Uganda	3950
+2001	Sao Tome and Principe	3652
+2001	Sri Lanka	3410
+2001	Guatemala	2336
+2001	United Republic of Tanzania	2300
+2001	Solomon Islands	2038
+2001	Honduras	2000
+2001	Cuba	1884
+2001	Guinea	1800
+2001	Thailand	1454
+2001	Congo	1278
+2001	Jamaica	1150
+2001	Liberia	1000
+2001	Vanuatu	799
+2001	Costa Rica	708
+2001	Grenada	688
+2001	Trinidad and Tobago	611
+2001	Gabon	600
+2001	Panama	541
+2001	Samoa	535
+2001	El Salvador	443
+2001	Nicaragua	300
+2001	Guyana	261
+2001	Dominica	222
+2001	Saint Vincent and the Grenadines	180
+2001	Angola	155
+2001	Timor-Leste	108
+2001	Benin	100
+2001	Central African Republic	53
+2001	Micronesia (Federated States of)	41
+2001	Belize	40
+2001	Saint Lucia	30
+2001	Comoros	27
+2001	Suriname	8
+2001	Fiji	2
+2001	American Samoa	1
+2002	Côte d'Ivoire	1264710
+2002	Indonesia	619192
+2002	Nigeria	362000
+2002	Ghana	340562
+2002	Brazil	174796
+2002	Cameroon	125000
+2002	Ecuador	87986
+2002	Malaysia	47661
+2002	Mexico	46194
+2002	Dominican Republic	45468
+2002	Papua New Guinea	42400
+2002	Colombia	34002
+2002	Peru	24219
+2002	Venezuela (Bolivarian Republic of)	16164
+2002	Sierra Leone	11500
+2002	Togo	7500
+2002	India	6780
+2002	Philippines	5803
+2002	Democratic Republic of the Congo	5750
+2002	Haiti	4950
+2002	Madagascar	4410
+2002	Bolivia (Plurinational State of)	4325
+2002	United Republic of Tanzania	4000
+2002	Uganda	3500
+2002	Sao Tome and Principe	3462
+2002	Sri Lanka	2920
+2002	Solomon Islands	2907
+2002	Guinea	2500
+2002	Guatemala	2105
+2002	Equatorial Guinea	2013
+2002	Honduras	2000
+2002	Trinidad and Tobago	1643
+2002	Liberia	1500
+2002	Cuba	1301
+2002	Congo	1253
+2002	Vanuatu	1147
+2002	Thailand	1026
+2002	Jamaica	1000
+2002	Grenada	876
+2002	Costa Rica	708
+2002	Samoa	597
+2002	Nicaragua	515
+2002	Gabon	500
+2002	El Salvador	361
+2002	Panama	354
+2002	Guyana	260
+2002	Dominica	230
+2002	Saint Vincent and the Grenadines	190
+2002	Angola	190
+2002	Timor-Leste	137
+2002	Benin	100
+2002	Micronesia (Federated States of)	46
+2002	Central African Republic	46
+2002	Saint Lucia	31
+2002	Comoros	30
+2002	Belize	26
+2002	Fiji	16
+2002	Suriname	9
+2002	American Samoa	1
+2003	Côte d'Ivoire	1351550
+2003	Indonesia	695361
+2003	Ghana	497000
+2003	Nigeria	385000
+2003	Brazil	170004
+2003	Cameroon	154965
+2003	Ecuador	88263
+2003	Mexico	49965
+2003	Dominican Republic	47356
+2003	Papua New Guinea	42500
+2003	Colombia	41704
+2003	Malaysia	36200
+2003	Peru	24214
+2003	Venezuela (Bolivarian Republic of)	15376
+2003	Sierra Leone	12000
+2003	Guinea	10000
+2003	India	8397
+2003	Democratic Republic of the Congo	5710
+2003	Philippines	5693
+2003	Togo	5100
+2003	Haiti	4950
+2003	Solomon Islands	4587
+2003	United Republic of Tanzania	4500
+2003	Madagascar	4410
+2003	Guatemala	4400
+2003	Bolivia (Plurinational State of)	4201
+2003	Sao Tome and Principe	3820
+2003	Uganda	3800
+2003	Liberia	2500
+2003	Equatorial Guinea	2422
+2003	Sri Lanka	2030
+2003	Honduras	2000
+2003	Vanuatu	1521
+2003	Cuba	1500
+2003	Thailand	1287
+2003	Jamaica	1150
+2003	Congo	1000
+2003	Trinidad and Tobago	984
+2003	Costa Rica	708
+2003	Samoa	625
+2003	Grenada	617
+2003	Gabon	600
+2003	Nicaragua	550
+2003	Panama	417
+2003	El Salvador	320
+2003	Guyana	264
+2003	Dominica	220
+2003	Angola	200
+2003	Saint Vincent and the Grenadines	180
+2003	Timor-Leste	135
+2003	Benin	100
+2003	Central African Republic	71
+2003	Micronesia (Federated States of)	48
+2003	Belize	41
+2003	Fiji	38
+2003	Saint Lucia	32
+2003	Comoros	27
+2003	Suriname	8
+2003	American Samoa	1
+2004	Côte d'Ivoire	1407210
+2004	Ghana	737000
+2004	Indonesia	691704
+2004	Nigeria	412000
+2004	Brazil	196005
+2004	Cameroon	166754
+2004	Ecuador	89680
+2004	Dominican Republic	47985
+2004	Mexico	43975
+2004	Papua New Guinea	38900
+2004	Colombia	38753
+2004	Malaysia	33400
+2004	Peru	25921
+2004	Togo	21700
+2004	Venezuela (Bolivarian Republic of)	17515
+2004	Sierra Leone	13500
+2004	Guinea	9800
+2004	India	9230
+2004	Guatemala	6700
+2004	Democratic Republic of the Congo	5670
+2004	Philippines	5648
+2004	Haiti	4800
+2004	Uganda	4500
+2004	Madagascar	4409
+2004	Bolivia (Plurinational State of)	4268
+2004	Solomon Islands	4181
+2004	United Republic of Tanzania	3500
+2004	Equatorial Guinea	3000
+2004	Sao Tome and Principe	2500
+2004	Liberia	2500
+2004	Honduras	2000
+2004	Sri Lanka	1970
+2004	Cuba	1846
+2004	Trinidad and Tobago	1321
+2004	Jamaica	1177
+2004	Thailand	1167
+2004	Congo	1000
+2004	Vanuatu	865
+2004	Nicaragua	800
+2004	Grenada	763
+2004	Costa Rica	708
+2004	Samoa	565
+2004	Panama	430
+2004	El Salvador	328
+2004	Guyana	279
+2004	Dominica	225
+2004	Gabon	200
+2004	Angola	194
+2004	Saint Vincent and the Grenadines	190
+2004	Timor-Leste	150
+2004	Benin	100
+2004	Central African Republic	75
+2004	Micronesia (Federated States of)	43
+2004	Belize	40
+2004	Saint Lucia	33
+2004	Comoros	26
+2004	Fiji	12
+2004	Suriname	9
+2004	American Samoa	1
+2005	Côte d'Ivoire	1286330
+2005	Indonesia	748827
+2005	Ghana	740000
+2005	Nigeria	441000
+2005	Brazil	208620
+2005	Cameroon	140000
+2005	Ecuador	93658
+2005	Togo	53000
+2005	Papua New Guinea	47800
+2005	Colombia	37099
+2005	Mexico	36366
+2005	Dominican Republic	31361
+2005	Malaysia	27964
+2005	Peru	25257
+2005	Guinea	17900
+2005	Venezuela (Bolivarian Republic of)	16946
+2005	Sierra Leone	15000
+2005	India	9250
+2005	Guatemala	8569
+2005	Madagascar	5861
+2005	Philippines	5679
+2005	Democratic Republic of the Congo	5630
+2005	United Republic of Tanzania	5000
+2005	Uganda	5000
+2005	Solomon Islands	4928
+2005	Haiti	4800
+2005	Bolivia (Plurinational State of)	4358
+2005	Liberia	3000
+2005	Equatorial Guinea	3000
+2005	Cuba	2067
+2005	Honduras	2000
+2005	Sri Lanka	1880
+2005	Sao Tome and Principe	1843
+2005	Thailand	1069
+2005	Congo	1000
+2005	Vanuatu	926
+2005	Trinidad and Tobago	915
+2005	Samoa	690
+2005	Nicaragua	580
+2005	Jamaica	550
+2005	Panama	466
+2005	El Salvador	347
+2005	Costa Rica	343
+2005	Gabon	300
+2005	Guyana	283
+2005	Dominica	220
+2005	Saint Vincent and the Grenadines	190
+2005	Angola	182
+2005	Timor-Leste	149
+2005	Benin	100
+2005	Central African Republic	80
+2005	Micronesia (Federated States of)	52
+2005	Grenada	47
+2005	Comoros	33
+2005	Saint Lucia	29
+2005	Belize	22
+2005	Fiji	15
+2005	Suriname	9
+2005	American Samoa	1
+2006	Côte d'Ivoire	1408850
+2006	Indonesia	769386
+2006	Ghana	734000
+2006	Nigeria	485000
+2006	Brazil	212270
+2006	Cameroon	164553
+2006	Ecuador	87561
+2006	Togo	73000
+2006	Papua New Guinea	51100
+2006	Dominican Republic	47020
+2006	Mexico	38151
+2006	Colombia	35258
+2006	Malaysia	31937
+2006	Peru	31676
+2006	Guinea	18653
+2006	Venezuela (Bolivarian Republic of)	17151
+2006	Sierra Leone	13940
+2006	India	10175
+2006	Guatemala	9083
+2006	Uganda	8500
+2006	United Republic of Tanzania	6900
+2006	Haiti	6000
+2006	Madagascar	5859
+2006	Democratic Republic of the Congo	5590
+2006	Philippines	5415
+2006	Bolivia (Plurinational State of)	4474
+2006	Solomon Islands	3835
+2006	Cuba	2120
+2006	Honduras	2000
+2006	Equatorial Guinea	2000
+2006	Sao Tome and Principe	1900
+2006	Trinidad and Tobago	1600
+2006	Sri Lanka	1560
+2006	Nicaragua	1400
+2006	Vanuatu	1314
+2006	Thailand	1097
+2006	Liberia	1000
+2006	Congo	1000
+2006	Samoa	723
+2006	Panama	653
+2006	Jamaica	595
+2006	El Salvador	475
+2006	Costa Rica	450
+2006	Guyana	286
+2006	Dominica	220
+2006	Angola	205
+2006	Saint Vincent and the Grenadines	200
+2006	Gabon	200
+2006	Timor-Leste	178
+2006	Central African Republic	100
+2006	Benin	100
+2006	Grenada	90
+2006	Micronesia (Federated States of)	55
+2006	Belize	43
+2006	Saint Lucia	30
+2006	Comoros	28
+2006	Fiji	12
+2006	Suriname	10
+2006	American Samoa	1
+2007	Côte d'Ivoire	1229910
+2007	Indonesia	740006
+2007	Ghana	614500
+2007	Nigeria	360570
+2007	Cameroon	212619
+2007	Brazil	201651
+2007	Ecuador	85891
+2007	Togo	78000
+2007	Papua New Guinea	49300
+2007	Dominican Republic	43322
+2007	Mexico	40000
+2007	Colombia	39904
+2007	Malaysia	35180
+2007	Peru	31387
+2007	Venezuela (Bolivarian Republic of)	18911
+2007	Sierra Leone	14000
+2007	Guinea	12484
+2007	India	10180
+2007	Uganda	10006
+2007	Guatemala	9924
+2007	Haiti	8500
+2007	United Republic of Tanzania	7000
+2007	Democratic Republic of the Congo	5590
+2007	Philippines	5237
+2007	Bolivia (Plurinational State of)	4699
+2007	Madagascar	4500
+2007	Solomon Islands	4342
+2007	Sao Tome and Principe	2800
+2007	Equatorial Guinea	2500
+2007	Jamaica	1915
+2007	Liberia	1700
+2007	Sri Lanka	1440
+2007	Cuba	1379
+2007	Congo	1000
+2007	Vanuatu	972
+2007	Nicaragua	970
+2007	Thailand	932
+2007	Trinidad and Tobago	800
+2007	Panama	686
+2007	Costa Rica	555
+2007	Samoa	530
+2007	El Salvador	480
+2007	Honduras	361
+2007	Guyana	275
+2007	Central African Republic	250
+2007	Grenada	226
+2007	Dominica	225
+2007	Angola	211
+2007	Saint Vincent and the Grenadines	190
+2007	Timor-Leste	172
+2007	Gabon	100
+2007	Benin	100
+2007	Saint Lucia	40
+2007	Micronesia (Federated States of)	35
+2007	Belize	25
+2007	Comoros	20
+2007	Fiji	14
+2007	Suriname	9
+2007	American Samoa	1
+2008	Côte d'Ivoire	1382440
+2008	Indonesia	803593
+2008	Ghana	680781
+2008	Nigeria	367020
+2008	Cameroon	229203
+2008	Brazil	202030
+2008	Togo	111000
+2008	Ecuador	94300
+2008	Papua New Guinea	51500
+2008	Mexico	50000
+2008	Dominican Republic	45518
+2008	Colombia	44740
+2008	Peru	34003
+2008	Malaysia	27955
+2008	Venezuela (Bolivarian Republic of)	20457
+2008	Guinea	17100
+2008	Uganda	13000
+2008	India	10560
+2008	Sierra Leone	10500
+2008	Guatemala	9911
+2008	Haiti	8000
+2008	United Republic of Tanzania	7000
+2008	Democratic Republic of the Congo	5510
+2008	Philippines	5149
+2008	Bolivia (Plurinational State of)	4745
+2008	Solomon Islands	4259
+2008	Madagascar	4000
+2008	Liberia	4000
+2008	Sao Tome and Principe	2000
+2008	Equatorial Guinea	2000
+2008	Sri Lanka	1720
+2008	Nicaragua	1250
+2008	Cuba	1149
+2008	Jamaica	1015
+2008	Congo	927
+2008	Thailand	823
+2008	Honduras	800
+2008	Vanuatu	738
+2008	Panama	707
+2008	Trinidad and Tobago	700
+2008	Costa Rica	593
+2008	Samoa	548
+2008	El Salvador	447
+2008	Guyana	285
+2008	Grenada	237
+2008	Angola	223
+2008	Saint Vincent and the Grenadines	200
+2008	Gabon	200
+2008	Central African Republic	200
+2008	Timor-Leste	182
+2008	Dominica	100
+2008	Benin	100
+2008	Belize	50
+2008	Saint Lucia	42
+2008	Micronesia (Federated States of)	37
+2008	Comoros	21
+2008	Fiji	13
+2008	Suriname	10
+2008	American Samoa	1
+2009	Côte d'Ivoire	1223150
+2009	Indonesia	809583
+2009	Ghana	710638
+2009	Nigeria	363610
+2009	Cameroon	235500
+2009	Brazil	218487
+2009	Ecuador	120582
+2009	Togo	105000
+2009	Mexico	60000
+2009	Papua New Guinea	59400
+2009	Dominican Republic	54994
+2009	Colombia	49348
+2009	Peru	36803
+2009	Malaysia	18152
+2009	Venezuela (Bolivarian Republic of)	18000
+2009	Uganda	15000
+2009	India	11820
+2009	Sierra Leone	10000
+2009	Guatemala	9956
+2009	Haiti	8814
+2009	Madagascar	8000
+2009	United Republic of Tanzania	7000
+2009	Democratic Republic of the Congo	5470
+2009	Philippines	5134
+2009	Guinea	4800
+2009	Solomon Islands	4671
+2009	Liberia	4600
+2009	Bolivia (Plurinational State of)	4510
+2009	Sao Tome and Principe	2500
+2009	Sri Lanka	1750
+2009	Nicaragua	1550
+2009	Cuba	1387
+2009	Honduras	1350
+2009	Equatorial Guinea	1200
+2009	Congo	1200
+2009	Jamaica	1108
+2009	Thailand	781
+2009	Costa Rica	650
+2009	Trinidad and Tobago	600
+2009	Panama	561
+2009	Samoa	541
+2009	El Salvador	381
+2009	Guyana	315
+2009	Grenada	261
+2009	Angola	261
+2009	Saint Vincent and the Grenadines	210
+2009	Gabon	200
+2009	Timor-Leste	129
+2009	Vanuatu	102
+2009	Dominica	100
+2009	Central African Republic	100
+2009	Benin	100
+2009	Saint Lucia	46
+2009	Belize	39
+2009	Micronesia (Federated States of)	36
+2009	Comoros	29
+2009	Suriname	11
+2009	Fiji	5
+2009	American Samoa	1
+2010	Côte d'Ivoire	1242290
+2010	Indonesia	844626
+2010	Ghana	632037
+2010	Nigeria	360000
+2010	Cameroon	264077
+2010	Brazil	235389
+2010	Ecuador	132100
+2010	Togo	101500
+2010	Dominican Republic	58334
+2010	Peru	46613
+2010	Colombia	39534
+2010	Papua New Guinea	39400
+2010	Mexico	27174
+2010	Malaysia	18300
+2010	Venezuela (Bolivarian Republic of)	18000
+2010	Uganda	15000
+2010	Sierra Leone	14000
+2010	India	12900
+2010	Guatemala	10713
+2010	Madagascar	10000
+2010	Haiti	9400
+2010	United Republic of Tanzania	7000
+2010	Liberia	6700
+2010	Democratic Republic of the Congo	5431
+2010	Solomon Islands	5205
+2010	Philippines	5019
+2010	Bolivia (Plurinational State of)	4652
+2010	Guinea	4100
+2010	Sao Tome and Principe	2000
+2010	Sri Lanka	1730
+2010	Cuba	1709
+2010	Honduras	1590
+2010	Jamaica	1368
+2010	Equatorial Guinea	1200
+2010	Congo	1200
+2010	Dominica	800
+2010	Thailand	763
+2010	Nicaragua	760
+2010	Trinidad and Tobago	700
+2010	Costa Rica	665
+2010	Panama	611
+2010	Samoa	600
+2010	El Salvador	480
+2010	Guyana	340
+2010	Grenada	270
+2010	Angola	260
+2010	Saint Vincent and the Grenadines	240
+2010	Gabon	220
+2010	Vanuatu	120
+2010	Timor-Leste	100
+2010	Central African Republic	100
+2010	Benin	100
+2010	Saint Lucia	50
+2010	Micronesia (Federated States of)	40
+2010	Belize	40
+2010	Comoros	20
+2010	Suriname	10
+2010	Fiji	6
+2010	American Samoa	1

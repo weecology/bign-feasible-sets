@@ -1,0 +1,1364 @@
+4465792.3	Moraxellaceae	3620
+4465792.3	Aeromonadaceae	3234
+4465792.3	Comamonadaceae	2457
+4465792.3	Carnobacteriaceae	1593
+4465792.3	Ruminococcaceae	1213
+4465792.3	Bacteroidaceae	992
+4465792.3	Lachnospiraceae	837
+4465792.3	Flavobacteriaceae	773
+4465792.3	Pseudomonadaceae	711
+4465792.3	Eubacteriaceae	568
+4465792.3	Bifidobacteriaceae	458
+4465792.3	Campylobacteraceae	456
+4465792.3	Prevotellaceae	442
+4465792.3	Enterobacteriaceae	413
+4465792.3	Erysipelotrichaceae	379
+4465792.3	Rhodocyclaceae	269
+4465792.3	Clostridiaceae	232
+4465792.3	Oxalobacteraceae	219
+4465792.3	unclassified (derived from Burkholderiales)	201
+4465792.3	Streptococcaceae	151
+4465792.3	Shewanellaceae	128
+4465792.3	unclassified (derived from Clostridiales)	118
+4465792.3	Porphyromonadaceae	106
+4465792.3	Veillonellaceae	97
+4465792.3	Coxiellaceae	95
+4465792.3	Bdellovibrionaceae	91
+4465792.3	Microbacteriaceae	91
+4465792.3	unclassified (derived from Flavobacteriales)	86
+4465792.3	Chromatiaceae	81
+4465792.3	Rhizobiaceae	71
+4465792.3	Coriobacteriaceae	71
+4465792.3	Rikenellaceae	69
+4465792.3	Sphingomonadaceae	68
+4465792.3	Bacillaceae	63
+4465792.3	Caulobacteraceae	57
+4465792.3	Rhodobacteraceae	46
+4465792.3	Neisseriaceae	45
+4465792.3	Xanthomonadaceae	44
+4465792.3	unclassified (derived from Gammaproteobacteria)	40
+4465792.3	Mycoplasmataceae	40
+4465792.3	Cytophagaceae	39
+4465792.3	Lactobacillaceae	35
+4465792.3	Vibrionaceae	34
+4465792.3	Paenibacillaceae	34
+4465792.3	Desulfovibrionaceae	33
+4465792.3	Nocardiaceae	29
+4465792.3	Dermacoccaceae	28
+4465792.3	unclassified (derived from Bacillales)	28
+4465792.3	Peptostreptococcaceae	26
+4465792.3	Enterococcaceae	23
+4465792.3	Verrucomicrobiaceae	23
+4465792.3	Alcaligenaceae	21
+4465792.3	Burkholderiaceae	20
+4465792.3	Mycobacteriaceae	19
+4465792.3	Acidaminococcaceae	15
+4465792.3	Bacteriovoracaceae	13
+4465792.3	Aerococcaceae	13
+4465792.3	Desulfomicrobiaceae	13
+4465792.3	Fusobacteriaceae	13
+4465792.3	Pasteurellaceae	10
+4465792.3	Legionellaceae	10
+4465792.3	Methylophilaceae	10
+4465792.3	Gordoniaceae	8
+4465792.3	unclassified (derived from Bacteria)	8
+4465792.3	Corynebacteriaceae	7
+4465792.3	Clostridiales Family XI. Incertae Sedis	6
+4465792.3	Micrococcaceae	6
+4465792.3	Bradyrhizobiaceae	6
+4465792.3	Intrasporangiaceae	5
+4465792.3	Desulfobacteraceae	5
+4465792.3	Fibrobacteraceae	5
+4465792.3	Acholeplasmataceae	5
+4465792.3	Brucellaceae	5
+4465792.3	Staphylococcaceae	4
+4465792.3	Spirochaetaceae	4
+4465792.3	Beijerinckiaceae	4
+4465792.3	unclassified (derived from Actinobacteria (class))	4
+4465792.3	Leuconostocaceae	3
+4465792.3	Planococcaceae	3
+4465792.3	Sphingobacteriaceae	3
+4465792.3	Alteromonadaceae	3
+4465792.3	Nocardioidaceae	3
+4465792.3	Alcanivoracaceae	2
+4465792.3	Cellulomonadaceae	2
+4465792.3	Piscirickettsiaceae	2
+4465792.3	Thiotrichaceae	2
+4465792.3	Sinobacteraceae	2
+4465792.3	Thermoanaerobacterales Family III. Incertae Sedis	2
+4465792.3	unclassified (derived from Proteobacteria)	2
+4465792.3	Nakamurellaceae	2
+4465792.3	Aurantimonadaceae	2
+4465792.3	Acidithiobacillaceae	2
+4465792.3	Rhodospirillaceae	2
+4465792.3	Geobacteraceae	2
+4465792.3	Propionibacteriaceae	2
+4465792.3	Methylococcaceae	1
+4465792.3	Dietziaceae	1
+4465792.3	unclassified (derived from Sphingobacteriales)	1
+4465792.3	Psychromonadaceae	1
+4465792.3	Methylobacteriaceae	1
+4465792.3	Xanthobacteraceae	1
+4465792.3	Acetobacteraceae	1
+4465792.3	Streptomycetaceae	1
+4465793.3	Moraxellaceae	4713
+4465793.3	Aeromonadaceae	3329
+4465793.3	Comamonadaceae	2730
+4465793.3	Flavobacteriaceae	1763
+4465793.3	Bacteroidaceae	1310
+4465793.3	Carnobacteriaceae	1049
+4465793.3	Ruminococcaceae	1001
+4465793.3	Campylobacteraceae	853
+4465793.3	Lachnospiraceae	723
+4465793.3	Pseudomonadaceae	674
+4465793.3	Enterobacteriaceae	649
+4465793.3	unclassified (derived from Flavobacteriales)	506
+4465793.3	Streptococcaceae	469
+4465793.3	Eubacteriaceae	434
+4465793.3	Rhodocyclaceae	398
+4465793.3	Oxalobacteraceae	334
+4465793.3	Clostridiaceae	326
+4465793.3	Bifidobacteriaceae	271
+4465793.3	Coxiellaceae	256
+4465793.3	Prevotellaceae	232
+4465793.3	Erysipelotrichaceae	213
+4465793.3	Shewanellaceae	183
+4465793.3	Neisseriaceae	179
+4465793.3	unclassified (derived from Clostridiales)	146
+4465793.3	Acidithiobacillaceae	137
+4465793.3	Rikenellaceae	122
+4465793.3	Porphyromonadaceae	121
+4465793.3	Chromatiaceae	115
+4465793.3	Veillonellaceae	101
+4465793.3	Microbacteriaceae	87
+4465793.3	Xanthomonadaceae	86
+4465793.3	Desulfomicrobiaceae	81
+4465793.3	Coriobacteriaceae	76
+4465793.3	unclassified (derived from Burkholderiales)	73
+4465793.3	Rhizobiaceae	70
+4465793.3	Rhodobacteraceae	69
+4465793.3	Paenibacillaceae	67
+4465793.3	unclassified (derived from Bacteria)	62
+4465793.3	Dermacoccaceae	46
+4465793.3	Caulobacteraceae	44
+4465793.3	Lactobacillaceae	40
+4465793.3	Sphingomonadaceae	39
+4465793.3	Vibrionaceae	39
+4465793.3	Desulfovibrionaceae	36
+4465793.3	Peptostreptococcaceae	33
+4465793.3	Mycobacteriaceae	25
+4465793.3	Enterococcaceae	25
+4465793.3	Intrasporangiaceae	19
+4465793.3	Bradyrhizobiaceae	18
+4465793.3	Verrucomicrobiaceae	17
+4465793.3	Nocardiaceae	16
+4465793.3	Mycoplasmataceae	16
+4465793.3	Leuconostocaceae	16
+4465793.3	Fusobacteriaceae	14
+4465793.3	Acidaminococcaceae	14
+4465793.3	unclassified (derived from Gammaproteobacteria)	12
+4465793.3	unclassified (derived from Bacillales)	12
+4465793.3	Sphingobacteriaceae	11
+4465793.3	Pasteurellaceae	11
+4465793.3	Desulfobacteraceae	10
+4465793.3	Burkholderiaceae	9
+4465793.3	Williamsiaceae	8
+4465793.3	Pelobacteraceae	8
+4465793.3	Alteromonadaceae	8
+4465793.3	Herpetosiphonaceae	8
+4465793.3	Bacillaceae	8
+4465793.3	Gordoniaceae	8
+4465793.3	Hydrogenophilaceae	8
+4465793.3	Desulfobulbaceae	7
+4465793.3	Bdellovibrionaceae	7
+4465793.3	Propionibacteriaceae	6
+4465793.3	Nocardioidaceae	6
+4465793.3	Fibrobacteraceae	6
+4465793.3	Alcanivoracaceae	6
+4465793.3	Rhodospirillaceae	5
+4465793.3	Spirochaetaceae	5
+4465793.3	Micrococcaceae	5
+4465793.3	Bacteriovoracaceae	5
+4465793.3	Nakamurellaceae	4
+4465793.3	Alcaligenaceae	4
+4465793.3	Cytophagaceae	4
+4465793.3	Thiotrichaceae	4
+4465793.3	Legionellaceae	4
+4465793.3	unclassified (derived from Betaproteobacteria)	4
+4465793.3	Acetobacteraceae	3
+4465793.3	Geobacteraceae	3
+4465793.3	Methylophilaceae	3
+4465793.3	Aerococcaceae	3
+4465793.3	Clostridiales Family XI. Incertae Sedis	3
+4465793.3	Nitrosomonadaceae	3
+4465793.3	Tsukamurellaceae	2
+4465793.3	Actinomycetaceae	2
+4465793.3	unclassified (derived from Sphingobacteriales)	2
+4465793.3	Halothiobacillaceae	2
+4465793.3	Planococcaceae	2
+4465793.3	Piscirickettsiaceae	2
+4465793.3	Cellulomonadaceae	2
+4465793.3	Pseudonocardiaceae	1
+4465793.3	unclassified (derived from Actinobacteria (class))	1
+4465793.3	Methylocystaceae	1
+4465793.3	Methylobacteriaceae	1
+4465793.3	Brucellaceae	1
+4465793.3	Acholeplasmataceae	1
+4465793.3	Streptomycetaceae	1
+4465793.3	Chlorobiaceae	1
+4465793.3	Methylococcaceae	1
+4465793.3	Halomonadaceae	1
+4465795.3	Aeromonadaceae	4768
+4465795.3	Moraxellaceae	2607
+4465795.3	Campylobacteraceae	2479
+4465795.3	Carnobacteriaceae	1941
+4465795.3	Bacteroidaceae	1508
+4465795.3	Comamonadaceae	1118
+4465795.3	Ruminococcaceae	853
+4465795.3	Streptococcaceae	725
+4465795.3	Lachnospiraceae	629
+4465795.3	Enterobacteriaceae	551
+4465795.3	Flavobacteriaceae	491
+4465795.3	Oxalobacteraceae	442
+4465795.3	Bifidobacteriaceae	420
+4465795.3	Eubacteriaceae	348
+4465795.3	Desulfomicrobiaceae	287
+4465795.3	Neisseriaceae	274
+4465795.3	Erysipelotrichaceae	263
+4465795.3	Clostridiaceae	218
+4465795.3	Pseudomonadaceae	194
+4465795.3	Veillonellaceae	169
+4465795.3	Prevotellaceae	161
+4465795.3	Rhodocyclaceae	154
+4465795.3	Porphyromonadaceae	144
+4465795.3	Coriobacteriaceae	131
+4465795.3	unclassified (derived from Clostridiales)	108
+4465795.3	Rikenellaceae	107
+4465795.3	Shewanellaceae	87
+4465795.3	Coxiellaceae	86
+4465795.3	Enterococcaceae	79
+4465795.3	Acidaminococcaceae	70
+4465795.3	Desulfovibrionaceae	57
+4465795.3	Lactobacillaceae	50
+4465795.3	Paenibacillaceae	46
+4465795.3	Xanthomonadaceae	45
+4465795.3	Peptostreptococcaceae	43
+4465795.3	Microbacteriaceae	42
+4465795.3	Verrucomicrobiaceae	40
+4465795.3	unclassified (derived from Bacteria)	36
+4465795.3	Dermacoccaceae	28
+4465795.3	Rhodobacteraceae	22
+4465795.3	Rhizobiaceae	17
+4465795.3	unclassified (derived from Gammaproteobacteria)	17
+4465795.3	Geobacteraceae	16
+4465795.3	Intrasporangiaceae	16
+4465795.3	Leptotrichiaceae	14
+4465795.3	Desulfobacteraceae	13
+4465795.3	Gordoniaceae	13
+4465795.3	Leuconostocaceae	13
+4465795.3	Sphingomonadaceae	12
+4465795.3	Fusobacteriaceae	12
+4465795.3	Burkholderiaceae	11
+4465795.3	Micrococcaceae	11
+4465795.3	Psychromonadaceae	10
+4465795.3	unclassified (derived from Flavobacteriales)	10
+4465795.3	Pelobacteraceae	10
+4465795.3	Caulobacteraceae	9
+4465795.3	Nocardiaceae	9
+4465795.3	Thiotrichaceae	9
+4465795.3	Corynebacteriaceae	8
+4465795.3	Vibrionaceae	5
+4465795.3	Mycobacteriaceae	5
+4465795.3	unclassified (derived from Actinobacteria (class))	5
+4465795.3	Alteromonadaceae	4
+4465795.3	Desulfobulbaceae	4
+4465795.3	Succinivibrionaceae	3
+4465795.3	Chromatiaceae	3
+4465795.3	unclassified (derived from Burkholderiales)	3
+4465795.3	Hydrogenophilaceae	3
+4465795.3	Propionibacteriaceae	3
+4465795.3	Fibrobacteraceae	2
+4465795.3	Nakamurellaceae	2
+4465795.3	Tsukamurellaceae	2
+4465795.3	Cytophagaceae	2
+4465795.3	unclassified (derived from Bacillales)	2
+4465795.3	Acetobacteraceae	2
+4465795.3	Bradyrhizobiaceae	2
+4465795.3	Phyllobacteriaceae	2
+4465795.3	unclassified (derived from Sphingobacteriales)	1
+4465795.3	Acholeplasmataceae	1
+4465795.3	Bacillaceae	1
+4465795.3	Brucellaceae	1
+4465795.3	unclassified (derived from Betaproteobacteria)	1
+4465795.3	Staphylococcaceae	1
+4465795.3	Spirochaetaceae	1
+4465795.3	Dietziaceae	1
+4465795.3	Idiomarinaceae	1
+4465795.3	Rhodospirillaceae	1
+4465795.3	Nitrosomonadaceae	1
+4465795.3	Alcanivoracaceae	1
+4465796.3	Carnobacteriaceae	3157
+4465796.3	Comamonadaceae	2622
+4465796.3	Moraxellaceae	2208
+4465796.3	Aeromonadaceae	1795
+4465796.3	Flavobacteriaceae	1468
+4465796.3	Streptococcaceae	1289
+4465796.3	Ruminococcaceae	828
+4465796.3	Campylobacteraceae	813
+4465796.3	Bacteroidaceae	794
+4465796.3	Lachnospiraceae	777
+4465796.3	Enterobacteriaceae	752
+4465796.3	Pseudomonadaceae	508
+4465796.3	Eubacteriaceae	352
+4465796.3	Bifidobacteriaceae	282
+4465796.3	unclassified (derived from Bacteria)	220
+4465796.3	Clostridiaceae	208
+4465796.3	Nocardiaceae	164
+4465796.3	Oxalobacteraceae	158
+4465796.3	Prevotellaceae	154
+4465796.3	Erysipelotrichaceae	145
+4465796.3	Microbacteriaceae	134
+4465796.3	unclassified (derived from Flavobacteriales)	132
+4465796.3	Shewanellaceae	113
+4465796.3	unclassified (derived from Burkholderiales)	97
+4465796.3	Coxiellaceae	94
+4465796.3	Veillonellaceae	93
+4465796.3	Rhodocyclaceae	93
+4465796.3	Neisseriaceae	84
+4465796.3	Porphyromonadaceae	80
+4465796.3	Coriobacteriaceae	72
+4465796.3	unclassified (derived from Clostridiales)	66
+4465796.3	Xanthomonadaceae	64
+4465796.3	Micrococcaceae	63
+4465796.3	Rhodobacteraceae	61
+4465796.3	Peptostreptococcaceae	48
+4465796.3	Lactobacillaceae	48
+4465796.3	Rikenellaceae	46
+4465796.3	unclassified (derived from Betaproteobacteria)	44
+4465796.3	Enterococcaceae	44
+4465796.3	Paenibacillaceae	39
+4465796.3	unclassified (derived from Gammaproteobacteria)	32
+4465796.3	Dermacoccaceae	32
+4465796.3	Burkholderiaceae	27
+4465796.3	Desulfovibrionaceae	26
+4465796.3	unclassified (derived from Actinobacteria (class))	22
+4465796.3	Rhizobiaceae	21
+4465796.3	Sphingomonadaceae	18
+4465796.3	Chromatiaceae	16
+4465796.3	Verrucomicrobiaceae	16
+4465796.3	Mycobacteriaceae	12
+4465796.3	Alteromonadaceae	12
+4465796.3	Acidaminococcaceae	9
+4465796.3	Caulobacteraceae	9
+4465796.3	unclassified (derived from Bacillales)	8
+4465796.3	Desulfomicrobiaceae	7
+4465796.3	Brucellaceae	7
+4465796.3	Intrasporangiaceae	7
+4465796.3	Desulfobacteraceae	7
+4465796.3	Pasteurellaceae	7
+4465796.3	Actinomycetaceae	6
+4465796.3	Bdellovibrionaceae	5
+4465796.3	Geobacteraceae	5
+4465796.3	Leuconostocaceae	5
+4465796.3	Fusobacteriaceae	4
+4465796.3	Staphylococcaceae	4
+4465796.3	Psychromonadaceae	4
+4465796.3	Aerococcaceae	4
+4465796.3	Bradyrhizobiaceae	4
+4465796.3	Mycoplasmataceae	4
+4465796.3	Vibrionaceae	3
+4465796.3	Pseudoalteromonadaceae	3
+4465796.3	Cytophagaceae	2
+4465796.3	Nakamurellaceae	2
+4465796.3	Corynebacteriaceae	2
+4465796.3	Rhodospirillaceae	2
+4465796.3	Nocardioidaceae	1
+4465796.3	Phyllobacteriaceae	1
+4465796.3	Propionibacteriaceae	1
+4465796.3	Desulfobulbaceae	1
+4465796.3	Thiotrichaceae	1
+4465796.3	Pseudonocardiaceae	1
+4465796.3	Methylophilaceae	1
+4465796.3	Gordoniaceae	1
+4465796.3	Xanthobacteraceae	1
+4465796.3	unclassified (derived from Sphingobacteriales)	1
+4465796.3	Methylococcaceae	1
+4465796.3	Cellulomonadaceae	1
+4465796.3	Bacteriovoracaceae	1
+4465796.3	Dermatophilaceae	1
+4465796.3	Bacillaceae	1
+4465797.3	Carnobacteriaceae	5409
+4465797.3	Comamonadaceae	3401
+4465797.3	Moraxellaceae	2238
+4465797.3	Aeromonadaceae	2204
+4465797.3	Flavobacteriaceae	1061
+4465797.3	Ruminococcaceae	1034
+4465797.3	Streptococcaceae	898
+4465797.3	Pseudomonadaceae	810
+4465797.3	Lachnospiraceae	777
+4465797.3	Enterobacteriaceae	742
+4465797.3	Bacteroidaceae	729
+4465797.3	Enterococcaceae	562
+4465797.3	Prevotellaceae	450
+4465797.3	Bifidobacteriaceae	449
+4465797.3	Campylobacteraceae	415
+4465797.3	Eubacteriaceae	377
+4465797.3	Oxalobacteraceae	362
+4465797.3	Clostridiaceae	359
+4465797.3	Erysipelotrichaceae	277
+4465797.3	Shewanellaceae	269
+4465797.3	unclassified (derived from Bacteria)	148
+4465797.3	Rhodocyclaceae	137
+4465797.3	unclassified (derived from Clostridiales)	134
+4465797.3	Coxiellaceae	118
+4465797.3	Paenibacillaceae	92
+4465797.3	Peptostreptococcaceae	90
+4465797.3	Micrococcaceae	87
+4465797.3	Coriobacteriaceae	85
+4465797.3	Rikenellaceae	82
+4465797.3	Porphyromonadaceae	81
+4465797.3	Aerococcaceae	67
+4465797.3	Microbacteriaceae	63
+4465797.3	Veillonellaceae	59
+4465797.3	unclassified (derived from Gammaproteobacteria)	55
+4465797.3	Neisseriaceae	54
+4465797.3	Bacillaceae	53
+4465797.3	Xanthomonadaceae	53
+4465797.3	Burkholderiaceae	51
+4465797.3	Lactobacillaceae	47
+4465797.3	Rhodobacteraceae	35
+4465797.3	unclassified (derived from Bacillales)	35
+4465797.3	unclassified (derived from Burkholderiales)	34
+4465797.3	Verrucomicrobiaceae	33
+4465797.3	unclassified (derived from Betaproteobacteria)	30
+4465797.3	Desulfovibrionaceae	27
+4465797.3	Acidaminococcaceae	20
+4465797.3	Caulobacteraceae	17
+4465797.3	Mycoplasmataceae	16
+4465797.3	Psychromonadaceae	16
+4465797.3	Desulfomicrobiaceae	14
+4465797.3	unclassified (derived from Flavobacteriales)	14
+4465797.3	Rhizobiaceae	13
+4465797.3	Corynebacteriaceae	12
+4465797.3	Mycobacteriaceae	12
+4465797.3	Fusobacteriaceae	12
+4465797.3	Dermacoccaceae	10
+4465797.3	Fibrobacteraceae	10
+4465797.3	Sphingomonadaceae	9
+4465797.3	Leuconostocaceae	8
+4465797.3	Methylophilaceae	8
+4465797.3	Intrasporangiaceae	8
+4465797.3	unclassified (derived from Actinobacteria (class))	7
+4465797.3	Pasteurellaceae	6
+4465797.3	Oceanospirillaceae	5
+4465797.3	Clostridiales Family XI. Incertae Sedis	5
+4465797.3	Acetobacteraceae	5
+4465797.3	Gordoniaceae	4
+4465797.3	Kineosporiaceae	4
+4465797.3	Nocardioidaceae	4
+4465797.3	Thiotrichaceae	4
+4465797.3	Chromatiaceae	4
+4465797.3	Nocardiaceae	3
+4465797.3	Cytophagaceae	3
+4465797.3	Actinomycetaceae	2
+4465797.3	Cellulomonadaceae	2
+4465797.3	Bdellovibrionaceae	2
+4465797.3	Alcaligenaceae	2
+4465797.3	Nakamurellaceae	2
+4465797.3	Bradyrhizobiaceae	2
+4465797.3	Alteromonadaceae	2
+4465797.3	Leptotrichiaceae	2
+4465797.3	Staphylococcaceae	2
+4465797.3	Prochlorococcaceae	2
+4465797.3	Thermoanaerobacterales Family III. Incertae Sedis	2
+4465797.3	Bacteriovoracaceae	1
+4465797.3	Hydrogenophilaceae	1
+4465797.3	Geobacteraceae	1
+4465797.3	Streptomycetaceae	1
+4465797.3	Legionellaceae	1
+4465797.3	Acidithiobacillaceae	1
+4465797.3	Brucellaceae	1
+4465797.3	Verrucomicrobia subdivision 3	1
+4465797.3	Leptospiraceae	1
+4465797.3	Sphingobacteriaceae	1
+4465797.3	Vibrionaceae	1
+4465798.3	Aeromonadaceae	2676
+4465798.3	Comamonadaceae	1680
+4465798.3	Moraxellaceae	1502
+4465798.3	Campylobacteraceae	861
+4465798.3	Flavobacteriaceae	835
+4465798.3	Pseudomonadaceae	793
+4465798.3	Carnobacteriaceae	691
+4465798.3	Enterobacteriaceae	465
+4465798.3	Bacteroidaceae	387
+4465798.3	Oxalobacteraceae	356
+4465798.3	Streptococcaceae	251
+4465798.3	Ruminococcaceae	192
+4465798.3	Lachnospiraceae	119
+4465798.3	unclassified (derived from Bacteria)	96
+4465798.3	Coxiellaceae	95
+4465798.3	Prevotellaceae	92
+4465798.3	Eubacteriaceae	79
+4465798.3	Bifidobacteriaceae	77
+4465798.3	Rhodocyclaceae	75
+4465798.3	Shewanellaceae	61
+4465798.3	Neisseriaceae	45
+4465798.3	unclassified (derived from Flavobacteriales)	44
+4465798.3	Clostridiaceae	44
+4465798.3	Desulfomicrobiaceae	41
+4465798.3	Porphyromonadaceae	36
+4465798.3	Erysipelotrichaceae	28
+4465798.3	Peptostreptococcaceae	27
+4465798.3	Rikenellaceae	26
+4465798.3	Geobacteraceae	24
+4465798.3	unclassified (derived from Gammaproteobacteria)	23
+4465798.3	Veillonellaceae	23
+4465798.3	Micrococcaceae	23
+4465798.3	Burkholderiaceae	21
+4465798.3	Enterococcaceae	18
+4465798.3	unclassified (derived from Betaproteobacteria)	16
+4465798.3	Microbacteriaceae	16
+4465798.3	Desulfovibrionaceae	15
+4465798.3	Pasteurellaceae	14
+4465798.3	Paenibacillaceae	14
+4465798.3	Caulobacteraceae	12
+4465798.3	unclassified (derived from Clostridiales)	12
+4465798.3	Xanthomonadaceae	11
+4465798.3	Leuconostocaceae	11
+4465798.3	Coriobacteriaceae	11
+4465798.3	Dermacoccaceae	10
+4465798.3	unclassified (derived from Burkholderiales)	10
+4465798.3	Acidaminococcaceae	8
+4465798.3	Alteromonadaceae	8
+4465798.3	Rhizobiaceae	8
+4465798.3	Cytophagaceae	7
+4465798.3	Sphingomonadaceae	7
+4465798.3	Vibrionaceae	6
+4465798.3	Verrucomicrobiaceae	6
+4465798.3	Chromatiaceae	6
+4465798.3	Rhodobacteraceae	6
+4465798.3	Psychromonadaceae	5
+4465798.3	Desulfobacteraceae	5
+4465798.3	Mycoplasmataceae	4
+4465798.3	Lactobacillaceae	3
+4465798.3	Bdellovibrionaceae	3
+4465798.3	Staphylococcaceae	3
+4465798.3	Sphingobacteriaceae	2
+4465798.3	Bradyrhizobiaceae	2
+4465798.3	unclassified (derived from Bacillales)	2
+4465798.3	Mycobacteriaceae	2
+4465798.3	Alcaligenaceae	2
+4465798.3	Legionellaceae	2
+4465798.3	Bacteriovoracaceae	1
+4465798.3	Corynebacteriaceae	1
+4465798.3	Methylophilaceae	1
+4465798.3	Intrasporangiaceae	1
+4465798.3	Desulfobulbaceae	1
+4465798.3	Thiotrichaceae	1
+4465798.3	Rhodospirillaceae	1
+4465798.3	Nocardiaceae	1
+4465798.3	Nocardioidaceae	1
+4465798.3	Actinomycetaceae	1
+4465799.3	Aeromonadaceae	4016
+4465799.3	Comamonadaceae	2127
+4465799.3	Flavobacteriaceae	1267
+4465799.3	Carnobacteriaceae	1117
+4465799.3	Moraxellaceae	1097
+4465799.3	Campylobacteraceae	905
+4465799.3	Pseudomonadaceae	768
+4465799.3	Bacteroidaceae	648
+4465799.3	Oxalobacteraceae	420
+4465799.3	Enterobacteriaceae	346
+4465799.3	Streptococcaceae	268
+4465799.3	Ruminococcaceae	216
+4465799.3	unclassified (derived from Bacteria)	207
+4465799.3	Coxiellaceae	179
+4465799.3	unclassified (derived from Flavobacteriales)	136
+4465799.3	Shewanellaceae	115
+4465799.3	Desulfomicrobiaceae	96
+4465799.3	Eubacteriaceae	96
+4465799.3	Lachnospiraceae	90
+4465799.3	Prevotellaceae	88
+4465799.3	Porphyromonadaceae	79
+4465799.3	Clostridiaceae	79
+4465799.3	Rhodocyclaceae	73
+4465799.3	Bifidobacteriaceae	65
+4465799.3	Neisseriaceae	51
+4465799.3	Xanthomonadaceae	46
+4465799.3	Rikenellaceae	42
+4465799.3	Enterococcaceae	35
+4465799.3	Chromatiaceae	27
+4465799.3	Veillonellaceae	23
+4465799.3	Erysipelotrichaceae	23
+4465799.3	Rhodobacteraceae	22
+4465799.3	Caulobacteraceae	20
+4465799.3	unclassified (derived from Betaproteobacteria)	20
+4465799.3	Desulfovibrionaceae	19
+4465799.3	Psychromonadaceae	19
+4465799.3	Coriobacteriaceae	18
+4465799.3	Peptostreptococcaceae	18
+4465799.3	Microbacteriaceae	18
+4465799.3	Sphingomonadaceae	17
+4465799.3	Alteromonadaceae	17
+4465799.3	unclassified (derived from Clostridiales)	16
+4465799.3	Paenibacillaceae	15
+4465799.3	Verrucomicrobiaceae	14
+4465799.3	Dermacoccaceae	13
+4465799.3	Desulfobacteraceae	11
+4465799.3	unclassified (derived from Gammaproteobacteria)	11
+4465799.3	Rhizobiaceae	10
+4465799.3	Micrococcaceae	10
+4465799.3	Acidaminococcaceae	8
+4465799.3	Burkholderiaceae	7
+4465799.3	Nocardiaceae	6
+4465799.3	unclassified (derived from Actinobacteria (class))	6
+4465799.3	Leuconostocaceae	5
+4465799.3	Lactobacillaceae	5
+4465799.3	Geobacteraceae	4
+4465799.3	Nakamurellaceae	4
+4465799.3	Acidithiobacillaceae	4
+4465799.3	Mycoplasmataceae	3
+4465799.3	Intrasporangiaceae	3
+4465799.3	Pasteurellaceae	3
+4465799.3	Cellulomonadaceae	3
+4465799.3	Legionellaceae	2
+4465799.3	Alcaligenaceae	2
+4465799.3	Mycobacteriaceae	2
+4465799.3	Staphylococcaceae	2
+4465799.3	Fusobacteriaceae	2
+4465799.3	Bdellovibrionaceae	2
+4465799.3	Pelobacteraceae	1
+4465799.3	Aerococcaceae	1
+4465799.3	unclassified (derived from Bacillales)	1
+4465799.3	Phyllobacteriaceae	1
+4465799.3	Acholeplasmataceae	1
+4465799.3	Spirochaetaceae	1
+4465799.3	unclassified (derived from Burkholderiales)	1
+4465799.3	Thiotrichaceae	1
+4465799.3	Methylophilaceae	1
+4465799.3	Bacteriovoracaceae	1
+4465799.3	Bacillaceae	1
+4465799.3	Actinomycetaceae	1
+4466040.3	Moraxellaceae	3430
+4466040.3	Aeromonadaceae	3334
+4466040.3	Comamonadaceae	2204
+4466040.3	Carnobacteriaceae	1231
+4466040.3	Ruminococcaceae	1213
+4466040.3	Bacteroidaceae	1030
+4466040.3	Flavobacteriaceae	825
+4466040.3	Lachnospiraceae	809
+4466040.3	Pseudomonadaceae	792
+4466040.3	Eubacteriaceae	513
+4466040.3	Campylobacteraceae	444
+4466040.3	Bifidobacteriaceae	426
+4466040.3	Prevotellaceae	397
+4466040.3	Enterobacteriaceae	396
+4466040.3	Erysipelotrichaceae	369
+4466040.3	Rhodocyclaceae	265
+4466040.3	Oxalobacteraceae	212
+4466040.3	unclassified (derived from Burkholderiales)	179
+4466040.3	Clostridiaceae	153
+4466040.3	Streptococcaceae	145
+4466040.3	Shewanellaceae	118
+4466040.3	unclassified (derived from Clostridiales)	117
+4466040.3	Coxiellaceae	115
+4466040.3	Veillonellaceae	92
+4466040.3	Porphyromonadaceae	92
+4466040.3	Microbacteriaceae	88
+4466040.3	Bdellovibrionaceae	85
+4466040.3	Rikenellaceae	82
+4466040.3	Chromatiaceae	81
+4466040.3	Rhizobiaceae	73
+4466040.3	Coriobacteriaceae	72
+4466040.3	Sphingomonadaceae	67
+4466040.3	Bacillaceae	64
+4466040.3	Caulobacteraceae	57
+4466040.3	Rhodobacteraceae	45
+4466040.3	Neisseriaceae	44
+4466040.3	unclassified (derived from Gammaproteobacteria)	41
+4466040.3	Xanthomonadaceae	40
+4466040.3	Cytophagaceae	38
+4466040.3	unclassified (derived from Flavobacteriales)	38
+4466040.3	Mycoplasmataceae	34
+4466040.3	Desulfovibrionaceae	33
+4466040.3	Lactobacillaceae	33
+4466040.3	Paenibacillaceae	30
+4466040.3	Acidaminococcaceae	29
+4466040.3	Nocardiaceae	29
+4466040.3	unclassified (derived from Bacillales)	28
+4466040.3	Vibrionaceae	27
+4466040.3	Peptostreptococcaceae	27
+4466040.3	Alcaligenaceae	25
+4466040.3	Dermacoccaceae	23
+4466040.3	Verrucomicrobiaceae	21
+4466040.3	Burkholderiaceae	21
+4466040.3	Enterococcaceae	21
+4466040.3	Mycobacteriaceae	19
+4466040.3	Aerococcaceae	14
+4466040.3	Bacteriovoracaceae	13
+4466040.3	Fusobacteriaceae	13
+4466040.3	Pasteurellaceae	12
+4466040.3	Desulfomicrobiaceae	11
+4466040.3	Methylophilaceae	10
+4466040.3	Legionellaceae	9
+4466040.3	unclassified (derived from Bacteria)	7
+4466040.3	Corynebacteriaceae	7
+4466040.3	Actinomycetaceae	7
+4466040.3	Clostridiales Family XI. Incertae Sedis	6
+4466040.3	Micrococcaceae	6
+4466040.3	Gordoniaceae	6
+4466040.3	Bradyrhizobiaceae	6
+4466040.3	Staphylococcaceae	6
+4466040.3	Acholeplasmataceae	5
+4466040.3	Desulfobacteraceae	5
+4466040.3	Brucellaceae	5
+4466040.3	Fibrobacteraceae	5
+4466040.3	Spirochaetaceae	4
+4466040.3	unclassified (derived from Actinobacteria (class))	4
+4466040.3	Intrasporangiaceae	4
+4466040.3	Beijerinckiaceae	4
+4466040.3	Sphingobacteriaceae	3
+4466040.3	Planococcaceae	3
+4466040.3	Nocardioidaceae	3
+4466040.3	Leuconostocaceae	3
+4466040.3	Alteromonadaceae	3
+4466040.3	Nakamurellaceae	2
+4466040.3	Piscirickettsiaceae	2
+4466040.3	Acidithiobacillaceae	2
+4466040.3	Sinobacteraceae	2
+4466040.3	Aurantimonadaceae	2
+4466040.3	Geobacteraceae	2
+4466040.3	Thiotrichaceae	2
+4466040.3	Propionibacteriaceae	2
+4466040.3	Alcanivoracaceae	2
+4466040.3	unclassified (derived from Proteobacteria)	2
+4466040.3	Rhodospirillaceae	2
+4466040.3	Thermoanaerobacterales Family III. Incertae Sedis	2
+4466040.3	Cellulomonadaceae	2
+4466040.3	Methylobacteriaceae	1
+4466040.3	Psychromonadaceae	1
+4466040.3	unclassified (derived from Sphingobacteriales)	1
+4466040.3	Xanthobacteraceae	1
+4466040.3	Methylococcaceae	1
+4466040.3	Dietziaceae	1
+4466040.3	Acetobacteraceae	1
+4466050.3	Aeromonadaceae	3535
+4466050.3	Moraxellaceae	3355
+4466050.3	Comamonadaceae	2834
+4466050.3	Flavobacteriaceae	1591
+4466050.3	Bacteroidaceae	1151
+4466050.3	Carnobacteriaceae	990
+4466050.3	Ruminococcaceae	974
+4466050.3	Pseudomonadaceae	719
+4466050.3	Lachnospiraceae	675
+4466050.3	Campylobacteraceae	617
+4466050.3	Enterobacteriaceae	600
+4466050.3	unclassified (derived from Flavobacteriales)	446
+4466050.3	Eubacteriaceae	443
+4466050.3	Rhodocyclaceae	391
+4466050.3	Streptococcaceae	381
+4466050.3	Oxalobacteraceae	342
+4466050.3	Clostridiaceae	306
+4466050.3	Bifidobacteriaceae	282
+4466050.3	Prevotellaceae	215
+4466050.3	Shewanellaceae	204
+4466050.3	Erysipelotrichaceae	202
+4466050.3	unclassified (derived from Clostridiales)	177
+4466050.3	Neisseriaceae	169
+4466050.3	Rikenellaceae	120
+4466050.3	Porphyromonadaceae	117
+4466050.3	Chromatiaceae	110
+4466050.3	Veillonellaceae	96
+4466050.3	Desulfomicrobiaceae	94
+4466050.3	Microbacteriaceae	83
+4466050.3	Xanthomonadaceae	82
+4466050.3	Rhizobiaceae	71
+4466050.3	Rhodobacteraceae	70
+4466050.3	Coriobacteriaceae	67
+4466050.3	unclassified (derived from Bacteria)	62
+4466050.3	unclassified (derived from Burkholderiales)	62
+4466050.3	Paenibacillaceae	59
+4466050.3	Coxiellaceae	57
+4466050.3	Dermacoccaceae	52
+4466050.3	Caulobacteraceae	49
+4466050.3	Sphingomonadaceae	40
+4466050.3	Lactobacillaceae	38
+4466050.3	Desulfovibrionaceae	35
+4466050.3	Vibrionaceae	33
+4466050.3	Peptostreptococcaceae	31
+4466050.3	Mycobacteriaceae	28
+4466050.3	Enterococcaceae	25
+4466050.3	Mycoplasmataceae	20
+4466050.3	Intrasporangiaceae	19
+4466050.3	Leuconostocaceae	18
+4466050.3	unclassified (derived from Gammaproteobacteria)	18
+4466050.3	Bradyrhizobiaceae	18
+4466050.3	Verrucomicrobiaceae	16
+4466050.3	Nocardiaceae	16
+4466050.3	Legionellaceae	16
+4466050.3	Acidaminococcaceae	14
+4466050.3	Fusobacteriaceae	14
+4466050.3	unclassified (derived from Bacillales)	12
+4466050.3	Sphingobacteriaceae	11
+4466050.3	Desulfobacteraceae	11
+4466050.3	Pasteurellaceae	10
+4466050.3	Alteromonadaceae	9
+4466050.3	Burkholderiaceae	8
+4466050.3	Bacillaceae	8
+4466050.3	Pelobacteraceae	8
+4466050.3	Bdellovibrionaceae	8
+4466050.3	Herpetosiphonaceae	8
+4466050.3	Gordoniaceae	8
+4466050.3	Williamsiaceae	8
+4466050.3	Desulfobulbaceae	7
+4466050.3	Hydrogenophilaceae	7
+4466050.3	Nocardioidaceae	6
+4466050.3	Fibrobacteraceae	6
+4466050.3	Propionibacteriaceae	5
+4466050.3	Micrococcaceae	5
+4466050.3	Rhodospirillaceae	5
+4466050.3	Bacteriovoracaceae	5
+4466050.3	Alcaligenaceae	5
+4466050.3	Spirochaetaceae	5
+4466050.3	Alcanivoracaceae	4
+4466050.3	Nakamurellaceae	4
+4466050.3	Cytophagaceae	4
+4466050.3	Thiotrichaceae	4
+4466050.3	unclassified (derived from Betaproteobacteria)	4
+4466050.3	Acetobacteraceae	3
+4466050.3	Geobacteraceae	3
+4466050.3	Methylophilaceae	3
+4466050.3	Clostridiales Family XI. Incertae Sedis	3
+4466050.3	Nitrosomonadaceae	3
+4466050.3	Acidithiobacillaceae	3
+4466050.3	Cellulomonadaceae	2
+4466050.3	unclassified (derived from Actinobacteria (class))	2
+4466050.3	Actinomycetaceae	2
+4466050.3	Halothiobacillaceae	2
+4466050.3	unclassified (derived from Sphingobacteriales)	2
+4466050.3	Tsukamurellaceae	2
+4466050.3	Piscirickettsiaceae	2
+4466050.3	Brucellaceae	1
+4466050.3	Methylobacteriaceae	1
+4466050.3	Methylocystaceae	1
+4466050.3	Halomonadaceae	1
+4466050.3	Pseudonocardiaceae	1
+4466050.3	Planococcaceae	1
+4466050.3	Methylococcaceae	1
+4466050.3	Acholeplasmataceae	1
+4466050.3	Chlorobiaceae	1
+4466050.3	Streptomycetaceae	1
+4466051.3	Aeromonadaceae	5086
+4466051.3	Moraxellaceae	2323
+4466051.3	Carnobacteriaceae	2297
+4466051.3	Campylobacteraceae	1116
+4466051.3	Bacteroidaceae	1019
+4466051.3	Comamonadaceae	858
+4466051.3	Ruminococcaceae	702
+4466051.3	Flavobacteriaceae	672
+4466051.3	Enterobacteriaceae	598
+4466051.3	Lachnospiraceae	495
+4466051.3	Streptococcaceae	399
+4466051.3	Pseudomonadaceae	281
+4466051.3	Bifidobacteriaceae	256
+4466051.3	Coxiellaceae	245
+4466051.3	Clostridiaceae	238
+4466051.3	Erysipelotrichaceae	219
+4466051.3	Eubacteriaceae	207
+4466051.3	Prevotellaceae	188
+4466051.3	Oxalobacteraceae	168
+4466051.3	Rhodocyclaceae	115
+4466051.3	Porphyromonadaceae	110
+4466051.3	Enterococcaceae	101
+4466051.3	Neisseriaceae	94
+4466051.3	Rikenellaceae	78
+4466051.3	Shewanellaceae	71
+4466051.3	Coriobacteriaceae	65
+4466051.3	Veillonellaceae	65
+4466051.3	unclassified (derived from Clostridiales)	63
+4466051.3	Aerococcaceae	52
+4466051.3	unclassified (derived from Flavobacteriales)	48
+4466051.3	Peptostreptococcaceae	48
+4466051.3	unclassified (derived from Bacteria)	42
+4466051.3	Desulfovibrionaceae	42
+4466051.3	Acidaminococcaceae	35
+4466051.3	Desulfomicrobiaceae	32
+4466051.3	Vibrionaceae	31
+4466051.3	Paenibacillaceae	31
+4466051.3	Bacillaceae	25
+4466051.3	Dermacoccaceae	22
+4466051.3	Microbacteriaceae	20
+4466051.3	Verrucomicrobiaceae	20
+4466051.3	unclassified (derived from Gammaproteobacteria)	19
+4466051.3	Lactobacillaceae	19
+4466051.3	Xanthomonadaceae	16
+4466051.3	Caulobacteraceae	16
+4466051.3	Thiotrichaceae	15
+4466051.3	Sphingomonadaceae	14
+4466051.3	unclassified (derived from Burkholderiales)	13
+4466051.3	Rhodobacteraceae	13
+4466051.3	Leuconostocaceae	11
+4466051.3	Geobacteraceae	9
+4466051.3	unclassified (derived from Bacillales)	9
+4466051.3	Fusobacteriaceae	9
+4466051.3	Chromatiaceae	9
+4466051.3	Micrococcaceae	8
+4466051.3	Desulfobacteraceae	8
+4466051.3	Legionellaceae	8
+4466051.3	Mycobacteriaceae	7
+4466051.3	Burkholderiaceae	6
+4466051.3	Intrasporangiaceae	5
+4466051.3	Fibrobacteraceae	5
+4466051.3	Rhizobiaceae	5
+4466051.3	Bacteriovoracaceae	4
+4466051.3	Nakamurellaceae	4
+4466051.3	Acidithiobacillaceae	4
+4466051.3	Rhodospirillaceae	3
+4466051.3	Acholeplasmataceae	3
+4466051.3	Alcaligenaceae	3
+4466051.3	Corynebacteriaceae	2
+4466051.3	unclassified (derived from Betaproteobacteria)	2
+4466051.3	Bdellovibrionaceae	2
+4466051.3	Desulfobulbaceae	2
+4466051.3	Acetobacteraceae	2
+4466051.3	Clostridiales Family XI. Incertae Sedis	2
+4466051.3	Leptotrichiaceae	2
+4466051.3	Thermoanaerobacterales Family III. Incertae Sedis	2
+4466051.3	Hydrogenophilaceae	1
+4466051.3	Spirochaetaceae	1
+4466051.3	unclassified (derived from Proteobacteria)	1
+4466051.3	Sphingobacteriaceae	1
+4466051.3	Actinomycetaceae	1
+4466051.3	Xanthobacteraceae	1
+4466051.3	Brucellaceae	1
+4466051.3	Pasteurellaceae	1
+4466051.3	Bradyrhizobiaceae	1
+4466051.3	Crenotrichaceae	1
+4466052.3	Aeromonadaceae	4242
+4466052.3	Moraxellaceae	2610
+4466052.3	Campylobacteraceae	2080
+4466052.3	Carnobacteriaceae	1865
+4466052.3	Bacteroidaceae	1452
+4466052.3	Comamonadaceae	1190
+4466052.3	Streptococcaceae	681
+4466052.3	Ruminococcaceae	662
+4466052.3	Lachnospiraceae	585
+4466052.3	Flavobacteriaceae	555
+4466052.3	Enterobacteriaceae	515
+4466052.3	Oxalobacteraceae	442
+4466052.3	Bifidobacteriaceae	428
+4466052.3	Eubacteriaceae	303
+4466052.3	Desulfomicrobiaceae	293
+4466052.3	Coxiellaceae	272
+4466052.3	Clostridiaceae	250
+4466052.3	Erysipelotrichaceae	234
+4466052.3	Neisseriaceae	219
+4466052.3	Veillonellaceae	168
+4466052.3	Prevotellaceae	167
+4466052.3	Rhodocyclaceae	152
+4466052.3	Porphyromonadaceae	143
+4466052.3	Pseudomonadaceae	133
+4466052.3	Coriobacteriaceae	118
+4466052.3	unclassified (derived from Clostridiales)	109
+4466052.3	Rikenellaceae	106
+4466052.3	Shewanellaceae	84
+4466052.3	Enterococcaceae	80
+4466052.3	Acidaminococcaceae	66
+4466052.3	Desulfovibrionaceae	52
+4466052.3	Paenibacillaceae	50
+4466052.3	Lactobacillaceae	48
+4466052.3	unclassified (derived from Flavobacteriales)	48
+4466052.3	Microbacteriaceae	44
+4466052.3	Xanthomonadaceae	42
+4466052.3	unclassified (derived from Bacteria)	42
+4466052.3	Verrucomicrobiaceae	38
+4466052.3	Peptostreptococcaceae	36
+4466052.3	Dermacoccaceae	24
+4466052.3	Desulfobacteraceae	23
+4466052.3	Rhodobacteraceae	22
+4466052.3	unclassified (derived from Gammaproteobacteria)	20
+4466052.3	Intrasporangiaceae	19
+4466052.3	Rhizobiaceae	17
+4466052.3	Geobacteraceae	17
+4466052.3	Leptotrichiaceae	14
+4466052.3	Gordoniaceae	13
+4466052.3	Leuconostocaceae	13
+4466052.3	Sphingomonadaceae	12
+4466052.3	Micrococcaceae	11
+4466052.3	Nocardiaceae	11
+4466052.3	Thiotrichaceae	10
+4466052.3	Burkholderiaceae	10
+4466052.3	Caulobacteraceae	10
+4466052.3	Psychromonadaceae	10
+4466052.3	Corynebacteriaceae	8
+4466052.3	Fusobacteriaceae	8
+4466052.3	Vibrionaceae	6
+4466052.3	Desulfobulbaceae	6
+4466052.3	unclassified (derived from Actinobacteria (class))	5
+4466052.3	Alteromonadaceae	5
+4466052.3	Pelobacteraceae	4
+4466052.3	Mycobacteriaceae	4
+4466052.3	Alcanivoracaceae	3
+4466052.3	Succinivibrionaceae	3
+4466052.3	unclassified (derived from Burkholderiales)	3
+4466052.3	Propionibacteriaceae	3
+4466052.3	Chromatiaceae	3
+4466052.3	Fibrobacteraceae	2
+4466052.3	Acetobacteraceae	2
+4466052.3	unclassified (derived from Bacillales)	2
+4466052.3	Phyllobacteriaceae	2
+4466052.3	Bradyrhizobiaceae	2
+4466052.3	Nakamurellaceae	2
+4466052.3	Cytophagaceae	2
+4466052.3	Tsukamurellaceae	2
+4466052.3	unclassified (derived from Sphingobacteriales)	1
+4466052.3	Rhodospirillaceae	1
+4466052.3	unclassified (derived from Betaproteobacteria)	1
+4466052.3	Nitrosomonadaceae	1
+4466052.3	Bacillaceae	1
+4466052.3	Staphylococcaceae	1
+4466052.3	Hydrogenophilaceae	1
+4466052.3	Brucellaceae	1
+4466052.3	Dietziaceae	1
+4466052.3	Spirochaetaceae	1
+4466052.3	Idiomarinaceae	1
+4466053.3	Carnobacteriaceae	4100
+4466053.3	Moraxellaceae	2822
+4466053.3	Comamonadaceae	2768
+4466053.3	Aeromonadaceae	1522
+4466053.3	Flavobacteriaceae	1292
+4466053.3	Streptococcaceae	1121
+4466053.3	Ruminococcaceae	848
+4466053.3	Campylobacteraceae	759
+4466053.3	Bacteroidaceae	714
+4466053.3	Lachnospiraceae	588
+4466053.3	Enterobacteriaceae	527
+4466053.3	Pseudomonadaceae	475
+4466053.3	Bifidobacteriaceae	281
+4466053.3	Eubacteriaceae	279
+4466053.3	unclassified (derived from Bacteria)	241
+4466053.3	Coxiellaceae	236
+4466053.3	Clostridiaceae	202
+4466053.3	Prevotellaceae	200
+4466053.3	Oxalobacteraceae	152
+4466053.3	Erysipelotrichaceae	143
+4466053.3	unclassified (derived from Flavobacteriales)	136
+4466053.3	Microbacteriaceae	134
+4466053.3	Nocardiaceae	128
+4466053.3	unclassified (derived from Burkholderiales)	106
+4466053.3	Shewanellaceae	102
+4466053.3	Veillonellaceae	89
+4466053.3	Neisseriaceae	86
+4466053.3	Rhodocyclaceae	84
+4466053.3	unclassified (derived from Clostridiales)	82
+4466053.3	Coriobacteriaceae	70
+4466053.3	Porphyromonadaceae	65
+4466053.3	Micrococcaceae	62
+4466053.3	Xanthomonadaceae	62
+4466053.3	Rhodobacteraceae	54
+4466053.3	Peptostreptococcaceae	49
+4466053.3	Rikenellaceae	46
+4466053.3	Lactobacillaceae	45
+4466053.3	Enterococcaceae	45
+4466053.3	Paenibacillaceae	43
+4466053.3	Dermacoccaceae	42
+4466053.3	unclassified (derived from Betaproteobacteria)	38
+4466053.3	unclassified (derived from Gammaproteobacteria)	32
+4466053.3	Desulfovibrionaceae	26
+4466053.3	Burkholderiaceae	24
+4466053.3	Rhizobiaceae	23
+4466053.3	Sphingomonadaceae	18
+4466053.3	Verrucomicrobiaceae	17
+4466053.3	Chromatiaceae	16
+4466053.3	Mycobacteriaceae	12
+4466053.3	Alteromonadaceae	10
+4466053.3	unclassified (derived from Bacillales)	10
+4466053.3	Acidaminococcaceae	9
+4466053.3	Caulobacteraceae	9
+4466053.3	unclassified (derived from Actinobacteria (class))	8
+4466053.3	Intrasporangiaceae	7
+4466053.3	Desulfobacteraceae	7
+4466053.3	Desulfomicrobiaceae	7
+4466053.3	Brucellaceae	6
+4466053.3	Actinomycetaceae	6
+4466053.3	Bdellovibrionaceae	5
+4466053.3	Leuconostocaceae	5
+4466053.3	Psychromonadaceae	4
+4466053.3	Fusobacteriaceae	4
+4466053.3	Pasteurellaceae	4
+4466053.3	Bradyrhizobiaceae	4
+4466053.3	Staphylococcaceae	4
+4466053.3	Geobacteraceae	4
+4466053.3	Mycoplasmataceae	4
+4466053.3	Pseudoalteromonadaceae	3
+4466053.3	Aerococcaceae	3
+4466053.3	Corynebacteriaceae	2
+4466053.3	Phyllobacteriaceae	2
+4466053.3	Thiotrichaceae	2
+4466053.3	Rhodospirillaceae	2
+4466053.3	Nakamurellaceae	2
+4466053.3	Cytophagaceae	2
+4466053.3	Cellulomonadaceae	1
+4466053.3	Dermatophilaceae	1
+4466053.3	Methylococcaceae	1
+4466053.3	Bacteriovoracaceae	1
+4466053.3	Gordoniaceae	1
+4466053.3	Methylophilaceae	1
+4466053.3	Xanthobacteraceae	1
+4466053.3	Vibrionaceae	1
+4466053.3	Bacillaceae	1
+4466053.3	unclassified (derived from Sphingobacteriales)	1
+4466053.3	Nocardioidaceae	1
+4466053.3	Propionibacteriaceae	1
+4466053.3	Pseudonocardiaceae	1
+4466053.3	Desulfobulbaceae	1
+4466055.3	Carnobacteriaceae	5256
+4466055.3	Comamonadaceae	3333
+4466055.3	Moraxellaceae	2781
+4466055.3	Aeromonadaceae	1847
+4466055.3	Flavobacteriaceae	1044
+4466055.3	Ruminococcaceae	1013
+4466055.3	Streptococcaceae	825
+4466055.3	Bacteroidaceae	824
+4466055.3	Lachnospiraceae	747
+4466055.3	Enterobacteriaceae	719
+4466055.3	Pseudomonadaceae	615
+4466055.3	Enterococcaceae	582
+4466055.3	Bifidobacteriaceae	429
+4466055.3	Eubacteriaceae	385
+4466055.3	Oxalobacteraceae	336
+4466055.3	Campylobacteraceae	331
+4466055.3	Clostridiaceae	322
+4466055.3	Prevotellaceae	320
+4466055.3	Erysipelotrichaceae	245
+4466055.3	unclassified (derived from Clostridiales)	131
+4466055.3	unclassified (derived from Bacteria)	125
+4466055.3	Peptostreptococcaceae	122
+4466055.3	Rhodocyclaceae	114
+4466055.3	Shewanellaceae	98
+4466055.3	Paenibacillaceae	95
+4466055.3	Rikenellaceae	82
+4466055.3	Coriobacteriaceae	77
+4466055.3	unclassified (derived from Flavobacteriales)	76
+4466055.3	Porphyromonadaceae	75
+4466055.3	Aerococcaceae	71
+4466055.3	Coxiellaceae	65
+4466055.3	Bacillaceae	58
+4466055.3	Veillonellaceae	57
+4466055.3	Microbacteriaceae	57
+4466055.3	Neisseriaceae	51
+4466055.3	unclassified (derived from Gammaproteobacteria)	51
+4466055.3	Burkholderiaceae	49
+4466055.3	Lactobacillaceae	48
+4466055.3	unclassified (derived from Bacillales)	38
+4466055.3	unclassified (derived from Burkholderiales)	37
+4466055.3	Verrucomicrobiaceae	30
+4466055.3	Rhodobacteraceae	27
+4466055.3	Xanthomonadaceae	27
+4466055.3	Desulfovibrionaceae	27
+4466055.3	unclassified (derived from Betaproteobacteria)	27
+4466055.3	Micrococcaceae	23
+4466055.3	Acidaminococcaceae	20
+4466055.3	Psychromonadaceae	16
+4466055.3	Caulobacteraceae	16
+4466055.3	Rhizobiaceae	14
+4466055.3	Desulfomicrobiaceae	13
+4466055.3	Fusobacteriaceae	12
+4466055.3	Mycoplasmataceae	12
+4466055.3	Corynebacteriaceae	11
+4466055.3	Mycobacteriaceae	11
+4466055.3	Fibrobacteraceae	10
+4466055.3	Sphingomonadaceae	10
+4466055.3	Dermacoccaceae	10
+4466055.3	Intrasporangiaceae	8
+4466055.3	Methylophilaceae	8
+4466055.3	Leuconostocaceae	7
+4466055.3	unclassified (derived from Proteobacteria)	7
+4466055.3	Alteromonadaceae	6
+4466055.3	Clostridiales Family XI. Incertae Sedis	5
+4466055.3	Acetobacteraceae	5
+4466055.3	Pasteurellaceae	5
+4466055.3	Thiotrichaceae	4
+4466055.3	Chromatiaceae	4
+4466055.3	Nocardioidaceae	4
+4466055.3	Kineosporiaceae	4
+4466055.3	Oceanospirillaceae	3
+4466055.3	Nocardiaceae	3
+4466055.3	Thermoanaerobacterales Family III. Incertae Sedis	2
+4466055.3	Staphylococcaceae	2
+4466055.3	Cellulomonadaceae	2
+4466055.3	Prochlorococcaceae	2
+4466055.3	Bdellovibrionaceae	2
+4466055.3	Gordoniaceae	2
+4466055.3	Actinomycetaceae	2
+4466055.3	Bradyrhizobiaceae	2
+4466055.3	Cytophagaceae	2
+4466055.3	Nakamurellaceae	2
+4466055.3	Alcaligenaceae	2
+4466055.3	Leptotrichiaceae	2
+4466055.3	unclassified (derived from Actinobacteria (class))	2
+4466055.3	Hydrogenophilaceae	1
+4466055.3	Vibrionaceae	1
+4466055.3	Geobacteraceae	1
+4466055.3	Leptospiraceae	1
+4466055.3	Brucellaceae	1
+4466055.3	Acidithiobacillaceae	1
+4466055.3	Verrucomicrobia subdivision 3	1
+4466055.3	Streptomycetaceae	1
+4466055.3	Legionellaceae	1
+4466056.3	Aeromonadaceae	2733
+4466056.3	Moraxellaceae	1525
+4466056.3	Comamonadaceae	1480
+4466056.3	Campylobacteraceae	828
+4466056.3	Pseudomonadaceae	752
+4466056.3	Flavobacteriaceae	751
+4466056.3	Carnobacteriaceae	694
+4466056.3	Enterobacteriaceae	478
+4466056.3	Bacteroidaceae	377
+4466056.3	Oxalobacteraceae	328
+4466056.3	Streptococcaceae	224
+4466056.3	Coxiellaceae	181
+4466056.3	Ruminococcaceae	176
+4466056.3	Lachnospiraceae	116
+4466056.3	unclassified (derived from Bacteria)	105
+4466056.3	Prevotellaceae	93
+4466056.3	Bifidobacteriaceae	79
+4466056.3	Eubacteriaceae	73
+4466056.3	Rhodocyclaceae	72
+4466056.3	Shewanellaceae	59
+4466056.3	unclassified (derived from Flavobacteriales)	58
+4466056.3	Neisseriaceae	45
+4466056.3	Clostridiaceae	44
+4466056.3	Desulfomicrobiaceae	39
+4466056.3	Porphyromonadaceae	35
+4466056.3	Erysipelotrichaceae	28
+4466056.3	Geobacteraceae	25
+4466056.3	Peptostreptococcaceae	25
+4466056.3	Rikenellaceae	24
+4466056.3	Xanthomonadaceae	24
+4466056.3	Veillonellaceae	23
+4466056.3	unclassified (derived from Gammaproteobacteria)	22
+4466056.3	Micrococcaceae	21
+4466056.3	Enterococcaceae	21
+4466056.3	Microbacteriaceae	16
+4466056.3	unclassified (derived from Clostridiales)	16
+4466056.3	Burkholderiaceae	15
+4466056.3	Desulfovibrionaceae	15
+4466056.3	Pasteurellaceae	14
+4466056.3	unclassified (derived from Betaproteobacteria)	13
+4466056.3	Coriobacteriaceae	12
+4466056.3	Caulobacteraceae	12
+4466056.3	Paenibacillaceae	11
+4466056.3	Alteromonadaceae	10
+4466056.3	Dermacoccaceae	10
+4466056.3	unclassified (derived from Burkholderiales)	8
+4466056.3	Rhizobiaceae	8
+4466056.3	Acidaminococcaceae	8
+4466056.3	Cytophagaceae	7
+4466056.3	Sphingomonadaceae	7
+4466056.3	Verrucomicrobiaceae	6
+4466056.3	Rhodobacteraceae	6
+4466056.3	Chromatiaceae	6
+4466056.3	Desulfobacteraceae	5
+4466056.3	Vibrionaceae	5
+4466056.3	Psychromonadaceae	5
+4466056.3	Bdellovibrionaceae	3
+4466056.3	Staphylococcaceae	3
+4466056.3	Lactobacillaceae	3
+4466056.3	Leuconostocaceae	3
+4466056.3	Mycoplasmataceae	2
+4466056.3	Alcaligenaceae	2
+4466056.3	Mycobacteriaceae	2
+4466056.3	Sphingobacteriaceae	2
+4466056.3	unclassified (derived from Bacillales)	2
+4466056.3	Bradyrhizobiaceae	2
+4466056.3	Legionellaceae	2
+4466056.3	Desulfobulbaceae	1
+4466056.3	Nocardioidaceae	1
+4466056.3	Nocardiaceae	1
+4466056.3	Rhodospirillaceae	1
+4466056.3	Methylophilaceae	1
+4466056.3	Thiotrichaceae	1
+4466056.3	Intrasporangiaceae	1
+4466056.3	Bacteriovoracaceae	1
+4466056.3	Corynebacteriaceae	1
+4466056.3	Actinomycetaceae	1
+4466058.3	Aeromonadaceae	3491
+4466058.3	Comamonadaceae	2074
+4466058.3	Moraxellaceae	1438
+4466058.3	Flavobacteriaceae	1387
+4466058.3	Carnobacteriaceae	1019
+4466058.3	Pseudomonadaceae	828
+4466058.3	Campylobacteraceae	739
+4466058.3	Bacteroidaceae	645
+4466058.3	Oxalobacteraceae	418
+4466058.3	Enterobacteriaceae	325
+4466058.3	Streptococcaceae	274
+4466058.3	Ruminococcaceae	221
+4466058.3	unclassified (derived from Bacteria)	194
+4466058.3	unclassified (derived from Flavobacteriales)	134
+4466058.3	Shewanellaceae	98
+4466058.3	Desulfomicrobiaceae	97
+4466058.3	Prevotellaceae	87
+4466058.3	Lachnospiraceae	81
+4466058.3	Rhodocyclaceae	81
+4466058.3	Clostridiaceae	77
+4466058.3	Porphyromonadaceae	74
+4466058.3	Bifidobacteriaceae	74
+4466058.3	Eubacteriaceae	74
+4466058.3	Coxiellaceae	51
+4466058.3	Xanthomonadaceae	46
+4466058.3	Neisseriaceae	44
+4466058.3	Enterococcaceae	40
+4466058.3	Rikenellaceae	40
+4466058.3	Chromatiaceae	31
+4466058.3	Erysipelotrichaceae	23
+4466058.3	Alteromonadaceae	23
+4466058.3	Rhodobacteraceae	22
+4466058.3	unclassified (derived from Betaproteobacteria)	21
+4466058.3	Caulobacteraceae	20
+4466058.3	Peptostreptococcaceae	20
+4466058.3	Veillonellaceae	19
+4466058.3	Microbacteriaceae	18
+4466058.3	Psychromonadaceae	18
+4466058.3	Sphingomonadaceae	17
+4466058.3	unclassified (derived from Clostridiales)	16
+4466058.3	Coriobacteriaceae	16
+4466058.3	Dermacoccaceae	16
+4466058.3	Paenibacillaceae	15
+4466058.3	Desulfovibrionaceae	15
+4466058.3	Verrucomicrobiaceae	14
+4466058.3	Rhizobiaceae	12
+4466058.3	Desulfobacteraceae	11
+4466058.3	unclassified (derived from Gammaproteobacteria)	10
+4466058.3	Acidaminococcaceae	8
+4466058.3	Micrococcaceae	8
+4466058.3	Acidithiobacillaceae	8
+4466058.3	Burkholderiaceae	7
+4466058.3	Nocardiaceae	6
+4466058.3	Leuconostocaceae	5
+4466058.3	Intrasporangiaceae	5
+4466058.3	Lactobacillaceae	5
+4466058.3	Geobacteraceae	4
+4466058.3	Nakamurellaceae	4
+4466058.3	Mycoplasmataceae	3
+4466058.3	Pasteurellaceae	3
+4466058.3	Cellulomonadaceae	3
+4466058.3	Mycobacteriaceae	2
+4466058.3	Bdellovibrionaceae	2
+4466058.3	Legionellaceae	2
+4466058.3	unclassified (derived from Actinobacteria (class))	2
+4466058.3	Fusobacteriaceae	2
+4466058.3	Alcaligenaceae	2
+4466058.3	Aerococcaceae	1
+4466058.3	unclassified (derived from Bacillales)	1
+4466058.3	unclassified (derived from Burkholderiales)	1
+4466058.3	Thiotrichaceae	1
+4466058.3	Methylophilaceae	1
+4466058.3	Staphylococcaceae	1
+4466058.3	Bacteriovoracaceae	1
+4466058.3	Spirochaetaceae	1
+4466058.3	Bacillaceae	1
+4466058.3	Pelobacteraceae	1
+4466058.3	Acholeplasmataceae	1
+4466058.3	Phyllobacteriaceae	1
